@@ -11,7 +11,8 @@
 ####数据库扫描类
 
 - https://github.com/0xbug/SQLiScanner （via.0xbug)
-- 
+- https://github.com/stamparm/DSSS
+
 ####弱口令或信息泄漏扫描类
 
 - https://github.com/lijiejie/htpwdScan （via.lijeijie)
@@ -22,8 +23,11 @@
 
 - https://github.com/ring04h/wyportmap （via. ring04h)
 - https://github.com/ring04h/weakfilescan (via.ring04h)
+- https://github.com/EnableSecurity/wafw00f
+
 
 ####综合类
 
 - https://github.com/az0ne/AZScanner
 - https://github.com/blackye/lalascan
+- https://github.com/alpha1e0/pentestdb
