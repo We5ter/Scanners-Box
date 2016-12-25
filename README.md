@@ -37,6 +37,7 @@ Scanners-Box是一个集合github的网友自研开源扫描器的仓库，包�
 ####企业网络自检
 
 - https://github.com/sowish/LNScan （详细的内部网络信息扫描器）
+- https://github.com/ysrc/xunfeng   (网络资产识别引擎，漏洞检测引擎）
 
 ####端口扫描、指纹识别类
 
