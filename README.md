@@ -38,23 +38,31 @@ Scanners-Box是一个集合github的网友自研开源扫描器的仓库，包�
 
 - https://github.com/sowish/LNScan （详细的内部网络信息扫描器）
 - https://github.com/ysrc/xunfeng   (网络资产识别引擎，漏洞检测引擎）
+- https://github.com/We5ter/Scanners-Box/tree/master/webshellFinder （php后门检测）
 
 ####端口扫描、指纹识别类
 
 - https://github.com/ring04h/wyportmap (目标端口扫描+系统服务指纹识别)
 - https://github.com/ring04h/weakfilescan (动态多线程敏感信息泄露检测工具)
 - https://github.com/EnableSecurity/wafw00f (WAF产品指纹识别)
-- https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
 - https://github.com/rbsec/sslscan （ssl类型识别)
 - https://github.com/urbanadventurer/whatweb (web指纹识别)
 - https://github.com/tanjiti/FingerPrint (web应用指纹识别)
 - https://github.com/nanshihui/Scan-T （网络爬虫式指纹识别)
 - https://github.com/OffensivePython/Nscan (a fast Network scanner inspired by Masscan and Zmap)
 
+####专用扫描器
+
+- https://github.com/blackye/Jenkins (Jenkins漏洞探测、用户抓取爆破)
+- https://github.com/code-scan/dzscan (discuz扫描)
+- https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
+
+
 ####综合类
 
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 - https://github.com/blackye/lalascan (自主开发的分布式web漏洞扫描框架，集合owasp top10漏洞扫描和边界资产发现能力)
+- https://github.com/blackye/BkScanner (BkScanner 分布式、插件化web漏洞扫描器)
 - https://github.com/ysrc/GourdScanV2 （被动式漏洞扫描)
 - https://github.com/alpha1e0/pentestdb (WEB渗透测试数据库)
 
