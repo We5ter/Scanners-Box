@@ -1,33 +1,43 @@
-# Scanners-Box 指引
+# Scanners-Box  （The toolbox of opensource scanners)
 
-####子域名扫描类
+###简介
 
-- https://github.com/lijiejie/subDomainsBrute (via.lijiejie)
-- https://github.com/ring04h/wydomain (via.ring04h)
-- https://github.com/le4f/dnsmaper (via.le4f)
-- https://github.com/0xbug/orangescan (via.0xbug)
-- https://github.com/We5ter/GoogleSSLdomainFinder （via. Wester)
+Scanners-Box是一个集合github开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及高度集成的扫描器，欢迎大家贡献commit。
 
-####数据库扫描类
+####子域名枚举类
 
-- https://github.com/0xbug/SQLiScanner （via.0xbug)
-- https://github.com/stamparm/DSSS
+- https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
+- https://github.com/ring04h/wydomain (子域名字典穷举)
+- https://github.com/le4f/dnsmaper (子域名枚举与地图标记)
+- https://github.com/0xbug/orangescan (在线子域名信息收集工具)
+- https://github.com/We5ter/GoogleSSLdomainFinder (基于谷歌SSL透明证书的子域名查询脚本)
+
+####数据库漏洞扫描类
+
+- https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
+- https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
 
 ####弱口令或信息泄漏扫描类
 
-- https://github.com/lijiejie/htpwdScan （via.lijeijie)
-- https://github.com/lijiejie/BBScan （via.lijiejie)
-- https://github.com/lijiejie/GitHack (via. lijeijie)
+- https://github.com/lijiejie/htpwdScan (一个简单的HTTP暴力破解、撞库攻击脚本)
+- https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
+- https://github.com/lijiejie/GitHack (.git文件夹泄漏利用工具)
 
 ####端口扫描、指纹识别类
 
-- https://github.com/ring04h/wyportmap （via. ring04h)
-- https://github.com/ring04h/weakfilescan (via.ring04h)
-- https://github.com/EnableSecurity/wafw00f
-
-
+- https://github.com/ring04h/wyportmap (目标端口扫描+系统服务指纹识别)
+- https://github.com/ring04h/weakfilescan (动态多线程敏感信息泄露检测工具)
+- https://github.com/EnableSecurity/wafw00f (WAF产品指纹识别)
+- https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
 ####综合类
 
-- https://github.com/az0ne/AZScanner
-- https://github.com/blackye/lalascan
-- https://github.com/alpha1e0/pentestdb
+- https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
+- https://github.com/blackye/lalascan (自主开发的分布式web漏洞扫描框架，集合owasp top10漏洞扫描和边界资产发现能力)
+- https://github.com/alpha1e0/pentestdb (WEB渗透测试数据库)
+
+
+###项目维护
+
+Wester && Martin
+
+&copy;CNSISMO 2016
