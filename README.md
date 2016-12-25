@@ -64,4 +64,4 @@ Scanners-Box是一个集合github的网友自研开源扫描器的仓库，包�
 
 Wester && Martin
 
-&copy;CNSISMO 2016
+&copy;<a href="https://github.com/CNSISMO" target="_blank">CNSISMO</a> 2016
