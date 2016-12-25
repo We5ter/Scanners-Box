@@ -56,7 +56,8 @@ Scanners-Box是一个集合github的网友自研开源扫描器的仓库，包�
 - https://github.com/blackye/Jenkins (Jenkins漏洞探测、用户抓取爆破)
 - https://github.com/code-scan/dzscan (discuz扫描)
 - https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
-
+- https://github.com/lijiejie/IIS_shortname_Scanner (an IIS shortname Scanner)
+- https://github.com/We5ter/Scanners-Box/tree/master/FlashScanner.pl (flashxss扫描)
 
 ####综合类
 
