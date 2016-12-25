@@ -66,7 +66,7 @@ Scanners-Box是一个集合github的网友自研开源扫描器的仓库，包�
 - https://github.com/blackye/BkScanner (BkScanner 分布式、插件化web漏洞扫描器)
 - https://github.com/ysrc/GourdScanV2 （被动式漏洞扫描)
 - https://github.com/alpha1e0/pentestdb (WEB渗透测试数据库)
-- https://github.com/laramies/theHarvester （企业员工外泄信息监控）
+- https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
 
 <hr>
 
