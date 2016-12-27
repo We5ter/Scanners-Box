@@ -26,6 +26,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
 - https://github.com/lijiejie/GitHack (.git文件夹泄漏利用工具) 
 - https://github.com/wilson9x1/fenghuangscanner_v3 (端口及弱口令检测)
+- https://github.com/maurosoria/dirsearch (Web path scanner)
 
 ####xss扫描器
 
