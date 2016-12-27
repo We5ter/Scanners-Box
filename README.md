@@ -40,6 +40,8 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/SkyLined/LocalNetworkScanner (javascript实现的本地网络扫描器)
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
 - https://github.com/We5ter/Scanners-Box/tree/master/webshellFinder （php后门检测）
+- https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
+- https://github.com/x0day/Multisearch-v2  (bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
 
 ####内网渗透小脚本
 
@@ -75,7 +77,6 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/blackye/BkScanner (BkScanner 分布式、插件化web漏洞扫描器)
 - https://github.com/ysrc/GourdScanV2 （被动式漏洞扫描)
 - https://github.com/alpha1e0/pentestdb (WEB渗透测试数据库)
-- https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
 - https://github.com/netxfly/passive_scan (基于http代理的web漏洞扫描器)
 
 <hr>
