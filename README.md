@@ -73,6 +73,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/ysrc/GourdScanV2 （被动式漏洞扫描)
 - https://github.com/alpha1e0/pentestdb (WEB渗透测试数据库)
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
+- https://github.com/netxfly/passive_scan (基于http代理的web漏洞扫描器)
 
 <hr>
 
