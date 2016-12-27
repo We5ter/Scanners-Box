@@ -26,7 +26,6 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
 - https://github.com/lijiejie/GitHack (.git文件夹泄漏利用工具) 
 - https://github.com/wilson9x1/fenghuangscanner_v3 (端口及弱口令检测)
-- https://github.com/maurosoria/dirsearch (Web path scanner)
 
 ####xss扫描器
 
@@ -46,7 +45,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 
 - https://github.com/0xwindows/VulScritp
 
-####端口扫描、指纹识别类
+####中间件扫描、指纹识别类
 
 - https://github.com/ring04h/wyportmap (目标端口扫描+系统服务指纹识别)
 - https://github.com/ring04h/weakfilescan (动态多线程敏感信息泄露检测工具)
@@ -56,6 +55,10 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/tanjiti/FingerPrint (web应用指纹识别)
 - https://github.com/nanshihui/Scan-T （网络爬虫式指纹识别)
 - https://github.com/OffensivePython/Nscan (a fast Network scanner inspired by Masscan and Zmap)
+- https://github.com/ywolf/F-NAScan (网络资产信息扫描, ICMP存活探测,端口扫描，端口指纹服务识别）
+- https://github.com/ywolf/F-MiddlewareScan （中间件扫描）
+- https://github.com/maurosoria/dirsearch (Web path scanner)
+- https://github.com/x0day/bannerscan （C段Banner与路径扫描）
 
 ####专用扫描器
 
