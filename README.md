@@ -38,7 +38,8 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 ####企业网络自检
 
 - https://github.com/sowish/LNScan （详细的内部网络信息扫描器）
-- https://github.com/ysrc/xunfeng   (网络资产识别引擎，漏洞检测引擎）
+- https://github.com/SkyLined/LocalNetworkScanner (javascript实现的本地网络扫描器)
+- https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
 - https://github.com/We5ter/Scanners-Box/tree/master/webshellFinder （php后门检测）
 
 ####内网渗透小脚本
