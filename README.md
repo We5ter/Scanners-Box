@@ -45,7 +45,6 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 ####webshell检测
 
 - https://github.com/We5ter/Scanners-Box/tree/master/Find_webshell/ （php后门检测，脚本较简单，因此存在误报高和效率低下的问题）
-
 - https://github.com/yassineaddi/BackdoorMan （A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination）
 
 ####内网渗透
@@ -85,13 +84,17 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/alpha1e0/pentestdb (WEB渗透测试数据库)
 - https://github.com/netxfly/passive_scan (基于http代理的web漏洞扫描器)
 - https://github.com/1N3/Sn1per (自动化扫描器，包括中间件扫描以及设备指纹识别)
-- https://github.com/RASSec/pentestEr_Fully-automatic-scanner （定向全自动化渗透测试）
+- https://github.com/RASSec/pentestEr_Fully-automatic-scanner （定向全自动化渗透测试工具）
 
 <hr>
 
 ###项目维护
 
-Wester(sina weibo @<a href="http://weibo.com/zzyme/">西风微雨_Wester</a>) && Martin(sina weibo @<a href="http://weibo.com/u/1312149403">Mart1n_ZHOU</a>)
+**Wester**(sina weibo <a href="http://weibo.com/zzyme/">@西风微雨_Wester</a>) && **Martin**(sina weibo <a href="http://weibo.com/u/1312149403">@Mart1n_ZHOU</a>)
 
+###致谢
 
-&copy;<a href="https://github.com/CNSISMO" target="_blank">CNSISMO</a> 2016
+- **@0c0c0f**     
+- **@藏形匿影(挖财网)**
+
+&copy;<a href="https://github.com/CNSISMO" target="_blank">CNSISMO</a> 2016-2017
