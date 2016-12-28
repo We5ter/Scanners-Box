@@ -79,6 +79,10 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/We5ter/Scanners-Box/tree/master/FlashScanner.pl (flashxss扫描)
 - https://github.com/coffeehb/SSTIF （一个Fuzzing服务器端模板注入漏洞的半自动化工具）
 
+####无线网络
+
+- https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
+
 ####综合类
 
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
