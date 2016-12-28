@@ -14,6 +14,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/0xbug/orangescan (在线子域名信息收集工具)
 - https://github.com/TheRook/subbrute （根据DNS记录查询子域名)
 - https://github.com/We5ter/GoogleSSLdomainFinder (基于谷歌SSL透明证书的子域名查询脚本)
+- https://github.com/18F/domain-scan (A domain scanner）
 
 ####数据库漏洞扫描类
 
