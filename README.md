@@ -19,6 +19,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
+- https://github.com/LoRexxar/Feigong （针对各种情况自由变化的MySQL注入脚本）
 
 ####弱口令或信息泄漏扫描类
 
@@ -26,6 +27,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
 - https://github.com/lijiejie/GitHack (.git文件夹泄漏利用工具) 
 - https://github.com/wilson9x1/fenghuangscanner_v3 (端口及弱口令检测)
+- https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
 
 ####xss扫描器
 
@@ -66,6 +68,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/maurosoria/dirsearch (Web path scanner)
 - https://github.com/x0day/bannerscan （C段Banner与路径扫描）
 - https://github.com/RASSec/RASscan (端口服务扫描)
+- https://github.com/3xp10it/bypass_waf （waf自动暴破）
 
 ####专用扫描器
 
@@ -74,6 +77,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
 - https://github.com/lijiejie/IIS_shortname_Scanner (an IIS shortname Scanner)
 - https://github.com/We5ter/Scanners-Box/tree/master/FlashScanner.pl (flashxss扫描)
+- https://github.com/coffeehb/SSTIF （一个Fuzzing服务器端模板注入漏洞的半自动化工具）
 
 ####综合类
 
@@ -85,6 +89,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/netxfly/passive_scan (基于http代理的web漏洞扫描器)
 - https://github.com/1N3/Sn1per (自动化扫描器，包括中间件扫描以及设备指纹识别)
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner （定向全自动化渗透测试工具）
+- https://github.com/3xp10it/3xp10it （自动化渗透测试框架)
 
 <hr>
 
@@ -96,5 +101,6 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 
 - **@0c0c0f**     
 - **@藏形匿影(挖财网)**
+- **Mottoin团队**
 
 &copy;<a href="https://github.com/CNSISMO" target="_blank">CNSISMO</a> 2016-2017
