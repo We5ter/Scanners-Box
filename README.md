@@ -31,7 +31,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/wilson9x1/fenghuangscanner_v3 (端口及弱口令检测)
 - https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
 
-####xss扫描器
+####XSS扫描器
 
 - https://github.com/shawarkhanethicalhacker/BruteXSS （Cross-Site Scripting Bruteforcer）
 - https://github.com/1N3/XSSTracer (A small python script to check for Cross-Site Tracing)
@@ -103,7 +103,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/1N3/Sn1per (自动化扫描器，包括中间件扫描以及设备指纹识别)
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner （定向全自动化渗透测试工具）
 - https://github.com/3xp10it/3xp10it （自动化渗透测试框架)
-- https://github.com/Xyntax/POC-T（渗透测试插件化并发框架）
+- https://github.com/Xyntax/POC-T （渗透测试插件化并发框架）
 
 <hr>
 
