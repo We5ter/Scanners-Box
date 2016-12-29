@@ -58,7 +58,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 ####内网渗透
 
 - https://github.com/0xwindows/VulScritp （企业内网渗透脚本，包括banner扫描、端口扫描；phpmyadmin、jenkins等通用漏洞利用等）
-- https://github.com/lcatro/network_backdoor_scanner（基于网络流量的内网探测框架）
+- https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
 
 ####中间件扫描、指纹识别类
 
@@ -76,10 +76,10 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/x0day/bannerscan （C段Banner与路径扫描）
 - https://github.com/RASSec/RASscan (端口服务扫描)
 - https://github.com/3xp10it/bypass_waf （waf自动暴破）
-- https://github.com/3xp10it/mytools/blob/master/xcdn.py（获取cdn背后的真实ip）
-- https://github.com/Xyntax/BingC（基于Bing搜索引擎的C段/旁站查询，多线程，支持API）
-- https://github.com/Xyntax/DirBrute（多线程WEB目录爆破工具）
-- https://github.com/zer0h/httpscan（一个爬虫式的网段Web主机发现小工具）
+- https://github.com/3xp10it/mytools/blob/master/xcdn.py （获取cdn背后的真实ip）
+- https://github.com/Xyntax/BingC （基于Bing搜索引擎的C段/旁站查询，多线程，支持API）
+- https://github.com/Xyntax/DirBrute （多线程WEB目录爆破工具）
+- https://github.com/zer0h/httpscan （一个爬虫式的网段Web主机发现小工具）
 
 ####专用扫描器
 
