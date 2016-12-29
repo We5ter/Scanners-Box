@@ -77,7 +77,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/code-scan/dzscan (discuz扫描)
 - https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
 - https://github.com/lijiejie/IIS_shortname_Scanner (an IIS shortname Scanner)
-- https://github.com/We5ter/Scanners-Box/tree/master/FlashScanner.pl (flashxss扫描)
+- https://github.com/riusksk/FlashScanner (flashxss扫描)
 - https://github.com/coffeehb/SSTIF （一个Fuzzing服务器端模板注入漏洞的半自动化工具）
 
 ####无线网络
