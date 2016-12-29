@@ -31,6 +31,9 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/wilson9x1/fenghuangscanner_v3 (端口及弱口令检测)
 - https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
 
+####物联网设备扫描
+- https://github.com/rapid7/IoTSeeker （物联网设备默认密码扫描检测工具)
+
 ####XSS扫描器
 
 - https://github.com/shawarkhanethicalhacker/BruteXSS （Cross-Site Scripting Bruteforcer）
