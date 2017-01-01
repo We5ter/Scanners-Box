@@ -30,7 +30,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/lijiejie/GitHack (.git文件夹泄漏利用工具) 
 - https://github.com/wilson9x1/fenghuangscanner_v3 (端口及弱口令检测)
 - https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
-- https://github.com/Mebus/cupp （根据用户习惯生成弱口令探测字典脚本）
+- https://github.com/Mebus/cupp （根据用户习惯生成弱口令探测字典脚本）
 
 ####物联网设备扫描
 
