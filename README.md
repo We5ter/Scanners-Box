@@ -22,6 +22,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
 - https://github.com/LoRexxar/Feigong （针对各种情况自由变化的MySQL注入脚本）
+- https://github.com/youngyangyang04/NoSQLAttack (一款针对mongoDB的攻击工具)
 
 ####弱口令或信息泄漏扫描类
 
@@ -31,6 +32,8 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/wilson9x1/fenghuangscanner_v3 (端口及弱口令检测)
 - https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
 - https://github.com/Mebus/cupp （根据用户习惯生成弱口令探测字典脚本）
+- https://github.com/RicterZ/genpAss （中国特色的弱口令生成器）
+- https://github.com/netxfly/crack_ssh （go写的协程版的ssh\redis\mongodb弱口令破解工具）
 
 ####物联网设备扫描
 
@@ -55,6 +58,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 ####webshell检测
 
 - https://github.com/We5ter/Scanners-Box/tree/master/Find_webshell/ （php后门检测，脚本较简单，因此存在误报高和效率低下的问题）
+- https://github.com/ym2011/ScanBackdoor （Webshell扫描工具）
 - https://github.com/yassineaddi/BackdoorMan （A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination）
 
 ####内网渗透
