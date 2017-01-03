@@ -16,6 +16,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/We5ter/GoogleSSLdomainFinder (基于谷歌SSL透明证书的子域名查询脚本)
 - https://github.com/mandatoryprogrammer/cloudflare_enum （使用CloudFlare进行子域名枚举的脚本）
 - https://github.com/18F/domain-scan (A domain scanner）
+- https://github.com/Evi1CLAY/CoolPool/tree/master/Python/DomainSeeker （多方式收集目标子域名信息）
 
 ####数据库漏洞扫描类
 
@@ -23,6 +24,8 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
 - https://github.com/LoRexxar/Feigong （针对各种情况自由变化的MySQL注入脚本）
 - https://github.com/youngyangyang04/NoSQLAttack (一款针对mongoDB的攻击工具)
+- https://github.com/Neohapsis/bbqsql （SQL盲注利用框架）
+- https://github.com/NetSPI/PowerUpSQL （攻击SQLSERVER的Powershell脚本框架）
 
 ####弱口令或信息泄漏扫描类
 
@@ -65,6 +68,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 
 - https://github.com/0xwindows/VulScritp （企业内网渗透脚本，包括banner扫描、端口扫描；phpmyadmin、jenkins等通用漏洞利用等）
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
+- https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
 
 ####中间件扫描、指纹识别类
 
@@ -86,6 +90,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/Xyntax/BingC （基于Bing搜索引擎的C段/旁站查询，多线程，支持API）
 - https://github.com/Xyntax/DirBrute （多线程WEB目录爆破工具）
 - https://github.com/zer0h/httpscan （一个爬虫式的网段Web主机发现小工具）
+- https://github.com/lietdai/doom （thorn上实现的分布式任务分发的ip端口漏洞扫描器）
 
 ####专用扫描器
 
@@ -113,6 +118,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/1N3/Sn1per (自动化扫描器，包括中间件扫描以及设备指纹识别)
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner （定向全自动化渗透测试工具）
 - https://github.com/3xp10it/3xp10it （自动化渗透测试框架)
+- https://github.com/Lcys/lcyscan (扫描效果未验证）
 - https://github.com/Xyntax/POC-T （渗透测试插件化并发框架）
 
 <hr>
