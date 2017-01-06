@@ -38,6 +38,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/Mebus/cupp （根据用户习惯生成弱口令探测字典脚本）
 - https://github.com/RicterZ/genpAss （中国特色的弱口令生成器）
 - https://github.com/netxfly/crack_ssh （go写的协程版的ssh\redis\mongodb弱口令破解工具）
+- https://github.com/n0tr00t/Sreg (通过输入email、phone、username的返回用户注册的所有互联网护照信息)
 
 ####物联网设备扫描
 
