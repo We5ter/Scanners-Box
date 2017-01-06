@@ -121,6 +121,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/3xp10it/3xp10it （自动化渗透测试框架)
 - https://github.com/Lcys/lcyscan (扫描效果未验证）
 - https://github.com/Xyntax/POC-T （渗透测试插件化并发框架）
+- https://github.com/v3n0m-Scanner/V3n0M-Scanner （Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns）
 
 <hr>
 
