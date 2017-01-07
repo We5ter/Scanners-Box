@@ -130,6 +130,14 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 
 **Wester**(sina weibo <a href="http://weibo.com/zzyme/">@西风微雨_Wester</a>) && **Martin**(sina weibo <a href="http://weibo.com/u/1312149403">@Mart1n_ZHOU</a>)
 
+###免责说明
+
+请勿用于非法的用途，否则造成的严重后果与本项目无关。
+
+###转载
+
+转载请注明来自https://github.com/We5ter/Scanners-Box
+
 ###致谢
 
 - **@0c0c0f**     
