@@ -51,6 +51,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/1N3/XSSTracer (A small python script to check for Cross-Site Tracing)
 - https://github.com/0x584A/fuzzXssPHP (PHP版本的反射型xss扫描)
 - https://github.com/chuhades/xss_scan (批量扫描xss的python脚本）
+- https://github.com/BlackHole1/autoFindXssAndCsrf (自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件）
 
 ####企业网络自检
 
@@ -71,6 +72,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/0xwindows/VulScritp （企业内网渗透脚本，包括banner扫描、端口扫描；phpmyadmin、jenkins等通用漏洞利用等）
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
 - https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
+- https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
 
 ####中间件扫描、指纹识别类
 
