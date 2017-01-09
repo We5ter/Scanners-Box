@@ -67,6 +67,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/We5ter/Scanners-Box/tree/master/Find_webshell/ （php后门检测，脚本较简单，因此存在误报高和效率低下的问题）
 - https://github.com/ym2011/ScanBackdoor （Webshell扫描工具）
 - https://github.com/yassineaddi/BackdoorMan （A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination）
+- https://github.com/he1m4n6a/findWebshell （又一款webshell检测工具)
 
 ####内网渗透
 
