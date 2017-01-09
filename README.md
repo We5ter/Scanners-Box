@@ -148,7 +148,7 @@ The purpose of this collection is to provide various types of  opensource securi
 
 ###Project Maintenance
 
-**Wester**(twitter <a href="http://weibo.com/zzyme/">@We5ter</a>)
+**Wester**(twitter <a href="http://twitter.com/We5ter/">@We5ter</a>)
 
 ###Disclaimer
 
