@@ -6,6 +6,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 
 **非常欢迎大家贡献commit！**
 
+
 ####子域名枚举类
 
 - https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
@@ -105,11 +106,17 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/riusksk/FlashScanner (flashxss扫描)
 - https://github.com/coffeehb/SSTIF （一个Fuzzing服务器端模板注入漏洞的半自动化工具）
 
-####无线网络
+####无线网络渗透、扫描
 
 - https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
 - https://github.com/m4n3dw0lf/PytheM （Python网络/渗透测试工具）
 - https://github.com/P0cL4bs/WiFi-Pumpkin （无线安全渗透测试套件）
+
+####代码审计、代码静态扫描
+
+- https://github.com/wufeifei/cobra (白盒代码安全审计系统)
+- https://github.com/OneSourceCat/phpvulhunter (静态php代码审计)
+- https://github.com/Qihoo360/phptrace (跟踪、分析PHP运行情况的工具)
 
 ####综合类
 
@@ -128,6 +135,10 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/Skycrab/leakScan （web端的在线漏洞扫描）
 
 ***
+
+###收集目的
+
+本仓库收集的初衷是为向各类企业安全从业人员提供在企业信息安全防护体系建设过程中可以参考的开源安全扫描工具，以期望企业能够利用这些扫描器对自身业务进行自检，从而提高自身业务安全性
 
 ###项目维护
 
