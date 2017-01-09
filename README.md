@@ -1,4 +1,4 @@
-# Scanners-Box  （The toolbox of opensource scanners)
+# Scanners-Box  Guidelines
 
 **README.md in [Chinese 中文](https://github.com/We5ter/Scanners-Box/blob/master/README_CN.md)**
 
