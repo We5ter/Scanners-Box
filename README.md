@@ -118,7 +118,7 @@ Scanners-Box is a collection of opensouse scanners from the github platform, inc
 - https://github.com/m4n3dw0lf/PytheM 
 - https://github.com/P0cL4bs/WiFi-Pumpkin 
 
-####Code static scan and code run stack trace
+####Code static scan and running-code stack trace
 
 - https://github.com/wufeifei/cobra 
 - https://github.com/OneSourceCat/phpvulhunter 
