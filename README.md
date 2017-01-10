@@ -45,6 +45,7 @@ Scanners-Box is a collection of opensouse scanners from the github platform, inc
 - https://github.com/RicterZ/genpAss 
 - https://github.com/netxfly/crack_ssh 
 - https://github.com/n0tr00t/Sreg 
+- https://github.com/repoog/GitPrey (Searching sensitive files and contents in GitHub)
 
 ####IoT scanners
 
