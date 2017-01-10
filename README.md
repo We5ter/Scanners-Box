@@ -14,15 +14,15 @@ Scanners-Box is a collection of opensouse scanners from the github platform, inc
 
 ####Subdomain enumeration
 
-- https://github.com/lijiejie/subDomainsBrute 
-- https://github.com/ring04h/wydomain 
-- https://github.com/le4f/dnsmaper 
-- https://github.com/0xbug/orangescan 
-- https://github.com/TheRook/subbrute 
-- https://github.com/We5ter/GSDF 
-- https://github.com/mandatoryprogrammer/cloudflare_enum 
-- https://github.com/18F/domain-scan 
-- https://github.com/guelfoweb/knock 
+- https://github.com/lijiejie/subDomainsBrute (Classical Subdomain Enumeration Tool)
+- https://github.com/ring04h/wydomain (Intergrated Subdomain Enumeration Tool via dictionary rules)
+- https://github.com/le4f/dnsmaper (Subdomain Enumeration via DNS Record)
+- https://github.com/0xbug/orangescan (Online Subdomain Enumeration Tool)
+- https://github.com/TheRook/subbrute (Subdomain Enumeration via DNS Record)
+- https://github.com/We5ter/GSDF (Subdomain Enumeration via Google Certificate Transparency）
+- https://github.com/mandatoryprogrammer/cloudflare_enum  (Subdomain Enumeration via CloudFlare）
+- https://github.com/18F/domain-scan (A Domain Scanner）
+- https://github.com/guelfoweb/knock (Knock Subdomain Scan)
 - https://github.com/Evi1CLAY/CoolPool/tree/master/Python/DomainSeeker
 
 ####Database vulnerability scanners
@@ -149,8 +149,7 @@ The purpose of this collection is to provide various types of  opensource securi
 
 ###Project Maintenance
 
-**Wester**(twitter <a href="http://twitter.com/We5ter/">@We5ter</a>)
-
+**Wester**(twitter <a href="http://twitter.com/We5ter/">@We5ter</a>) & **Martin**(twitter<a href="https://twitter.com/yuyangchow">@We5ter</a>)
 ###Disclaimer
 
 Do not use for illegal purposes.
