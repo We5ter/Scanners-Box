@@ -6,16 +6,16 @@
 
 ###Project Description
 
-Scanners-Box is a collection of opensouse scanners from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scanners，Modular scanner and others； **Similar to nmap, w3af, brakeman and other well-known scanning tools are not included**.
+Scanners-Box is a collection of opensouse scanners from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scanners, modular scanner etc. **Well-known scanning tools, such as: nmap, w3af, brakeman will not be collected.**.
 
 **We welcome everyone to contribute!**
 
 ***
 
-####Subdomain enumeration
+####Subdomain Enumeration
 
 - https://github.com/lijiejie/subDomainsBrute (Classical Subdomain Enumeration Tool)
-- https://github.com/ring04h/wydomain (Intergrated Subdomain Enumeration Tool via dictionary rules)
+- https://github.com/ring04h/wydomain (Intergrated Subdomain Enumeration Tool via Massive Dictionary Rules)
 - https://github.com/le4f/dnsmaper (Subdomain Enumeration via DNS Record)
 - https://github.com/0xbug/orangescan (Online Subdomain Enumeration Tool)
 - https://github.com/TheRook/subbrute (Subdomain Enumeration via DNS Record)
@@ -23,16 +23,16 @@ Scanners-Box is a collection of opensouse scanners from the github platform, inc
 - https://github.com/mandatoryprogrammer/cloudflare_enum  (Subdomain Enumeration via CloudFlare）
 - https://github.com/18F/domain-scan (A Domain Scanner）
 - https://github.com/guelfoweb/knock (Knock Subdomain Scan)
-- https://github.com/Evi1CLAY/CoolPool/tree/master/Python/DomainSeeker
+- https://github.com/Evi1CLAY/CoolPool/tree/master/Python/DomainSeeker (An Intergratd Python Subdomain Enumeration Tool)
 
-####Database vulnerability scanners
+####Database Vulnerability Scanners
 
-- https://github.com/0xbug/SQLiScanner 
-- https://github.com/stamparm/DSSS 
-- https://github.com/LoRexxar/Feigong 
-- https://github.com/youngyangyang04/NoSQLAttack 
-- https://github.com/Neohapsis/bbqsql 
-- https://github.com/NetSPI/PowerUpSQL 
+- https://github.com/0xbug/SQLiScanner (A SQLi Vulnerability Scanner via SQLMAP and Charles)
+- https://github.com/stamparm/DSSS (A SQLi Vulnerability Scanner with 99 lines of code)
+- https://github.com/LoRexxar/Feigong (A SQLi Vulnerability Scanner for MySQL)
+- https://github.com/youngyangyang04/NoSQLAttack  (A SQLi Vulnerability Scanner for mongoDB)
+- https://github.com/Neohapsis/bbqsql (A Blind SQLi Vulnerability Scanner)
+- https://github.com/NetSPI/PowerUpSQL (A SQLi Vulnerability Scanner with Powershell Script)
 
 ####Weak passwords or information leak scanners
 
