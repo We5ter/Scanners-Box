@@ -6,7 +6,7 @@
 
 ###Project Description
 
-Scanners-Box is a collection of opensouse scanners from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scanners, modular scanner etc. **Well-known scanning tools, such as: nmap, w3af, brakeman will not be collected.**.
+Scanners-Box is a collection of opensource scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc. **Well-known scanning tools, such as: nmap, w3af, brakeman will not be included int the scope of collection.**
 
 **We welcome everyone to contribute!**
 
@@ -36,7 +36,7 @@ Scanners-Box is a collection of opensouse scanners from the github platform, inc
 
 ####Weak passwords or information leak scanners
 
-- https://github.com/lijiejie/htpwdScan 
+- https://github.com/lijiejie/htpwdScan ()
 - https://github.com/lijiejie/BBScan 
 - https://github.com/lijiejie/GitHack  
 - https://github.com/wilson9x1/fenghuangscanner_v3 
@@ -49,13 +49,13 @@ Scanners-Box is a collection of opensouse scanners from the github platform, inc
 
 ####IoT scanners
 
-- https://github.com/rapid7/IoTSeeker 
-- https://github.com/shodan-labs/iotdb 
+- https://github.com/rapid7/IoTSeeker (Weak-password IoT Devices Scanner)
+- https://github.com/shodan-labs/iotdb (IoT Devices Scanner via nmap)
 
 ####XSS scanners
 
-- https://github.com/shawarkhanethicalhacker/BruteXSS 
-- https://github.com/1N3/XSSTracer 
+- https://github.com/shawarkhanethicalhacker/BruteXSS (Cross-Site Scripting Bruteforcer)
+- https://github.com/1N3/XSSTracer  (A small python script to check for Cross-Site Tracing)
 - https://github.com/0x584A/fuzzXssPHP 
 - https://github.com/chuhades/xss_scan 
 - https://github.com/BlackHole1/autoFindXssAndCsrf 
@@ -70,10 +70,10 @@ Scanners-Box is a collection of opensouse scanners from the github platform, inc
 
 ####Webshell detection
 
-- https://github.com/We5ter/Scanners-Box/tree/master/Find_webshell/ 
-- https://github.com/ym2011/ScanBackdoor 
-- https://github.com/yassineaddi/BackdoorMan 
-- https://github.com/he1m4n6a/findWebshell 
+- https://github.com/We5ter/Scanners-Box/tree/master/Find_webshell/ (PHP Webshell Decetor)
+- https://github.com/ym2011/ScanBackdoor (Webshell Decetor)
+- https://github.com/yassineaddi/BackdoorMan  (A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination)
+- https://github.com/he1m4n6a/findWebshell (Webshell Decetor)
 
 ####Intranet penetration
 
@@ -138,7 +138,7 @@ Scanners-Box is a collection of opensouse scanners from the github platform, inc
 - https://github.com/3xp10it/3xp10it 
 - https://github.com/Lcys/lcyscan 
 - https://github.com/Xyntax/POC-T 
-- https://github.com/v3n0m-Scanner/V3n0M-Scanner 
+- https://github.com/v3n0m-Scanner/V3n0M-Scanner (Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns)
 - https://github.com/Skycrab/leakScan 
 
 ***
@@ -149,7 +149,7 @@ The purpose of this collection is to provide various types of  opensource securi
 
 ###Project Maintenance
 
-**Wester**(twitter <a href="http://twitter.com/We5ter/">@We5ter</a>) & **Martin**(twitter<a href="https://twitter.com/yuyangchow">@We5ter</a>)
+**Wester**(twitter <a href="http://twitter.com/We5ter/">@We5ter</a>) & **Martin**(twitter<a href="https://twitter.com/yuyangchow">@Martin ZHOU</a>)
 ###Disclaimer
 
 Do not use for illegal purposes.
