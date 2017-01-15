@@ -46,6 +46,7 @@ Scanners-Box is a collection of opensource scanners which are from the github pl
 - https://github.com/netxfly/crack_ssh 
 - https://github.com/n0tr00t/Sreg 
 - https://github.com/repoog/GitPrey (Searching sensitive files and contents in GitHub)
+- https://github.com/dxa4481/truffleHog (Searches high entropy strings through git repositories)
 
 ####IoT scanners
 
