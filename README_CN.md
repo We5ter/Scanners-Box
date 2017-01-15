@@ -42,6 +42,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/netxfly/crack_ssh （go写的协程版的ssh\redis\mongodb弱口令破解工具）
 - https://github.com/n0tr00t/Sreg (通过输入email、phone、username的返回用户注册的所有互联网护照信息)
 - https://github.com/repoog/GitPrey (GitHub敏感信息扫描工具)
+- https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
 
 ####物联网设备扫描
 
