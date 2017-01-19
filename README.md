@@ -104,6 +104,7 @@ Scanners-Box is a collection of opensource scanners which are from the github pl
 - https://github.com/Xyntax/DirBrute 
 - https://github.com/zer0h/httpscan 
 - https://github.com/lietdai/doom 
+- https://github.com/chichou/grab.js (Fast TCP banner grabbing like zgrab, but supports much more protocol)
 
 ####Dedicated scanner
 
