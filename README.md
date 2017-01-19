@@ -166,6 +166,7 @@ Please specify reproduced  from https://github.com/We5ter/Scanners-Box
 - **@藏形匿影(wacai.com)**
 - **Mottoin team**
 - **@BlackHole**
+- **@CodeColorist**
 
 &copy;<a href="https://github.com/CNSISMO" target="_blank">CNSISMO</a> 2016-2017
 
