@@ -100,6 +100,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/Xyntax/DirBrute （多线程WEB目录爆破工具）
 - https://github.com/zer0h/httpscan （一个爬虫式的网段Web主机发现小工具）
 - https://github.com/lietdai/doom （thorn上实现的分布式任务分发的ip端口漏洞扫描器）
+- https://github.com/chichou/grab.js (类似 zgrab 的快速 TCP 指纹抓取解析工具，支持更多协议)
 
 ####专用扫描器
 
