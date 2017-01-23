@@ -52,6 +52,7 @@ Scanners-Box is a collection of opensource scanners which are from the github pl
 
 - https://github.com/rapid7/IoTSeeker (Weak-password IoT Devices Scanner)
 - https://github.com/shodan-labs/iotdb (IoT Devices Scanner via nmap)
+- https://github.com/jh00nbr/Routerhunter-2.0 (Testing vulnerabilities in devices and routers connected to the Internet)
 
 ####XSS scanners
 
