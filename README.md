@@ -36,15 +36,15 @@ Scanners-Box is a collection of open source scanners which are from the github p
 
 ####Weak passwords or information leak scanners
 
-- https://github.com/lijiejie/htpwdScan ()
-- https://github.com/lijiejie/BBScan 
-- https://github.com/lijiejie/GitHack  
-- https://github.com/wilson9x1/fenghuangscanner_v3 
-- https://github.com/ysrc/F-Scrack 
-- https://github.com/Mebus/cupp 
-- https://github.com/RicterZ/genpAss 
-- https://github.com/netxfly/crack_ssh 
-- https://github.com/n0tr00t/Sreg 
+- https://github.com/lijiejie/htpwdScan (A python HTTP weak pass scanner)
+- https://github.com/lijiejie/BBScan (A tiny Batch weB vulnerability Scanner)
+- https://github.com/lijiejie/GitHack  (A `.git` folder disclosure exploit)
+- https://github.com/wilson9x1/fenghuangscanner_v3 (ports&weak password scanner)
+- https://github.com/ysrc/F-Scrack (single file bruteforcer supports multi-protocol)
+- https://github.com/Mebus/cupp (Common User Passwords Profiler)
+- https://github.com/RicterZ/genpAss (weak password generator)
+- https://github.com/netxfly/crack_ssh (ssh\redis\mongodb weak password bruteforcer)
+- https://github.com/n0tr00t/Sreg (social information collector)
 - https://github.com/repoog/GitPrey (Searching sensitive files and contents in GitHub)
 - https://github.com/dxa4481/truffleHog (Searches high entropy strings through git repositories)
 
