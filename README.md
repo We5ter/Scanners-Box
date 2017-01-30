@@ -6,7 +6,7 @@
 
 ###Project Description
 
-Scanners-Box is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc. **Well-known scanning tools, such as: nmap, w3af, brakeman will not be included int the scope of collection.**
+Scanners-Box is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.**For other Well-known scanning tools, such as: nmap, w3af, brakeman will not be included in the scope of collection.**
 
 **We welcome everyone to contribute!**
 
@@ -42,9 +42,9 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/wilson9x1/fenghuangscanner_v3 (ports&weak password scanner)
 - https://github.com/ysrc/F-Scrack (single file bruteforcer supports multi-protocol)
 - https://github.com/Mebus/cupp (Common User Passwords Profiler)
-- https://github.com/RicterZ/genpAss (weak password generator)
-- https://github.com/netxfly/crack_ssh (ssh\redis\mongodb weak password bruteforcer)
-- https://github.com/n0tr00t/Sreg (social information collector)
+- https://github.com/RicterZ/genpAss (Weak password generator)
+- https://github.com/netxfly/crack_ssh (Ssh\redis\mongodb weak password bruteforcer)
+- https://github.com/n0tr00t/Sreg (Social information collector)
 - https://github.com/repoog/GitPrey (Searching sensitive files and contents in GitHub)
 - https://github.com/dxa4481/truffleHog (Searches high entropy strings through git repositories)
 
@@ -58,17 +58,17 @@ Scanners-Box is a collection of open source scanners which are from the github p
 
 - https://github.com/shawarkhanethicalhacker/BruteXSS (Cross-Site Scripting Bruteforcer)
 - https://github.com/1N3/XSSTracer  (A small python script to check for Cross-Site Tracing)
-- https://github.com/0x584A/fuzzXssPHP 
-- https://github.com/chuhades/xss_scan 
-- https://github.com/BlackHole1/autoFindXssAndCsrf 
+- https://github.com/0x584A/fuzzXssPHP (A very simple reflected XSS scanner supports GET/POST)
+- https://github.com/chuhades/xss_scan (Reflected XSS scanner)
+- https://github.com/BlackHole1/autoFindXssAndCsrf (A plugin for browser that checks automatically whether a page haves XSS and CSRF vulnerabilities)
 
-####Enterprise network self-test
+####Enterprise network self-test or assets management
 
-- https://github.com/sowish/LNScan 
-- https://github.com/SkyLined/LocalNetworkScanner 
-- https://github.com/ysrc/xunfeng 
-- https://github.com/laramies/theHarvester 
-- https://github.com/x0day/Multisearch-v2 
+- https://github.com/sowish/LNScan  (Local Network Scanner based on BBScan via.lijiejie)
+- https://github.com/SkyLined/LocalNetworkScanner (PoC Javascript that scans your local network when you open a webpage)
+- https://github.com/ysrc/xunfeng （Vulnerability rapid response,scanning system for Intranet)
+- https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
+- https://github.com/x0day/Multisearch-v2 (Enterprise assets collector based on search engine)
 
 ####Webshell detection
 
