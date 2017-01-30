@@ -79,48 +79,47 @@ Scanners-Box is a collection of open source scanners which are from the github p
 
 ####Intranet penetration
 
-- https://github.com/0xwindows/VulScritp 
-- https://github.com/lcatro/network_backdoor_scanner 
-- https://github.com/fdiskyou/hunter 
-- https://github.com/BlackHole1/WebRtcXSS 
+- https://github.com/0xwindows/VulScritp (Intranet penetration test scripts)
+- https://github.com/lcatro/network_backdoor_scanner (An internal network scanner like meterpreter)
+- https://github.com/fdiskyou/hunter (User hunter using WinAPI calls only)
+- https://github.com/BlackHole1/WebRtcXSS (Use XSS automation Invade intranet)
 
 ####Port scanners or Fingerprint scanners
 
-- https://github.com/ring04h/wyportmap 
-- https://github.com/ring04h/weakfilescan 
-- https://github.com/EnableSecurity/wafw00f 
-- https://github.com/rbsec/sslscan 
-- https://github.com/urbanadventurer/whatweb 
-- https://github.com/tanjiti/FingerPrint 
-- https://github.com/nanshihui/Scan-T 
-- https://github.com/OffensivePython/Nscan 
-- https://github.com/ywolf/F-NAScan 
-- https://github.com/ywolf/F-MiddlewareScan 
-- https://github.com/maurosoria/dirsearch 
-- https://github.com/x0day/bannerscan 
-- https://github.com/RASSec/RASscan 
-- https://github.com/3xp10it/bypass_waf 
-- https://github.com/3xp10it/mytools/blob/master/xcdn.py 
-- https://github.com/Xyntax/BingC 
-- https://github.com/Xyntax/DirBrute 
-- https://github.com/zer0h/httpscan 
-- https://github.com/lietdai/doom 
+- https://github.com/ring04h/wyportmap (Target port scanning + system service fingerprint recognition)
+- https://github.com/ring04h/weakfilescan (Dynamic multi - thread sensitive information leak detection tool)
+- https://github.com/EnableSecurity/wafw00f (Identify and fingerprint Web Application Firewall)
+- https://github.com/rbsec/sslscan (Tests SSL/TLS enabled services to discover supported cipher suites)
+- https://github.com/urbanadventurer/whatweb (Website Fingerprinter)
+- https://github.com/tanjiti/FingerPrint (Another Website Fingerprinter)
+- https://github.com/nanshihui/Scan-T (A new spider based on python with more function including Network fingerprint search)
+- https://github.com/OffensivePython/Nscan (Fast internet-wide scanner)
+- https://github.com/ywolf/F-NAScan (Scanning a network asset information script)
+- https://github.com/ywolf/F-MiddlewareScan (A vulnerability detection scripts for middleware services)
+- https://github.com/maurosoria/dirsearch (Web path scanner)
+- https://github.com/x0day/bannerscan (C-segment Banner with path scanner)
+- https://github.com/RASSec/RASscan (Internal network port speed scanners)
+- https://github.com/3xp10it/bypass_waf (Automatic blasting WAF)
+- https://github.com/Xyntax/BingC (Based on the Bing search engine C / side-stop query, multi-threaded, support API)
+- https://github.com/Xyntax/DirBrute (Multi-thread WEB directory blasting tool)
+- https://github.com/zer0h/httpscan (A HTTP Service detector with a crawler from IP/CIDR)
+- https://github.com/lietdai/doom (Distributed task distribution of the ip port vulnerability scanner based on thorn)
 - https://github.com/chichou/grab.js (Fast TCP banner grabbing like zgrab, but supports much more protocol)
 
 ####Dedicated scanner
 
-- https://github.com/blackye/Jenkins 
-- https://github.com/code-scan/dzscan 
-- https://github.com/chuhades/CMS-Exploit-Framework 
-- https://github.com/lijiejie/IIS_shortname_Scanner 
-- https://github.com/riusksk/FlashScanner
-- https://github.com/coffeehb/SSTIF 
+- https://github.com/blackye/Jenkins (Jenkins vulnerability detection, user grab blasting)
+- https://github.com/code-scan/dzscan (discuz scanner)
+- https://github.com/chuhades/CMS-Exploit-Framework (CMS Exploit Framework)
+- https://github.com/lijiejie/IIS_shortname_Scanner (An IIS shortname Scanner)
+- https://github.com/riusksk/FlashScanner (Flash XSS Scanner)
+- https://github.com/coffeehb/SSTIF (Server Side Template Injection Tool)
 
 ####Wireless network penetration and scanners
 
-- https://github.com/savio-code/fern-wifi-cracker/ 
-- https://github.com/m4n3dw0lf/PytheM 
-- https://github.com/P0cL4bs/WiFi-Pumpkin 
+- https://github.com/savio-code/fern-wifi-cracker/ (Testing and discovering flaws in ones own network)
+- https://github.com/m4n3dw0lf/PytheM (Multi-purpose network pentest framework)
+- https://github.com/P0cL4bs/WiFi-Pumpkin (Framework for Rogue Wi-Fi Access Point Attack)
 
 ####Code static scan and running-code stack trace
 
@@ -142,7 +141,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/Lcys/lcyscan （A simple vuls scanner)
 - https://github.com/Xyntax/POC-T （Penetration Test Plug-in Concurrency Framework）
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner (Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns)
-- https://github.com/Skycrab/leakScan (multiple vuls scan supports Web interface）
+- https://github.com/Skycrab/leakScan (Multiple vuls scan supports Web interface）
 
 ***
 
