@@ -124,25 +124,25 @@ Scanners-Box is a collection of open source scanners which are from the github p
 
 ####Code static scan and running-code stack trace
 
-- https://github.com/wufeifei/cobra 
-- https://github.com/OneSourceCat/phpvulhunter 
-- https://github.com/Qihoo360/phptrace 
+- https://github.com/wufeifei/cobra （A static code analysis system that automates the detecting vulnerabilities and security issue）
+- https://github.com/OneSourceCat/phpvulhunter （A tool that can scan php vulnerabilities automatically using static analysis methods）
+- https://github.com/Qihoo360/phptrace （A tracing and troubleshooting tool for PHP scripts）
 
 ####Modular scanners or integrated scanner
 
-- https://github.com/az0ne/AZScanner 
-- https://github.com/blackye/lalascan 
-- https://github.com/blackye/BkScanner 
-- https://github.com/ysrc/GourdScanV2 
-- https://github.com/alpha1e0/pentestdb
-- https://github.com/netxfly/passive_scan 
-- https://github.com/1N3/Sn1per 
-- https://github.com/RASSec/pentestEr_Fully-automatic-scanner 
-- https://github.com/3xp10it/3xp10it 
-- https://github.com/Lcys/lcyscan 
-- https://github.com/Xyntax/POC-T 
+- https://github.com/az0ne/AZScanner （Automatic all-around scanner）
+- https://github.com/blackye/lalascan (Distributed web vulnerability scanning framework which is under construction...)
+- https://github.com/blackye/BkScanner (Distributed, plug-in web vulnerability scanner)
+- https://github.com/ysrc/GourdScanV2 (Passive Vulnerability Scanning System)
+- https://github.com/alpha1e0/pentestdb (WEB penetration test database)
+- https://github.com/netxfly/passive_scan (Realization of Web Vulnerability Scanner Based on http Proxy)
+- https://github.com/1N3/Sn1per (Automated Pentest Recon Scanner)
+- https://github.com/RASSec/pentestEr_Fully-automatic-scanner (Directional Fully Automated Penetration Testing)
+- https://github.com/3xp10it/3xp10it （A automated Penetration Testing Framework)
+- https://github.com/Lcys/lcyscan （A simple vuls scanner)
+- https://github.com/Xyntax/POC-T （Penetration Test Plug-in Concurrency Framework）
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner (Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns)
-- https://github.com/Skycrab/leakScan 
+- https://github.com/Skycrab/leakScan (multiple vuls scan supports Web interface）
 
 ***
 
