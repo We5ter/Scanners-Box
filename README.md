@@ -33,6 +33,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/youngyangyang04/NoSQLAttack  (A SQLi Vulnerability Scanner for mongoDB)
 - https://github.com/Neohapsis/bbqsql (A Blind SQLi Vulnerability Scanner)
 - https://github.com/NetSPI/PowerUpSQL (A SQLi Vulnerability Scanner with Powershell Script)
+- https://github.com/WhitewidowScanner/whitewidow (Another SQL Vulnerability Scanner)
 
 ####Weak passwords or information leak scanners
 
