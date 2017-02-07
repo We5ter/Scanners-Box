@@ -24,6 +24,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/18F/domain-scan (A Domain Scanner）
 - https://github.com/guelfoweb/knock (Knock Subdomain Scan)
 - https://github.com/Evi1CLAY/CoolPool/tree/master/Python/DomainSeeker (An Intergratd Python Subdomain Enumeration Tool)
+- https://github.com/code-scan/BroDomain (Find brother domain)
 
 ####Database Vulnerability Scanners
 
@@ -127,6 +128,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/wufeifei/cobra （A static code analysis system that automates the detecting vulnerabilities and security issue）
 - https://github.com/OneSourceCat/phpvulhunter （A tool that can scan php vulnerabilities automatically using static analysis methods）
 - https://github.com/Qihoo360/phptrace （A tracing and troubleshooting tool for PHP scripts）
+- https://github.com/ajinabraham/NodeJsScan (A static security code scanner for Node.js applications)
 
 ####Modular scanners or integrated scanner
 
