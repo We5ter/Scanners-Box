@@ -20,6 +20,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/18F/domain-scan (A domain scanner）
 - https://github.com/guelfoweb/knock (Knock Subdomain Scan)
 - https://github.com/Evi1CLAY/CoolPool/tree/master/Python/DomainSeeker （多方式收集目标子域名信息）
+- https://github.com/code-scan/BroDomain (兄弟域名查询）
 
 ####数据库扫描
 
@@ -122,7 +123,8 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
 - https://github.com/OneSourceCat/phpvulhunter (静态php代码审计)
-- https://github.com/Qihoo360/phptrace (跟踪、分析PHP运行情况的工具)
+- https://github.com/Qihoo360/phptrace (跟踪、分析PHP运行情况的工具）
+- https://github.com/ajinabraham/NodeJsScan (NodeJS应用代码审计）
 
 ####模块化扫描、综合扫描器
 
