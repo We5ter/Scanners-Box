@@ -101,17 +101,17 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/maurosoria/dirsearch (Web path scanner)
 - https://github.com/x0day/bannerscan (C-segment Banner with path scanner)
 - https://github.com/RASSec/RASscan (Internal network port speed scanners)
-- https://github.com/3xp10it/bypass_waf (Automatic blasting WAF)  
+- https://github.com/3xp10it/bypass_waf (Automatic WAF Bypass Fuzzing Tool)  
 - https://github.com/3xp10it/xcdn (Try to find out the actual ip behind cdn)  
 - https://github.com/Xyntax/BingC (Based on the Bing search engine C / side-stop query, multi-threaded, support API)
-- https://github.com/Xyntax/DirBrute (Multi-thread WEB directory blasting tool)
+- https://github.com/Xyntax/DirBrute (Multi-thread WEB directory enumerating tool)
 - https://github.com/zer0h/httpscan (A HTTP Service detector with a crawler from IP/CIDR)
 - https://github.com/lietdai/doom (Distributed task distribution of the ip port vulnerability scanner based on thorn)
 - https://github.com/chichou/grab.js (Fast TCP banner grabbing like zgrab, but supports much more protocol)
 
 ####Dedicated scanner
 
-- https://github.com/blackye/Jenkins (Jenkins vulnerability detection, user grab blasting)
+- https://github.com/blackye/Jenkins (Jenkins vulnerability detection, user grab enumerating)
 - https://github.com/code-scan/dzscan (discuz scanner)
 - https://github.com/chuhades/CMS-Exploit-Framework (CMS Exploit Framework)
 - https://github.com/lijiejie/IIS_shortname_Scanner (An IIS shortname Scanner)
