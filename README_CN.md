@@ -98,6 +98,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/x0day/bannerscan （C段Banner与路径扫描）
 - https://github.com/RASSec/RASscan (端口服务扫描)
 - https://github.com/3xp10it/bypass_waf （waf自动暴破）
+- https://github.com/3xp10it/xcdn (尝试找出cdn背后的真实ip)  
 - https://github.com/Xyntax/BingC （基于Bing搜索引擎的C段/旁站查询，多线程，支持API）
 - https://github.com/Xyntax/DirBrute （多线程WEB目录爆破工具）
 - https://github.com/zer0h/httpscan （一个爬虫式的网段Web主机发现小工具）
