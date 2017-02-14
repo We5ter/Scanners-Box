@@ -169,5 +169,6 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - **Mottoin团队**
 - **@BlackHole**
 - **@CodeColorist**
+- **@3xp10it**
 
 &copy;<a href="https://github.com/CNSISMO" target="_blank">CNSISMO</a> 2016-2017
