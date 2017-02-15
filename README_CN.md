@@ -70,12 +70,13 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
 - https://github.com/x0day/Multisearch-v2  (bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
 
-####webshell检测
+####webshell检测以及病毒分析工具
 
 - https://github.com/We5ter/Scanners-Box/tree/master/Find_webshell/ （php后门检测，脚本较简单，因此存在误报高和效率低下的问题）
 - https://github.com/ym2011/ScanBackdoor （Webshell扫描工具）
 - https://github.com/yassineaddi/BackdoorMan （A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination）
 - https://github.com/he1m4n6a/findWebshell （又一款webshell检测工具)
+- https://github.com/Tencent/HaboMalHunter （哈勃分析系统，linux系统病毒分析及安全检测）
 
 ####内网渗透
 
@@ -106,6 +107,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/zer0h/httpscan （一个爬虫式的网段Web主机发现小工具）
 - https://github.com/lietdai/doom （thorn上实现的分布式任务分发的ip端口漏洞扫描器）
 - https://github.com/chichou/grab.js (类似 zgrab 的快速 TCP 指纹抓取解析工具，支持更多协议)
+- https://github.com/Nitr4x/whichCDN (CDN识别、检测）
 
 ####专用扫描器
 
