@@ -74,12 +74,13 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
 - https://github.com/x0day/Multisearch-v2 (Enterprise assets collector based on search engine)
 
-####Webshell detection
+####Webshell detection or malware analysis
 
 - https://github.com/We5ter/Scanners-Box/tree/master/Find_webshell/ (PHP Webshell Decetor)
 - https://github.com/ym2011/ScanBackdoor (Webshell Decetor)
 - https://github.com/yassineaddi/BackdoorMan  (A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination)
 - https://github.com/he1m4n6a/findWebshell (Webshell Decetor)
+- https://github.com/Tencent/HaboMalHunter (Used for automated malware analysis and security assessment on the Linux system)
 
 ####Intranet penetration
 
@@ -110,6 +111,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/zer0h/httpscan (A HTTP Service detector with a crawler from IP/CIDR)
 - https://github.com/lietdai/doom (Distributed task distribution of the ip port vulnerability scanner based on thorn)
 - https://github.com/chichou/grab.js (Fast TCP banner grabbing like zgrab, but supports much more protocol)
+- https://github.com/Nitr4x/whichCDN (Detect if a given website is protected by a Content Delivery Network)
 
 ####Dedicated scanner
 
