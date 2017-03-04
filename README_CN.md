@@ -77,6 +77,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/yassineaddi/BackdoorMan （A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination）
 - https://github.com/he1m4n6a/findWebshell （又一款webshell检测工具)
 - https://github.com/Tencent/HaboMalHunter （哈勃分析系统，linux系统病毒分析及安全检测）
+- https://github.com/PlagueScanner/PlagueScanner (使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎)
 
 ####内网渗透
 
