@@ -81,6 +81,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/yassineaddi/BackdoorMan  (A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination)
 - https://github.com/he1m4n6a/findWebshell (Webshell Decetor)
 - https://github.com/Tencent/HaboMalHunter (Used for automated malware analysis and security assessment on the Linux system)
+- https://github.com/PlagueScanner/PlagueScanner (Open source multiple AV scanner framework)
 
 ####Intranet penetration
 
