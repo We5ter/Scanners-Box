@@ -42,6 +42,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
 - https://github.com/Mebus/cupp （根据用户习惯生成弱口令探测字典脚本）
 - https://github.com/RicterZ/genpAss （中国特色的弱口令生成器）
+- https://github.com/LandGrey/pydictor (一个小巧实用的黑客暴力破解字典建立工具) 
 - https://github.com/netxfly/crack_ssh （go写的协程版的ssh\redis\mongodb弱口令破解工具）
 - https://github.com/n0tr00t/Sreg (通过输入email、phone、username的返回用户注册的所有互联网护照信息)
 - https://github.com/repoog/GitPrey (GitHub敏感信息扫描工具)

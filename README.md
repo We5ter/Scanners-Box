@@ -46,6 +46,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/ysrc/F-Scrack (single file bruteforcer supports multi-protocol)
 - https://github.com/Mebus/cupp (Common User Passwords Profiler)
 - https://github.com/RicterZ/genpAss (Weak password generator)
+- https://github.com/LandGrey/pydictor (A useful hacker dictionary builder for a brute-force attack)
 - https://github.com/netxfly/crack_ssh (Ssh\redis\mongodb weak password bruteforcer)
 - https://github.com/n0tr00t/Sreg (Social information collector)
 - https://github.com/repoog/GitPrey (Searching sensitive files and contents in GitHub)
@@ -160,7 +161,7 @@ The purpose of this collection is to provide various types of  opensource securi
 
 ###Project Maintenance
 
-**Wester**(Twitter <a href="http://twitter.com/Hi_Wester/">@Hi_Wester</a>) & **Martin**(Twitter <a href="https://twitter.com/yuyangchow">@Martin ZHOU</a>)
+**Wester**(Twitter <a href="http://twitter.com/Hi_Wester/">@Hi_Wester</a>) &?**Martin**(Twitter <a href="https://twitter.com/yuyangchow">@Martin ZHOU</a>)
 ###Disclaimer
 
 Do not use for illegal purposes.
