@@ -77,7 +77,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 
 ####Webshell detection or malware analysis
 
-- https://github.com/We5ter/Scanners-Box/tree/master/Find_webshell/ (PHP Webshell Decetor)
+- https://github.com/We5ter/Scanners-Box/tree/master/webshell/ (PHP Webshell Decetor and webshell sample library)
 - https://github.com/ym2011/ScanBackdoor (Webshell Decetor)
 - https://github.com/yassineaddi/BackdoorMan  (A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination)
 - https://github.com/he1m4n6a/findWebshell (Webshell Decetor)
