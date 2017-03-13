@@ -109,6 +109,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/lietdai/doom （thorn上实现的分布式任务分发的ip端口漏洞扫描器）
 - https://github.com/chichou/grab.js (类似 zgrab 的快速 TCP 指纹抓取解析工具，支持更多协议)
 - https://github.com/Nitr4x/whichCDN (CDN识别、检测）
+- https://github.com/secfree/bcrpscan (基于爬虫的web路径扫描器)
 
 ####专用扫描器
 
