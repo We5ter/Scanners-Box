@@ -53,6 +53,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/rapid7/IoTSeeker （物联网设备默认密码扫描检测工具)
 - https://github.com/shodan-labs/iotdb (使用nmap扫描IoT设备)
 - https://github.com/jh00nbr/Routerhunter-2.0 （路由器设备漏洞扫描利用)
+- https://github.com/scu-igroup/telnet-scanner (telnet服务密码撞库)
 
 ####XSS扫描
 
