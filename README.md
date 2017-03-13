@@ -83,6 +83,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/he1m4n6a/findWebshell (Webshell Decetor)
 - https://github.com/Tencent/HaboMalHunter (Used for automated malware analysis and security assessment on the Linux system)
 - https://github.com/PlagueScanner/PlagueScanner (Open source multiple AV scanner framework)
+- https://github.com/nbs-system/php-malware-finder (An awesome tool to detect potentially malicious PHP files)
 
 ####Intranet penetration
 
