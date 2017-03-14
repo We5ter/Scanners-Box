@@ -126,6 +126,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/lijiejie/IIS_shortname_Scanner (An IIS shortname Scanner)
 - https://github.com/riusksk/FlashScanner (Flash XSS Scanner)
 - https://github.com/coffeehb/SSTIF (Server Side Template Injection Tool)
+- https://github.com/epinna/tplmap （Automatic Server-Side Template Injection Detection and Exploitation Tool）
 
 ####Wireless network penetration and scanners
 
