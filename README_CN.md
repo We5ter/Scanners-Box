@@ -122,6 +122,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/lijiejie/IIS_shortname_Scanner (an IIS shortname Scanner)
 - https://github.com/riusksk/FlashScanner (flashxss扫描)
 - https://github.com/coffeehb/SSTIF （一个Fuzzing服务器端模板注入漏洞的半自动化工具）
+- https://github.com/epinna/tplmap (服务器端模板注入漏洞检测与利用工具)
 
 ####无线网络渗透、扫描
 
