@@ -156,6 +156,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/Xyntax/POC-T （Penetration Test Plug-in Concurrency Framework）
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner (Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns)
 - https://github.com/Skycrab/leakScan (Multiple vuls scan supports Web interface）
+- https://github.com/zhangzhenfeng/AnyScan (Already under destruction...)
 
 ***
 
