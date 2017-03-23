@@ -93,7 +93,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/fdiskyou/hunter (User hunter using WinAPI calls only)
 - https://github.com/BlackHole1/WebRtcXSS (Use XSS automation Invade intranet)
 
-#### Port scanners or Fingerprint scanners
+#### Port、Fingerprint scanners and Middleware scanners
 
 - https://github.com/ring04h/wyportmap (Target port scanning + system service fingerprint recognition)
 - https://github.com/ring04h/weakfilescan (Dynamic multi - thread sensitive information leak detection tool)
