@@ -89,7 +89,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
 - https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
 
-#### 中间件扫描、指纹识别
+#### 端口扫描、指纹识别以及中间件扫描
 
 - https://github.com/ring04h/wyportmap (目标端口扫描+系统服务指纹识别)
 - https://github.com/ring04h/weakfilescan (动态多线程敏感信息泄露检测工具)
