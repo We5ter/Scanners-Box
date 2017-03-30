@@ -25,6 +25,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/guelfoweb/knock (Knock Subdomain Scan)
 - https://github.com/Evi1CLAY/CoolPool/tree/master/Python/DomainSeeker (An Intergratd Python Subdomain Enumeration Tool)
 - https://github.com/code-scan/BroDomain (Find brother domain)
+- https://github.com/chuhades/dnsbrute (a fast domain brute tool)
 
 #### Database Vulnerability Scanners
 
