@@ -186,6 +186,7 @@ Please specify reproduced  from https://github.com/We5ter/Scanners-Box
 - **@BlackHole**
 - **@CodeColorist**
 - **@3xp10it**
+- **re4lity**
 
 &copy;<a href="https://github.com/CNSISMO" target="_blank">CNSISMO</a> 2016-2017
 
