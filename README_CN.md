@@ -63,6 +63,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/0x584A/fuzzXssPHP (PHP版本的反射型xss扫描)
 - https://github.com/chuhades/xss_scan (批量扫描xss的python脚本）
 - https://github.com/BlackHole1/autoFindXssAndCsrf (自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件）
+- https://github.com/UltimateHackers/XSSight (自动化XSS扫描）
 
 #### 企业网络自检
 
