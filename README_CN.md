@@ -33,6 +33,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/NetSPI/PowerUpSQL （攻击SQLSERVER的Powershell脚本框架）
 - https://github.com/WhitewidowScanner/whitewidow (又一款数据库扫描器)
 - https://github.com/stampery/mongoaudit (MongoDB审计及渗透工具）
+- https://github.com/torque59/Nosql-Exploitation-Framework (NoSQL扫描/爆破工具）
 
 #### 弱口令或信息泄漏扫描
 
@@ -188,6 +189,6 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - **@BlackHole**
 - **@CodeColorist**
 - **@3xp10it**
-- **re4lity**
+- **@re4lity**
 
 &copy;<a href="https://github.com/CNSISMO" target="_blank">CNSISMO</a> 2016-2017
