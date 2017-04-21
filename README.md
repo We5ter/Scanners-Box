@@ -37,6 +37,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/NetSPI/PowerUpSQL (A SQLi Vulnerability Scanner with Powershell Script)
 - https://github.com/WhitewidowScanner/whitewidow (Another SQL Vulnerability Scanner)
 - https://github.com/stampery/mongoaudit (A powerful MongoDB auditing and pentesting tool)
+- https://github.com/torque59/Nosql-Exploitation-Framework (A Python Framework For NoSQL Scanning and Exploitation)
 
 #### Weak passwords or information leak scanners
 
@@ -192,7 +193,7 @@ Please specify reproduced  from https://github.com/We5ter/Scanners-Box
 - **@BlackHole**
 - **@CodeColorist**
 - **@3xp10it**
-- **re4lity**
+- **@re4lity**
 
 &copy;<a href="https://github.com/CNSISMO" target="_blank">CNSISMO</a> 2016-2017
 
