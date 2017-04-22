@@ -21,7 +21,6 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/TheRook/subbrute (Subdomain Enumeration via DNS Record)
 - https://github.com/We5ter/GSDF (Subdomain Enumeration via Google Certificate Transparency）
 - https://github.com/mandatoryprogrammer/cloudflare_enum  (Subdomain Enumeration via CloudFlare）
-- https://github.com/18F/domain-scan (A Domain Scanner）
 - https://github.com/guelfoweb/knock (Knock Subdomain Scan)
 - https://github.com/Evi1CLAY/CoolPool/tree/master/Python/DomainSeeker (An Intergratd Python Subdomain Enumeration Tool)
 - https://github.com/code-scan/BroDomain (Find brother domain)
