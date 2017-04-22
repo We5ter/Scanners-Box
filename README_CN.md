@@ -17,11 +17,10 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/TheRook/subbrute （根据DNS记录查询子域名)
 - https://github.com/We5ter/GSDF (基于谷歌SSL透明证书的子域名查询脚本)
 - https://github.com/mandatoryprogrammer/cloudflare_enum （使用CloudFlare进行子域名枚举的脚本）
-- https://github.com/18F/domain-scan (A domain scanner）
-- https://github.com/guelfoweb/knock (Knock Subdomain Scan)
+- https://github.com/guelfoweb/knock (Knock子域名获取，可用于查找子域名接管漏洞)
 - https://github.com/Evi1CLAY/CoolPool/tree/master/Python/DomainSeeker （多方式收集目标子域名信息）
 - https://github.com/code-scan/BroDomain (兄弟域名查询）
-- https://github.com/chuhades/dnsbrute (基于dns查询的子域名枚举)
+- https://github.com/chuhades/dnsbrute (高效的子域名爆破工具)
 
 #### 数据库扫描
 
