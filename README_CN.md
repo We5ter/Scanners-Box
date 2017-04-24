@@ -33,6 +33,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/WhitewidowScanner/whitewidow (又一款数据库扫描器)
 - https://github.com/stampery/mongoaudit (MongoDB审计及渗透工具）
 - https://github.com/torque59/Nosql-Exploitation-Framework (NoSQL扫描/爆破工具）
+- https://github.com/missDronio/blindy (MySQL盲注爆破工具）
 
 #### 弱口令或信息泄漏扫描
 
