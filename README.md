@@ -37,6 +37,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/WhitewidowScanner/whitewidow (Another SQL Vulnerability Scanner)
 - https://github.com/stampery/mongoaudit (A powerful MongoDB auditing and pentesting tool)
 - https://github.com/torque59/Nosql-Exploitation-Framework (A Python Framework For NoSQL Scanning and Exploitation)
+- https://github.com/missDronio/blindy (Simple script to automate brutforcing blind sql injection vulnerabilities)
 
 #### Weak passwords or information leak scanners
 
