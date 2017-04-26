@@ -128,6 +128,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/coffeehb/SSTIF （一个Fuzzing服务器端模板注入漏洞的半自动化工具）
 - https://github.com/epinna/tplmap (服务器端模板注入漏洞检测与利用工具)
 - https://github.com/cr0hn/dockerscan (docker扫描工具)
+- https://github.com/m4ll0k/WPSeku (一款精简的wordpress扫描工具)
 
 #### 无线网络渗透、扫描
 
