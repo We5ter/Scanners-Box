@@ -132,6 +132,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/coffeehb/SSTIF (Server Side Template Injection Tool)
 - https://github.com/epinna/tplmap （Automatic Server-Side Template Injection Detection and Exploitation Tool）
 - https://github.com/cr0hn/dockerscan (Docker security analysis & hacking tools)
+- https://github.com/m4ll0k/WPSeku (Simple Wordpress Security Scanner)
 
 #### Wireless network penetration and scanners
 
