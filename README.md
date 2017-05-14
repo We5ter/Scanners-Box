@@ -168,6 +168,10 @@ Scanners-Box is a collection of open source scanners which are from the github p
 
 - https://github.com/Neo23x0/Loki (Simple IOC and Incident Response Scanner)
 
+#### ICS
+
+- https://github.com/w3h/icsmaster/tree/master/nse (Digital Bond's ICS Enumeration Tools)
+
 ***
 
 ### Collection purposes
