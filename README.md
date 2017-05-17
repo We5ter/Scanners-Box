@@ -8,11 +8,11 @@
 
 Scanners-Box is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.**For other Well-known scanning tools, such as: nmap, w3af, brakeman will not be included in the scope of collection.**
 
-**We welcome everyone to contribute!**
+**Welcome everyone to contribute!**
 
 ***
 
-#### Subdomain Enumeration
+#### Subdomain Enumeration Scanners
 
 - https://github.com/lijiejie/subDomainsBrute (Classical Subdomain Enumeration Tool)
 - https://github.com/ring04h/wydomain (Intergrated Subdomain Enumeration Tool via Massive Dictionary Rules)
@@ -39,7 +39,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/torque59/Nosql-Exploitation-Framework (A Python Framework For NoSQL Scanning and Exploitation)
 - https://github.com/missDronio/blindy (Simple script to automate brutforcing blind sql injection vulnerabilities)
 
-#### Weak passwords or information leak scanners
+#### Weak Passwords or Information Leak Scanners
 
 - https://github.com/lijiejie/htpwdScan (A python HTTP weak pass scanner)
 - https://github.com/lijiejie/BBScan (A tiny Batch weB vulnerability Scanner)
@@ -54,14 +54,14 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/dxa4481/truffleHog (Searches high entropy strings through git repositories)
 - https://github.com/LandGrey/pydictor (A useful hacker dictionary builder for a brute-force attack)
 
-#### IoT scanners
+#### IoT Scanners
 
 - https://github.com/rapid7/IoTSeeker (Weak-password IoT Devices Scanner)
 - https://github.com/shodan-labs/iotdb (IoT Devices Scanner via nmap)
 - https://github.com/jh00nbr/Routerhunter-2.0 (Testing vulnerabilities in devices and routers connected to the Internet)
 - https://github.com/scu-igroup/telnet-scanner (weak telnet password scanner based on password enumeration)
 
-#### XSS scanners
+#### XSS Scanners
 
 - https://github.com/shawarkhanethicalhacker/BruteXSS (Cross-Site Scripting Bruteforcer)
 - https://github.com/1N3/XSSTracer  (A small python script to check for Cross-Site Tracing)
@@ -70,7 +70,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/BlackHole1/autoFindXssAndCsrf (A plugin for browser that checks automatically whether a page haves XSS and CSRF vulnerabilities)
 - https://github.com/UltimateHackers/XSSight (XSS scan and payload injection)
 
-#### Enterprise network self-test or assets management
+#### Enterprise Network Self-test or Assets Management
 
 - https://github.com/sowish/LNScan  (Local Network Scanner based on BBScan via.lijiejie)
 - https://github.com/SkyLined/LocalNetworkScanner (PoC Javascript that scans your local network when you open a webpage)
@@ -78,7 +78,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
 - https://github.com/x0day/Multisearch-v2 (Enterprise assets collector based on search engine)
 
-#### Webshell detection or malware analysis
+#### Webshell Detection or Malware Analysis
 
 - https://github.com/We5ter/Scanners-Box/tree/master/webshell/ (PHP Webshell Decetor and webshell sample library)
 - https://github.com/ym2011/ScanBackdoor (Webshell Decetor)
@@ -89,14 +89,14 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/nbs-system/php-malware-finder (An awesome tool to detect potentially malicious PHP files)
 - https://github.com/emposha/PHP-Shell-Detector/ （Helps you find and identify php/cgi(perl)/asp/aspx shells)
 
-#### Intranet penetration
+#### Intranet Penetration
 
 - https://github.com/0xwindows/VulScritp (Intranet penetration test scripts)
 - https://github.com/lcatro/network_backdoor_scanner (An internal network scanner like meterpreter)
 - https://github.com/fdiskyou/hunter (User hunter using WinAPI calls only)
 - https://github.com/BlackHole1/WebRtcXSS (Use XSS automation Invade intranet)
 
-#### Port、Fingerprint scanners and Middleware scanners
+#### Middleware Scanners
 
 - https://github.com/ring04h/wyportmap (Target port scanning + system service fingerprint recognition)
 - https://github.com/ring04h/weakfilescan (Dynamic multi - thread sensitive information leak detection tool)
@@ -122,7 +122,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/secfree/bcrpscan (Base on crawler result web path scanner)
 - https://github.com/mozilla/ssh_scan (A prototype SSH configuration and policy scanner)
 
-#### Dedicated scanner
+#### Dedicated Scanners
 
 - https://github.com/blackye/Jenkins (Jenkins vulnerability detection, user grab enumerating)
 - https://github.com/code-scan/dzscan (discuz scanner)
@@ -134,20 +134,20 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/cr0hn/dockerscan (Docker security analysis & hacking tools)
 - https://github.com/m4ll0k/WPSeku (Simple Wordpress Security Scanner)
 
-#### Wireless network penetration and scanners
+#### Wireless network Scanners
 
 - https://github.com/savio-code/fern-wifi-cracker/ (Testing and discovering flaws in ones own network)
 - https://github.com/m4n3dw0lf/PytheM (Multi-purpose network pentest framework)
 - https://github.com/P0cL4bs/WiFi-Pumpkin (Framework for Rogue Wi-Fi Access Point Attack)
 
-#### Code static scan and running-code stack trace
+#### Code Scanners
 
 - https://github.com/wufeifei/cobra （A static code analysis system that automates the detecting vulnerabilities and security issue）
 - https://github.com/OneSourceCat/phpvulhunter （A tool that can scan php vulnerabilities automatically using static analysis methods）
 - https://github.com/Qihoo360/phptrace （A tracing and troubleshooting tool for PHP scripts）
 - https://github.com/ajinabraham/NodeJsScan (A static security code scanner for Node.js applications)
 
-#### Modular scanners or integrated scanner
+#### Integrated Scanners
 
 - https://github.com/az0ne/AZScanner （Automatic all-around scanner）
 - https://github.com/blackye/lalascan (Distributed web vulnerability scanning framework which is under construction...)
@@ -162,7 +162,8 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/Xyntax/POC-T （Penetration Test Plug-in Concurrency Framework）
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner (Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns)
 - https://github.com/Skycrab/leakScan (Multiple vuls scan supports Web interface）
-- https://github.com/zhangzhenfeng/AnyScan (Already under destruction...)
+- https://github.com/zhangzhenfeng/AnyScan (A automated Penetration Testing Framework)
+- https://github.com/brianwrf/NagaScan (Another distributed passive scanner for Web application)
 
 #### APT
 
@@ -174,7 +175,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 
 ***
 
-### Collection purposes
+### Collection Purposes
 
 The purpose of this collection is to provide various types of  opensource security scanning tool that can help Internet companies to be more safer.
 
