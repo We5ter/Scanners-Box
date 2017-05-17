@@ -8,7 +8,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 
 ***
 
-#### 子域名枚举
+#### 子域名枚举扫描器
 
 - https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
 - https://github.com/ring04h/wydomain (子域名字典穷举)
@@ -22,7 +22,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/code-scan/BroDomain (兄弟域名查询）
 - https://github.com/chuhades/dnsbrute (高效的子域名爆破工具)
 
-#### 数据库扫描
+#### 数据库扫描器
 
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
@@ -35,7 +35,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/torque59/Nosql-Exploitation-Framework (NoSQL扫描/爆破工具）
 - https://github.com/missDronio/blindy (MySQL盲注爆破工具）
 
-#### 弱口令或信息泄漏扫描
+#### 弱口令或信息泄漏扫描器
 
 - https://github.com/lijiejie/htpwdScan (一个简单的HTTP暴力破解、撞库攻击脚本)
 - https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
@@ -50,14 +50,14 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
 - https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
 
-#### 物联网设备扫描
+#### 物联网设备扫描器
 
 - https://github.com/rapid7/IoTSeeker （物联网设备默认密码扫描检测工具)
 - https://github.com/shodan-labs/iotdb (使用nmap扫描IoT设备)
 - https://github.com/jh00nbr/Routerhunter-2.0 （路由器设备漏洞扫描利用)
 - https://github.com/scu-igroup/telnet-scanner (telnet服务密码撞库)
 
-#### XSS扫描
+#### XSS扫描器
 
 - https://github.com/shawarkhanethicalhacker/BruteXSS （Cross-Site Scripting Bruteforcer）
 - https://github.com/1N3/XSSTracer (A small python script to check for Cross-Site Tracing)
@@ -66,7 +66,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/BlackHole1/autoFindXssAndCsrf (自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件）
 - https://github.com/UltimateHackers/XSSight (自动化XSS扫描）
 
-#### 企业网络自检
+#### 企业网络自检工具
 
 - https://github.com/sowish/LNScan （详细的内部网络信息扫描器）
 - https://github.com/SkyLined/LocalNetworkScanner (javascript实现的本地网络扫描器)
@@ -92,7 +92,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
 - https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
 
-#### 端口扫描、指纹识别以及中间件扫描
+#### 中间件扫描器
 
 - https://github.com/ring04h/wyportmap (目标端口扫描+系统服务指纹识别)
 - https://github.com/ring04h/weakfilescan (动态多线程敏感信息泄露检测工具)
@@ -130,20 +130,20 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/cr0hn/dockerscan (docker扫描工具)
 - https://github.com/m4ll0k/WPSeku (一款精简的wordpress扫描工具)
 
-#### 无线网络渗透、扫描
+#### 无线网络扫描器
 
 - https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
 - https://github.com/m4n3dw0lf/PytheM （Python网络/渗透测试工具）
 - https://github.com/P0cL4bs/WiFi-Pumpkin （无线安全渗透测试套件）
 
-#### 代码静态扫描、代码运行栈跟踪
+#### 代码扫描器
 
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
 - https://github.com/OneSourceCat/phpvulhunter (静态php代码审计)
 - https://github.com/Qihoo360/phptrace (跟踪、分析PHP运行情况的工具）
 - https://github.com/ajinabraham/NodeJsScan (NodeJS应用代码审计）
 
-#### 模块化扫描、综合扫描器
+#### 集成扫描器
 
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 - https://github.com/blackye/lalascan (自主开发的分布式web漏洞扫描框架，集合owasp top10漏洞扫描和边界资产发现能力)
@@ -158,7 +158,8 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/Xyntax/POC-T （渗透测试插件化并发框架）
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner （Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns）
 - https://github.com/Skycrab/leakScan （web端的在线漏洞扫描）
-- https://github.com/zhangzhenfeng/AnyScan (开发中...)
+- https://github.com/zhangzhenfeng/AnyScan (又一款自动化渗透测试框架)
+- https://github.com/brianwrf/NagaScan （又一款自动化渗透测试框架)
 
 #### 高级持续性威胁(APT)
 
