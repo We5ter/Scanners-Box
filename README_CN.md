@@ -146,7 +146,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 #### 集成扫描器
 
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
-- https://github.com/blackye/lalascan (自主开发的分布式web漏洞扫描框架，集合owasp top10漏洞扫描和边界资产发现能力)
+- https://github.com/blackye/lalascan (集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架)
 - https://github.com/blackye/BkScanner (BkScanner 分布式、插件化web漏洞扫描器)
 - https://github.com/ysrc/GourdScanV2 （被动式漏洞扫描)
 - https://github.com/alpha1e0/pentestdb (WEB渗透测试数据库)
