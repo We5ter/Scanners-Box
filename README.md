@@ -150,7 +150,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 #### Integrated Scanners
 
 - https://github.com/az0ne/AZScanner （Automatic all-around scanner）
-- https://github.com/blackye/lalascan (Distributed web vulnerability scanning framework which is under construction...)
+- https://github.com/blackye/lalascan (Distributed web vulnerability scanning framework)
 - https://github.com/blackye/BkScanner (Distributed, plug-in web vulnerability scanner)
 - https://github.com/ysrc/GourdScanV2 (Passive Vulnerability Scanning System)
 - https://github.com/alpha1e0/pentestdb (WEB penetration test database)
