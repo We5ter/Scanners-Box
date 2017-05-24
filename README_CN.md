@@ -49,6 +49,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/repoog/GitPrey (GitHub敏感信息扫描工具)
 - https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
 - https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
+- https://github.com/fnk0c/cangibrina (通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
 
 #### 物联网设备扫描器
 
