@@ -70,6 +70,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/chuhades/xss_scan (Reflected XSS scanner)
 - https://github.com/BlackHole1/autoFindXssAndCsrf (A plugin for browser that checks automatically whether a page haves XSS and CSRF vulnerabilities)
 - https://github.com/UltimateHackers/XSSight (XSS scan and payload injection)
+- https://github.com/shogunlab/shuriken （XSS command line tool for testing lists of XSS payloads on web apps）
 
 #### Enterprise Network Self-test or Assets Management
 
