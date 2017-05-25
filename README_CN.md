@@ -131,6 +131,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/epinna/tplmap (服务器端模板注入漏洞检测与利用工具)
 - https://github.com/cr0hn/dockerscan (docker扫描工具)
 - https://github.com/m4ll0k/WPSeku (一款精简的wordpress扫描工具)
+- https://github.com/rastating/wordpress-exploit-framework (集成化wordpress漏洞利用框架）
 
 #### 无线网络扫描器
 
