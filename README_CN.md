@@ -21,6 +21,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/Evi1CLAY/CoolPool/tree/master/Python/DomainSeeker （多方式收集目标子域名信息）
 - https://github.com/code-scan/BroDomain (兄弟域名查询）
 - https://github.com/chuhades/dnsbrute (高效的子域名爆破工具)
+- https://github.com/yanxiu0614/subdomain3 (又一款高效的子域名爆破工具）
 
 #### 数据库扫描器
 
