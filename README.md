@@ -206,6 +206,6 @@ Please specify reproduced  from https://github.com/We5ter/Scanners-Box
 - **@3xp10it**
 - **@re4lity**
 
-&copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Lab</a> 2016-2017
+&copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2016-2017
 
 
