@@ -202,4 +202,4 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - **@3xp10it**
 - **@re4lity**
 
-&copy;<a href="https://github.com/CNSISMO" target="_blank">Sixtant Lab</a> 2016-2017
+&copy;<a href="https://github.com/CNSISMO" target="_blank">Sixtant Security Lab</a> 2016-2017
