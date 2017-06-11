@@ -124,6 +124,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/Nitr4x/whichCDN (Detect if a given website is protected by a Content Delivery Network)
 - https://github.com/secfree/bcrpscan (Base on crawler result web path scanner)
 - https://github.com/mozilla/ssh_scan (A prototype SSH configuration and policy scanner)
+- https://github.com/18F/domain-scan (Scans domains for data on their HTTPS configuration and assorted other things)
 
 #### Dedicated Scanners
 
