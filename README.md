@@ -138,6 +138,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/cr0hn/dockerscan (Docker security analysis & hacking tools)
 - https://github.com/m4ll0k/WPSeku (Simple Wordpress Security Scanner)
 - https://github.com/rastating/wordpress-exploit-framework (Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems)
+- https://github.com/ilmila/J2EEScan (A plugin for Burp Suite Proxy to improve the test coverage during web application penetration tests on J2EE applications)
 
 #### Wireless network Scanners
 
