@@ -134,6 +134,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/cr0hn/dockerscan (docker扫描工具)
 - https://github.com/m4ll0k/WPSeku (一款精简的wordpress扫描工具)
 - https://github.com/rastating/wordpress-exploit-framework (集成化wordpress漏洞利用框架）
+- https://github.com/ilmila/J2EEScan (用于扫描J2EE应用的一款burpsuite插件）
 
 #### 无线网络扫描器
 
