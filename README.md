@@ -170,6 +170,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/Skycrab/leakScan (Multiple vuls scan supports Web interface）
 - https://github.com/zhangzhenfeng/AnyScan (A automated Penetration Testing Framework)
 - https://github.com/brianwrf/NagaScan (Another distributed passive scanner for Web application)
+- https://github.com/Tuhinshubhra/RED_HAWK (An All In One Tool For Information Gathering, SQL Vulnerability Scanning and Crawling. Coded In PHP)
 
 #### APT
 
