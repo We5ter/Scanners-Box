@@ -6,7 +6,7 @@
 
 ### Project Description
 
-Scanners-Box is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.**For other Well-known scanning tools, such as: nmap, w3af, brakeman will not be included in the scope of collection.**
+**Scanners Box** is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.**For other Well-known scanning tools, such as: nmap, w3af, brakeman will not be included in the scope of collection.**
 
 **Welcome everyone to contribute!**
 
@@ -139,6 +139,7 @@ Scanners-Box is a collection of open source scanners which are from the github p
 - https://github.com/m4ll0k/WPSeku (Simple Wordpress Security Scanner)
 - https://github.com/rastating/wordpress-exploit-framework (Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems)
 - https://github.com/ilmila/J2EEScan (A plugin for Burp Suite Proxy to improve the test coverage during web application penetration tests on J2EE applications)
+- https://github.com/riusksk/StrutScan (Struts2 Vuls Scanner base perl script)
 
 #### Wireless network Scanners
 
