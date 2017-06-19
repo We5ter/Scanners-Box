@@ -2,7 +2,7 @@
 
 ### 简介
 
-Scanners-Box是一个集合github平台上的安全行业从业人员自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器；**该仓库只收录各位网友自己编写的一般性开源扫描器，类似nmap、w3af、brakeman等知名扫描工具不收录**。
+**Scanners Box**是一个集合github平台上的安全行业从业人员自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器；**该仓库只收录各位网友自己编写的一般性开源扫描器，类似nmap、w3af、brakeman等知名扫描工具不收录**。
 
 **非常欢迎大家贡献commit！**
 
@@ -135,6 +135,7 @@ Scanners-Box是一个集合github平台上的安全行业从业人员自研开�
 - https://github.com/m4ll0k/WPSeku (一款精简的wordpress扫描工具)
 - https://github.com/rastating/wordpress-exploit-framework (集成化wordpress漏洞利用框架）
 - https://github.com/ilmila/J2EEScan (用于扫描J2EE应用的一款burpsuite插件）
+- https://github.com/riusksk/StrutScan (一款基于perl的strut2的历史漏洞扫描器）
 
 #### 无线网络扫描器
 
