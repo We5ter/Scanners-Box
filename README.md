@@ -26,6 +26,7 @@
 - https://github.com/code-scan/BroDomain (Find brother domain)
 - https://github.com/chuhades/dnsbrute (a fast domain brute tool)
 - https://github.com/yanxiu0614/subdomain3 (A simple and fast tool for bruting subdomains)
+- https://github.com/michenriksen/aquatone (A powerful subdomain tool)
 
 #### Database Vulnerability Scanners
 
