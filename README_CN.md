@@ -52,6 +52,8 @@
 - https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
 - https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
 - https://github.com/fnk0c/cangibrina (通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
+- https://github.com/shengqi158/weak_password_detect (多线程探测弱口令）
+- https://github.com/shengqi158/svnhack （.svn文件夹泄漏利用工具）
 
 #### 物联网设备扫描器
 
@@ -150,6 +152,7 @@
 - https://github.com/OneSourceCat/phpvulhunter (静态php代码审计)
 - https://github.com/Qihoo360/phptrace (跟踪、分析PHP运行情况的工具）
 - https://github.com/ajinabraham/NodeJsScan (NodeJS应用代码审计）
+- https://github.com/shengqi158/pyvulhunter （python应用审计）
 
 #### 集成扫描器
 
