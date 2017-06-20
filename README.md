@@ -56,6 +56,8 @@
 - https://github.com/dxa4481/truffleHog (Searches high entropy strings through git repositories)
 - https://github.com/LandGrey/pydictor (A useful hacker dictionary builder for a brute-force attack)
 - https://github.com/fnk0c/cangibrina (A fast and powerfull dashboard (admin) finder)
+- https://github.com/shengqi158/svnhack (A `.svn` folder disclosure exploit)
+- https://github.com/shengqi158/weak_password_detect (A python HTTP weak password scanner)
 
 #### IoT Scanners
 
@@ -154,6 +156,7 @@
 - https://github.com/OneSourceCat/phpvulhunter （A tool that can scan php vulnerabilities automatically using static analysis methods）
 - https://github.com/Qihoo360/phptrace （A tracing and troubleshooting tool for PHP scripts）
 - https://github.com/ajinabraham/NodeJsScan (A static security code scanner for Node.js applications)
+- https://github.com/shengqi158/pyvulhunter  (A static security code scanner for python applications)
 
 #### Integrated Scanners
 
