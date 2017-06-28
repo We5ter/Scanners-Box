@@ -75,6 +75,7 @@
 - https://github.com/BlackHole1/autoFindXssAndCsrf (A plugin for browser that checks automatically whether a page haves XSS and CSRF vulnerabilities)
 - https://github.com/UltimateHackers/XSSight (XSS scan and payload injection)
 - https://github.com/shogunlab/shuriken （XSS command line tool for testing lists of XSS payloads on web apps）
+- https://github.com/UltimateHackers/XSStrike (fuzz and bruteforce parameters for XSS,WAFs detect and bypass)
 
 #### Enterprise Network Self-test or Assets Management
 
@@ -212,6 +213,7 @@ Please specify reproduced  from https://github.com/We5ter/Scanners-Box
 - **@CodeColorist**
 - **@3xp10it**
 - **@re4lity**
+- **@UltimateHackers**
 
 &copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2016-2017
 
