@@ -71,6 +71,7 @@
 - https://github.com/BlackHole1/autoFindXssAndCsrf (自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件）
 - https://github.com/UltimateHackers/XSSight (自动化XSS扫描）
 - https://github.com/shogunlab/shuriken (使用命令行进行XSS批量检测)
+- https://github.com/UltimateHackers/XSStrike (可识别并绕过WAF的XSS扫描工具)
 
 #### 企业网络自检工具
 
@@ -208,5 +209,6 @@
 - **@CodeColorist**
 - **@3xp10it**
 - **@re4lity**
+- **@UltimateHackers**
 
 &copy;<a href="https://github.com/CNSISMO" target="_blank">Sixtant Security Lab</a> 2016-2017
