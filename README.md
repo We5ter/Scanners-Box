@@ -27,6 +27,7 @@
 - https://github.com/chuhades/dnsbrute (a fast domain brute tool)
 - https://github.com/yanxiu0614/subdomain3 (A simple and fast tool for bruting subdomains)
 - https://github.com/michenriksen/aquatone (A powerful subdomain tool)
+- https://github.com/evilsocket/dnssearch (A subdomain enumeration tool)
 
 #### Database Vulnerability Scanners
 
