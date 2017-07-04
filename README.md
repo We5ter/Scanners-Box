@@ -145,6 +145,7 @@
 - https://github.com/rastating/wordpress-exploit-framework (Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems)
 - https://github.com/ilmila/J2EEScan (A plugin for Burp Suite Proxy to improve the test coverage during web application penetration tests on J2EE applications)
 - https://github.com/riusksk/StrutScan (Struts2 Vuls Scanner base perl script)
+- https://github.com/D35m0nd142/LFISuite (Totally Automatic LFI Exploiterand Scanner supports Reverse Shell)
 
 #### Wireless network Scanners
 
