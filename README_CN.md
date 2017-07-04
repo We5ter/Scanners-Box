@@ -141,6 +141,7 @@
 - https://github.com/rastating/wordpress-exploit-framework (集成化wordpress漏洞利用框架）
 - https://github.com/ilmila/J2EEScan (用于扫描J2EE应用的一款burpsuite插件）
 - https://github.com/riusksk/StrutScan (一款基于perl的strut2的历史漏洞扫描器）
+- https://github.com/D35m0nd142/LFISuite (本地文件包含漏洞利用及扫描工具，支持反弹shell）
 
 #### 无线网络扫描器
 
