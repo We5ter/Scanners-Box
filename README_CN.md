@@ -23,6 +23,7 @@
 - https://github.com/chuhades/dnsbrute (高效的子域名爆破工具)
 - https://github.com/yanxiu0614/subdomain3 (又一款高效的子域名爆破工具）
 - https://github.com/michenriksen/aquatone (子域名枚举、探测工具)
+- https://github.com/evilsocket/dnssearch (一款子域名爆破工具)
 
 #### 数据库扫描器
 
