@@ -77,6 +77,7 @@
 - https://github.com/UltimateHackers/XSSight (XSS scan and payload injection)
 - https://github.com/shogunlab/shuriken （XSS command line tool for testing lists of XSS payloads on web apps）
 - https://github.com/UltimateHackers/XSStrike (fuzz and bruteforce parameters for XSS,WAFs detect and bypass)
+- https://github.com/stamparm/DSXS （A fully functional Cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code）
 
 #### Enterprise Network Self-test or Assets Management
 
