@@ -73,6 +73,7 @@
 - https://github.com/UltimateHackers/XSSight (自动化XSS扫描）
 - https://github.com/shogunlab/shuriken (使用命令行进行XSS批量检测)
 - https://github.com/UltimateHackers/XSStrike (可识别并绕过WAF的XSS扫描工具)
+- https://github.com/stamparm/DSXS (支持GET、POST方式的高效xss扫描器）
 
 #### 企业网络自检工具
 
