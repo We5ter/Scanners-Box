@@ -142,6 +142,7 @@
 - https://github.com/ilmila/J2EEScan (用于扫描J2EE应用的一款burpsuite插件）
 - https://github.com/riusksk/StrutScan (一款基于perl的strut2的历史漏洞扫描器）
 - https://github.com/D35m0nd142/LFISuite (本地文件包含漏洞利用及扫描工具，支持反弹shell）
+- https://github.com/0x4D31/salt-scanner (基于Salt Open以及Vulners Linux Audit API的linux漏洞扫描器，支持与JIRA、slack平台结合使用）
 
 #### 无线网络扫描器
 
