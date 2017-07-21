@@ -148,6 +148,7 @@
 - https://github.com/riusksk/StrutScan (Struts2 Vuls Scanner base perl script)
 - https://github.com/D35m0nd142/LFISuite (Totally Automatic LFI Exploiterand Scanner supports Reverse Shell)
 - https://github.com/0x4D31/salt-scanner （Linux vulnerability scanner based on Salt Open and Vulners audit API, with Slack notifications and JIRA integration）
+- https://github.com/tijme/angularjs-csti-scanner (Automated client-side template injection detection for AngularJS)
 
 #### Wireless network Scanners
 
