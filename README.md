@@ -131,6 +131,7 @@
 - https://github.com/secfree/bcrpscan (Base on crawler result web path scanner)
 - https://github.com/mozilla/ssh_scan (A prototype SSH configuration and policy scanner)
 - https://github.com/18F/domain-scan (Scans domains for data on their HTTPS configuration and assorted other things)
+- https://github.com/ggusoft/inforfinder (A tool made to collect information of any domain pointing at a server and fingerprinter)
 
 #### Dedicated Scanners
 
