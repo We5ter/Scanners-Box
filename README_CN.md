@@ -2,7 +2,7 @@
 
 ### 简介
 
-**Scanners Box**是一个集合github平台上的安全行业从业人员自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器；**该仓库只收录各位网友自己编写的一般性开源扫描器，类似nmap、w3af、brakeman等知名扫描工具不收录**。
+**Scanners Box**是一个集合github平台上的安全行业从业人员自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器；**该仓库只收录各位网友自己编写的一般性开源扫描器，类似nmap、w3af等知名扫描工具不收录**。
 
 **非常欢迎大家贡献commit！**
 
@@ -160,6 +160,7 @@
 - https://github.com/Qihoo360/phptrace (跟踪、分析PHP运行情况的工具）
 - https://github.com/ajinabraham/NodeJsScan (NodeJS应用代码审计）
 - https://github.com/shengqi158/pyvulhunter （python应用审计）
+- https://github.com/presidentbeef/brakeman ( Ruby on Rails应用静态代码分析）
 
 #### 集成扫描器
 
@@ -179,6 +180,7 @@
 - https://github.com/zhangzhenfeng/AnyScan (又一款自动化渗透测试框架)
 - https://github.com/brianwrf/NagaScan （又一款自动化渗透测试框架)
 - https://github.com/Tuhinshubhra/RED_HAWK (使用php编写的一款集成信息收集、漏洞扫描、指纹识别等的多合一扫描工具）
+- https://github.com/Arachni/arachni (web应用扫描框架）
 
 #### 高级持续性威胁(APT)
 
