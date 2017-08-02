@@ -6,7 +6,7 @@
 
 ### Project Description
 
-**Scanners Box** is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.**For other Well-known scanning tools, such as: nmap, w3af, brakeman will not be included in the scope of collection.**
+**Scanners Box** is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.**For other Well-known scanning tools, such as: nmap, w3af will not be included in the scope of collection.**
 
 **Welcome everyone to contribute!**
 
@@ -164,6 +164,7 @@
 - https://github.com/Qihoo360/phptrace （A tracing and troubleshooting tool for PHP scripts）
 - https://github.com/ajinabraham/NodeJsScan (A static security code scanner for Node.js applications)
 - https://github.com/shengqi158/pyvulhunter  (A static security code scanner for python applications)
+- https://github.com/presidentbeef/brakeman (A static analysis security vulnerability scanner for Ruby on Rails applications)
 
 #### Integrated Scanners
 
@@ -183,6 +184,7 @@
 - https://github.com/zhangzhenfeng/AnyScan (A automated Penetration Testing Framework)
 - https://github.com/brianwrf/NagaScan (Another distributed passive scanner for Web application)
 - https://github.com/Tuhinshubhra/RED_HAWK (An All In One Tool For Information Gathering, SQL Vulnerability Scanning and Crawling. Coded In PHP)
+- https://github.com/Arachni/arachni (Web Application Security Scanner Framework)
 
 #### APT
 
