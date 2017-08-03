@@ -168,6 +168,7 @@
 
 #### Integrated Scanners
 
+- https://github.com/infobyte/faraday (Collaborative Penetration Test and Vulnerability Management Platform)
 - https://github.com/az0ne/AZScanner （Automatic all-around scanner）
 - https://github.com/blackye/lalascan (Distributed web vulnerability scanning framework)
 - https://github.com/blackye/BkScanner (Distributed, plug-in web vulnerability scanner)
@@ -177,7 +178,7 @@
 - https://github.com/1N3/Sn1per (Automated Pentest Recon Scanner)
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner (Directional Fully Automated Penetration Testing)
 - https://github.com/3xp10it/3xp10it （A automated Penetration Testing Framework)
-- https://github.com/Lcys/lcyscan （A simple vuls scanner)
+- https://github.com/Lcys/lcyscan （A vuls scanner，plugins supported)
 - https://github.com/Xyntax/POC-T （Penetration Test Plug-in Concurrency Framework）
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner (Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns)
 - https://github.com/Skycrab/leakScan (Multiple vuls scan supports Web interface）
