@@ -65,8 +65,8 @@
 
 #### XSS扫描器
 
-- https://github.com/shawarkhanethicalhacker/BruteXSS （Cross-Site Scripting Bruteforcer）
-- https://github.com/1N3/XSSTracer (A small python script to check for Cross-Site Tracing)
+- https://github.com/shawarkhanethicalhacker/BruteXSS （一款XSS扫描器,可暴力注入参数）
+- https://github.com/1N3/XSSTracer (小型XSS扫描器,也可检测CRLF、XSS、点击劫持的)
 - https://github.com/0x584A/fuzzXssPHP (PHP版本的反射型xss扫描)
 - https://github.com/chuhades/xss_scan (批量扫描xss的python脚本）
 - https://github.com/BlackHole1/autoFindXssAndCsrf (自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件）
@@ -87,8 +87,8 @@
 
 - https://github.com/We5ter/Scanners-Box/tree/master/webshell/ （简单的php后门检测工具以及webshell样本库）
 - https://github.com/ym2011/ScanBackdoor （Webshell扫描工具）
-- https://github.com/yassineaddi/BackdoorMan （A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination）
-- https://github.com/he1m4n6a/findWebshell （又一款webshell检测工具)
+- https://github.com/yassineaddi/BackdoorMan （可对指定目录进行php webshell检测）
+- https://github.com/he1m4n6a/findWebshell （一款webshell检测工具)
 - https://github.com/Tencent/HaboMalHunter （哈勃分析系统，linux系统病毒分析及安全检测）
 - https://github.com/PlagueScanner/PlagueScanner (使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎)
 - https://github.com/nbs-system/php-malware-finder (一款高效率PHP-webshell扫描工具)
@@ -110,10 +110,10 @@
 - https://github.com/urbanadventurer/whatweb (web指纹识别)
 - https://github.com/tanjiti/FingerPrint (web应用指纹识别)
 - https://github.com/nanshihui/Scan-T （网络爬虫式指纹识别)
-- https://github.com/OffensivePython/Nscan (a fast Network scanner inspired by Masscan and Zmap)
+- https://github.com/OffensivePython/Nscan (基于Masscan和Zmap的网络扫描器)
 - https://github.com/ywolf/F-NAScan (网络资产信息扫描, ICMP存活探测,端口扫描，端口指纹服务识别）
 - https://github.com/ywolf/F-MiddlewareScan （中间件扫描）
-- https://github.com/maurosoria/dirsearch (Web path scanner)
+- https://github.com/maurosoria/dirsearch (web路径收集与扫描)
 - https://github.com/x0day/bannerscan （C段Banner与路径扫描）
 - https://github.com/RASSec/RASscan (端口服务扫描)
 - https://github.com/3xp10it/bypass_waf （waf自动暴破）
@@ -134,7 +134,7 @@
 - https://github.com/blackye/Jenkins (Jenkins漏洞探测、用户抓取爆破)
 - https://github.com/code-scan/dzscan (discuz扫描)
 - https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
-- https://github.com/lijiejie/IIS_shortname_Scanner (an IIS shortname Scanner)
+- https://github.com/lijiejie/IIS_shortname_Scanner （IIS短文件名暴力枚举漏洞利用工具)
 - https://github.com/riusksk/FlashScanner (flashxss扫描)
 - https://github.com/coffeehb/SSTIF （一个Fuzzing服务器端模板注入漏洞的半自动化工具）
 - https://github.com/epinna/tplmap (服务器端模板注入漏洞检测与利用工具)
@@ -173,14 +173,15 @@
 - https://github.com/1N3/Sn1per (自动化扫描器，包括中间件扫描以及设备指纹识别)
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner （定向全自动化渗透测试工具）
 - https://github.com/3xp10it/3xp10it （自动化渗透测试框架)
-- https://github.com/Lcys/lcyscan (扫描效果未验证）
+- https://github.com/Lcys/lcyscan (一款支持插件的小型扫描器）
 - https://github.com/Xyntax/POC-T （渗透测试插件化并发框架）
-- https://github.com/v3n0m-Scanner/V3n0M-Scanner （Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns）
+- https://github.com/v3n0m-Scanner/V3n0M-Scanner （支持检测SQLi/XSS/LFI/RFI等漏洞的扫描器）
 - https://github.com/Skycrab/leakScan （web端的在线漏洞扫描）
-- https://github.com/zhangzhenfeng/AnyScan (又一款自动化渗透测试框架)
-- https://github.com/brianwrf/NagaScan （又一款自动化渗透测试框架)
+- https://github.com/zhangzhenfeng/AnyScan (一款自动化渗透测试框架)
+- https://github.com/brianwrf/NagaScan （一款自动化渗透测试框架)
 - https://github.com/Tuhinshubhra/RED_HAWK (使用php编写的一款集成信息收集、漏洞扫描、指纹识别等的多合一扫描工具）
 - https://github.com/Arachni/arachni (web应用扫描框架）
+- https://github.com/infobyte/faraday （集成化渗透测试辅助平台及漏洞管理平台）
 
 #### 高级持续性威胁(APT)
 
