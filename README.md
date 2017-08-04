@@ -132,6 +132,7 @@
 - https://github.com/mozilla/ssh_scan (A prototype SSH configuration and policy scanner)
 - https://github.com/18F/domain-scan (Scans domains for data on their HTTPS configuration and assorted other things)
 - https://github.com/ggusoft/inforfinder (A tool made to collect information of any domain pointing at a server and fingerprinter)
+- https://github.com/boy-hack/gwhatweb (Fingerprinter for CMS)
 
 #### Dedicated Scanners
 
@@ -186,6 +187,7 @@
 - https://github.com/brianwrf/NagaScan (Another distributed passive scanner for Web application)
 - https://github.com/Tuhinshubhra/RED_HAWK (An All In One Tool For Information Gathering, SQL Vulnerability Scanning and Crawling. Coded In PHP)
 - https://github.com/Arachni/arachni (Web Application Security Scanner Framework)
+- https://github.com/boy-hack/w8scan (A scanner that similar to bugscan)
 
 #### APT
 
@@ -223,6 +225,7 @@ Please specify reproduced  from https://github.com/We5ter/Scanners-Box
 - **@3xp10it**
 - **@re4lity**
 - **@UltimateHackers**
+- **@boy-hack**
 
 &copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2016-2017
 
