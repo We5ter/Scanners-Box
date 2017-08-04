@@ -74,7 +74,6 @@
 - https://github.com/0x584A/fuzzXssPHP (A very simple reflected XSS scanner supports GET/POST)
 - https://github.com/chuhades/xss_scan (Reflected XSS scanner)
 - https://github.com/BlackHole1/autoFindXssAndCsrf (A plugin for browser that checks automatically whether a page haves XSS and CSRF vulnerabilities)
-- https://github.com/UltimateHackers/XSSight (XSS scan and payload injection)
 - https://github.com/shogunlab/shuriken （XSS command line tool for testing lists of XSS payloads on web apps）
 - https://github.com/UltimateHackers/XSStrike (fuzz and bruteforce parameters for XSS,WAFs detect and bypass)
 - https://github.com/stamparm/DSXS （A fully functional Cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code）
