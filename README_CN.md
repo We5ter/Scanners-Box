@@ -128,6 +128,7 @@
 - https://github.com/mozilla/ssh_scan (服务器ssh配置信息扫描）
 - https://github.com/18F/domain-scan (针对域名及其子域名的资产数据检测／扫描，包括http/https检测等）
 - https://github.com/ggusoft/inforfinder (域名资产收集及指纹识别工具）
+- https://github.com/boy-hack/gwhatweb (CMS识别 python gevent实现)
 
 #### 专用扫描器
 
@@ -182,6 +183,7 @@
 - https://github.com/Tuhinshubhra/RED_HAWK (使用php编写的一款集成信息收集、漏洞扫描、指纹识别等的多合一扫描工具）
 - https://github.com/Arachni/arachni (web应用扫描框架）
 - https://github.com/infobyte/faraday （集成化渗透测试辅助平台及漏洞管理平台）
+- https://github.com/boy-hack/w8scan (一款类似bugscan的扫描器）
 
 #### 高级持续性威胁(APT)
 
@@ -219,5 +221,6 @@
 - **@3xp10it**
 - **@re4lity**
 - **@UltimateHackers**
+- **@boy-hack**
 
 &copy;<a href="https://github.com/CNSISMO" target="_blank">Sixtant Security Lab</a> 2016-2017
