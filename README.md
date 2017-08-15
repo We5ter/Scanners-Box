@@ -156,6 +156,7 @@
 - https://github.com/savio-code/fern-wifi-cracker/ (Testing and discovering flaws in ones own network)
 - https://github.com/m4n3dw0lf/PytheM (Multi-purpose network pentest framework)
 - https://github.com/P0cL4bs/WiFi-Pumpkin (Framework for Rogue Wi-Fi Access Point Attack)
+- https://github.com/MisterBianco/BoopSuite (A Suite of Tools written in Python for wireless auditing and security testing)
 
 #### Code Scanners
 
