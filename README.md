@@ -187,6 +187,7 @@
 - https://github.com/Tuhinshubhra/RED_HAWK (An All In One Tool For Information Gathering, SQL Vulnerability Scanning and Crawling. Coded In PHP)
 - https://github.com/Arachni/arachni (Web Application Security Scanner Framework)
 - https://github.com/boy-hack/w8scan (A scanner that similar to bugscan)
+- https://github.com/scipag/vulscan (https://github.com/scipag/vulscan)
 
 #### APT
 
