@@ -183,6 +183,7 @@
 - https://github.com/Arachni/arachni (web应用扫描框架）
 - https://github.com/infobyte/faraday （集成化渗透测试辅助平台及漏洞管理平台）
 - https://github.com/boy-hack/w8scan (一款类似bugscan的扫描器）
+- https://github.com/scipag/vulscan (基于nmap的高级漏洞扫描器，命令行使用）
 
 #### 高级持续性威胁(APT)
 
