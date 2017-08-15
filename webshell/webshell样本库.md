@@ -10,3 +10,4 @@ Webshell样本库
 - https://github.com/JohnTroony/php-webshells 
 - https://github.com/dotcppfile/DAws
 - https://github.com/BlackArch/webshells
+- https://github.com/testsecer/WebShell
