@@ -128,6 +128,7 @@
 - https://github.com/18F/domain-scan (针对域名及其子域名的资产数据检测／扫描，包括http/https检测等）
 - https://github.com/ggusoft/inforfinder (域名资产收集及指纹识别工具）
 - https://github.com/boy-hack/gwhatweb (CMS识别 python gevent实现)
+- https://github.com/Mosuan/FileScan ( 敏感文件扫描 / 二次判断降低误报率 / 扫描内容规则化 / 多目录扫描)
 
 #### 专用扫描器
 
