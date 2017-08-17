@@ -132,6 +132,7 @@
 - https://github.com/18F/domain-scan (Scans domains for data on their HTTPS configuration and assorted other things)
 - https://github.com/ggusoft/inforfinder (A tool made to collect information of any domain pointing at a server and fingerprinter)
 - https://github.com/boy-hack/gwhatweb (Fingerprinter for CMS)
+- https://github.com/Mosuan/FileScan (Sensitive files scanner)
 
 #### Dedicated Scanners
 
