@@ -28,6 +28,7 @@
 - https://github.com/yanxiu0614/subdomain3 (A simple and fast tool for bruting subdomains)
 - https://github.com/michenriksen/aquatone (A powerful subdomain tool)
 - https://github.com/evilsocket/dnssearch (A subdomain enumeration tool)
+- https://github.com/OrOneEqualsOne/reconned (Subdomain enumeration tools for bug hunting)
 
 #### Database Vulnerability Scanners
 
