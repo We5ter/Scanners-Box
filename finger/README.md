@@ -1,4 +1,4 @@
-### hackerone部分厂商域名列表，可用作指纹识别素材
+### hackerone domains for fingerprinter (hackerone厂商域名列表）
 
- - 1-domain.txt - 一级域名
- - all-domains.txt - 包含子域名
+ - 1-domain.txt - First-level domain
+ - all-domains.txt - including subdomains
