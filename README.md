@@ -134,6 +134,7 @@
 - https://github.com/ggusoft/inforfinder (A tool made to collect information of any domain pointing at a server and fingerprinter)
 - https://github.com/boy-hack/gwhatweb (Fingerprinter for CMS)
 - https://github.com/Mosuan/FileScan (Sensitive files scanner)
+- https://github.com/Xyntax/FileSensor （Dynamic file detection tool based on crawler）
 
 #### Dedicated Scanners
 
