@@ -135,6 +135,7 @@
 - https://github.com/boy-hack/gwhatweb (Fingerprinter for CMS)
 - https://github.com/Mosuan/FileScan (Sensitive files scanner)
 - https://github.com/Xyntax/FileSensor （Dynamic file detection tool based on crawler）
+- https://github.com/deibit/cansina (Web Content Discovery Tool)
 
 #### Dedicated Scanners
 
