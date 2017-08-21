@@ -131,6 +131,7 @@
 - https://github.com/boy-hack/gwhatweb (CMS识别 python gevent实现)
 - https://github.com/Mosuan/FileScan (敏感文件扫描 / 二次判断降低误报率 / 扫描内容规则化 / 多目录扫描)
 - https://github.com/Xyntax/FileSensor (基于爬虫的动态敏感文件探测工具)
+- https://github.com/deibit/cansina (web路径扫描工具）
 
 #### 专用扫描器
 
