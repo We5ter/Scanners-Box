@@ -14,7 +14,7 @@
 - https://github.com/ring04h/wydomain (子域名字典穷举)
 - https://github.com/le4f/dnsmaper (子域名枚举与地图标记)
 - https://github.com/0xbug/orangescan (在线子域名信息收集工具)
-- https://github.com/TheRook/subbrute （根据DNS记录查询子域名)
+- https://github.com/TheRook/subbrute （高效精准的子域名爆破工具)
 - https://github.com/We5ter/GSDF (基于谷歌SSL透明证书的子域名查询脚本)
 - https://github.com/mandatoryprogrammer/cloudflare_enum （使用CloudFlare进行子域名枚举的脚本）
 - https://github.com/guelfoweb/knock (Knock子域名获取，可用于查找子域名接管漏洞)
