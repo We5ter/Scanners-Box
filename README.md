@@ -16,9 +16,9 @@
 
 - https://github.com/lijiejie/subDomainsBrute (Classical Subdomain Enumeration Tool)
 - https://github.com/ring04h/wydomain (Intergrated Subdomain Enumeration Tool via Massive Dictionary Rules)
-- https://github.com/le4f/dnsmaper (Subdomain Enumeration via DNS Record)
+- https://github.com/le4f/dnsmaper (Subdomain Enumeration tool with map record)
 - https://github.com/0xbug/orangescan (Online Subdomain Enumeration Tool)
-- https://github.com/TheRook/subbrute (Subdomain Enumeration via DNS Record)
+- https://github.com/TheRook/subbrute (A DNS meta-query spider that enumerates DNS records, and subdomains.)
 - https://github.com/We5ter/GSDF (Subdomain Enumeration via Google Certificate Transparency）
 - https://github.com/mandatoryprogrammer/cloudflare_enum  (Subdomain Enumeration via CloudFlare）
 - https://github.com/guelfoweb/knock (Knock Subdomain Scan)
