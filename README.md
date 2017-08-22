@@ -29,6 +29,8 @@
 - https://github.com/michenriksen/aquatone (A powerful subdomain tool)
 - https://github.com/evilsocket/dnssearch (A subdomain enumeration tool)
 - https://github.com/OrOneEqualsOne/reconned (Subdomain enumeration tools for bug hunting)
+- https://github.com/bit4woo/Teemo （A Domain Name & Email Address Collection Tool）
+- https://github.com/laramies/theHarvester （E-mail, subdomain and people names harvester ）
 
 #### Database Vulnerability Scanners
 
