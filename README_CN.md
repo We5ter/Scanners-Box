@@ -25,6 +25,8 @@
 - https://github.com/michenriksen/aquatone (子域名枚举、探测工具)
 - https://github.com/evilsocket/dnssearch (一款子域名爆破工具)
 - https://github.com/OrOneEqualsOne/reconned (可用于子域名收集的一款工具）
+- https://github.com/bit4woo/Teemo (域名收集及枚举工具)
+- https://github.com/laramies/theHarvester (邮箱、服务器信息收集及子域名枚举工具）
 
 #### 数据库扫描器
 
