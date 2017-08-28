@@ -1,5 +1,9 @@
 # Scanners Box 
 
+![GitHub issues](https://img.shields.io/github/issues/We5ter/Scanners-Box.svg)
+![GitHub forks](https://img.shields.io/github/forks/We5ter/Scanners-Box.svg)
+![GitHub stars](https://img.shields.io/github/stars/We5ter/Scanners-Box.svg)
+
 ### 简介
 
 **Scanners Box**是一个集合github平台上的安全行业从业人员自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器；**该仓库只收录各位网友自己编写的一般性开源扫描器，类似nmap、w3af等知名扫描工具不收录**。
