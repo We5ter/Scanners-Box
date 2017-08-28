@@ -134,6 +134,7 @@
 - https://github.com/Mosuan/FileScan (敏感文件扫描 / 二次判断降低误报率 / 扫描内容规则化 / 多目录扫描)
 - https://github.com/Xyntax/FileSensor (基于爬虫的动态敏感文件探测工具)
 - https://github.com/deibit/cansina (web路径扫描工具）
+- https://github.com/0xbug/Howl (网络设备 web 服务指纹扫描与检索)
 
 #### 专用扫描器
 
