@@ -138,6 +138,7 @@
 - https://github.com/Mosuan/FileScan (Sensitive files scanner)
 - https://github.com/Xyntax/FileSensor （Dynamic file detection tool based on crawler）
 - https://github.com/deibit/cansina (Web Content Discovery Tool)
+- https://github.com/0xbug/Howl (Network equipment, web services, fingerprint scanner and database)
 
 #### Dedicated Scanners
 
