@@ -163,6 +163,7 @@
 - https://github.com/m4n3dw0lf/PytheM （Python网络/渗透测试工具）
 - https://github.com/P0cL4bs/WiFi-Pumpkin （无线安全渗透测试套件）
 - https://github.com/MisterBianco/BoopSuite (无线网络审计工具，支持2-5GHZ频段）
+- https://github.com/DanMcInerney/LANs.py (ARP欺骗，无线网络劫持）
 
 #### 局域网扫描
 
