@@ -35,6 +35,7 @@
 - https://github.com/OrOneEqualsOne/reconned (Subdomain enumeration tools for bug hunting)
 - https://github.com/bit4woo/Teemo （A Domain Name & Email Address Collection Tool）
 - https://github.com/laramies/theHarvester （E-mail, subdomain and people names harvester ）
+- https://github.com/swisskyrepo/Subdomino (An application that enumerates subdomains, and scan them with several rules)
 
 #### Database Vulnerability Scanners
 
@@ -208,6 +209,7 @@
 - https://github.com/boy-hack/w8scan (A scanner that similar to bugscan)
 - https://github.com/scipag/vulscan (https://github.com/scipag/vulscan)
 - https://github.com/juansacco/exploitpack (Exploit Pack - Penetration testing framework GPLv3)
+- https://github.com/swisskyrepo/DamnWebScanner (Another web vulnerabilities scanner, this extension works on Chrome and Opera)
 
 #### APT
 
