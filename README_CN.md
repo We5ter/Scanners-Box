@@ -81,10 +81,8 @@
 - https://github.com/UltimateHackers/XSStrike (可识别并绕过WAF的XSS扫描工具)
 - https://github.com/stamparm/DSXS (支持GET、POST方式的高效xss扫描器）
 
-#### 企业网络自检工具
+#### 企业资产管理
 
-- https://github.com/sowish/LNScan （详细的内部网络信息扫描器）
-- https://github.com/SkyLined/LocalNetworkScanner (javascript实现的本地网络扫描器)
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
 - https://github.com/x0day/Multisearch-v2  (bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
@@ -165,6 +163,12 @@
 - https://github.com/m4n3dw0lf/PytheM （Python网络/渗透测试工具）
 - https://github.com/P0cL4bs/WiFi-Pumpkin （无线安全渗透测试套件）
 - https://github.com/MisterBianco/BoopSuite (无线网络审计工具，支持2-5GHZ频段）
+
+#### 局域网扫描
+
+- https://github.com/sowish/LNScan (基于BBScan via.lijiejie的本地网络扫描)
+- https://github.com/niloofarkheirkhah/nili （网络扫描，中间人攻击，协议检测与逆向）
+- https://github.com/SkyLined/LocalNetworkScanner （基于javascript的本地网络扫描)
 
 #### 代码扫描器
 
