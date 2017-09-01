@@ -85,10 +85,8 @@
 - https://github.com/UltimateHackers/XSStrike (fuzz and bruteforce parameters for XSS,WAFs detect and bypass)
 - https://github.com/stamparm/DSXS （A fully functional Cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code）
 
-#### Enterprise Network Self-test or Assets Management
+#### Enterprise Assets Management
 
-- https://github.com/sowish/LNScan  (Local Network Scanner based on BBScan via.lijiejie)
-- https://github.com/SkyLined/LocalNetworkScanner (PoC Javascript that scans your local network when you open a webpage)
 - https://github.com/ysrc/xunfeng （Vulnerability rapid response,scanning system for Intranet)
 - https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
 - https://github.com/x0day/Multisearch-v2 (Enterprise assets collector based on search engine)
@@ -169,6 +167,13 @@
 - https://github.com/m4n3dw0lf/PytheM (Multi-purpose network pentest framework)
 - https://github.com/P0cL4bs/WiFi-Pumpkin (Framework for Rogue Wi-Fi Access Point Attack)
 - https://github.com/MisterBianco/BoopSuite (A Suite of Tools written in Python for wireless auditing and security testing)
+
+#### Local network scan
+
+- https://github.com/sowish/LNScan  (Local Network Scanner based on BBScan via.lijiejie)
+- https://github.com/niloofarkheirkhah/nili （Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing）
+- https://github.com/SkyLined/LocalNetworkScanner (PoC Javascript that scans your local network when you open a webpage)
+
 
 #### Code Scanners
 
