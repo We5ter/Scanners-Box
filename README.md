@@ -167,7 +167,7 @@
 - https://github.com/m4n3dw0lf/PytheM (Multi-purpose network pentest framework)
 - https://github.com/P0cL4bs/WiFi-Pumpkin (Framework for Rogue Wi-Fi Access Point Attack)
 - https://github.com/MisterBianco/BoopSuite (A Suite of Tools written in Python for wireless auditing and security testing)
-- https://github.com/DanMcInerney/LANs.py (Inject code, jam wifi, and spy on wifi users)
+- https://github.com/DanMcInerney/LANs.py (Automatically find the most active WLAN users,Inject code, jam wifi, and spy on wifi users)
 
 #### Local network scan
 
