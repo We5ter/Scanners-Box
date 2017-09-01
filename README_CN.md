@@ -31,6 +31,7 @@
 - https://github.com/OrOneEqualsOne/reconned (可用于子域名收集的一款工具）
 - https://github.com/bit4woo/Teemo (域名收集及枚举工具)
 - https://github.com/laramies/theHarvester (邮箱、服务器信息收集及子域名枚举工具）
+- https://github.com/swisskyrepo/Subdomino (子域名枚举，端口扫描，服务存活确认）
 
 #### 数据库扫描器
 
@@ -203,6 +204,7 @@
 - https://github.com/boy-hack/w8scan (一款类似bugscan的扫描器）
 - https://github.com/scipag/vulscan (基于nmap的高级漏洞扫描器，命令行使用）
 - https://github.com/juansacco/exploitpack (渗透测试集成框架，包含超过38,000+ exploits)
+- https://github.com/swisskyrepo/DamnWebScanner （基于chrome/opera插件的被动式漏洞扫描）
 
 #### 高级持续性威胁(APT)
 
