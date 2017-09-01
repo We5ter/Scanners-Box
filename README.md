@@ -207,6 +207,7 @@
 - https://github.com/Arachni/arachni (Web Application Security Scanner Framework)
 - https://github.com/boy-hack/w8scan (A scanner that similar to bugscan)
 - https://github.com/scipag/vulscan (https://github.com/scipag/vulscan)
+- https://github.com/juansacco/exploitpack (Exploit Pack - Penetration testing framework GPLv3)
 
 #### APT
 
