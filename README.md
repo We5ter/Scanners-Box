@@ -72,7 +72,7 @@
 
 - https://github.com/rapid7/IoTSeeker (Weak-password IoT Devices Scanner)
 - https://github.com/shodan-labs/iotdb (IoT Devices Scanner via nmap)
-- https://github.com/jh00nbr/Routerhunter-2.0 (Testing vulnerabilities in devices and routers connected to the Internet)
+- https://github.com/googleinurl/RouterHunterBR (Testing vulnerabilities in devices and routers connected to the Internet)
 - https://github.com/scu-igroup/telnet-scanner (weak telnet password scanner based on password enumeration)
 
 #### XSS Scanners
