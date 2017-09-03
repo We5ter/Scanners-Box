@@ -161,6 +161,7 @@
 - https://github.com/0x4D31/salt-scanner （Linux vulnerability scanner based on Salt Open and Vulners audit API, with Slack notifications and JIRA integration）
 - https://github.com/tijme/angularjs-csti-scanner (Automated client-side template injection detection for AngularJS)
 - https://github.com/irsdl/IIS-ShortName-Scanner (latest version of scanners for IIS short filename 8.3 disclosure vulnerability)
+- https://github.com/swisskyrepo/Wordpresscan (WPScan rewritten in Python + some WPSeku ideas)
 
 #### Wireless network Scanners
 
