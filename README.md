@@ -211,6 +211,7 @@
 - https://github.com/scipag/vulscan (https://github.com/scipag/vulscan)
 - https://github.com/juansacco/exploitpack (Exploit Pack - Penetration testing framework GPLv3)
 - https://github.com/swisskyrepo/DamnWebScanner (Another web vulnerabilities scanner, this extension works on Chrome and Opera)
+- https://github.com/anilbaranyelken/tulpar （Web Vulnerability Scanner written in python,supported multiple web vulnerabilities scan）
 
 #### APT
 
