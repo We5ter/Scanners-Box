@@ -182,6 +182,7 @@
 - https://github.com/ajinabraham/NodeJsScan (NodeJS应用代码审计）
 - https://github.com/shengqi158/pyvulhunter （python应用审计）
 - https://github.com/presidentbeef/brakeman ( Ruby on Rails应用静态代码分析）
+- https://github.com/python-security/pyt (Python应用静态代码审计）
 
 #### 集成扫描器
 
