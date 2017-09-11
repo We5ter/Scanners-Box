@@ -26,7 +26,7 @@
 - https://github.com/We5ter/GSDF (Subdomain Enumeration via Google Certificate Transparency）
 - https://github.com/mandatoryprogrammer/cloudflare_enum  (Subdomain Enumeration via CloudFlare）
 - https://github.com/guelfoweb/knock (Knock Subdomain Scan)
-- https://github.com/Evi1CLAY/CoolPool/tree/master/Python/DomainSeeker (An Intergratd Python Subdomain Enumeration Tool)
+- https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker (An Intergratd Python Subdomain Enumeration Tool)
 - https://github.com/code-scan/BroDomain (Find brother domain)
 - https://github.com/chuhades/dnsbrute (a fast domain brute tool)
 - https://github.com/yanxiu0614/subdomain3 (A simple and fast tool for bruting subdomains)
