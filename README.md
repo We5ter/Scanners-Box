@@ -187,6 +187,7 @@
 - https://github.com/ajinabraham/NodeJsScan (A static security code scanner for Node.js applications)
 - https://github.com/shengqi158/pyvulhunter  (A static security code scanner for python applications)
 - https://github.com/presidentbeef/brakeman (A static analysis security vulnerability scanner for Ruby on Rails applications)
+- https://github.com/python-security/pyt (A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications)
 
 #### Integrated Scanners
 
