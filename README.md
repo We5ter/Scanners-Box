@@ -32,7 +32,7 @@
 - https://github.com/yanxiu0614/subdomain3 (A simple and fast tool for bruting subdomains)
 - https://github.com/michenriksen/aquatone (A powerful subdomain tool)
 - https://github.com/evilsocket/dnssearch (A subdomain enumeration tool)
-- https://github.com/OrOneEqualsOne/reconned (Subdomain enumeration tools for bug hunting)
+- https://github.com/reconned/domained (Subdomain enumeration tools for bug hunting)
 - https://github.com/bit4woo/Teemo （A Domain Name & Email Address Collection Tool）
 - https://github.com/laramies/theHarvester （E-mail, subdomain and people names harvester ）
 - https://github.com/swisskyrepo/Subdomino (An application that enumerates subdomains, and scan them with several rules)
