@@ -28,7 +28,7 @@
 - https://github.com/yanxiu0614/subdomain3 (一款高效的子域名爆破工具）
 - https://github.com/michenriksen/aquatone (子域名枚举、探测工具)
 - https://github.com/evilsocket/dnssearch (一款子域名爆破工具)
-- https://github.com/OrOneEqualsOne/reconned (可用于子域名收集的一款工具）
+- https://github.com/reconned/domained (可用于子域名收集的一款工具）
 - https://github.com/bit4woo/Teemo (域名收集及枚举工具)
 - https://github.com/laramies/theHarvester (邮箱、服务器信息收集及子域名枚举工具）
 - https://github.com/swisskyrepo/Subdomino (子域名枚举，端口扫描，服务存活确认）
