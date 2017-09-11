@@ -170,6 +170,7 @@
 - https://github.com/P0cL4bs/WiFi-Pumpkin (Framework for Rogue Wi-Fi Access Point Attack)
 - https://github.com/MisterBianco/BoopSuite (A Suite of Tools written in Python for wireless auditing and security testing)
 - https://github.com/DanMcInerney/LANs.py (Automatically find the most active WLAN users,Inject code, jam wifi, and spy on wifi users)
+- https://github.com/besimaltnok/PiFinger (Searches for wifi-pineapple traces and calculate wireless network security score)
 
 #### Local network scan
 
