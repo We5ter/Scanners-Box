@@ -30,7 +30,7 @@
 - https://github.com/code-scan/BroDomain (Find brother domain)
 - https://github.com/chuhades/dnsbrute (a fast domain brute tool)
 - https://github.com/yanxiu0614/subdomain3 (A simple and fast tool for bruting subdomains)
-- https://github.com/michenriksen/aquatone (A powerful subdomain tool)
+- https://github.com/michenriksen/aquatone (A powerful subdomain tool and Domain takeovers finding tools)
 - https://github.com/evilsocket/dnssearch (A subdomain enumeration tool)
 - https://github.com/reconned/domained (Subdomain enumeration tools for bug hunting)
 - https://github.com/bit4woo/Teemo （A Domain Name & Email Address Collection Tool）
