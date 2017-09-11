@@ -22,7 +22,7 @@
 - https://github.com/We5ter/GSDF (基于谷歌SSL透明证书的子域名查询脚本)
 - https://github.com/mandatoryprogrammer/cloudflare_enum （使用CloudFlare进行子域名枚举的脚本）
 - https://github.com/guelfoweb/knock (Knock子域名获取，可用于查找子域名接管漏洞)
-- https://github.com/Evi1CLAY/CoolPool/tree/master/Python/DomainSeeker （多方式收集目标子域名信息）
+- https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker （多方式收集目标子域名信息）
 - https://github.com/code-scan/BroDomain (兄弟域名查询）
 - https://github.com/chuhades/dnsbrute (高效的子域名爆破工具)
 - https://github.com/yanxiu0614/subdomain3 (一款高效的子域名爆破工具）
