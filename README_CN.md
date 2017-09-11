@@ -166,6 +166,7 @@
 - https://github.com/P0cL4bs/WiFi-Pumpkin （无线安全渗透测试套件）
 - https://github.com/MisterBianco/BoopSuite (无线网络审计工具，支持2-5GHZ频段）
 - https://github.com/DanMcInerney/LANs.py (ARP欺骗，无线网络劫持）
+- https://github.com/besimaltnok/PiFinger (检查wifi是否是"大菠萝"所开放的热点，并给予网络评分）
 
 #### 局域网扫描
 
