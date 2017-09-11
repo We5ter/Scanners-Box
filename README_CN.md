@@ -228,6 +228,11 @@
 
 **Wester**(sina weibo <a href="http://weibo.com/zzyme/">@西风微雨_Wester</a>) && **Martin**(sina weibo <a href="http://weibo.com/u/1312149403">@Mart1n_ZHOU</a>)
 
+### 符号说明
+
+[↑]代表更新,[+]代表添加,[-]代表移除
+
+
 ### 免责说明
 
 请勿用于非法的用途，否则造成的严重后果与本项目无关。
