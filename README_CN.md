@@ -156,6 +156,7 @@
 - https://github.com/tijme/angularjs-csti-scanner (自动化探测客户端AngularJS模板注入漏洞工具）
 - https://github.com/irsdl/IIS-ShortName-Scanner (java编写的IIS短文件名暴力枚举漏洞利用工具)
 - https://github.com/swisskyrepo/Wordpresscan (基于WPScan以及WPSeku的优化版wordpress扫描器）
+- https://github.com/CHYbeta/cmsPoc (CMS渗透测试框架）
 
 #### 无线网络扫描器
 
