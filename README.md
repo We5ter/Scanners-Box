@@ -12,8 +12,6 @@
 
 **Scanners Box** is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.**For other Well-known scanning tools, such as: nmap, w3af will not be included in the scope of collection.**
 
-**Welcome everyone to contribute!**
-
 ***
 
 #### Subdomain Enumeration Scanners
@@ -240,6 +238,10 @@ The purpose of this collection is to provide various types of  opensource securi
 ### Disclaimer
 
 Do not use for illegal purposes.
+
+### How to contribute?
+
+We welcome everyone to contribute,you can open an issue for this if you have some idea,and then I will add your name to Acknowledgments.
 
 ### Copyright
 
