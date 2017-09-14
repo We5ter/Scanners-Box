@@ -141,7 +141,7 @@
 - https://github.com/deibit/cansina (Web Content Discovery Tool)
 - https://github.com/0xbug/Howl (Network equipment, web services, fingerprint scanner and database)
 
-#### Dedicated Scanners
+#### Special Scanners
 
 - https://github.com/blackye/Jenkins (Jenkins vulnerability detection, user grab enumerating)
 - https://github.com/code-scan/dzscan (discuz scanner)
@@ -161,6 +161,7 @@
 - https://github.com/irsdl/IIS-ShortName-Scanner (Scanners for IIS short filename 8.3 disclosure vulnerability)
 - https://github.com/swisskyrepo/Wordpresscan (WPScan rewritten in Python + some WPSeku ideas)
 - https://github.com/CHYbeta/cmsPoc (CMS Exploit Framework)
+- https://github.com/rudSarkar/crlf-injector （Auto CRLF Injector）
 
 #### Wireless network Scanners
 
