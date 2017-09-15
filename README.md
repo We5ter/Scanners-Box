@@ -214,6 +214,7 @@
 - https://github.com/juansacco/exploitpack (Exploit Pack - Penetration testing framework GPLv3)
 - https://github.com/swisskyrepo/DamnWebScanner (Another web vulnerabilities scanner, this extension works on Chrome and Opera)
 - https://github.com/anilbaranyelken/tulpar （Web Vulnerability Scanner written in python,supported multiple web vulnerabilities scan）
+- https://github.com/m4ll0k/Spaghetti （A web application security scanner tool,designed to find various default and insecure files, configurations and misconfigurations）
 
 #### APT
 
