@@ -242,9 +242,9 @@
 
 欢迎大家都来贡献idea,如果你找到了有价值的扫描器，可以添加一个issue,一旦被合并的话，我会将您的名字添加到致谢榜上
 
-### 转载
+### 版权
 
-转载请注明来自https://github.com/We5ter/Scanners-Box
+转载请注明来自https://github.com/We5ter/Scanners-Box ,同时也请不要通过二次发表此文章获取不正当的利益（如原创投稿）
 
 ### 致谢
 
