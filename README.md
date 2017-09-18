@@ -162,6 +162,7 @@
 - https://github.com/swisskyrepo/Wordpresscan (WPScan rewritten in Python + some WPSeku ideas)
 - https://github.com/CHYbeta/cmsPoc (CMS Exploit Framework)
 - https://github.com/rudSarkar/crlf-injector （Auto CRLF Injector）
+- https://github.com/3gstudent/Smbtouch-Scanner (Automatically scan the inner network to detect whether they are vulnerable)
 
 #### Wireless network Scanners
 
