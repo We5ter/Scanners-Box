@@ -158,6 +158,7 @@
 - https://github.com/swisskyrepo/Wordpresscan (基于WPScan以及WPSeku的优化版wordpress扫描器）
 - https://github.com/CHYbeta/cmsPoc (CMS渗透测试框架）
 - https://github.com/rudSarkar/crlf-injector (CRLF注入漏洞批量扫描）
+- https://github.com/3gstudent/Smbtouch-Scanner (自动化扫描内网中存在的由shadow brokers泄露的ETERNAL系列漏洞）
 
 #### 无线网络扫描器
 
