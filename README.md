@@ -249,7 +249,7 @@ We welcome everyone to contribute,you can open an issue for this if you have som
 
 ### Copyright
 
-Please specify reproduced  from https://github.com/We5ter/Scanners-Box
+Please specify reproduced  from https://github.com/We5ter/Scanners-Box , and please do not republish this article for improper gain or advantage.
 
 ### Acknowledgments
 
