@@ -34,6 +34,7 @@
 - https://github.com/bit4woo/Teemo （A Domain Name & Email Address Collection Tool）
 - https://github.com/laramies/theHarvester （E-mail, subdomain and people names harvester ）
 - https://github.com/swisskyrepo/Subdomino (An application that enumerates subdomains, and scan them with several rules)
+- https://github.com/nmalcolm/Inventus (A spider designed to find subdomains of a specific domain by crawling it)
 
 #### Database Vulnerability Scanners
 
