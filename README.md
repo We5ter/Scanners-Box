@@ -217,6 +217,7 @@
 - https://github.com/swisskyrepo/DamnWebScanner (Another web vulnerabilities scanner, this extension works on Chrome and Opera)
 - https://github.com/anilbaranyelken/tulpar （Web Vulnerability Scanner written in python,supported multiple web vulnerabilities scan）
 - https://github.com/m4ll0k/Spaghetti （A web application security scanner tool,designed to find various default and insecure files, configurations and misconfigurations）
+- https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest (An automated Penetration Testing tool this tool will auditing all standard security test method for you)
 
 #### APT
 
