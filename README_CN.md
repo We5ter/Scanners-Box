@@ -211,7 +211,8 @@
 - https://github.com/juansacco/exploitpack (渗透测试集成框架，包含超过38,000+ exploits)
 - https://github.com/swisskyrepo/DamnWebScanner （基于chrome/opera插件的被动式漏洞扫描）
 - https://github.com/anilbaranyelken/tulpar (支持多种web漏洞扫描，命令行环境使用）
-- https://github.com/m4ll0k/Spaghetti (web应用扫描器，支持指纹识别、文件目录爆破、SQL/XSS/RFI等漏洞扫描，也可针对性用于struts、ShellShock等扫描)
+- https://github.com/m4ll0k/Spaghetti (web应用扫描器，支持指纹识别、文件目录爆破、SQL/XSS/RFI等漏洞扫描，也可直接用于struts、ShellShock等扫描)
+- https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest (集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器）
 
 #### 高级持续性威胁(APT)
 
