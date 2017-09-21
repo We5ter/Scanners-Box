@@ -160,6 +160,7 @@
 - https://github.com/CHYbeta/cmsPoc (CMS渗透测试框架）
 - https://github.com/rudSarkar/crlf-injector (CRLF注入漏洞批量扫描）
 - https://github.com/3gstudent/Smbtouch-Scanner (自动化扫描内网中存在的由shadow brokers泄露的ETERNAL系列漏洞）
+- https://github.com/utiso/dorkbot （通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描）
 
 #### 无线网络扫描器
 
@@ -186,7 +187,7 @@
 - https://github.com/presidentbeef/brakeman ( Ruby on Rails应用静态代码分析）
 - https://github.com/python-security/pyt (Python应用静态代码审计）
 
-#### 集成扫描器
+#### 模块化设计扫描器
 
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 - https://github.com/blackye/lalascan (集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架)
