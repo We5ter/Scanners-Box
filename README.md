@@ -164,6 +164,7 @@
 - https://github.com/CHYbeta/cmsPoc (CMS Exploit Framework)
 - https://github.com/rudSarkar/crlf-injector （Auto CRLF Injector）
 - https://github.com/3gstudent/Smbtouch-Scanner (Automatically scan the inner network to detect whether they are vulnerable)
+- https://github.com/utiso/dorkbot (Command-line tool to scan Google search results for vulnerabilities)
 
 #### Wireless network Scanners
 
@@ -174,7 +175,7 @@
 - https://github.com/DanMcInerney/LANs.py (Automatically find the most active WLAN users,Inject code, jam wifi, and spy on wifi users)
 - https://github.com/besimaltnok/PiFinger (Searches for wifi-pineapple traces and calculate wireless network security score)
 
-#### Local network scan
+#### Local Network Scanners
 
 - https://github.com/sowish/LNScan  (Local Network Scanner based on BBScan via.lijiejie)
 - https://github.com/niloofarkheirkhah/nili （Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing）
@@ -191,7 +192,7 @@
 - https://github.com/presidentbeef/brakeman (A static analysis security vulnerability scanner for Ruby on Rails applications)
 - https://github.com/python-security/pyt (A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications)
 
-#### Integrated Scanners
+#### Modular design Scanners
 
 - https://github.com/infobyte/faraday (Collaborative Penetration Test and Vulnerability Management Platform)
 - https://github.com/az0ne/AZScanner （Automatic all-around scanner）
@@ -218,6 +219,7 @@
 - https://github.com/anilbaranyelken/tulpar （Web Vulnerability Scanner written in python,supported multiple web vulnerabilities scan）
 - https://github.com/m4ll0k/Spaghetti （A web application security scanner tool,designed to find various default and insecure files, configurations and misconfigurations）
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest (An automated Penetration Testing tool this tool will auditing all standard security test method for you)
+- https://github.com/utiso/dorkbot 
 
 #### APT
 
