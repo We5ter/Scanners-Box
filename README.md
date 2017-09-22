@@ -90,6 +90,8 @@
 - https://github.com/ysrc/xunfeng （Vulnerability rapid response,scanning system for Intranet)
 - https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
 - https://github.com/x0day/Multisearch-v2 (Enterprise assets collector based on search engine)
+- https://github.com/lianfeng30/githubscan (Github leak scan foe enterprise)
+- https://github.com/0xbug/Hawkeye (Github leak scan foe enterprise)
 
 #### Webshell Detection or Malware Analysis
 
