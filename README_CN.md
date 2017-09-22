@@ -86,6 +86,8 @@
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
 - https://github.com/x0day/Multisearch-v2  (bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
+- https://github.com/0xbug/Hawkeye (企业资产GitHub泄露监控系统）
+- https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和敏感文件内容扫描的工具）
 
 #### webshell检测以及病毒分析工具
 
