@@ -92,6 +92,7 @@
 - https://github.com/x0day/Multisearch-v2 (Enterprise assets collector based on search engine)
 - https://github.com/lianfeng30/githubscan (Github leak scan foe enterprise)
 - https://github.com/0xbug/Hawkeye (Github leak scan foe enterprise)
+- https://github.com/Ekultek/Zeus-Scanner (An advanced dork searching tool that is capable of bypassing search engine API calls, search engine captchas, and IP address blocking from sending many requests to the search engine itself. and can run sqlmap and nmap scans on the URL's)
 
 #### Webshell Detection or Malware Analysis
 
@@ -167,6 +168,7 @@
 - https://github.com/rudSarkar/crlf-injector （Auto CRLF Injector）
 - https://github.com/3gstudent/Smbtouch-Scanner (Automatically scan the inner network to detect whether they are vulnerable)
 - https://github.com/utiso/dorkbot (Command-line tool to scan Google search results for vulnerabilities)
+- https://github.com/OsandaMalith/LFiFreak (A unique automated LFi Exploiter with Bind/Reverse Shells)
 
 #### Wireless network Scanners
 
