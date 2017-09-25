@@ -87,7 +87,8 @@
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
 - https://github.com/x0day/Multisearch-v2  (bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
 - https://github.com/0xbug/Hawkeye (企业资产GitHub泄露监控系统）
-- https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和敏感文件内容扫描的工具）
+- https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和文件内容扫描的工具）
+- https://github.com/Ekultek/Zeus-Scanner (集成化的综合搜索引擎，能够抓取被搜索引擎隐藏的url,并交由sqlmap、nmap扫描）
 
 #### webshell检测以及病毒分析工具
 
@@ -163,6 +164,7 @@
 - https://github.com/rudSarkar/crlf-injector (CRLF注入漏洞批量扫描）
 - https://github.com/3gstudent/Smbtouch-Scanner (自动化扫描内网中存在的由shadow brokers泄露的ETERNAL系列漏洞）
 - https://github.com/utiso/dorkbot （通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描）
+- https://github.com/OsandaMalith/LFiFreak （本地文件包含漏洞利用及扫描工具，支持反弹shell）
 
 #### 无线网络扫描器
 
