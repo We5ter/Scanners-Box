@@ -48,6 +48,7 @@
 - https://github.com/stampery/mongoaudit (A powerful MongoDB auditing and pentesting tool)
 - https://github.com/torque59/Nosql-Exploitation-Framework (A Python Framework For NoSQL Scanning and Exploitation)
 - https://github.com/missDronio/blindy (Simple script to automate brutforcing blind sql injection vulnerabilities)
+- https://github.com/fengxuangit/Fox-scan (A initiative and passive SQL Injection vulnerable Test tools）
 
 #### Weak Passwords or Information Leak Scanners
 
