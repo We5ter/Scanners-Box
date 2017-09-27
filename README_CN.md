@@ -45,6 +45,7 @@
 - https://github.com/torque59/Nosql-Exploitation-Framework (NoSQL扫描/爆破工具）
 - https://github.com/missDronio/blindy (MySQL盲注爆破工具）
 - https://github.com/fengxuangit/Fox-scan (基于SQLMAP的主动和被动资源发现的漏洞扫描工具）
+- https://github.com/NetSPI/PowerUpSQL (用于SQL Server审计的powershell脚本）
 
 #### 弱口令或信息泄漏扫描器
 
