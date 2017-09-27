@@ -223,7 +223,8 @@
 - https://github.com/anilbaranyelken/tulpar （Web Vulnerability Scanner written in python,supported multiple web vulnerabilities scan）
 - https://github.com/m4ll0k/Spaghetti （A web application security scanner tool,designed to find various default and insecure files, configurations and misconfigurations）
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest (An automated Penetration Testing tool this tool will auditing all standard security test method for you)
-- https://github.com/utiso/dorkbot 
+- https://github.com/utiso/dorkbot (Command-line tool to scan Google search results for vulnerabilities)
+- https://github.com/0xsauby/yasuo ( ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network)
 
 #### APT
 
