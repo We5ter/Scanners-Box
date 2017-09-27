@@ -218,6 +218,7 @@
 - https://github.com/anilbaranyelken/tulpar (支持多种web漏洞扫描，命令行环境使用）
 - https://github.com/m4ll0k/Spaghetti (web应用扫描器，支持指纹识别、文件目录爆破、SQL/XSS/RFI等漏洞扫描，也可直接用于struts、ShellShock等扫描)
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest (集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器）
+- https://github.com/0xsauby/yasuo (使用ruby开发的扫描网络中主机存在的第三方web应用服务漏洞）
 
 #### 高级持续性威胁(APT)
 
