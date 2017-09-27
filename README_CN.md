@@ -32,7 +32,7 @@
 - https://github.com/swisskyrepo/Subdomino (子域名枚举，端口扫描，服务存活确认）
 - https://github.com/nmalcolm/Inventus (通过爬虫实现的子域名收集工具）
 
-#### 数据库扫描器
+#### 数据库类漏洞扫描器
 
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
@@ -44,6 +44,7 @@
 - https://github.com/stampery/mongoaudit (MongoDB审计及渗透工具）
 - https://github.com/torque59/Nosql-Exploitation-Framework (NoSQL扫描/爆破工具）
 - https://github.com/missDronio/blindy (MySQL盲注爆破工具）
+- https://github.com/fengxuangit/Fox-scan (基于SQLMAP的主动和被动资源发现的漏洞扫描工具）
 
 #### 弱口令或信息泄漏扫描器
 
@@ -208,7 +209,7 @@
 - https://github.com/Skycrab/leakScan （web端的在线漏洞扫描）
 - https://github.com/zhangzhenfeng/AnyScan (一款自动化渗透测试框架)
 - https://github.com/brianwrf/NagaScan （一款自动化渗透测试框架)
-- https://github.com/Tuhinshubhra/RED_HAWK (使用php编写的一款集成信息收集、漏洞扫描、指纹识别等的多合一扫描工具）
+- https://github.com/Tuhinshubhra/RED_HAWK (一款集成信息收集、漏洞扫描、指纹识别等的多合一扫描工具）
 - https://github.com/Arachni/arachni (web应用扫描框架）
 - https://github.com/infobyte/faraday （集成化渗透测试辅助平台及漏洞管理平台）
 - https://github.com/boy-hack/w8scan (一款基于bugscan扫描和架构思想的扫描器）
