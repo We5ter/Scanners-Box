@@ -49,6 +49,7 @@
 - https://github.com/torque59/Nosql-Exploitation-Framework (A Python Framework For NoSQL Scanning and Exploitation)
 - https://github.com/missDronio/blindy (Simple script to automate brutforcing blind sql injection vulnerabilities)
 - https://github.com/fengxuangit/Fox-scan (A initiative and passive SQL Injection vulnerable Test tools）
+- https://github.com/NetSPI/PowerUpSQL (A PowerShell Toolkit for Attacking SQL Server)
 
 #### Weak Passwords or Information Leak Scanners
 
