@@ -143,7 +143,7 @@
 - https://github.com/deibit/cansina (web路径扫描工具）
 - https://github.com/0xbug/Howl (网络设备 web 服务指纹扫描与检索)
 
-#### 专用扫描器
+#### 专用（针对性用途）扫描器
 
 - https://github.com/blackye/Jenkins (Jenkins漏洞探测、用户抓取爆破)
 - https://github.com/code-scan/dzscan (discuz扫描)
@@ -168,7 +168,7 @@
 - https://github.com/utiso/dorkbot （通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描）
 - https://github.com/OsandaMalith/LFiFreak （本地文件包含漏洞利用及扫描工具，支持反弹shell）
 
-#### 无线网络扫描器
+#### 无线网络（审计）扫描器
 
 - https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
 - https://github.com/m4n3dw0lf/PytheM （Python网络/渗透测试工具）
@@ -176,8 +176,9 @@
 - https://github.com/MisterBianco/BoopSuite (无线网络审计工具，支持2-5GHZ频段）
 - https://github.com/DanMcInerney/LANs.py (ARP欺骗，无线网络劫持）
 - https://github.com/besimaltnok/PiFinger (检查wifi是否是"大菠萝"所开放的热点，并给予网络评分）
+- https://github.com/derv82/wifite2 （自动化无线网络攻击工具wifite的重构版本）
 
-#### 局域网扫描
+#### 局域网络（本地网络）扫描器
 
 - https://github.com/sowish/LNScan (基于BBScan via.lijiejie的本地网络扫描)
 - https://github.com/niloofarkheirkhah/nili （网络扫描，中间人攻击，协议检测与逆向）
