@@ -146,6 +146,7 @@
 - https://github.com/Xyntax/FileSensor （Dynamic file detection tool based on crawler）
 - https://github.com/deibit/cansina (Web Content Discovery Tool)
 - https://github.com/0xbug/Howl (Network equipment, web services, fingerprint scanner and database)
+- https://github.com/mozilla/cipherscan (A very simple way to find out which SSL ciphersuites are supported by a target)
 
 #### Special Scanners
 
