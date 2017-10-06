@@ -180,6 +180,7 @@
 - https://github.com/MisterBianco/BoopSuite (A Suite of Tools written in Python for wireless auditing and security testing)
 - https://github.com/DanMcInerney/LANs.py (Automatically find the most active WLAN users,Inject code, jam wifi, and spy on wifi users)
 - https://github.com/besimaltnok/PiFinger (Searches for wifi-pineapple traces and calculate wireless network security score)
+- https://github.com/derv82/wifite2 （A complete re-write of Wifite,Automated Wireless Attack Tool) 
 
 #### Local Network Scanners
 
