@@ -167,6 +167,7 @@
 - https://github.com/3gstudent/Smbtouch-Scanner (自动化扫描内网中存在的由shadow brokers泄露的ETERNAL系列漏洞）
 - https://github.com/utiso/dorkbot （通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描）
 - https://github.com/OsandaMalith/LFiFreak （本地文件包含漏洞利用及扫描工具，支持反弹shell）
+- https://github.com/mak-/parameth (用于枚举脚本的GET/POST未知参数字段）
 
 #### 无线网络（审计）扫描器
 
