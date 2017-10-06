@@ -171,6 +171,7 @@
 - https://github.com/3gstudent/Smbtouch-Scanner (Automatically scan the inner network to detect whether they are vulnerable)
 - https://github.com/utiso/dorkbot (Command-line tool to scan Google search results for vulnerabilities)
 - https://github.com/OsandaMalith/LFiFreak (A unique automated LFi Exploiter with Bind/Reverse Shells)
+- https://github.com/mak-/parameth (This tool can be used to brute discover GET and POST parameters)
 
 #### Wireless network Scanners
 
