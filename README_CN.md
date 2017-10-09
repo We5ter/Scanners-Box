@@ -143,6 +143,7 @@
 - https://github.com/deibit/cansina (web路径扫描工具）
 - https://github.com/0xbug/Howl (网络设备 web 服务指纹扫描与检索)
 - https://github.com/mozilla/cipherscan (目标主机服务ssl类型识别)
+- https://github.com/xmendez/wfuzz (web应用fuzz工具、框架，同时可用于web路径/服务扫描）
  
 #### 专用（针对性用途）扫描器
 
