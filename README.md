@@ -147,6 +147,7 @@
 - https://github.com/deibit/cansina (Web Content Discovery Tool)
 - https://github.com/0xbug/Howl (Network equipment, web services, fingerprint scanner and database)
 - https://github.com/mozilla/cipherscan (A very simple way to find out which SSL ciphersuites are supported by a target)
+- https://github.com/xmendez/wfuzz (Web application fuzzer/framework and web content scanner)
 
 #### Special Scanners
 
