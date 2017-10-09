@@ -32,7 +32,7 @@
 - https://github.com/swisskyrepo/Subdomino (子域名枚举，端口扫描，服务存活确认）
 - https://github.com/nmalcolm/Inventus (通过爬虫实现的子域名收集工具）
 
-#### 数据库类漏洞扫描器
+#### 数据库类漏洞扫描器(爆破工具）
 
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
@@ -40,12 +40,13 @@
 - https://github.com/youngyangyang04/NoSQLAttack (一款针对mongoDB的攻击工具)
 - https://github.com/Neohapsis/bbqsql （SQL盲注利用框架）
 - https://github.com/NetSPI/PowerUpSQL （攻击SQLSERVER的Powershell脚本框架）
-- https://github.com/WhitewidowScanner/whitewidow (又一款数据库扫描器)
+- https://github.com/WhitewidowScanner/whitewidow (一款数据库扫描器)
 - https://github.com/stampery/mongoaudit (MongoDB审计及渗透工具）
 - https://github.com/torque59/Nosql-Exploitation-Framework (NoSQL扫描/爆破工具）
 - https://github.com/missDronio/blindy (MySQL盲注爆破工具）
 - https://github.com/fengxuangit/Fox-scan (基于SQLMAP的主动和被动资源发现的漏洞扫描工具）
 - https://github.com/NetSPI/PowerUpSQL (用于SQL Server审计的powershell脚本）
+- https://github.com/JohnTroony/Blisqy （用于http header中的时间盲注爆破工具，仅针对MySQL/MariaDB）
 
 #### 弱口令或信息泄漏扫描器
 
