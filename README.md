@@ -99,13 +99,14 @@
 #### Webshell Detection or Malware Analysis
 
 - https://github.com/We5ter/Scanners-Box/tree/master/webshell/ (PHP Webshell Decetor and webshell sample library)
-- https://github.com/ym2011/ScanBackdoor (Webshell Decetor)
+- https://github.com/ym2011/ScanBackdoor (Simple webshell Detector)
 - https://github.com/yassineaddi/BackdoorMan  (A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination)
-- https://github.com/he1m4n6a/findWebshell (Webshell Decetor)
+- https://github.com/he1m4n6a/findWebshell (Simple webshell Detector)
 - https://github.com/Tencent/HaboMalHunter (Used for automated malware analysis and security assessment on the Linux system)
 - https://github.com/PlagueScanner/PlagueScanner (Open source multiple AV scanner framework)
 - https://github.com/nbs-system/php-malware-finder (An awesome tool to detect potentially malicious PHP files)
 - https://github.com/emposha/PHP-Shell-Detector/ （Helps you find and identify php/cgi(perl)/asp/aspx shells)
+- https://github.com/erevus-cn/scan_webshell (Simple webshell Detector)
 
 #### Intranet Penetration
 
@@ -231,6 +232,7 @@
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest (An automated Penetration Testing tool this tool will auditing all standard security test method for you)
 - https://github.com/0xsauby/yasuo ( ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network)
 - https://github.com/hatRiot/clusterd (application server attack toolkit)
+- https://github.com/erevus-cn/pocscan (Open source and distributed web vulnerability scanning framework)
 
 #### APT
 
