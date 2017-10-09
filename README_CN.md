@@ -95,13 +95,14 @@
 #### webshell检测以及病毒分析工具
 
 - https://github.com/We5ter/Scanners-Box/tree/master/webshell/ （简单的php后门检测工具以及webshell样本库）
-- https://github.com/ym2011/ScanBackdoor （Webshell扫描工具）
+- https://github.com/ym2011/ScanBackdoor （一款简单的Webshell扫描工具）
 - https://github.com/yassineaddi/BackdoorMan （可对指定目录进行php webshell检测）
-- https://github.com/he1m4n6a/findWebshell （一款webshell检测工具)
+- https://github.com/he1m4n6a/findWebshell （一款简单的webshell检测工具)
 - https://github.com/Tencent/HaboMalHunter （哈勃分析系统，linux系统病毒分析及安全检测）
 - https://github.com/PlagueScanner/PlagueScanner (使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎)
 - https://github.com/nbs-system/php-malware-finder (一款高效率PHP-webshell扫描工具)
 - https://github.com/emposha/PHP-Shell-Detector/ (测试效率高达99%的webshell检测工具)
+- https://github.com/erevus-cn/scan_webshell (一款简单的Webshell扫描工具）
 
 #### 内网渗透
 
@@ -226,6 +227,7 @@
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest (集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器）
 - https://github.com/0xsauby/yasuo (使用ruby开发的扫描网络中主机存在的第三方web应用服务漏洞）
 - https://github.com/hatRiot/clusterd (web应用自动化扫描框架,支持自动化上传webshell)
+- https://github.com/erevus-cn/pocscan （一款开源 Poc 调用框架,可轻松调用Pocsuite,Tangscan,Beebeeto,Knowsec老版本POC，可使用docker部署）
 
 #### 高级持续性威胁(APT)
 
