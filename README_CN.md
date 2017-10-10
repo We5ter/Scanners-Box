@@ -6,7 +6,7 @@
 
 ### 简介
 
-**Scanners Box**是一个集合github平台上的安全行业从业人员自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器，**同时该仓库只收录各位网友自己编写的一般性开源扫描器，类似nmap、w3af等知名扫描工具不收录**。
+**Scanners Box**是一个集合github平台上的安全行业从业者自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器，**同时该仓库只收录各位网友自己编写的一般性开源扫描器，类似nmap、w3af等知名扫描工具不收录**。
 
 ***
 
@@ -48,6 +48,7 @@
 - https://github.com/NetSPI/PowerUpSQL (用于SQL Server审计的powershell脚本）
 - https://github.com/JohnTroony/Blisqy （用于http header中的时间盲注爆破工具，仅针对MySQL/MariaDB）
 - https://github.com/ron190/jsql-injection (Java 编写的SQL注入工具)
+- https://github.com/Hadesy2k/sqliv (基于搜索引擎的批量SQL注入漏洞扫描器）
 
 #### 弱口令或信息泄漏扫描器
 
