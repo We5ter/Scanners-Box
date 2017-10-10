@@ -70,14 +70,14 @@
 - https://github.com/shengqi158/svnhack (A `.svn` folder disclosure exploit)
 - https://github.com/shengqi158/weak_password_detect (A python HTTP weak password scanner)
 
-#### IoT Scanners
+#### IoT Detecting Tools or Scanners
 
 - https://github.com/rapid7/IoTSeeker (Weak-password IoT Devices Scanner)
 - https://github.com/shodan-labs/iotdb (IoT Devices Scanner via nmap)
 - https://github.com/googleinurl/RouterHunterBR (Testing vulnerabilities in devices and routers connected to the Internet)
 - https://github.com/scu-igroup/telnet-scanner (weak telnet password scanner based on password enumeration)
 
-#### XSS Scanners
+#### Reflect or DOM-Based XSS Scanners
 
 - https://github.com/shawarkhanethicalhacker/BruteXSS (Cross-Site Scripting Bruteforcer)
 - https://github.com/1N3/XSSTracer  (A small python script to check for Cross-Site Tracing)
@@ -88,7 +88,7 @@
 - https://github.com/UltimateHackers/XSStrike (fuzz and bruteforce parameters for XSS,WAFs detect and bypass)
 - https://github.com/stamparm/DSXS （A fully functional Cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code）
 
-#### Enterprise Assets Management
+#### Enterprise Assets Collection Tools or Management Tools
 
 - https://github.com/ysrc/xunfeng （Vulnerability rapid response,scanning system for Intranet)
 - https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
@@ -109,7 +109,7 @@
 - https://github.com/emposha/PHP-Shell-Detector/ （Helps you find and identify php/cgi(perl)/asp/aspx shells)
 - https://github.com/erevus-cn/scan_webshell (Simple webshell Detector)
 
-#### Intranet Penetration
+#### Intranet Penetration Tools or Scanners
 
 - https://github.com/0xwindows/VulScritp (Intranet penetration test scripts)
 - https://github.com/lcatro/network_backdoor_scanner (An internal network scanner like meterpreter)
@@ -194,7 +194,7 @@
 - https://github.com/SkyLined/LocalNetworkScanner (PoC Javascript that scans your local network when you open a webpage)
 
 
-#### Code Review and Scanners
+#### Code Review Tools or Scanners
 
 - https://github.com/wufeifei/cobra （A static code analysis system that automates the detecting vulnerabilities and security issue）
 - https://github.com/OneSourceCat/phpvulhunter （A tool that can scan php vulnerabilities automatically using static analysis methods）
