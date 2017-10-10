@@ -66,14 +66,14 @@
 - https://github.com/shengqi158/weak_password_detect (多线程探测弱口令）
 - https://github.com/shengqi158/svnhack （.svn文件夹泄漏利用工具）
 
-#### 物联网设备扫描器
+#### 物联网设备识别工具或扫描器
 
 - https://github.com/rapid7/IoTSeeker （物联网设备默认密码扫描检测工具)
 - https://github.com/shodan-labs/iotdb (使用nmap扫描IoT设备)
 - https://github.com/googleinurl/RouterHunterBR （路由器设备漏洞扫描利用)
 - https://github.com/scu-igroup/telnet-scanner (telnet服务密码撞库)
 
-#### XSS扫描器
+#### 反射型或DOM-Based XSS扫描器
 
 - https://github.com/shawarkhanethicalhacker/BruteXSS （一款XSS扫描器,可暴力注入参数）
 - https://github.com/1N3/XSSTracer (小型XSS扫描器,也可检测CRLF、XSS、点击劫持的)
@@ -105,7 +105,7 @@
 - https://github.com/emposha/PHP-Shell-Detector/ (测试效率高达99%的webshell检测工具)
 - https://github.com/erevus-cn/scan_webshell (一款简单的Webshell扫描工具）
 
-#### 内网渗透工具
+#### 内网渗透或扫描工具
 
 - https://github.com/0xwindows/VulScritp （企业内网渗透脚本，包括banner扫描、端口扫描；phpmyadmin、jenkins等通用漏洞利用等）
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
