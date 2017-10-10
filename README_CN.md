@@ -84,7 +84,7 @@
 - https://github.com/UltimateHackers/XSStrike (可识别并绕过WAF的XSS扫描工具)
 - https://github.com/stamparm/DSXS (支持GET、POST方式的高效xss扫描器）
 
-#### 企业资产收集以及管理工具
+#### 企业资产收集或管理工具
 
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
@@ -93,7 +93,7 @@
 - https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和文件内容扫描的工具）
 - https://github.com/Ekultek/Zeus-Scanner (集成化的综合搜索引擎，能够抓取被搜索引擎隐藏的url,并交由sqlmap、nmap扫描）
 
-#### webshell检测以及病毒分析工具
+#### webshell检测或病毒分析工具
 
 - https://github.com/We5ter/Scanners-Box/tree/master/webshell/ （简单的php后门检测工具以及webshell样本库）
 - https://github.com/ym2011/ScanBackdoor （一款简单的Webshell扫描工具）
@@ -189,7 +189,7 @@
 - https://github.com/niloofarkheirkhah/nili （网络扫描，中间人攻击，协议检测与逆向）
 - https://github.com/SkyLined/LocalNetworkScanner （基于javascript的本地网络扫描)
 
-#### 代码审计工具及扫描器
+#### 代码审计工具或扫描器
 
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
 - https://github.com/OneSourceCat/phpvulhunter (静态php代码审计)
