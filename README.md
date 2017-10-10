@@ -14,7 +14,7 @@
 
 ***
 
-#### Subdomain Enumeration Scanners
+#### Subdomain Scanners or Enumeration Tools
 
 - https://github.com/lijiejie/subDomainsBrute (Classical Subdomain Enumeration Tool)
 - https://github.com/ring04h/wydomain (Intergrated Subdomain Enumeration Tool via Massive Dictionary Rules)
@@ -36,7 +36,7 @@
 - https://github.com/swisskyrepo/Subdomino (An application that enumerates subdomains, and scan them with several rules)
 - https://github.com/nmalcolm/Inventus (A spider designed to find subdomains of a specific domain by crawling it)
 
-#### Database Vulnerability Scanners
+#### Database Vulnerability Scanners or Enumeration Tools
 
 - https://github.com/0xbug/SQLiScanner (A SQLi Vulnerability Scanner via SQLMAP and Charles)
 - https://github.com/stamparm/DSSS (A SQLi Vulnerability Scanner with 99 lines of code)
@@ -116,7 +116,7 @@
 - https://github.com/fdiskyou/hunter (User hunter using WinAPI calls only)
 - https://github.com/BlackHole1/WebRtcXSS (Use XSS automation Invade intranet)
 
-#### Middleware Scanners
+#### Middleware detecting tools or Scanners
 
 - https://github.com/ring04h/wyportmap (Target port scanning + system service fingerprint recognition)
 - https://github.com/ring04h/weakfilescan (Dynamic multi - thread sensitive information leak detection tool)
@@ -151,7 +151,7 @@
 - https://github.com/mozilla/cipherscan (A very simple way to find out which SSL ciphersuites are supported by a target)
 - https://github.com/xmendez/wfuzz (Web application fuzzer/framework and web content scanner)
 
-#### Special Scanners
+#### Special Scanners(Just for some special Components)
 
 - https://github.com/blackye/Jenkins (Jenkins vulnerability detection, user grab enumerating)
 - https://github.com/code-scan/dzscan (discuz scanner)
@@ -194,7 +194,7 @@
 - https://github.com/SkyLined/LocalNetworkScanner (PoC Javascript that scans your local network when you open a webpage)
 
 
-#### Code Scanners
+#### Code Review and Scanners
 
 - https://github.com/wufeifei/cobra （A static code analysis system that automates the detecting vulnerabilities and security issue）
 - https://github.com/OneSourceCat/phpvulhunter （A tool that can scan php vulnerabilities automatically using static analysis methods）
@@ -204,7 +204,7 @@
 - https://github.com/presidentbeef/brakeman (A static analysis security vulnerability scanner for Ruby on Rails applications)
 - https://github.com/python-security/pyt (A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications)
 
-#### Modular design Scanners
+#### Modular design Scanners or vulnerability detecting framework
 
 - https://github.com/infobyte/faraday (Collaborative Penetration Test and Vulnerability Management Platform)
 - https://github.com/az0ne/AZScanner （Automatic all-around scanner）
@@ -225,7 +225,7 @@
 - https://github.com/Tuhinshubhra/RED_HAWK (An All In One Tool For Information Gathering, SQL Vulnerability Scanning and Crawling. Coded In PHP)
 - https://github.com/Arachni/arachni (Web Application Security Scanner Framework)
 - https://github.com/boy-hack/w8scan (A scanner that similar to bugscan)
-- https://github.com/scipag/vulscan (https://github.com/scipag/vulscan)
+- https://github.com/scipag/vulscan (Advanced vulnerability scanning with Nmap NSE)
 - https://github.com/juansacco/exploitpack (Exploit Pack - Penetration testing framework GPLv3)
 - https://github.com/swisskyrepo/DamnWebScanner (Another web vulnerabilities scanner, this extension works on Chrome and Opera)
 - https://github.com/anilbaranyelken/tulpar （Web Vulnerability Scanner written in python,supported multiple web vulnerabilities scan）
@@ -234,6 +234,7 @@
 - https://github.com/0xsauby/yasuo ( ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network)
 - https://github.com/hatRiot/clusterd (application server attack toolkit)
 - https://github.com/erevus-cn/pocscan (Open source and distributed web vulnerability scanning framework)
+- https://github.com/TophantTechnology/osprey (Distributed web vulnerability scanning framework)
 
 #### APT
 
