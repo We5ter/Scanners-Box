@@ -51,6 +51,7 @@
 - https://github.com/fengxuangit/Fox-scan (A initiative and passive SQL Injection vulnerable Test tools）
 - https://github.com/NetSPI/PowerUpSQL (A PowerShell Toolkit for Attacking SQL Server)
 - https://github.com/JohnTroony/Blisqy (Exploit Time-based blind-SQL injection in HTTP-Headers)
+- https://github.com/ron190/jsql-injection (A lightweight application used to find database information from a distant server)
 
 #### Weak Passwords or Information Leak Scanners
 
