@@ -47,6 +47,7 @@
 - https://github.com/fengxuangit/Fox-scan (基于SQLMAP的主动和被动资源发现的漏洞扫描工具）
 - https://github.com/NetSPI/PowerUpSQL (用于SQL Server审计的powershell脚本）
 - https://github.com/JohnTroony/Blisqy （用于http header中的时间盲注爆破工具，仅针对MySQL/MariaDB）
+- https://github.com/ron190/jsql-injection (Java 编写的SQL注入工具)
 
 #### 弱口令或信息泄漏扫描器
 
