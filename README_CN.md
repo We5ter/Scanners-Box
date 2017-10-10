@@ -10,7 +10,7 @@
 
 ***
 
-#### 子域名枚举扫描器
+#### 子域名枚举扫描器或爆破工具
 
 - https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
 - https://github.com/ring04h/wydomain (子域名字典穷举)
@@ -32,7 +32,7 @@
 - https://github.com/swisskyrepo/Subdomino (子域名枚举，端口扫描，服务存活确认）
 - https://github.com/nmalcolm/Inventus (通过爬虫实现的子域名收集工具）
 
-#### 数据库类漏洞扫描器(爆破工具）
+#### 数据库类漏洞扫描器或爆破工具
 
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
@@ -84,7 +84,7 @@
 - https://github.com/UltimateHackers/XSStrike (可识别并绕过WAF的XSS扫描工具)
 - https://github.com/stamparm/DSXS (支持GET、POST方式的高效xss扫描器）
 
-#### 企业资产管理
+#### 企业资产收集以及管理工具
 
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
@@ -105,14 +105,14 @@
 - https://github.com/emposha/PHP-Shell-Detector/ (测试效率高达99%的webshell检测工具)
 - https://github.com/erevus-cn/scan_webshell (一款简单的Webshell扫描工具）
 
-#### 内网渗透
+#### 内网渗透工具
 
 - https://github.com/0xwindows/VulScritp （企业内网渗透脚本，包括banner扫描、端口扫描；phpmyadmin、jenkins等通用漏洞利用等）
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
 - https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
 - https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
 
-#### 中间件扫描器
+#### 中间件扫描器或识别工具
 
 - https://github.com/ring04h/wyportmap (目标端口扫描+系统服务指纹识别)
 - https://github.com/ring04h/weakfilescan (动态多线程敏感信息泄露检测工具)
@@ -147,7 +147,7 @@
 - https://github.com/mozilla/cipherscan (目标主机服务ssl类型识别)
 - https://github.com/xmendez/wfuzz (web应用fuzz工具、框架，同时可用于web路径/服务扫描）
  
-#### 专用（针对性用途）扫描器
+#### 专用（即特定性针对某些组件）扫描器
 
 - https://github.com/blackye/Jenkins (Jenkins漏洞探测、用户抓取爆破)
 - https://github.com/code-scan/dzscan (discuz扫描)
@@ -189,7 +189,7 @@
 - https://github.com/niloofarkheirkhah/nili （网络扫描，中间人攻击，协议检测与逆向）
 - https://github.com/SkyLined/LocalNetworkScanner （基于javascript的本地网络扫描)
 
-#### 代码扫描器
+#### 代码审计工具及扫描器
 
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
 - https://github.com/OneSourceCat/phpvulhunter (静态php代码审计)
@@ -199,7 +199,7 @@
 - https://github.com/presidentbeef/brakeman ( Ruby on Rails应用静态代码分析）
 - https://github.com/python-security/pyt (Python应用静态代码审计）
 
-#### 模块化设计扫描器
+#### 模块化设计扫描器或漏洞检测框架
 
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 - https://github.com/blackye/lalascan (集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架)
@@ -229,6 +229,7 @@
 - https://github.com/0xsauby/yasuo (使用ruby开发的扫描网络中主机存在的第三方web应用服务漏洞）
 - https://github.com/hatRiot/clusterd (web应用自动化扫描框架,支持自动化上传webshell)
 - https://github.com/erevus-cn/pocscan （一款开源 Poc 调用框架,可轻松调用Pocsuite,Tangscan,Beebeeto,Knowsec老版本POC，可使用docker部署）
+- https://github.com/TophantTechnology/osprey (斗象能力中心出品并长期维护的开源漏洞检测框架)
 
 #### 高级持续性威胁(APT)
 
