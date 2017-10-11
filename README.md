@@ -238,6 +238,7 @@
 - https://github.com/hatRiot/clusterd (application server attack toolkit)
 - https://github.com/erevus-cn/pocscan (Open source and distributed web vulnerability scanning framework)
 - https://github.com/TophantTechnology/osprey (Distributed web vulnerability scanning framework)
+- https://github.com/yangbh/Hammer (A web vulnerability scanner framework)
 
 #### APT
 
