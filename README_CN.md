@@ -12,8 +12,8 @@
 
 #### 子域名枚举扫描器或爆破工具
 
-- https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
-- https://github.com/ring04h/wydomain (基于字典穷举的高效子域名爆破工具)
+- https://github.com/lijiejie/subDomainsBrute (lijiejie开发的一款使用广泛的子域名爆破枚举工具)
+- https://github.com/ring04h/wydomain (猪猪侠开发的一款域名收集全面、精准的子域名枚举工具)
 - https://github.com/le4f/dnsmaper (子域名枚举爆破工具以及地图位置标记)
 - https://github.com/0xbug/orangescan (提供web界面的在线子域名信息收集工具)
 - https://github.com/TheRook/subbrute （高效精准的子域名爆破工具,同时也是扫描器中最常用的子域名API库)
