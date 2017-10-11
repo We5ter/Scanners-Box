@@ -180,6 +180,7 @@
 - https://github.com/utiso/dorkbot (Command-line tool to scan Google search results for vulnerabilities)
 - https://github.com/OsandaMalith/LFiFreak (A unique automated LFi Exploiter with Bind/Reverse Shells)
 - https://github.com/mak-/parameth (This tool can be used to brute discover GET and POST parameters)
+- https://github.com/Lucifer1993/struts-scan (Struts2 vuls Scanner,supported all vuls)
 
 #### Wireless network Scanners
 
@@ -240,6 +241,7 @@
 - https://github.com/erevus-cn/pocscan (Open source and distributed web vulnerability scanning framework)
 - https://github.com/TophantTechnology/osprey (Distributed web vulnerability scanning framework)
 - https://github.com/yangbh/Hammer (A web vulnerability scanner framework)
+- https://github.com/Lucifer1993/AngelSword （Web vulnerability scanner framework based on python3)
 
 #### Some Tools relate with APT
 
