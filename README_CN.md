@@ -220,7 +220,7 @@
 - https://github.com/zhangzhenfeng/AnyScan (一款自动化渗透测试框架)
 - https://github.com/brianwrf/NagaScan （一款自动化渗透测试框架)
 - https://github.com/Tuhinshubhra/RED_HAWK (一款集成信息收集、漏洞扫描、指纹识别等的多合一扫描工具）
-- https://github.com/Arachni/arachni (web应用扫描框架）
+- https://github.com/Arachni/arachni (web应用漏洞扫描框架）
 - https://github.com/infobyte/faraday （集成化渗透测试辅助平台及漏洞管理平台）
 - https://github.com/boy-hack/w8scan (一款基于bugscan扫描和架构思想的扫描器）
 - https://github.com/scipag/vulscan (基于nmap的高级漏洞扫描器，命令行环境使用）
@@ -233,12 +233,13 @@
 - https://github.com/hatRiot/clusterd (web应用自动化扫描框架,支持自动化上传webshell)
 - https://github.com/erevus-cn/pocscan （一款开源 Poc 调用框架,可轻松调用Pocsuite,Tangscan,Beebeeto,Knowsec老版本POC，可使用docker部署）
 - https://github.com/TophantTechnology/osprey (斗象能力中心出品并长期维护的开源漏洞检测框架)
+- https://github.com/yangbh/Hammer (web应用漏洞扫描框架)
 
-#### 高级持续性威胁(APT)
+#### 高级持续性威胁(APT)相关工具
 
 - https://github.com/Neo23x0/Loki (一款APT入侵痕迹扫描器)
 
-#### 工控安全
+#### 工控安全相关工具
 
 - https://github.com/w3h/icsmaster/tree/master/nse （ICS设备nmap扫描脚本)
 
