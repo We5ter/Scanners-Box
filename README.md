@@ -16,13 +16,13 @@
 
 #### Subdomain Scanners or Enumeration Tools
 
-- https://github.com/lijiejie/subDomainsBrute (Classical Subdomain Enumeration Tool)
-- https://github.com/ring04h/wydomain (Intergrated Subdomain Enumeration Tool via Massive Dictionary Rules)
+- https://github.com/lijiejie/subDomainsBrute (A classical subdomain enumeration Tool by lijiejie)
+- https://github.com/ring04h/wydomain (A Speed and Precision subdomain Enumeration Tool by ringzero)
 - https://github.com/le4f/dnsmaper (Subdomain Enumeration tool with map record)
 - https://github.com/0xbug/orangescan (Online Subdomain Enumeration Tool)
-- https://github.com/TheRook/subbrute (A DNS meta-query spider that enumerates DNS records, and subdomains.)
-- https://github.com/We5ter/GSDF (Subdomain Enumeration via Google Certificate Transparency）
-- https://github.com/mandatoryprogrammer/cloudflare_enum  (Subdomain Enumeration via CloudFlare）
+- https://github.com/TheRook/subbrute (A DNS meta-query spider that enumerates DNS records, and subdomains,supported API)
+- https://github.com/We5ter/GSDF (Subdomain enumeration via Google Certificate Transparency）
+- https://github.com/mandatoryprogrammer/cloudflare_enum  (Subdomain enumeration via CloudFlare）
 - https://github.com/guelfoweb/knock (Knock Subdomain Scan)
 - https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker (An Intergratd Python Subdomain Enumeration Tool)
 - https://github.com/code-scan/BroDomain (Find brother domain)
@@ -136,7 +136,7 @@
 - https://github.com/RASSec/RASscan (Internal network port speed scanners)
 - https://github.com/3xp10it/bypass_waf (Automatic WAF Bypass Fuzzing Tool)  
 - https://github.com/3xp10it/xcdn (Try to find out the actual ip behind cdn)  
-- https://github.com/Xyntax/BingC (Based on the Bing search engine C / side-stop query, multi-threaded, support API)
+- https://github.com/Xyntax/BingC (Based on the Bing search engine C / side-stop query, multi-threaded, supported API)
 - https://github.com/Xyntax/DirBrute (Multi-thread WEB directory enumerating tool)
 - https://github.com/zer0h/httpscan (A HTTP Service detector with a crawler from IP/CIDR)
 - https://github.com/lietdai/doom (Distributed task distribution of the ip port vulnerability scanner based on thorn)
