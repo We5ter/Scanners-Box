@@ -148,6 +148,7 @@
 - https://github.com/0xbug/Howl (网络设备 web 服务指纹扫描与检索)
 - https://github.com/mozilla/cipherscan (目标主机服务ssl类型识别)
 - https://github.com/xmendez/wfuzz (web应用fuzz工具、框架，同时可用于web路径/服务扫描）
+- https://github.com/UltimateHackers/Breacher (多线程的后台路径扫描器，也可用于发现Execution After Redirect漏洞）
  
 #### 专用（即特定性针对某些组件）扫描器
 
