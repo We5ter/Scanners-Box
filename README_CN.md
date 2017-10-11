@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/We5ter/Scanners-Box.svg)
 ![GitHub stars](https://img.shields.io/github/stars/We5ter/Scanners-Box.svg)
 
-### 简介
+### 项目简介
 
 **Scanners Box**是一个集合github平台上的安全行业从业者自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器，**同时该仓库只收录各位网友自己编写的一般性开源扫描器，类似nmap、w3af等知名扫描工具不收录**。
 
@@ -13,10 +13,10 @@
 #### 子域名枚举扫描器或爆破工具
 
 - https://github.com/lijiejie/subDomainsBrute (经典的子域名爆破枚举脚本)
-- https://github.com/ring04h/wydomain (子域名字典穷举)
-- https://github.com/le4f/dnsmaper (子域名枚举与地图标记)
-- https://github.com/0xbug/orangescan (在线子域名信息收集工具)
-- https://github.com/TheRook/subbrute （高效精准的子域名爆破工具)
+- https://github.com/ring04h/wydomain (基于字典穷举的高效子域名爆破工具)
+- https://github.com/le4f/dnsmaper (子域名枚举爆破工具以及地图位置标记)
+- https://github.com/0xbug/orangescan (提供web界面的在线子域名信息收集工具)
+- https://github.com/TheRook/subbrute （高效精准的子域名爆破工具,同时也是扫描器中最常用的子域名API库)
 - https://github.com/We5ter/GSDF (基于谷歌SSL透明证书的子域名查询脚本)
 - https://github.com/mandatoryprogrammer/cloudflare_enum （使用CloudFlare进行子域名枚举的脚本）
 - https://github.com/guelfoweb/knock (Knock子域名获取，可用于查找子域名接管漏洞)
@@ -94,6 +94,7 @@
 - https://github.com/0xbug/Hawkeye (企业资产GitHub泄露监控系统）
 - https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和文件内容扫描的工具）
 - https://github.com/Ekultek/Zeus-Scanner (集成化的综合搜索引擎，能够抓取被搜索引擎隐藏的url,并交由sqlmap、nmap扫描）
+- https://github.com/0xbug/Biu-framework (企业内网基础服务安全扫描框架)
 
 #### webshell检测或病毒分析工具
 
