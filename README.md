@@ -99,7 +99,7 @@
 - https://github.com/0xbug/Hawkeye (Github leak scan foe enterprise)
 - https://github.com/Ekultek/Zeus-Scanner (An advanced dork searching tool that is capable of bypassing search engine API calls, search engine captchas, and IP address blocking from sending many requests to the search engine itself. and can run sqlmap and nmap scans on the URL's)
 
-#### Webshell Detection or Malware Analysis
+#### Webshell Detection or Malware Analysis Tools
 
 - https://github.com/We5ter/Scanners-Box/tree/master/webshell/ (PHP Webshell Decetor and webshell sample library)
 - https://github.com/ym2011/ScanBackdoor (Simple webshell Detector)
@@ -118,7 +118,7 @@
 - https://github.com/fdiskyou/hunter (User hunter using WinAPI calls only)
 - https://github.com/BlackHole1/WebRtcXSS (Use XSS automation Invade intranet)
 
-#### Middleware detecting tools or Scanners
+#### Middleware detection tools or Scanners
 
 - https://github.com/ring04h/wyportmap (Target port scanning + system service fingerprint recognition)
 - https://github.com/ring04h/weakfilescan (Dynamic multi - thread sensitive information leak detection tool)
@@ -152,6 +152,7 @@
 - https://github.com/0xbug/Howl (Network equipment, web services, fingerprint scanner and database)
 - https://github.com/mozilla/cipherscan (A very simple way to find out which SSL ciphersuites are supported by a target)
 - https://github.com/xmendez/wfuzz (Web application fuzzer/framework and web content scanner)
+- https://github.com/UltimateHackers/Breacher (An advanced multithreaded admin panel finder written in python)
 
 #### Special Scanners(Just for some special Components)
 
@@ -189,7 +190,7 @@
 - https://github.com/besimaltnok/PiFinger (Searches for wifi-pineapple traces and calculate wireless network security score)
 - https://github.com/derv82/wifite2 （A complete re-write of Wifite,Automated Wireless Attack Tool) 
 
-#### Local Network Scanners
+#### Local Network(Local Area Network) Scanners
 
 - https://github.com/sowish/LNScan  (Local Network Scanner based on BBScan via.lijiejie)
 - https://github.com/niloofarkheirkhah/nili （Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing）
