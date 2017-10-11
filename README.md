@@ -98,6 +98,7 @@
 - https://github.com/lianfeng30/githubscan (Github leak scan foe enterprise)
 - https://github.com/0xbug/Hawkeye (Github leak scan foe enterprise)
 - https://github.com/Ekultek/Zeus-Scanner (An advanced dork searching tool that is capable of bypassing search engine API calls, search engine captchas, and IP address blocking from sending many requests to the search engine itself. and can run sqlmap and nmap scans on the URL's)
+- https://github.com/0xbug/Biu-framework (Security Scan Framework For Enterprise Intranet Based Services)
 
 #### Webshell Detection or Malware Analysis Tools
 
@@ -240,11 +241,11 @@
 - https://github.com/TophantTechnology/osprey (Distributed web vulnerability scanning framework)
 - https://github.com/yangbh/Hammer (A web vulnerability scanner framework)
 
-#### APT
+#### Some Tools relate with APT
 
 - https://github.com/Neo23x0/Loki (Simple IOC and Incident Response Scanner)
 
-#### ICS
+#### Some Tools relate with ICS
 
 - https://github.com/w3h/icsmaster/tree/master/nse (Digital Bond's ICS Enumeration Tools)
 
