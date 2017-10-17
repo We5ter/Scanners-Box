@@ -154,6 +154,7 @@
 - https://github.com/mozilla/cipherscan (A very simple way to find out which SSL ciphersuites are supported by a target)
 - https://github.com/xmendez/wfuzz (Web application fuzzer/framework and web content scanner)
 - https://github.com/UltimateHackers/Breacher (An advanced multithreaded admin panel finder written in python)
+- https://github.com/ztgrace/changeme （A default credential scanner）
 
 #### Special Scanners(Just for some special Components)
 
