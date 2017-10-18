@@ -155,6 +155,7 @@
 - https://github.com/xmendez/wfuzz (Web application fuzzer/framework and web content scanner)
 - https://github.com/UltimateHackers/Breacher (An advanced multithreaded admin panel finder written in python)
 - https://github.com/ztgrace/changeme （A default credential scanner）
+- https://github.com/medbenali/CyberScan (An open source penetration testing tool that can analyse packets,decoding,scanning ports, pinging and geolocation of an IP)
 
 #### Special Scanners(Just for some special Components)
 
