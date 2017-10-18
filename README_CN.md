@@ -151,6 +151,7 @@
 - https://github.com/xmendez/wfuzz (Web应用fuzz工具、框架，同时可用于web路径/服务扫描）
 - https://github.com/UltimateHackers/Breacher (多线程的后台路径扫描器，也可用于发现Execution After Redirect漏洞）
 - https://github.com/ztgrace/changeme (弱口令扫描器，不仅支持普通登录页，也支持ssh、mongodb等组件）
+- https://github.com/medbenali/CyberScan (渗透测试辅助工具，支持分析数据包、解码、端口扫描、IP地址分析等）
  
 #### 专用（即特定性针对某些组件）扫描器
 
