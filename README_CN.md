@@ -180,6 +180,7 @@
 - https://github.com/mak-/parameth (用于枚举脚本的GET/POST未知参数字段）
 - https://github.com/Lucifer1993/struts-scan (struts2漏洞全版本检测和利用工具)
 - https://github.com/hahwul/a2sv (SSL漏洞扫描，例如心脏滴血漏洞等）
+- https://github.com/NullArray/DorkNet (基于搜索引擎的漏洞页面搜寻）
 
 #### 无线网络（审计）扫描器
 
