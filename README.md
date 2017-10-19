@@ -246,6 +246,7 @@
 - https://github.com/TophantTechnology/osprey (Distributed web vulnerability scanning framework)
 - https://github.com/yangbh/Hammer (A web vulnerability scanner framework)
 - https://github.com/Lucifer1993/AngelSword （Web vulnerability scanner framework based on python3)
+- https://github.com/secrary/EllaScanner (Passive web scanner,and you can get CVEs related to server’s version)
 
 #### Some Tools relate with APT
 
