@@ -184,6 +184,7 @@
 - https://github.com/mak-/parameth (This tool can be used to brute discover GET and POST parameters)
 - https://github.com/Lucifer1993/struts-scan (Struts2 vuls Scanner,supported all vuls)
 - https://github.com/hahwul/a2sv （Auto Scanning to SSL Vulnerability,such as heartbleed etc）
+- https://github.com/NullArray/DorkNet (Selenium powered Python script to automate searching for vulnerable web apps)
 
 #### Wireless network Scanners
 
