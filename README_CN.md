@@ -213,20 +213,20 @@
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 - https://github.com/blackye/lalascan (集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架)
 - https://github.com/blackye/BkScanner (BkScanner 分布式、插件化web漏洞扫描器)
-- https://github.com/ysrc/GourdScanV2 （被动式漏洞扫描)
+- https://github.com/ysrc/GourdScanV2 （ysrc出品的被动式漏洞扫描工具)
 - https://github.com/alpha1e0/pentestdb (WEB渗透测试数据库)
 - https://github.com/netxfly/passive_scan (基于http代理的web漏洞扫描器)
 - https://github.com/1N3/Sn1per (自动化扫描器，包括中间件扫描以及设备指纹识别)
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner （定向全自动化渗透测试工具）
-- https://github.com/3xp10it/3xp10it （自动化渗透测试框架)
-- https://github.com/Lcys/lcyscan (一款支持插件的小型扫描器）
+- https://github.com/3xp10it/3xp10it （自动化渗透测试框架，支持cdn真实ip查找、指纹识别等)
+- https://github.com/Lcys/lcyscan (python插件化漏洞扫描器，支持生成扫描报表）
 - https://github.com/Xyntax/POC-T （渗透测试插件化并发框架）
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner （支持检测SQLi/XSS/LFI/RFI等漏洞的扫描器）
-- https://github.com/Skycrab/leakScan （Web端的在线漏洞扫描）
-- https://github.com/zhangzhenfeng/AnyScan (一款自动化渗透测试框架)
+- https://github.com/Skycrab/leakScan （Web图形化的的漏洞扫描框架）
+- https://github.com/zhangzhenfeng/AnyScan (一款自动化渗透测试框架，将我们日常的一些重复、简单的工作搬到web界面里)
 - https://github.com/brianwrf/NagaScan （一款自动化渗透测试框架)
 - https://github.com/Tuhinshubhra/RED_HAWK (一款集成信息收集、漏洞扫描、指纹识别等的多合一扫描工具）
-- https://github.com/Arachni/arachni (Web应用漏洞扫描框架）
+- https://github.com/Arachni/arachni (高度集成化的Web应用漏洞扫描框架，支持REST、RPC等api调用）
 - https://github.com/infobyte/faraday （集成化渗透测试辅助平台及漏洞管理平台）
 - https://github.com/boy-hack/w8scan (一款基于bugscan扫描和架构思想的扫描器）
 - https://github.com/scipag/vulscan (基于nmap的高级漏洞扫描器，命令行环境使用）
@@ -241,6 +241,7 @@
 - https://github.com/TophantTechnology/osprey (斗象能力中心出品并长期维护的开源漏洞检测框架)
 - https://github.com/yangbh/Hammer (Web应用漏洞扫描框架)
 - https://github.com/Lucifer1993/AngelSword (Web应用漏洞扫描框架,基于python3)
+- https://github.com/secrary/EllaScanner (被动式漏洞扫描，支持历史cve编号漏洞识别)
 
 #### 高级持续性威胁(APT)相关工具
 
@@ -270,7 +271,7 @@
 
 ### 如何参与?
 
-欢迎大家都来贡献idea,如果你找到了有价值的扫描器，可以添加一个issue,一旦被合并的话，我会将您的名字添加到致谢榜上
+欢迎大家贡献commit,如果你发现了有价值的扫描器，可以新建一个issue,一旦确认之后，您的名字便会出现在致谢榜上
 
 ### 版权
 
