@@ -230,7 +230,6 @@
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner (Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns)
 - https://github.com/Skycrab/leakScan (Multiple vuls scan supports Web interface）
 - https://github.com/zhangzhenfeng/AnyScan (A automated Penetration Testing Framework)
-- https://github.com/brianwrf/NagaScan (Another distributed passive scanner for Web application)
 - https://github.com/Tuhinshubhra/RED_HAWK (An All In One Tool For Information Gathering, SQL Vulnerability Scanning and Crawling. Coded In PHP)
 - https://github.com/Arachni/arachni (Web Application Security Scanner Framework)
 - https://github.com/boy-hack/w8scan (A scanner that similar to bugscan)
