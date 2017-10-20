@@ -53,6 +53,7 @@
 - https://github.com/JohnTroony/Blisqy (Exploit Time-based blind-SQL injection in HTTP-Headers)
 - https://github.com/ron190/jsql-injection (A lightweight application used to find database information from a distant server)
 - https://github.com/Hadesy2k/sqliv (Massive SQL injection vulnerability scanner)
+- https://github.com/UltimateHackers/sqlmate (A friend of SQLmap which will do what you always expected from SQLmap)
 
 #### Weak Passwords or Information Leak Scanners
 
