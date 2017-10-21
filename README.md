@@ -103,8 +103,6 @@
 
 #### Webshell Detection or Malware Analysis Tools
 
-- https://github.com/We5ter/Scanners-Box/blob/master/webshell/shell_detect.py (Webshell Detector writen by python)
-- https://github.com/We5ter/Scanners-Box/blob/master/webshell/shell_detect.php (Webshell Detector writen by php)
 - https://github.com/ym2011/ScanBackdoor (Simple webshell Detector)
 - https://github.com/yassineaddi/BackdoorMan  (A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination)
 - https://github.com/he1m4n6a/findWebshell (Simple webshell Detector)
