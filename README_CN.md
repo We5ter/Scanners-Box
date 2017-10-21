@@ -215,7 +215,6 @@
 - https://github.com/blackye/lalascan (集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架)
 - https://github.com/blackye/BkScanner (BkScanner 分布式、插件化web漏洞扫描器)
 - https://github.com/ysrc/GourdScanV2 （ysrc出品的被动式漏洞扫描工具)
-- https://github.com/alpha1e0/pentestdb (WEB渗透测试数据库)
 - https://github.com/netxfly/passive_scan (基于http代理的web漏洞扫描器)
 - https://github.com/1N3/Sn1per (自动化扫描器，包括中间件扫描以及设备指纹识别)
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner （定向全自动化渗透测试工具）
@@ -281,12 +280,12 @@
 
 - **@0c0c0f**     
 - **@藏形匿影(挖财网)**
-- **Mottoin团队**
+- **@Mottoin团队**
 - **@BlackHole**
 - **@CodeColorist**
 - **@3xp10it**
 - **@re4lity**
-- **@UltimateHackers**
+- **@UltimateHackers团队**
 - **@boy-hack**
 - **@marsII**
 
