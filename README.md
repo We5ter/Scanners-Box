@@ -221,7 +221,6 @@
 - https://github.com/blackye/lalascan (Distributed web vulnerability scanning framework)
 - https://github.com/blackye/BkScanner (Distributed, plug-in web vulnerability scanner)
 - https://github.com/ysrc/GourdScanV2 (Passive Vulnerability Scanning System)
-- https://github.com/alpha1e0/pentestdb (WEB penetration test database)
 - https://github.com/netxfly/passive_scan (Realization of Web Vulnerability Scanner Based on http Proxy)
 - https://github.com/1N3/Sn1per (Automated Pentest Recon Scanner)
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner (Directional Fully Automated Penetration Testing)
@@ -286,12 +285,12 @@ Please specify reproduced  from https://github.com/We5ter/Scanners-Box , and ple
 
 - **@0c0c0f**
 - **@藏形匿影(wacai.com)**
-- **Mottoin team**
+- **@Mottoin team**
 - **@BlackHole**
 - **@CodeColorist**
 - **@3xp10it**
 - **@re4lity**
-- **@UltimateHackers**
+- **@UltimateHackers team**
 - **@boy-hack**
 - **@marsII**
 
