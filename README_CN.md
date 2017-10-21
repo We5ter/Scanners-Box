@@ -99,7 +99,6 @@
 
 #### webshell检测或病毒分析工具
 
-- https://github.com/We5ter/Scanners-Box/tree/master/webshell/ （简单的php后门检测工具以及webshell样本库）
 - https://github.com/ym2011/ScanBackdoor （一款简单的Webshell扫描工具）
 - https://github.com/yassineaddi/BackdoorMan （可对指定目录进行php webshell检测）
 - https://github.com/he1m4n6a/findWebshell （一款简单的webshell检测工具)
