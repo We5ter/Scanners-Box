@@ -185,6 +185,8 @@
 - https://github.com/Lucifer1993/struts-scan (Struts2 vuls Scanner,supported all vuls)
 - https://github.com/hahwul/a2sv （Auto Scanning to SSL Vulnerability,such as heartbleed etc）
 - https://github.com/NullArray/DorkNet (Selenium powered Python script to automate searching for vulnerable web apps)
+- https://github.com/NickstaDB/BaRMIe (Java RMI enumeration and attack tool)
+- https://github.com/UltimateHackers/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
 
 #### Wireless network Scanners
 
