@@ -68,6 +68,7 @@
 - https://github.com/fnk0c/cangibrina (通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
 - https://github.com/shengqi158/weak_password_detect (多线程探测弱口令）
 - https://github.com/shengqi158/svnhack （.svn文件夹泄漏利用工具）
+- https://github.com/UltimateHackers/Blazy (支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器）
 
 #### 物联网设备识别工具或扫描器
 
@@ -164,23 +165,24 @@
 - https://github.com/epinna/tplmap (服务器端模板注入漏洞检测与利用工具)
 - https://github.com/cr0hn/dockerscan (Docker扫描工具)
 - https://github.com/m4ll0k/WPSeku (一款精简的wordpress扫描工具)
-- https://github.com/rastating/wordpress-exploit-framework (集成化wordpress漏洞利用框架）
-- https://github.com/ilmila/J2EEScan (用于扫描J2EE应用的一款burpsuite插件）
-- https://github.com/riusksk/StrutScan (一款基于perl的strut2的历史漏洞扫描器）
-- https://github.com/D35m0nd142/LFISuite (本地文件包含漏洞利用及扫描工具，支持反弹shell）
-- https://github.com/0x4D31/salt-scanner (基于Salt Open以及Vulners Linux Audit API的linux漏洞扫描器，支持与JIRA、slack平台结合使用）
-- https://github.com/tijme/angularjs-csti-scanner (自动化探测客户端AngularJS模板注入漏洞工具）
+- https://github.com/rastating/wordpress-exploit-framework (集成化wordpress漏洞利用框架)
+- https://github.com/ilmila/J2EEScan (用于扫描J2EE应用的一款burpsuite插件)
+- https://github.com/riusksk/StrutScan (一款基于perl的strut2的历史漏洞扫描器)
+- https://github.com/D35m0nd142/LFISuite (本地文件包含漏洞利用及扫描工具，支持反弹shell)
+- https://github.com/0x4D31/salt-scanner (基于Salt Open以及Vulners Linux Audit API的linux漏洞扫描器，支持与JIRA、slack平台结合使用)
+- https://github.com/tijme/angularjs-csti-scanner (自动化探测客户端AngularJS模板注入漏洞工具)
 - https://github.com/irsdl/IIS-ShortName-Scanner (Java编写的IIS短文件名暴力枚举漏洞利用工具)
-- https://github.com/swisskyrepo/Wordpresscan (基于WPScan以及WPSeku的优化版wordpress扫描器）
+- https://github.com/swisskyrepo/Wordpresscan (基于WPScan以及WPSeku的优化版wordpress扫描器)
 - https://github.com/CHYbeta/cmsPoc (CMS渗透测试框架）
 - https://github.com/rudSarkar/crlf-injector (CRLF注入漏洞批量扫描）
-- https://github.com/3gstudent/Smbtouch-Scanner (自动化扫描内网中存在的由shadow brokers泄露的ETERNAL系列漏洞）
+- https://github.com/3gstudent/Smbtouch-Scanner (自动化扫描内网中存在的由shadow brokers泄露的ETERNAL系列漏洞)
 - https://github.com/utiso/dorkbot （通过定制化的谷歌搜索引擎进行漏洞页面搜寻及扫描）
-- https://github.com/OsandaMalith/LFiFreak （本地文件包含漏洞利用及扫描工具，支持反弹shell）
+- https://github.com/OsandaMalith/LFiFreak （本地文件包含漏洞利用及扫描工具，支持反弹shell)
 - https://github.com/mak-/parameth (用于枚举脚本的GET/POST未知参数字段）
 - https://github.com/Lucifer1993/struts-scan (struts2漏洞全版本检测和利用工具)
 - https://github.com/hahwul/a2sv (SSL漏洞扫描，例如心脏滴血漏洞等）
 - https://github.com/NullArray/DorkNet (基于搜索引擎的漏洞页面搜寻）
+- https://github.com/NickstaDB/BaRMIe (用于攻击爆破Java Remote Method Invocation服务的工具)
 
 #### 无线网络（审计）扫描器
 
