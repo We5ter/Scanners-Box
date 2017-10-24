@@ -63,7 +63,6 @@
 - https://github.com/wilson9x1/fenghuangscanner_v3 (ports&weak password scanner)
 - https://github.com/ysrc/F-Scrack (single file bruteforcer supports multi-protocol)
 - https://github.com/Mebus/cupp (Common User Passwords Profiler)
-- https://github.com/RicterZ/genpAss (Weak password generator)
 - https://github.com/netxfly/crack_ssh (Ssh\redis\mongodb weak password bruteforcer)
 - https://github.com/n0tr00t/Sreg (Social information collector)
 - https://github.com/repoog/GitPrey (Searching sensitive files and contents in GitHub)
@@ -72,6 +71,7 @@
 - https://github.com/fnk0c/cangibrina (A fast and powerfull dashboard (admin) finder)
 - https://github.com/shengqi158/svnhack (A `.svn` folder disclosure exploit)
 - https://github.com/shengqi158/weak_password_detect (A python HTTP weak password scanner)
+- https://github.com/UltimateHackers/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
 
 #### IoT Detecting Tools or Scanners
 
@@ -186,7 +186,6 @@
 - https://github.com/hahwul/a2sv （Auto Scanning to SSL Vulnerability,such as heartbleed etc）
 - https://github.com/NullArray/DorkNet (Selenium powered Python script to automate searching for vulnerable web apps)
 - https://github.com/NickstaDB/BaRMIe (Java RMI enumeration and attack tool)
-- https://github.com/UltimateHackers/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
 
 #### Wireless network Scanners
 
