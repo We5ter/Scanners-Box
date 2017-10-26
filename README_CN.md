@@ -241,6 +241,7 @@
 - https://github.com/yangbh/Hammer (Web应用漏洞扫描框架)
 - https://github.com/Lucifer1993/AngelSword (Web应用漏洞扫描框架,基于python3)
 - https://github.com/secrary/EllaScanner (被动式漏洞扫描，支持历史cve编号漏洞识别)
+- https://github.com/zaproxy/zaproxy (The OWASP ZAP core project出品的综合性渗透测试工具）
 
 #### 高级持续性威胁(APT)相关工具
 
