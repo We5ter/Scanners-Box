@@ -1,4 +1,4 @@
-# <img src="https://s1.ax1x.com/2017/10/27/U6Fot.png" width="350px">
+# <img src="https://s1.ax1x.com/2017/10/29/ashLj.png" width="350px">
 
 ![GitHub issues](https://img.shields.io/github/issues/We5ter/Scanners-Box.svg)
 ![GitHub forks](https://img.shields.io/github/forks/We5ter/Scanners-Box.svg)
