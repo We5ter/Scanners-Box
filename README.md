@@ -266,7 +266,7 @@
 
 The purpose of this collection is to provide various types of  opensource security scanning tool that can help Internet companies to be more safer.
 
-### Project Maintenance
+### Maintainers
 
 **Wester**(Twitter <a href="http://twitter.com/Hi_Wester/">@Hi_Wester</a>) & **Martin**(Twitter <a href="https://twitter.com/yuyangchow">@Martin ZHOU</a>)
 
@@ -284,7 +284,7 @@ We welcome everyone to contribute,you can open an issue for this if you have som
 
 ### Copyright
 
-Please specify reproduced  from https://github.com/We5ter/Scanners-Box , and please do not republish this article for improper gain or advantage.
+Please specify reproduced  from https://github.com/We5ter/Scanners-Box , and please do not republish this article for seeking unjust benefit.
 
 ### Acknowledgments
 
