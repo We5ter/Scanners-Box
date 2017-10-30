@@ -280,7 +280,7 @@ Do not use for illegal purposes.
 
 ### How to contribute?
 
-We welcome everyone to contribute,you can open an issue for this if you have some idea,and then I will add your name to Acknowledgments.
+We welcome everyone to contribute,you can open an issue for this if you have some new idea about this project or you have found some valuable scanner,and then I will add your name to Acknowledgments.
 
 ### Copyright
 
