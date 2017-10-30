@@ -4,7 +4,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/We5ter/Scanners-Box.svg)
 ![GitHub stars](https://img.shields.io/github/stars/We5ter/Scanners-Box.svg)
 [![GitHub last commit](https://img.shields.io/github/last-commit/We5ter/Scanners-Box.svg)]()
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)]()
 
 **README.md in [Chinese 中文](https://github.com/We5ter/Scanners-Box/blob/master/README_CN.md)**
 
@@ -252,6 +251,7 @@
 - https://github.com/secrary/EllaScanner (Passive web scanner,and you can get CVEs related to server’s version)
 - https://github.com/zaproxy/zaproxy (One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers)
 - https://github.com/sullo/nikto (Nikto is a web server assessment tool. It is designed to find various default and insecure files, configurations and programs on any type of web server)
+- https://github.com/UltimateHackers/Striker (Striker is an offensive information and vulnerability scanner)
 
 #### Some Tools relate with APT
 
