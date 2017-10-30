@@ -266,7 +266,7 @@
 
 本仓库收集的初衷是为向各类企业安全从业人员提供在企业信息安全防护体系建设过程中可以参考的开源安全扫描工具，以期望企业能够利用这些扫描器对自身业务进行自检，从而提高自身业务安全性
 
-### 项目维护
+### 维护成员
 
 **Wester**(sina weibo <a href="http://weibo.com/zzyme/">@Wester的小号</a>) && **Martin**(sina weibo <a href="http://weibo.com/u/1312149403">@Mart1n_ZHOU</a>)
 
@@ -280,11 +280,11 @@
 
 ### 如何参与?
 
-欢迎大家贡献commit,如果你发现了有价值的扫描器，可以新建一个issue,一旦确认之后，您的名字便会出现在致谢榜上
+欢迎大家贡献commit,如果你发现了有价值的扫描器，可以新建一个issue,经过维护成员确认之后，便会将您的名字添加到致谢榜上
 
 ### 版权
 
-转载请注明来自https://github.com/We5ter/Scanners-Box ,同时也请不要通过二次发表此文章获取不正当的利益（如原创投稿）
+转载请注明来自https://github.com/We5ter/Scanners-Box ,同时也请不要通过二次发表此文章谋取不正当的利益（如原创投稿）
 
 ### 致谢
 
@@ -299,4 +299,4 @@
 - **@boy-hack**
 - **@marsII**
 
-&copy;<a href="https://github.com/CNSISMO" target="_blank">Sixtant Security Lab</a> 2016-2017
+&copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2016-2017
