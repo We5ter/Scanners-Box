@@ -251,6 +251,7 @@
 - https://github.com/Lucifer1993/AngelSword （Web vulnerability scanner framework based on python3)
 - https://github.com/secrary/EllaScanner (Passive web scanner,and you can get CVEs related to server’s version)
 - https://github.com/zaproxy/zaproxy (One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers)
+- https://github.com/sullo/nikto (Nikto is a web server assessment tool. It is designed to find various default and insecure files, configurations and programs on any type of web server)
 
 #### Some Tools relate with APT
 
