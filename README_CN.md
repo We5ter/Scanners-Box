@@ -251,6 +251,7 @@
 - https://github.com/Lucifer1993/AngelSword (Web应用漏洞扫描框架,基于python3)
 - https://github.com/secrary/EllaScanner (被动式漏洞扫描，支持历史cve编号漏洞识别)
 - https://github.com/zaproxy/zaproxy (The OWASP ZAP core project出品的综合性渗透测试工具）
+- https://github.com/sullo/nikto (Web服务综合型扫描器，用于针对指定目标的资产收集、安全配置缺陷或者安全漏洞扫描）
 
 #### 高级持续性威胁(APT)相关工具
 
