@@ -193,6 +193,7 @@
 - https://github.com/NullArray/DorkNet (基于搜索引擎的漏洞网页搜寻）
 - https://github.com/NickstaDB/BaRMIe (用于攻击爆破Java Remote Method Invocation服务的工具)
 - https://github.com/RetireJS/grunt-retire (扫描js扩展库的常见漏洞）
+- https://github.com/kotobukki/BDA (针对hadoop/spark等大数据平台的的漏洞探测工具）
 
 #### 无线网络（审计）扫描器
 
