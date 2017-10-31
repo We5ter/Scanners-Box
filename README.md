@@ -75,6 +75,8 @@
 - https://github.com/shengqi158/svnhack (A `.svn` folder disclosure exploit)
 - https://github.com/shengqi158/weak_password_detect (A python HTTP weak password scanner)
 - https://github.com/UltimateHackers/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
+- https://github.com/metac0rtex/GitHarvester (Used for harvesting information from GitHub)
+- https://github.com/0xbug/Hawkeye (Github leak scan foe enterprise)
 
 #### IoT Detecting Tools or Scanners
 
@@ -100,7 +102,6 @@
 - https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
 - https://github.com/x0day/Multisearch-v2 (Enterprise assets collector based on search engine)
 - https://github.com/lianfeng30/githubscan (Github leak scan foe enterprise)
-- https://github.com/0xbug/Hawkeye (Github leak scan foe enterprise)
 - https://github.com/Ekultek/Zeus-Scanner (An advanced dork searching tool that is capable of bypassing search engine API calls, search engine captchas, and IP address blocking from sending many requests to the search engine itself. and can run sqlmap and nmap scans on the URL's)
 - https://github.com/0xbug/Biu-framework (Security Scan Framework For Enterprise Intranet Based Services)
 
@@ -193,6 +194,7 @@
 - https://github.com/NickstaDB/BaRMIe (Java RMI enumeration and attack tool)
 - https://github.com/RetireJS/grunt-retire (Scanner detecting the use of JavaScript libraries with known vulnerabilities)
 - https://github.com/kotobukki/BDA (The vulnerability detector for Hadoop and Spark)
+- https://github.com/jagracey/Regex-DoS (RegEx Denial of Service Scanner)
 
 #### Wireless network Scanners
 
