@@ -192,6 +192,7 @@
 - https://github.com/NullArray/DorkNet (Selenium powered Python script to automate searching for vulnerable web apps)
 - https://github.com/NickstaDB/BaRMIe (Java RMI enumeration and attack tool)
 - https://github.com/RetireJS/grunt-retire (Scanner detecting the use of JavaScript libraries with known vulnerabilities)
+- https://github.com/kotobukki/BDA (The vulnerability detector for Hadoop and Spark)
 
 #### Wireless network Scanners
 
