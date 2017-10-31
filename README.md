@@ -77,6 +77,7 @@
 - https://github.com/UltimateHackers/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
 - https://github.com/metac0rtex/GitHarvester (Used for harvesting information from GitHub)
 - https://github.com/0xbug/Hawkeye (Github leak scan foe enterprise)
+- https://github.com/lianfeng30/githubscan (Github leak scan for enterprise)
 
 #### IoT Detecting Tools or Scanners
 
@@ -101,7 +102,6 @@
 - https://github.com/ysrc/xunfeng （Vulnerability rapid response,scanning system for Intranet)
 - https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
 - https://github.com/x0day/Multisearch-v2 (Enterprise assets collector based on search engine)
-- https://github.com/lianfeng30/githubscan (Github leak scan foe enterprise)
 - https://github.com/Ekultek/Zeus-Scanner (An advanced dork searching tool that is capable of bypassing search engine API calls, search engine captchas, and IP address blocking from sending many requests to the search engine itself. and can run sqlmap and nmap scans on the URL's)
 - https://github.com/0xbug/Biu-framework (Security Scan Framework For Enterprise Intranet Based Services)
 
@@ -279,7 +279,7 @@ The purpose of this collection is to provide various types of  opensource securi
 
 ### Symbolic Description
 
-[↑] means update,[+] means add,[-] means remove
+[↑] means update,[+] means add,[-] means remove,[move] means move,[other] means other actions
 
 ### Disclaimer
 
