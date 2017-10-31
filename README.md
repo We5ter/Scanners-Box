@@ -114,6 +114,7 @@
 - https://github.com/nbs-system/php-malware-finder (An awesome tool to detect potentially malicious PHP files)
 - https://github.com/emposha/PHP-Shell-Detector/ （Helps you find and identify php/cgi(perl)/asp/aspx shells)
 - https://github.com/erevus-cn/scan_webshell (Simple webshell Detector)
+- https://github.com/emposha/Shell-Detector (A application that helps you find and identify php/perl/asp/aspx shells)
 
 #### Intranet Penetration Tools or Scanners
 
@@ -189,6 +190,7 @@
 - https://github.com/hahwul/a2sv （Auto Scanning to SSL Vulnerability,such as heartbleed etc）
 - https://github.com/NullArray/DorkNet (Selenium powered Python script to automate searching for vulnerable web apps)
 - https://github.com/NickstaDB/BaRMIe (Java RMI enumeration and attack tool)
+- https://github.com/RetireJS/grunt-retire (Scanner detecting the use of JavaScript libraries with known vulnerabilities)
 
 #### Wireless network Scanners
 
