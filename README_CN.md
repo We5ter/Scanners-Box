@@ -163,7 +163,9 @@
 - https://github.com/UltimateHackers/Breacher (多线程的后台路径扫描器，也可用于发现Execution After Redirect漏洞）
 - https://github.com/ztgrace/changeme (弱口令扫描器，不仅支持普通登录页，也支持ssh、mongodb等组件）
 - https://github.com/medbenali/CyberScan (渗透测试辅助工具，支持分析数据包、解码、端口扫描、IP地址分析等）
- 
+- https://github.com/m0nad/HellRaiser (基于nmap的扫描器，与cve漏洞关联）
+- https://github.com/scipag/vulscan (基于nmap的高级漏洞扫描器，命令行环境使用）
+
 #### 专用（即特定性针对某些组件）扫描器
 
 - https://github.com/blackye/Jenkins (Jenkins漏洞探测、用户抓取爆破)
@@ -242,7 +244,6 @@
 - https://github.com/Arachni/arachni (高度集成化的Web应用漏洞扫描框架，支持REST、RPC等api调用）
 - https://github.com/infobyte/faraday （集成化渗透测试辅助平台及漏洞管理平台）
 - https://github.com/boy-hack/w8scan (一款基于bugscan扫描和架构思想的扫描器）
-- https://github.com/scipag/vulscan (基于nmap的高级漏洞扫描器，命令行环境使用）
 - https://github.com/juansacco/exploitpack (渗透测试集成框架，包含超过38,000+ exploits)
 - https://github.com/swisskyrepo/DamnWebScanner （基于chrome/opera插件的被动式漏洞扫描）
 - https://github.com/anilbaranyelken/tulpar (支持多种web漏洞扫描，命令行环境使用）
@@ -279,7 +280,7 @@
 
 ### 符号说明
 
-[↑]代表更新,[+]代表添加,[-]代表移除
+[↑]代表更新,[+]代表添加,[-]代表移除,[move]代表移动,[other]代表其他操作
 
 ### 免责说明
 
