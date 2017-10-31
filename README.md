@@ -112,9 +112,10 @@
 - https://github.com/Tencent/HaboMalHunter (Used for automated malware analysis and security assessment on the Linux system)
 - https://github.com/PlagueScanner/PlagueScanner (Open source multiple AV scanner framework)
 - https://github.com/nbs-system/php-malware-finder (An awesome tool to detect potentially malicious PHP files)
-- https://github.com/emposha/PHP-Shell-Detector/ （Helps you find and identify php/cgi(perl)/asp/aspx shells)
+- https://github.com/emposha/PHP-Shell-Detector （Helps you find and identify php/cgi(perl)/asp/aspx shells)
 - https://github.com/erevus-cn/scan_webshell (Simple webshell Detector)
 - https://github.com/emposha/Shell-Detector (A application that helps you find and identify php/perl/asp/aspx shells)
+- https://github.com/m4rco-/dorothy2 (A malware/botnet analysis framework written in Ruby)
 
 #### Intranet Penetration Tools or Scanners
 
