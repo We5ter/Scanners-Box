@@ -116,6 +116,7 @@
 - https://github.com/emposha/PHP-Shell-Detector/ (测试效率高达99%的webshell检测工具)
 - https://github.com/erevus-cn/scan_webshell (一款简洁的Webshell扫描工具）
 - https://github.com/emposha/Shell-Detector （Webshell扫描工具，支持php/perl/asp/aspx webshell扫描)
+- https://github.com/m4rco-/dorothy2 (一款木马、僵尸网络分析框架）
 
 #### 内网渗透或扫描工具
 
