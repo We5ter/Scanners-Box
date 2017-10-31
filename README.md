@@ -162,6 +162,8 @@
 - https://github.com/UltimateHackers/Breacher (An advanced multithreaded admin panel finder written in python)
 - https://github.com/ztgrace/changeme （A default credential scanner）
 - https://github.com/medbenali/CyberScan (An open source penetration testing tool that can analyse packets,decoding,scanning ports, pinging and geolocation of an IP)
+- https://github.com/m0nad/HellRaiser (HellRaiser scan with nmap then correlates cpe's found with cve-search to enumerate vulnerabilities)
+- https://github.com/scipag/vulscan (Advanced vulnerability scanning with Nmap NSE)
 
 #### Special Scanners(Just for some special Components)
 
@@ -242,7 +244,6 @@
 - https://github.com/Tuhinshubhra/RED_HAWK (An All In One Tool For Information Gathering, SQL Vulnerability Scanning and Crawling. Coded In PHP)
 - https://github.com/Arachni/arachni (Web Application Security Scanner Framework)
 - https://github.com/boy-hack/w8scan (A scanner that similar to bugscan)
-- https://github.com/scipag/vulscan (Advanced vulnerability scanning with Nmap NSE)
 - https://github.com/juansacco/exploitpack (Exploit Pack - Penetration testing framework GPLv3)
 - https://github.com/swisskyrepo/DamnWebScanner (Another web vulnerabilities scanner, this extension works on Chrome and Opera)
 - https://github.com/anilbaranyelken/tulpar （Web Vulnerability Scanner written in python,supported multiple web vulnerabilities scan）
