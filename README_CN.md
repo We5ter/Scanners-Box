@@ -78,6 +78,7 @@
 - https://github.com/UltimateHackers/Blazy (支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器）
 - https://github.com/metac0rtex/GitHarvester (github Repo信息搜集工具)
 - https://github.com/0xbug/Hawkeye (企业资产、敏感信息GitHub泄露监控系统）
+- https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和文件内容扫描的工具）
 
 #### 物联网设备识别工具或扫描器
 
@@ -102,7 +103,6 @@
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
 - https://github.com/x0day/Multisearch-v2  (Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
-- https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和文件内容扫描的工具）
 - https://github.com/Ekultek/Zeus-Scanner (集成化的综合搜索引擎，能够抓取被搜索引擎隐藏的url,并交由sqlmap、nmap扫描）
 - https://github.com/0xbug/Biu-framework (企业内网基础服务安全扫描框架)
 
