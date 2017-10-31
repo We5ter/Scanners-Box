@@ -100,21 +100,22 @@
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
 - https://github.com/x0day/Multisearch-v2  (Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
-- https://github.com/0xbug/Hawkeye (企业资产GitHub泄露监控系统）
+- https://github.com/0xbug/Hawkeye (企业资产、敏感信息GitHub泄露监控系统）
 - https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和文件内容扫描的工具）
 - https://github.com/Ekultek/Zeus-Scanner (集成化的综合搜索引擎，能够抓取被搜索引擎隐藏的url,并交由sqlmap、nmap扫描）
 - https://github.com/0xbug/Biu-framework (企业内网基础服务安全扫描框架)
 
 #### webshell检测或病毒分析工具
 
-- https://github.com/ym2011/ScanBackdoor （一款简单的Webshell扫描工具）
+- https://github.com/ym2011/ScanBackdoor （一款简洁的Webshell扫描工具）
 - https://github.com/yassineaddi/BackdoorMan （可对指定目录进行php webshell检测）
 - https://github.com/he1m4n6a/findWebshell （一款简单的webshell检测工具)
 - https://github.com/Tencent/HaboMalHunter （哈勃分析系统，linux系统病毒分析及安全检测）
 - https://github.com/PlagueScanner/PlagueScanner (使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎)
 - https://github.com/nbs-system/php-malware-finder (一款高效率PHP-webshell扫描工具)
 - https://github.com/emposha/PHP-Shell-Detector/ (测试效率高达99%的webshell检测工具)
-- https://github.com/erevus-cn/scan_webshell (一款简单的Webshell扫描工具）
+- https://github.com/erevus-cn/scan_webshell (一款简洁的Webshell扫描工具）
+- https://github.com/emposha/Shell-Detector （Webshell扫描工具，支持php/perl/asp/aspx webshell扫描)
 
 #### 内网渗透或扫描工具
 
@@ -188,8 +189,9 @@
 - https://github.com/mak-/parameth (用于枚举脚本的GET/POST未知参数字段）
 - https://github.com/Lucifer1993/struts-scan (struts2漏洞全版本检测和利用工具)
 - https://github.com/hahwul/a2sv (SSL漏洞扫描，例如心脏滴血漏洞等）
-- https://github.com/NullArray/DorkNet (基于搜索引擎的漏洞页面搜寻）
+- https://github.com/NullArray/DorkNet (基于搜索引擎的漏洞网页搜寻）
 - https://github.com/NickstaDB/BaRMIe (用于攻击爆破Java Remote Method Invocation服务的工具)
+- https://github.com/RetireJS/grunt-retire (扫描js扩展库的常见漏洞）
 
 #### 无线网络（审计）扫描器
 
