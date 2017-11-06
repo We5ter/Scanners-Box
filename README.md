@@ -164,6 +164,7 @@
 - https://github.com/medbenali/CyberScan (An open source penetration testing tool that can analyse packets,decoding,scanning ports, pinging and geolocation of an IP)
 - https://github.com/m0nad/HellRaiser (HellRaiser scan with nmap then correlates cpe's found with cve-search to enumerate vulnerabilities)
 - https://github.com/scipag/vulscan (Advanced vulnerability scanning with Nmap NSE)
+- https://github.com/jekyc/wig (WebApp Information Gatherer)
 
 #### Special Scanners(Just for some special Components)
 
