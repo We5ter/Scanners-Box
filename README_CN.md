@@ -165,6 +165,7 @@
 - https://github.com/medbenali/CyberScan (渗透测试辅助工具，支持分析数据包、解码、端口扫描、IP地址分析等）
 - https://github.com/m0nad/HellRaiser (基于nmap的扫描器，与cve漏洞关联）
 - https://github.com/scipag/vulscan (基于nmap的高级漏洞扫描器，命令行环境使用）
+- https://github.com/jekyc/wig (web应用信息搜集工具）
 
 #### 专用（即特定性针对某些组件）扫描器
 
