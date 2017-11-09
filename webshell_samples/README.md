@@ -11,3 +11,4 @@ Webshell_sample_library(webshell样本库)
 - https://github.com/dotcppfile/DAws
 - https://github.com/BlackArch/webshells
 - https://github.com/testsecer/WebShell
+- https://github.com/malwares/WebShell
