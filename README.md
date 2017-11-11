@@ -165,6 +165,7 @@
 - https://github.com/m0nad/HellRaiser (HellRaiser scan with nmap then correlates cpe's found with cve-search to enumerate vulnerabilities)
 - https://github.com/scipag/vulscan (Advanced vulnerability scanning with Nmap NSE)
 - https://github.com/jekyc/wig (WebApp Information Gatherer)
+- https://github.com/eldraco/domain_analyzer (Analyze the security of any domain by finding all the information possible)
 
 #### Special Scanners(Just for some special Components)
 
