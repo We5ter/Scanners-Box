@@ -166,6 +166,7 @@
 - https://github.com/m0nad/HellRaiser (基于nmap的扫描器，与cve漏洞关联）
 - https://github.com/scipag/vulscan (基于nmap的高级漏洞扫描器，命令行环境使用）
 - https://github.com/jekyc/wig (web应用信息搜集工具）
+- https://github.com/eldraco/domain_analyzer (围绕web服务的域名进行信息收集和"域传送"等漏洞扫描，也支持针对背后的服务器端口扫描等）
 
 #### 专用（即特定性针对某些组件）扫描器
 
