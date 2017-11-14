@@ -200,6 +200,7 @@
 - https://github.com/RetireJS/grunt-retire (扫描js扩展库的常见漏洞）
 - https://github.com/kotobukki/BDA (针对hadoop/spark等大数据平台的的漏洞探测工具）
 - https://github.com/jagracey/Regex-DoS (RegEx 拒绝服务扫描器)
+- https://github.com/milesrichardson/docker-onion-nmap (使用nmap扫描Tor网络上隐藏的"onion"服务)
 
 #### 无线网络（审计）扫描器
 
