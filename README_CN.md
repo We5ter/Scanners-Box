@@ -167,12 +167,13 @@
 - https://github.com/scipag/vulscan (基于nmap的高级漏洞扫描器，命令行环境使用）
 - https://github.com/jekyc/wig (web应用信息搜集工具）
 - https://github.com/eldraco/domain_analyzer (围绕web服务的域名进行信息收集和"域传送"等漏洞扫描，也支持针对背后的服务器端口扫描等）
+- https://github.com/cloudtracer/paskto (基于Nikto扫描规则的被动式路径扫描以及信息爬虫）
 
 #### 专用（即特定性针对某些组件）扫描器
 
 - https://github.com/blackye/Jenkins (Jenkins漏洞探测、用户抓取爆破)
-- https://github.com/code-scan/dzscan (Discuz扫描)
-- https://github.com/chuhades/CMS-Exploit-Framework (CMS攻击框架)
+- https://github.com/code-scan/dzscan (首款集成化的Discuz扫描工具)
+- https://github.com/chuhades/CMS-Exploit-Framework (一款简洁优雅的CMS扫描利用框架)
 - https://github.com/lijiejie/IIS_shortname_Scanner （IIS短文件名暴力枚举漏洞利用工具)
 - https://github.com/riusksk/FlashScanner (flashxss扫描)
 - https://github.com/coffeehb/SSTIF （一个Fuzzing服务器端模板注入漏洞的半自动化工具）
