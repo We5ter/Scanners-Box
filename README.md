@@ -199,6 +199,7 @@
 - https://github.com/RetireJS/grunt-retire (Scanner detecting the use of JavaScript libraries with known vulnerabilities)
 - https://github.com/kotobukki/BDA (The vulnerability detector for Hadoop and Spark)
 - https://github.com/jagracey/Regex-DoS (RegEx Denial of Service Scanner)
+- https://github.com/milesrichardson/docker-onion-nmap (Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq)
 
 #### Wireless network Scanners
 
