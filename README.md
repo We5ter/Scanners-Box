@@ -13,7 +13,7 @@
 
 ### Project Description
 
-**Scanners Box** is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc.**For other Well-known scanning tools, such as: nmap, w3af will not be included in the scope of collection.**
+**Scanners Box** is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc. **For other Well-known scanning tools, such as: awvs,nmap,w3af will not be included in the scope of collection.**
 
 ***
 
@@ -263,6 +263,7 @@
 - https://github.com/zaproxy/zaproxy (One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers)
 - https://github.com/sullo/nikto (Nikto is a web server assessment tool. It is designed to find various default and insecure files, configurations and programs on any type of web server)
 - https://github.com/UltimateHackers/Striker (Striker is an offensive information and vulnerability scanner)
+- https://github.com/dermotblair/webvulscan (Written in PHP and can be used to test remote, or local, web applications for security vulnerabilities)
 
 #### Some Tools relate with APT
 
@@ -296,7 +297,7 @@ We welcome everyone to contribute,you can open an issue for this if you have som
 
 ### Copyright
 
-Please specify reproduced  from https://github.com/We5ter/Scanners-Box , and please do not republish this article for seeking unjust benefit.
+Please specify reproduced  from https://github.com/We5ter/Scanners-Box , and please do not republish this article for profit.
 
 ### Acknowledgments
 
