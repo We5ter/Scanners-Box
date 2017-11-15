@@ -14,7 +14,7 @@
 
 ### 项目简介
 
-**Scanners Box**是一个集合github平台上的安全行业从业者自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器，**同时该仓库只收录各位网友自己编写的一般性开源扫描器，类似nmap、w3af等知名扫描工具不收录**。
+**Scanners Box**是一个集合github平台上的安全行业从业者自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器，**同时该仓库只收录各位网友自己编写的一般性开源扫描器，类似awvs、nmap、w3af等知名扫描工具不收录**。
 
 ***
 
@@ -263,6 +263,7 @@
 - https://github.com/zaproxy/zaproxy (The OWASP ZAP core project出品的综合性渗透测试工具）
 - https://github.com/sullo/nikto (Web服务综合型扫描器，用于指定目标的资产收集、安全配置缺陷或者安全漏洞扫描）
 - https://github.com/UltimateHackers/Striker (一款多方位信息收集、指纹识别及漏洞扫描工具）
+- https://github.com/dermotblair/webvulscan (一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞，支持输出pdf报告)
 
 #### 高级持续性威胁(APT)相关工具
 
