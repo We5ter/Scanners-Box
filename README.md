@@ -201,6 +201,7 @@
 - https://github.com/kotobukki/BDA (The vulnerability detector for Hadoop and Spark)
 - https://github.com/jagracey/Regex-DoS (RegEx Denial of Service Scanner)
 - https://github.com/milesrichardson/docker-onion-nmap (Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq)
+- https://github.com/Moham3dRiahi/XAttacker (Web CMS Exploit Framework)
 
 #### Wireless network Scanners
 
