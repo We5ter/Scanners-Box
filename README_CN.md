@@ -168,6 +168,7 @@
 - https://github.com/jekyc/wig (web应用信息搜集工具）
 - https://github.com/eldraco/domain_analyzer (围绕web服务的域名进行信息收集和"域传送"等漏洞扫描，也支持针对背后的服务器端口扫描等）
 - https://github.com/cloudtracer/paskto (基于Nikto扫描规则的被动式路径扫描以及信息爬虫）
+- https://github.com/zerokeeper/WebEye (快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架)
 
 #### 专用（即特定性针对某些组件）扫描器
 
