@@ -167,6 +167,7 @@
 - https://github.com/jekyc/wig (WebApp Information Gatherer)
 - https://github.com/eldraco/domain_analyzer (Analyze the security of any domain by finding all the information possible)
 - https://github.com/cloudtracer/paskto (Passive directory scanner and web crawler based on Nikto DB)
+- https://github.com/zerokeeper/WebEye (A  web service and WAF fingerprinter)
 
 #### Special Scanners(Just for some special Components)
 
