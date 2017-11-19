@@ -168,6 +168,7 @@
 - https://github.com/eldraco/domain_analyzer (Analyze the security of any domain by finding all the information possible)
 - https://github.com/cloudtracer/paskto (Passive directory scanner and web crawler based on Nikto DB)
 - https://github.com/zerokeeper/WebEye (A  web service and WAF fingerprinter)
+- https://github.com/m3liot/shcheck (Just check security headers on a target website)
 
 #### Special Scanners(Just for some special Components)
 
@@ -287,7 +288,12 @@ The purpose of this collection is to provide various types of  opensource securi
 
 ### Symbolic Description
 
-[↑] means update,[+] means add,[-] means remove,[move] means move,[other] means other actions
+**[↑]** means **update scanner**<br>
+**[+]** means **add scanner**<br>
+**[-]** means **remove scanner**<br>
+**[move]** means **move scanner**<br>
+**[ac]** means **add someone to Acknowledgments**<br>
+**[other]** means **other actions**
 
 ### Disclaimer
 
@@ -313,6 +319,7 @@ Please specify reproduced  from https://github.com/We5ter/Scanners-Box , and ple
 - **@UltimateHackers team**
 - **@boy-hack**
 - **@marsII**
+- **@tom0li**
 
 &copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2016-2017
 
