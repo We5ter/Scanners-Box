@@ -169,6 +169,7 @@
 - https://github.com/eldraco/domain_analyzer (围绕web服务的域名进行信息收集和"域传送"等漏洞扫描，也支持针对背后的服务器端口扫描等）
 - https://github.com/cloudtracer/paskto (基于Nikto扫描规则的被动式路径扫描以及信息爬虫）
 - https://github.com/zerokeeper/WebEye (快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架)
+- https://github.com/m3liot/shcheck (用于检查web服务的http header的安全性)
 
 #### 专用（即特定性针对某些组件）扫描器
 
@@ -287,7 +288,12 @@
 
 ### 符号说明
 
-[↑]代表更新,[+]代表添加,[-]代表移除,[move]代表移动,[other]代表其他操作
+**[↑]** 表示 **更新扫描器**<br>
+**[+]** 表示 **添加扫描器**<br>
+**[-]** 表示 **移除扫描器**<br>
+**[move]** 表示 **移动扫描器**<br>
+**[ac]** 表示 **添加某人至致谢榜**<br>
+**[other]** 表示 **其他操作**
 
 ### 免责说明
 
@@ -313,5 +319,6 @@
 - **@UltimateHackers团队**
 - **@boy-hack**
 - **@marsII**
+- **@tom0li**
 
 &copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2016-2017
