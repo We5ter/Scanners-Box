@@ -267,6 +267,7 @@
 - https://github.com/sullo/nikto (Web服务综合型扫描器，用于指定目标的资产收集、安全配置缺陷或者安全漏洞扫描）
 - https://github.com/UltimateHackers/Striker (一款多方位信息收集、指纹识别及漏洞扫描工具）
 - https://github.com/dermotblair/webvulscan (一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞，支持输出pdf报告)
+- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (渗透测试辅助工具，综合利用框架）
 
 #### 高级持续性威胁(APT)相关工具
 
