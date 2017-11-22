@@ -78,6 +78,7 @@
 - https://github.com/metac0rtex/GitHarvester (Used for harvesting information from GitHub)
 - https://github.com/0xbug/Hawkeye (Github leak scan foe enterprise)
 - https://github.com/lianfeng30/githubscan (Github leak scan for enterprise)
+- https://github.com/UnkL4b/GitMiner （Advanced search tool and automation in Github）
 
 #### IoT Detecting Tools or Scanners
 
