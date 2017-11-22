@@ -79,6 +79,7 @@
 - https://github.com/metac0rtex/GitHarvester (github Repo信息搜集工具)
 - https://github.com/0xbug/Hawkeye (企业资产、敏感信息GitHub泄露监控系统）
 - https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和文件内容扫描的工具）
+- https://github.com/UnkL4b/GitMiner （github敏感信息搜索工具）
 
 #### 物联网设备识别工具或扫描器
 
