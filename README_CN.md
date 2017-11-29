@@ -232,6 +232,7 @@
 - https://github.com/shengqi158/pyvulhunter （Python应用审计）
 - https://github.com/presidentbeef/brakeman ( Ruby on Rails应用静态代码分析）
 - https://github.com/python-security/pyt (Python应用静态代码审计）
+- https://github.com/m4ll0k/WPSploit (Wordpress插件代码安全审计）
 
 #### 模块化设计扫描器或漏洞检测框架
 
