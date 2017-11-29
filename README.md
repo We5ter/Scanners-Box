@@ -232,6 +232,7 @@
 - https://github.com/shengqi158/pyvulhunter  (A static security code scanner for python applications)
 - https://github.com/presidentbeef/brakeman (A static analysis security vulnerability scanner for Ruby on Rails applications)
 - https://github.com/python-security/pyt (A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications)
+- https://github.com/m4ll0k/WPSploit (WordPress Plugin Code audit)
 
 #### Modular design Scanners or vulnerability detecting framework
 
@@ -268,7 +269,7 @@
 - https://github.com/sullo/nikto (Nikto is a web server assessment tool. It is designed to find various default and insecure files, configurations and programs on any type of web server)
 - https://github.com/UltimateHackers/Striker (Striker is an offensive information and vulnerability scanner)
 - https://github.com/dermotblair/webvulscan (Written in PHP and can be used to test remote, or local, web applications for security vulnerabilities)
--https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (Penetration testing aiding tool and exploitation framework)
+- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (Penetration testing aiding tool and exploitation framework)
 
 #### Some Tools relate with APT
 
