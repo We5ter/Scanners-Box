@@ -58,27 +58,17 @@
 - https://github.com/Hadesy2k/sqliv (Massive SQL injection vulnerability scanner)
 - https://github.com/UltimateHackers/sqlmate (A friend of SQLmap which will do what you always expected from SQLmap)
 
-#### Weak Passwords or Information Leak Scanners
+#### Weak Passwords/Users Scanners or Enumeration Tools
 
 - https://github.com/lijiejie/htpwdScan (A python HTTP weak pass scanner)
-- https://github.com/lijiejie/BBScan (A tiny Batch weB vulnerability Scanner)
-- https://github.com/lijiejie/GitHack  (A `.git` folder disclosure exploit)
-- https://github.com/wilson9x1/fenghuangscanner_v3 (ports&weak password scanner)
 - https://github.com/ysrc/F-Scrack (single file bruteforcer supports multi-protocol)
 - https://github.com/Mebus/cupp (Common User Passwords Profiler)
 - https://github.com/netxfly/crack_ssh (Ssh\redis\mongodb weak password bruteforcer)
-- https://github.com/n0tr00t/Sreg (Social information collector)
-- https://github.com/repoog/GitPrey (Searching sensitive files and contents in GitHub)
 - https://github.com/dxa4481/truffleHog (Searches high entropy strings through git repositories)
 - https://github.com/LandGrey/pydictor (A useful hacker dictionary builder for a brute-force attack)
 - https://github.com/fnk0c/cangibrina (A fast and powerfull dashboard (admin) finder)
-- https://github.com/shengqi158/svnhack (A `.svn` folder disclosure exploit)
 - https://github.com/shengqi158/weak_password_detect (A python HTTP weak password scanner)
 - https://github.com/UltimateHackers/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
-- https://github.com/metac0rtex/GitHarvester (Used for harvesting information from GitHub)
-- https://github.com/0xbug/Hawkeye (Github leak scan foe enterprise)
-- https://github.com/lianfeng30/githubscan (Github leak scan for enterprise)
-- https://github.com/UnkL4b/GitMiner （Advanced search tool and automation in Github）
 
 #### IoT Detecting Tools or Scanners
 
@@ -98,13 +88,20 @@
 - https://github.com/UltimateHackers/XSStrike (fuzz and bruteforce parameters for XSS,WAFs detect and bypass)
 - https://github.com/stamparm/DSXS （A fully functional Cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code）
 
-#### Enterprise Assets Collection Tools or Management Tools
+#### Enterprise Assets Collection or Management Tools
 
-- https://github.com/ysrc/xunfeng （Vulnerability rapid response,scanning system for Intranet)
+- https://github.com/ysrc/xunfeng (Vulnerability rapid response,scanning system for Intranet)
 - https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
 - https://github.com/x0day/Multisearch-v2 (Enterprise assets collector based on search engine)
 - https://github.com/Ekultek/Zeus-Scanner (An advanced dork searching tool that is capable of bypassing search engine API calls, search engine captchas, and IP address blocking from sending many requests to the search engine itself. and can run sqlmap and nmap scans on the URL's)
 - https://github.com/0xbug/Biu-framework (Security Scan Framework For Enterprise Intranet Based Services)
+- https://github.com/metac0rtex/GitHarvester (Used for harvesting information from GitHub)
+- https://github.com/shengqi158/svnhack (A `.svn` folder disclosure exploit)
+- https://github.com/repoog/GitPrey (Searching sensitive files and contents in GitHub)
+- https://github.com/0xbug/Hawkeye (Github leak scan foe enterprise)
+- https://github.com/lianfeng30/githubscan (Github leak scan for enterprise)
+- https://github.com/UnkL4b/GitMiner （Advanced search tool and automation in Github）
+- https://github.com/lijiejie/GitHack (A `.git` folder disclosure exploit)
 
 #### Webshell Detection or Malware Analysis Tools
 
@@ -206,6 +203,7 @@
 - https://github.com/jagracey/Regex-DoS (RegEx Denial of Service Scanner)
 - https://github.com/milesrichardson/docker-onion-nmap (Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq)
 - https://github.com/Moham3dRiahi/XAttacker (Web CMS Exploit Framework)
+- https://github.com/lijiejie/BBScan (A tiny Batch weB vulnerability Scanner)
 
 #### Wireless network Scanners
 
