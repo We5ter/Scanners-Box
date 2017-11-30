@@ -170,6 +170,7 @@
 - https://github.com/cloudtracer/paskto (Passive directory scanner and web crawler based on Nikto DB)
 - https://github.com/zerokeeper/WebEye (A  web service and WAF fingerprinter)
 - https://github.com/m3liot/shcheck (Just check security headers on a target website)
+- https://github.com/aipengjie/sensitivefilescan (A speed and awesome sensitive files scanner)
 
 #### Special Scanners(Just for some special Components)
 
