@@ -171,6 +171,7 @@
 - https://github.com/cloudtracer/paskto (基于Nikto扫描规则的被动式路径扫描以及信息爬虫）
 - https://github.com/zerokeeper/WebEye (快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架)
 - https://github.com/m3liot/shcheck (用于检查web服务的http header的安全性)
+- https://github.com/aipengjie/sensitivefilescan (一款高效快捷的敏感文件扫描工具）
 
 #### 专用（即特定性针对某些组件）扫描器
 
