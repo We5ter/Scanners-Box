@@ -64,9 +64,7 @@
 - https://github.com/ysrc/F-Scrack (single file bruteforcer supports multi-protocol)
 - https://github.com/Mebus/cupp (Common User Passwords Profiler)
 - https://github.com/netxfly/crack_ssh (Ssh\redis\mongodb weak password bruteforcer)
-- https://github.com/dxa4481/truffleHog (Searches high entropy strings through git repositories)
 - https://github.com/LandGrey/pydictor (A useful hacker dictionary builder for a brute-force attack)
-- https://github.com/fnk0c/cangibrina (A fast and powerfull dashboard (admin) finder)
 - https://github.com/shengqi158/weak_password_detect (A python HTTP weak password scanner)
 - https://github.com/UltimateHackers/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
 
@@ -88,7 +86,7 @@
 - https://github.com/UltimateHackers/XSStrike (fuzz and bruteforce parameters for XSS,WAFs detect and bypass)
 - https://github.com/stamparm/DSXS （A fully functional Cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code）
 
-#### Enterprise Assets Collection or Management Tools
+#### Enterprise Assets Management or Leaks Gather Tools
 
 - https://github.com/ysrc/xunfeng (Vulnerability rapid response,scanning system for Intranet)
 - https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
@@ -102,6 +100,7 @@
 - https://github.com/lianfeng30/githubscan (Github leak scan for enterprise)
 - https://github.com/UnkL4b/GitMiner （Advanced search tool and automation in Github）
 - https://github.com/lijiejie/GitHack (A `.git` folder disclosure exploit)
+- https://github.com/dxa4481/truffleHog (Searches high entropy strings through git repositories)
 
 #### Webshell Detection or Malware Analysis Tools
 
@@ -168,6 +167,7 @@
 - https://github.com/zerokeeper/WebEye (A  web service and WAF fingerprinter)
 - https://github.com/m3liot/shcheck (Just check security headers on a target website)
 - https://github.com/aipengjie/sensitivefilescan (A speed and awesome sensitive files scanner)
+- https://github.com/fnk0c/cangibrina (A fast and powerfull dashboard (admin) finder)
 
 #### Special Scanners(Just for some special Components)
 
