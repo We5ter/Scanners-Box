@@ -65,9 +65,7 @@
 - https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
 - https://github.com/Mebus/cupp （根据用户习惯生成弱口令探测字典脚本）
 - https://github.com/netxfly/crack_ssh （Go写的协程版的ssh\redis\mongodb弱口令破解工具）
-- https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
 - https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
-- https://github.com/fnk0c/cangibrina (通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
 - https://github.com/shengqi158/weak_password_detect (多线程探测弱口令）
 - https://github.com/UltimateHackers/Blazy (支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器）
 
@@ -90,7 +88,7 @@
 - https://github.com/UltimateHackers/XSStrike (可识别并绕过WAF的XSS扫描工具)
 - https://github.com/stamparm/DSXS (支持GET、POST方式的高效XSS扫描器）
 
-#### 企业资产收集或管理工具
+#### 企业资产管理或信息泄露搜集工具
 
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
@@ -104,6 +102,7 @@
 - https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和文件内容扫描的工具）
 - https://github.com/UnkL4b/GitMiner （github敏感信息搜索工具）
 - https://github.com/lijiejie/GitHack (`.git`文件夹泄漏利用工具) 
+- https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
 
 #### webshell检测或病毒分析工具
 
@@ -170,6 +169,7 @@
 - https://github.com/zerokeeper/WebEye (快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架)
 - https://github.com/m3liot/shcheck (用于检查web服务的http header的安全性)
 - https://github.com/aipengjie/sensitivefilescan (一款高效快捷的敏感文件扫描工具）
+- https://github.com/fnk0c/cangibrina (通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
 
 #### 专用（即特定性针对某些组件）扫描器
 
