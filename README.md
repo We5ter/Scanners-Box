@@ -38,6 +38,7 @@
 - https://github.com/laramies/theHarvester （E-mail, subdomain and people names harvester ）
 - https://github.com/swisskyrepo/Subdomino (An application that enumerates subdomains, and scan them with several rules)
 - https://github.com/nmalcolm/Inventus (A spider designed to find subdomains of a specific domain by crawling it)
+- https://github.com/aboul3la/Sublist3r (Fast subdomains enumeration tool for penetration testers)
 
 #### Database Vulnerability Scanners or Enumeration Tools
 
@@ -168,6 +169,7 @@
 - https://github.com/m3liot/shcheck (Just check security headers on a target website)
 - https://github.com/aipengjie/sensitivefilescan (A speed and awesome sensitive files scanner)
 - https://github.com/fnk0c/cangibrina (A fast and powerfull dashboard (admin) finder)
+- https://github.com/n4xh4ck5/CMSsc4n (Tool to identify if a domain is a CMS such as Wordpress, Moodle, Joomla)
 
 #### Special Scanners(Just for some special Components)
 
