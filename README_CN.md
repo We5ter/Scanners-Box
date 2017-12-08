@@ -39,6 +39,7 @@
 - https://github.com/laramies/theHarvester (邮箱、服务器信息收集及子域名枚举工具）
 - https://github.com/swisskyrepo/Subdomino (子域名枚举，端口扫描，服务存活确认）
 - https://github.com/nmalcolm/Inventus (通过爬虫实现的子域名收集工具）
+- https://github.com/aboul3la/Sublist3r (快速子域枚举工具)
 
 #### 数据库类漏洞扫描器或爆破工具
 
@@ -170,6 +171,7 @@
 - https://github.com/m3liot/shcheck (用于检查web服务的http header的安全性)
 - https://github.com/aipengjie/sensitivefilescan (一款高效快捷的敏感文件扫描工具）
 - https://github.com/fnk0c/cangibrina (通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
+- https://github.com/n4xh4ck5/CMSsc4n (CMS指纹识别）
 
 #### 专用（即特定性针对某些组件）扫描器
 
