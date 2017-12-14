@@ -39,6 +39,8 @@
 - https://github.com/swisskyrepo/Subdomino (An application that enumerates subdomains, and scan them with several rules)
 - https://github.com/nmalcolm/Inventus (A spider designed to find subdomains of a specific domain by crawling it)
 - https://github.com/aboul3la/Sublist3r (Fast subdomains enumeration tool for penetration testers)
+- https://github.com/jonluca/Anubis （Subdomain enumeration and information gathering tool）
+- https://github.com/n4xh4ck5/N4xD0rk (Listing subdomains about a main domain)
 
 #### Database Vulnerability Scanners or Enumeration Tools
 
@@ -102,6 +104,7 @@
 - https://github.com/UnkL4b/GitMiner （Advanced search tool and automation in Github）
 - https://github.com/lijiejie/GitHack (A `.git` folder disclosure exploit)
 - https://github.com/dxa4481/truffleHog (Searches high entropy strings through git repositories)
+- https://github.com/1N3/Goohak （Automatically Launch Google Hacking Queries Against A Target Domain）
 
 #### Webshell Detection or Malware Analysis Tools
 
