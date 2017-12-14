@@ -40,6 +40,8 @@
 - https://github.com/swisskyrepo/Subdomino (子域名枚举，端口扫描，服务存活确认）
 - https://github.com/nmalcolm/Inventus (通过爬虫实现的子域名收集工具）
 - https://github.com/aboul3la/Sublist3r (快速子域枚举工具)
+- https://github.com/jonluca/Anubis （子域名枚举及信息搜集工具）
+- https://github.com/n4xh4ck5/N4xD0rk (子域名查询工具)
 
 #### 数据库类漏洞扫描器或爆破工具
 
@@ -104,6 +106,7 @@
 - https://github.com/UnkL4b/GitMiner （github敏感信息搜索工具）
 - https://github.com/lijiejie/GitHack (`.git`文件夹泄漏利用工具) 
 - https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
+- https://github.com/1N3/Goohak （自动化对指定域名进行Google hacking搜索并收集信息）
 
 #### webshell检测或病毒分析工具
 
