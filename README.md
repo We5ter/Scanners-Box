@@ -118,6 +118,7 @@
 - https://github.com/erevus-cn/scan_webshell (Simple webshell Detector)
 - https://github.com/emposha/Shell-Detector (A application that helps you find and identify php/perl/asp/aspx shells)
 - https://github.com/m4rco-/dorothy2 (A malware/botnet analysis framework written in Ruby)
+- https://github.com/droidefense/engine (Advance Android Malware Analysis Framework)
 
 #### Intranet Penetration Tools or Scanners
 
