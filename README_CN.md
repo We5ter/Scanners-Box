@@ -108,7 +108,7 @@
 - https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
 - https://github.com/1N3/Goohak （自动化对指定域名进行Google hacking搜索并收集信息）
 
-#### webshell检测或病毒分析工具
+#### webshell检测或木马分析工具
 
 - https://github.com/ym2011/ScanBackdoor （一款简洁的Webshell扫描工具）
 - https://github.com/yassineaddi/BackdoorMan （可对指定目录进行php webshell检测）
@@ -120,6 +120,7 @@
 - https://github.com/erevus-cn/scan_webshell (一款简洁的Webshell扫描工具）
 - https://github.com/emposha/Shell-Detector （Webshell扫描工具，支持php/perl/asp/aspx webshell扫描)
 - https://github.com/m4rco-/dorothy2 (一款木马、僵尸网络分析框架）
+- https://github.com/droidefense/engine (高级安卓木马病毒分析框架）
 
 #### 内网渗透或扫描工具
 
