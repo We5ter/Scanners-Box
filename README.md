@@ -174,6 +174,7 @@
 - https://github.com/aipengjie/sensitivefilescan (A speed and awesome sensitive files scanner)
 - https://github.com/fnk0c/cangibrina (A fast and powerfull dashboard (admin) finder)
 - https://github.com/n4xh4ck5/CMSsc4n (Tool to identify if a domain is a CMS such as Wordpress, Moodle, Joomla)
+- https://github.com/Ekultek/WhatWaf （Detect and bypass web application firewalls and protection systems）
 
 #### Special Scanners(Just for some special Components)
 
