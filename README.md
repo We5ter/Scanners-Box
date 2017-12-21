@@ -127,7 +127,7 @@
 - https://github.com/fdiskyou/hunter (User hunter using WinAPI calls only)
 - https://github.com/BlackHole1/WebRtcXSS (Use XSS automation Invade intranet)
 
-#### Middleware detection tools or Scanners
+#### Middleware Scanners or Fingerprint Tools
 
 - https://github.com/ring04h/wyportmap (Target port scanning + system service fingerprint recognition)
 - https://github.com/ring04h/weakfilescan (Dynamic multi - thread sensitive information leak detection tool)
@@ -175,6 +175,7 @@
 - https://github.com/fnk0c/cangibrina (A fast and powerfull dashboard (admin) finder)
 - https://github.com/n4xh4ck5/CMSsc4n (Tool to identify if a domain is a CMS such as Wordpress, Moodle, Joomla)
 - https://github.com/Ekultek/WhatWaf （Detect and bypass web application firewalls and protection systems）
+- https://github.com/dzonerzy/goWAPT (Go Web Application Penetration Test and web application fuzz tool)
 
 #### Special Scanners(Just for some special Components)
 
@@ -212,7 +213,7 @@
 - https://github.com/Moham3dRiahi/XAttacker (Web CMS Exploit Framework)
 - https://github.com/lijiejie/BBScan (A tiny Batch weB vulnerability Scanner)
 
-#### Wireless network Scanners
+#### Wireless Network Scanners
 
 - https://github.com/savio-code/fern-wifi-cracker/ (Testing and discovering flaws in ones own network)
 - https://github.com/m4n3dw0lf/PytheM (Multi-purpose network pentest framework)
@@ -240,7 +241,7 @@
 - https://github.com/python-security/pyt (A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications)
 - https://github.com/m4ll0k/WPSploit (WordPress Plugin Code audit)
 
-#### Modular design Scanners or vulnerability detecting framework
+#### Modular Design Scanners or Vulnerability Detecting Framework
 
 - https://github.com/infobyte/faraday (Collaborative Penetration Test and Vulnerability Management Platform)
 - https://github.com/az0ne/AZScanner （Automatic all-around scanner）
