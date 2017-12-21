@@ -129,7 +129,7 @@
 - https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
 - https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
 
-#### 中间件扫描器或识别工具
+#### 中间件扫描器或指纹识别工具
 
 - https://github.com/ring04h/wyportmap (目标端口扫描+系统服务指纹识别)
 - https://github.com/ring04h/weakfilescan (动态多线程敏感信息泄露检测工具)
@@ -177,6 +177,7 @@
 - https://github.com/fnk0c/cangibrina (通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
 - https://github.com/n4xh4ck5/CMSsc4n (常规CMS指纹识别）
 - https://github.com/Ekultek/WhatWaf （WAF指纹识别及自动化bypass工具）
+- https://github.com/dzonerzy/goWAPT (Web应用fuzz工具、框架，同时可用于web路径/服务扫描)
 
 #### 专用（即特定性针对某些组件）扫描器
 
