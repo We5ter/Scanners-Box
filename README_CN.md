@@ -175,7 +175,8 @@
 - https://github.com/m3liot/shcheck (用于检查web服务的http header的安全性)
 - https://github.com/aipengjie/sensitivefilescan (一款高效快捷的敏感文件扫描工具）
 - https://github.com/fnk0c/cangibrina (通过字典穷举、google、robots.txt等途径的跨平台后台管理路径扫描器）
-- https://github.com/n4xh4ck5/CMSsc4n (CMS指纹识别）
+- https://github.com/n4xh4ck5/CMSsc4n (常规CMS指纹识别）
+- https://github.com/Ekultek/WhatWaf （WAF指纹识别及自动化bypass工具）
 
 #### 专用（即特定性针对某些组件）扫描器
 
