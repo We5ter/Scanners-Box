@@ -277,6 +277,7 @@
 - https://github.com/UltimateHackers/Striker (Striker is an offensive information and vulnerability scanner)
 - https://github.com/dermotblair/webvulscan (Written in PHP and can be used to test remote, or local, web applications for security vulnerabilities)
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (Penetration testing aiding tool and exploitation framework)
+- https://github.com/toyakula/luna (An open-source web security scanner which is based on reduced-code passive scanning framework)
 
 #### Some Tools relate with APT
 
