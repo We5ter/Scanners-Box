@@ -279,6 +279,7 @@
 - https://github.com/dermotblair/webvulscan (一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞，支持输出pdf报告)
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (渗透测试辅助工具，综合利用框架）
 - https://github.com/toyakula/luna (基于被动式扫描框架的自动化web漏洞扫描工具）
+- https://github.com/Manisso/fsociety (渗透测试辅助框架，包含信息搜集、无线渗透、web应用扫描等功能)
 
 #### 高级持续性威胁(APT)相关工具
 
