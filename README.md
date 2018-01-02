@@ -278,6 +278,7 @@
 - https://github.com/dermotblair/webvulscan (Written in PHP and can be used to test remote, or local, web applications for security vulnerabilities)
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (Penetration testing aiding tool and exploitation framework)
 - https://github.com/toyakula/luna (An open-source web security scanner which is based on reduced-code passive scanning framework)
+- https://github.com/Manisso/fsociety (A Penetration Testing Framework including Information Gathering,Wireless Testing,Web Hacking and so on)
 
 #### Some Tools relate with APT
 
