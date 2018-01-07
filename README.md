@@ -212,6 +212,7 @@
 - https://github.com/milesrichardson/docker-onion-nmap (Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq)
 - https://github.com/Moham3dRiahi/XAttacker (Web CMS Exploit Framework)
 - https://github.com/lijiejie/BBScan (A tiny Batch weB vulnerability Scanner)
+- https://github.com/almandin/fuxploider (File upload vulnerability scanner and exploitation tool)
 
 #### Wireless Network Scanners
 
