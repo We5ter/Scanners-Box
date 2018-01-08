@@ -176,6 +176,7 @@
 - https://github.com/n4xh4ck5/CMSsc4n (Tool to identify if a domain is a CMS such as Wordpress, Moodle, Joomla)
 - https://github.com/Ekultek/WhatWaf （Detect and bypass web application firewalls and protection systems）
 - https://github.com/dzonerzy/goWAPT (Go Web Application Penetration Test and web application fuzz tool)
+- https://github.com/blackye/webdirdig (Sensitive files scanner)
 
 #### Special Scanners(Just for some special Components)
 
