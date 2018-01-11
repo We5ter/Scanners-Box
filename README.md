@@ -94,7 +94,7 @@
 - https://github.com/ysrc/xunfeng (Vulnerability rapid response,scanning system for Intranet)
 - https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
 - https://github.com/x0day/Multisearch-v2 (Enterprise assets collector based on search engine)
-- https://github.com/Ekultek/Zeus-Scanner (An advanced dork searching tool that is capable of bypassing search engine API calls, search engine captchas, and IP address blocking from sending many requests to the search engine itself. and can run sqlmap and nmap scans on the URL's)
+- https://github.com/Ekultek/Zeus-Scanner (An advanced dork searching tool that is capable of finding IP address /URL blocked by search engine,and can run sqlmap and nmap scans on the URL's)
 - https://github.com/0xbug/Biu-framework (Security Scan Framework For Enterprise Intranet Based Services)
 - https://github.com/metac0rtex/GitHarvester (Used for harvesting information from GitHub)
 - https://github.com/shengqi158/svnhack (A `.svn` folder disclosure exploit)
@@ -105,6 +105,7 @@
 - https://github.com/lijiejie/GitHack (A `.git` folder disclosure exploit)
 - https://github.com/dxa4481/truffleHog (Searches high entropy strings through git repositories)
 - https://github.com/1N3/Goohak （Automatically Launch Google Hacking Queries Against A Target Domain）
+- https://github.com/UKHomeOffice/repo-security-scanner (CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys)
 
 #### Webshell Detection or Malware Analysis Tools
 
