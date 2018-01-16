@@ -79,6 +79,7 @@
 - https://github.com/shodan-labs/iotdb (使用nmap扫描IoT设备)
 - https://github.com/googleinurl/RouterHunterBR （路由器设备漏洞扫描利用)
 - https://github.com/scu-igroup/telnet-scanner (Telnet服务密码撞库)
+- https://github.com/viraintel/OWASP-Nettacker (自动化信息搜集及渗透测试工具，比较适用于IoT扫描)
 
 #### 反射型或DOM-Based XSS扫描器
 
