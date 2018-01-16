@@ -109,6 +109,7 @@
 - https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
 - https://github.com/1N3/Goohak （自动化对指定域名进行Google hacking搜索并收集信息）
 - https://github.com/UKHomeOffice/repo-security-scanner (用于搜索git commit中的敏感信息，例如密码、私钥等的客户端工具)
+- https://github.com/FeeiCN/GSIL (Github敏感信息泄露扫描)
 
 #### webshell检测或木马分析工具
 
