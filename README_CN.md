@@ -239,13 +239,15 @@
 #### 代码审计工具或扫描器
 
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
-- https://github.com/OneSourceCat/phpvulhunter (静态php代码审计)
+- https://github.com/OneSourceCat/phpvulhunter (静态PHP代码审计)
 - https://github.com/Qihoo360/phptrace (跟踪、分析PHP运行情况的工具）
 - https://github.com/ajinabraham/NodeJsScan (NodeJS应用代码审计）
 - https://github.com/shengqi158/pyvulhunter （Python应用审计）
 - https://github.com/presidentbeef/brakeman ( Ruby on Rails应用静态代码分析）
 - https://github.com/python-security/pyt (Python应用静态代码审计）
 - https://github.com/m4ll0k/WPSploit (Wordpress插件代码安全审计）
+- https://github.com/emanuil/php-reaper (用于扫描PHP应用程序中可能存在SQL漏洞的ADOdb代码）
+- https://github.com/lowjoel/phortress (用于检测潜在安全漏洞的PHP静态代码分析工具）
 
 #### 模块化设计扫描器或漏洞检测框架
 
