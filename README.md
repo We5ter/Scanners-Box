@@ -245,6 +245,8 @@
 - https://github.com/presidentbeef/brakeman (A static analysis security vulnerability scanner for Ruby on Rails applications)
 - https://github.com/python-security/pyt (A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications)
 - https://github.com/m4ll0k/WPSploit (WordPress Plugin Code audit)
+- https://github.com/emanuil/php-reaper (PHP tool to scan ADOdb code for SQL Injections)
+- https://github.com/lowjoel/phortress (A PHP static code analyser for potential vulnerabilities)
 
 #### Modular Design Scanners or Vulnerability Detecting Framework
 
