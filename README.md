@@ -60,6 +60,7 @@
 - https://github.com/ron190/jsql-injection (A lightweight application used to find database information from a distant server)
 - https://github.com/Hadesy2k/sqliv (Massive SQL injection vulnerability scanner)
 - https://github.com/UltimateHackers/sqlmate (A friend of SQLmap which will do what you always expected from SQLmap)
+- https://github.com/m8r0wn/enumdb (MySQL and MSSQL brute force and post exploitation tool)
 
 #### Weak Passwords/Users Scanners or Enumeration Tools
 
