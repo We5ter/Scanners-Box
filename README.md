@@ -109,6 +109,7 @@
 - https://github.com/1N3/Goohak （Automatically Launch Google Hacking Queries Against A Target Domain）
 - https://github.com/UKHomeOffice/repo-security-scanner (CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys)
 - https://github.com/FeeiCN/GSIL (Github Sensitive Information Leakage)
+- https://github.com/MiSecurity/x-patrol (Github leaked patrol)
 
 #### Webshell Detection or Malware Analysis Tools
 
