@@ -41,6 +41,7 @@
 - https://github.com/aboul3la/Sublist3r (Fast subdomains enumeration tool for penetration testers)
 - https://github.com/jonluca/Anubis （Subdomain enumeration and information gathering tool）
 - https://github.com/n4xh4ck5/N4xD0rk (Listing subdomains about a main domain)
+- https://github.com/infosec-au/altdns (Subdomain discovery through alterations and permutations)
 
 #### Database Vulnerability Scanners or Enumeration Tools
 
