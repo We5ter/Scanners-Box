@@ -111,6 +111,7 @@
 - https://github.com/UKHomeOffice/repo-security-scanner (CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys)
 - https://github.com/FeeiCN/GSIL (Github Sensitive Information Leakage)
 - https://github.com/MiSecurity/x-patrol (Github leaked patrol)
+- https://github.com/1N3/BlackWidow (Gather OSINT and fuzz for OWASP vulnerabilities on a target website)
 
 #### Webshell Detection or Malware Analysis Tools
 
