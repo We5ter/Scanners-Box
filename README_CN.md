@@ -113,6 +113,7 @@
 - https://github.com/UKHomeOffice/repo-security-scanner (用于搜索git commit中的敏感信息，例如密码、私钥等的客户端工具)
 - https://github.com/FeeiCN/GSIL (Github敏感信息泄露扫描)
 - https://github.com/MiSecurity/x-patrol (Github泄露巡航工具)
+- https://github.com/1N3/BlackWidow (Web站点信息搜集工具，包括邮箱、电话等信息）
 
 #### webshell检测或木马分析工具
 
