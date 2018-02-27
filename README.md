@@ -72,6 +72,7 @@
 - https://github.com/LandGrey/pydictor (A useful hacker dictionary builder for a brute-force attack)
 - https://github.com/shengqi158/weak_password_detect (A python HTTP weak password scanner)
 - https://github.com/UltimateHackers/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
+- https://github.com/MooseDojo/myBFF (Web application brute force framework,supports Citrix Gateway,CiscoVPN and so on)
 
 #### IoT Detecting Tools or Scanners
 
