@@ -237,7 +237,7 @@
 - https://github.com/sowish/LNScan  (Local Network Scanner based on BBScan via.lijiejie)
 - https://github.com/niloofarkheirkhah/nili （Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing）
 - https://github.com/SkyLined/LocalNetworkScanner (PoC Javascript that scans your local network when you open a webpage)
-
+- https://github.com/rootlabs/nWatch (Tool for - Host Discovery, Port Scanning and Operating System Fingerprinting in LAN)
 
 #### Code Review Tools or Scanners
 
