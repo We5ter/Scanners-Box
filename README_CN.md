@@ -73,7 +73,7 @@
 - https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
 - https://github.com/shengqi158/weak_password_detect (多线程探测弱口令）
 - https://github.com/UltimateHackers/Blazy (支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器）
-
+- https://github.com/MooseDojo/myBFF (对CiscoVPN、Citrix Gateway等各类服务进行弱口令检测的脚本)
 
 #### 物联网设备识别工具或扫描器
 
