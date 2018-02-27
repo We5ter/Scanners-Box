@@ -239,6 +239,7 @@
 - https://github.com/sowish/LNScan (基于BBScan via.lijiejie的本地网络扫描)
 - https://github.com/niloofarkheirkhah/nili （网络扫描，中间人攻击，协议检测与逆向）
 - https://github.com/SkyLined/LocalNetworkScanner （基于javascript的本地网络扫描)
+- https://github.com/rootlabs/nWatch (基于网卡ip地址段的本地主机扫描、主机端口扫描、指纹识别)
 
 #### 代码审计工具或扫描器
 
