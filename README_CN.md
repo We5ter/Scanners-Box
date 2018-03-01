@@ -43,6 +43,7 @@
 - https://github.com/jonluca/Anubis （子域名枚举及信息搜集工具）
 - https://github.com/n4xh4ck5/N4xD0rk (子域名查询工具)
 - https://github.com/infosec-au/altdns (一款高效的子域名爆破工具)
+- https://github.com/FeeiCN/ESD (基于AsyncIO协程以及非重复字典的子域名爆破工具)
 
 #### 数据库类漏洞扫描器或爆破工具
 
