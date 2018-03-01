@@ -42,6 +42,7 @@
 - https://github.com/jonluca/Anubis （Subdomain enumeration and information gathering tool）
 - https://github.com/n4xh4ck5/N4xD0rk (Listing subdomains about a main domain)
 - https://github.com/infosec-au/altdns (Subdomain discovery through alterations and permutations)
+- https://github.com/FeeiCN/ESD (Enumeration sub domains tool,based on AsyncIO and non-repeating dict)
 
 #### Database Vulnerability Scanners or Enumeration Tools
 
