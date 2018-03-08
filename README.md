@@ -43,6 +43,8 @@
 - https://github.com/n4xh4ck5/N4xD0rk (Listing subdomains about a main domain)
 - https://github.com/infosec-au/altdns (Subdomain discovery through alterations and permutations)
 - https://github.com/FeeiCN/ESD (Enumeration sub domains tool,based on AsyncIO and non-repeating dict)
+- https://github.com/UnaPibaGeek/ctfr (Abusing Certificate Transparency logs for getting HTTPS websites subdomains)
+- https://github.com/giovanifss/Dumb (Dumain Bruteforcer - a fast and flexible domain bruteforcer)
 
 #### Database Vulnerability Scanners or Enumeration Tools
 
