@@ -44,6 +44,8 @@
 - https://github.com/n4xh4ck5/N4xD0rk (子域名查询工具)
 - https://github.com/infosec-au/altdns (一款高效的子域名爆破工具)
 - https://github.com/FeeiCN/ESD (基于AsyncIO协程以及非重复字典的子域名爆破工具)
+- https://github.com/giovanifss/Dumb (快速而灵活的子域名爆破工具)
+- https://github.com/UnaPibaGeek/ctfr (通过域名透明证书记录获取子域名)
 
 #### 数据库类漏洞扫描器或爆破工具
 
