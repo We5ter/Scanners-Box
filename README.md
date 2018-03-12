@@ -45,6 +45,7 @@
 - https://github.com/FeeiCN/ESD (Enumeration sub domains tool,based on AsyncIO and non-repeating dict)
 - https://github.com/UnaPibaGeek/ctfr (Abusing Certificate Transparency logs for getting HTTPS websites subdomains)
 - https://github.com/giovanifss/Dumb (Dumain Bruteforcer - a fast and flexible domain bruteforcer)
+- https://github.com/caffix/amass (Subdomain Enumeration in Go)
 
 #### Database Vulnerability Scanners or Enumeration Tools
 
