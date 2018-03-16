@@ -296,6 +296,7 @@
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (渗透测试辅助工具，综合利用框架）
 - https://github.com/toyakula/luna (基于被动式扫描框架的自动化web漏洞扫描工具）
 - https://github.com/Manisso/fsociety (渗透测试辅助框架，包含信息搜集、无线渗透、web应用扫描等功能)
+- https://github.com/boy-hack/w9scan (内置1200+插件的web漏洞扫描框架)
 
 #### 高级持续性威胁(APT)相关工具
 
