@@ -295,6 +295,7 @@
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (Penetration testing aiding tool and exploitation framework)
 - https://github.com/toyakula/luna (An open-source web security scanner which is based on reduced-code passive scanning framework)
 - https://github.com/Manisso/fsociety (A Penetration Testing Framework including Information Gathering,Wireless Testing,Web Hacking and so on)
+- https://github.com/boy-hack/w9scan (A web vulnerability scanner framework,running with 1200+ plugins)
 
 #### Some Tools relate with APT
 
