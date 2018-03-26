@@ -226,6 +226,7 @@
 - https://github.com/Moham3dRiahi/XAttacker (Web CMS Exploit Framework)
 - https://github.com/lijiejie/BBScan (A tiny Batch weB vulnerability Scanner)
 - https://github.com/almandin/fuxploider (File upload vulnerability scanner and exploitation tool)
+- https://github.com/Ice3man543/SubOver (A Powerful Subdomain Takeover Tool)
 
 #### Wireless Network Scanners
 
