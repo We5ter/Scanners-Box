@@ -67,6 +67,7 @@
 - https://github.com/Hadesy2k/sqliv (基于搜索引擎的批量SQL注入漏洞扫描器）
 - https://github.com/UltimateHackers/sqlmate (在sqlmap基础上增加了目录扫描、hash爆破等功能)
 - https://github.com/m8r0wn/enumdb (MySQL以及MSSQL爆破脱裤工具）
+- https://github.com/9tail123/wooscan (批量查询网站在乌云是否存在忽略的sql注入漏洞并自动调用sqlmap测试)
 
 #### 弱口令/弱用户名扫描器或爆破工具
 
