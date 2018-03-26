@@ -66,6 +66,7 @@
 - https://github.com/Hadesy2k/sqliv (Massive SQL injection vulnerability scanner)
 - https://github.com/UltimateHackers/sqlmate (A friend of SQLmap which will do what you always expected from SQLmap)
 - https://github.com/m8r0wn/enumdb (MySQL and MSSQL brute force and post exploitation tool)
+- https://github.com/9tail123/wooscan (Check whether the site has ignorable sql injection vulnerabilities from wooyun.chamd5.org and automatically scan with sqlmap)
 
 #### Weak Passwords/Users Scanners or Enumeration Tools
 
