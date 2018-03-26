@@ -227,6 +227,7 @@
 - https://github.com/Moham3dRiahi/XAttacker (Web CMS Exploit 工具,包含针对主流 CMS 的 66 个不同的 Exploits)
 - https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
 - https://github.com/almandin/fuxploider (文件上传漏洞扫描器及利用工具）
+- https://github.com/Ice3man543/SubOver (子域名接管漏洞检测工具，支持30+云服务托管检测)
 
 #### 无线网络（审计）扫描器
 
