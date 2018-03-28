@@ -229,6 +229,8 @@
 - https://github.com/lijiejie/BBScan (一个迷你的信息泄漏批量扫描脚本)
 - https://github.com/almandin/fuxploider (文件上传漏洞扫描器及利用工具）
 - https://github.com/Ice3man543/SubOver (子域名接管漏洞检测工具，支持30+云服务托管检测)
+- https://github.com/Jamalc0m/wphunter (Wordpress漏洞扫描器,同时也支持敏感文件泄露扫描)
+- https://github.com/retirejs/retire.js (检测网站依赖的JavaScript库中存在的已知通用漏洞)
 
 #### 无线网络（审计）扫描器
 
