@@ -228,6 +228,8 @@
 - https://github.com/lijiejie/BBScan (A tiny Batch weB vulnerability Scanner)
 - https://github.com/almandin/fuxploider (File upload vulnerability scanner and exploitation tool)
 - https://github.com/Ice3man543/SubOver (A Powerful Subdomain Takeover Tool)
+- https://github.com/Jamalc0m/wphunter (A Wordpress Vulnerability Scanner)
+- https://github.com/retirejs/retire.js (A scanner detecting the use of JavaScript libraries with known vulnerabilities)
 
 #### Wireless Network Scanners
 
