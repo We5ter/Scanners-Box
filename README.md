@@ -118,6 +118,7 @@
 - https://github.com/FeeiCN/GSIL (Github Sensitive Information Leakage)
 - https://github.com/MiSecurity/x-patrol (Github leaked patrol)
 - https://github.com/1N3/BlackWidow (Gather OSINT and fuzz for OWASP vulnerabilities on a target website)
+- https://github.com/anshumanbh/git-all-secrets (A tool to capture all the git secrets by leveraging multiple open source git searching tools)
 
 #### Webshell Detection or Malware Analysis Tools
 
@@ -230,6 +231,7 @@
 - https://github.com/Ice3man543/SubOver (A Powerful Subdomain Takeover Tool)
 - https://github.com/Jamalc0m/wphunter (A Wordpress Vulnerability Scanner)
 - https://github.com/retirejs/retire.js (A scanner detecting the use of JavaScript libraries with known vulnerabilities)
+- https://github.com/mobrine-mob/M0B-tool (Auto detect cms and exploit)
 
 #### Wireless Network Scanners
 
