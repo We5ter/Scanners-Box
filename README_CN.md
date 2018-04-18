@@ -119,6 +119,7 @@
 - https://github.com/FeeiCN/GSIL (Github敏感信息泄露扫描)
 - https://github.com/MiSecurity/x-patrol (Github泄露巡航工具)
 - https://github.com/1N3/BlackWidow (Web站点信息搜集工具，包括邮箱、电话等信息）
+- https://github.com/anshumanbh/git-all-secrets (集合多个开源GitHub敏感信息扫描的企业信息泄露巡航工具)
 
 #### webshell检测或木马分析工具
 
@@ -231,6 +232,7 @@
 - https://github.com/Ice3man543/SubOver (子域名接管漏洞检测工具，支持30+云服务托管检测)
 - https://github.com/Jamalc0m/wphunter (Wordpress漏洞扫描器,同时也支持敏感文件泄露扫描)
 - https://github.com/retirejs/retire.js (检测网站依赖的JavaScript库中存在的已知通用漏洞)
+- https://github.com/mobrine-mob/M0B-tool （CMS指纹识别及自动化渗透测试框架）
 
 #### 无线网络（审计）扫描器
 
