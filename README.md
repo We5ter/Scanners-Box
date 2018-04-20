@@ -35,7 +35,7 @@
 - https://github.com/evilsocket/dnssearch (A subdomain enumeration tool)
 - https://github.com/reconned/domained (Subdomain enumeration tools for bug hunting)
 - https://github.com/bit4woo/Teemo （A Domain Name & Email Address Collection Tool）
-- https://github.com/laramies/theHarvester （E-mail, subdomain and people names harvester ）
+- https://github.com/laramies/theHarvester （E-mail, subdomain and people names harvester)
 - https://github.com/swisskyrepo/Subdomino (An application that enumerates subdomains, and scan them with several rules)
 - https://github.com/nmalcolm/Inventus (A spider designed to find subdomains of a specific domain by crawling it)
 - https://github.com/aboul3la/Sublist3r (Fast subdomains enumeration tool for penetration testers)
@@ -46,6 +46,7 @@
 - https://github.com/UnaPibaGeek/ctfr (Abusing Certificate Transparency logs for getting HTTPS websites subdomains)
 - https://github.com/giovanifss/Dumb (Dumain Bruteforcer - a fast and flexible domain bruteforcer)
 - https://github.com/caffix/amass (Subdomain Enumeration in Go)
+- https://github.com/Ice3man543/subfinder (SubFinder is a subdomain discovery tool which has a simple modular architecture and has been aimed as a successor to sublist3r project)
 
 #### Database Vulnerability Scanners or Enumeration Tools
 
@@ -323,10 +324,10 @@ The purpose of this collection is to provide various types of  opensource securi
 
 ### Symbolic Description
 
-**[↑]** means **update scanner**<br>
+**[↑]** means **update scanner description**<br>
 **[+]** means **add scanner**<br>
 **[-]** means **remove scanner**<br>
-**[move]** means **move scanner**<br>
+**[move]** means **change scanner category**<br>
 **[ac]** means **add someone to Acknowledgments**<br>
 **[other]** means **other actions**
 
