@@ -47,6 +47,7 @@
 - https://github.com/giovanifss/Dumb (快速而灵活的子域名爆破工具)
 - https://github.com/UnaPibaGeek/ctfr (通过域名透明证书记录获取子域名)
 - https://github.com/caffix/amass (Go语言开发的子域名枚举工具)
+- https://github.com/Ice3man543/subfinder (继承于sublist3r项目的模块化体系结构，一个强劲的子域名枚举工具)
 
 #### 数据库类漏洞扫描器或爆破工具
 
@@ -324,10 +325,10 @@
 
 ### 符号说明
 
-**[↑]** 表示 **更新扫描器**<br>
+**[↑]** 表示 **更新扫描器描述**<br>
 **[+]** 表示 **添加扫描器**<br>
 **[-]** 表示 **移除扫描器**<br>
-**[move]** 表示 **移动扫描器**<br>
+**[move]** 表示 **修改扫描器分类**<br>
 **[ac]** 表示 **添加某人至致谢榜**<br>
 **[other]** 表示 **其他操作**
 
