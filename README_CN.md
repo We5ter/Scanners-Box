@@ -233,6 +233,7 @@
 - https://github.com/Ice3man543/SubOver (子域名接管漏洞检测工具，支持30+云服务托管检测)
 - https://github.com/Jamalc0m/wphunter (Wordpress漏洞扫描器,同时也支持敏感文件泄露扫描)
 - https://github.com/retirejs/retire.js (检测网站依赖的JavaScript库中存在的已知通用漏洞)
+- https://github.com/3xp10it/xupload (自动检测上传功能是否可上传webshell)
 - https://github.com/mobrine-mob/M0B-tool （CMS指纹识别及自动化渗透测试框架）
 
 #### 无线网络（审计）扫描器
