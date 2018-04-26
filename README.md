@@ -232,6 +232,7 @@
 - https://github.com/Ice3man543/SubOver (A Powerful Subdomain Takeover Tool)
 - https://github.com/Jamalc0m/wphunter (A Wordpress Vulnerability Scanner)
 - https://github.com/retirejs/retire.js (A scanner detecting the use of JavaScript libraries with known vulnerabilities)
+- https://github.com/3xp10it/xupload (A tool for automatically testing whether the upload function can upload webshell)
 - https://github.com/mobrine-mob/M0B-tool (Auto detect cms and exploit)
 
 #### Wireless Network Scanners
