@@ -304,6 +304,7 @@
 - https://github.com/toyakula/luna (An open-source web security scanner which is based on reduced-code passive scanning framework)
 - https://github.com/Manisso/fsociety (A Penetration Testing Framework including Information Gathering,Wireless Testing,Web Hacking and so on)
 - https://github.com/boy-hack/w9scan (A web vulnerability scanner framework,running with 1200+ plugins)
+- https://github.com/YalcinYolalan/WSSAT (Web Service Security Assessment Tool,provide simple .exe application to use based on windows OS)
 
 #### Some Tools relate with APT
 
