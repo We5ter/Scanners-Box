@@ -306,6 +306,7 @@
 - https://github.com/Manisso/fsociety (渗透测试辅助框架，包含信息搜集、无线渗透、web应用扫描等功能)
 - https://github.com/boy-hack/w9scan (内置1200+插件的web漏洞扫描框架)
 - https://github.com/YalcinYolalan/WSSAT (Web服务安全评估工具,提供基于windows操作系统的简单.exe应用)
+- https://github.com/AmyangXYZ/AssassinGo (使用Go开发的可扩展以及高并发渗透测试框架)
 
 #### 高级持续性威胁(APT)相关工具
 
