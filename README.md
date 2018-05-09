@@ -123,8 +123,6 @@
 
 #### Webshell Detection or Malware Analysis Tools
 
-- https://github.com/ym2011/ScanBackdoor (Simple webshell Detector)
-- https://github.com/yassineaddi/BackdoorMan  (A toolkit find malicious, hidden and suspicious PHP scripts and shells in a chosen destination)
 - https://github.com/he1m4n6a/findWebshell (Simple webshell Detector)
 - https://github.com/Tencent/HaboMalHunter (Used for automated malware analysis and security assessment on the Linux system)
 - https://github.com/PlagueScanner/PlagueScanner (Open source multiple AV scanner framework)
