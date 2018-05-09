@@ -124,8 +124,6 @@
 
 #### webshell检测或木马分析工具
 
-- https://github.com/ym2011/ScanBackdoor （一款简洁的Webshell扫描工具）
-- https://github.com/yassineaddi/BackdoorMan （可对指定目录进行php webshell检测）
 - https://github.com/he1m4n6a/findWebshell （一款简单的webshell检测工具)
 - https://github.com/Tencent/HaboMalHunter （哈勃分析系统，linux系统病毒分析及安全检测）
 - https://github.com/PlagueScanner/PlagueScanner (使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎)
