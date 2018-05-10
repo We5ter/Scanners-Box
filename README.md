@@ -304,6 +304,7 @@
 - https://github.com/boy-hack/w9scan (A web vulnerability scanner framework,running with 1200+ plugins)
 - https://github.com/YalcinYolalan/WSSAT (Web Service Security Assessment Tool,provide simple .exe application to use based on windows OS)
 - https://github.com/AmyangXYZ/AssassinGo (An extenisble and concurrency pentest framework in Go)
+- https://github.com/jeffzh3ng/InsectsAwake （Network Vulnerability Scanner based on Flask）
 
 #### Some Tools relate with APT
 
