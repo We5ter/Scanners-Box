@@ -233,7 +233,8 @@
 - https://github.com/retirejs/retire.js (检测网站依赖的JavaScript库中存在的已知通用漏洞)
 - https://github.com/3xp10it/xupload (自动检测上传功能是否可上传webshell)
 - https://github.com/mobrine-mob/M0B-tool （CMS指纹识别及自动化渗透测试框架）
-
+- https://github.com/rezasp/vbscan (论坛框架vBulletin黑盒漏洞扫描器)
+ 
 #### 无线网络（审计）扫描器
 
 - https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
