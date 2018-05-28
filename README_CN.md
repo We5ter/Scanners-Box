@@ -307,6 +307,7 @@
 - https://github.com/YalcinYolalan/WSSAT (Web服务安全评估工具,提供基于windows操作系统的简单.exe应用)
 - https://github.com/AmyangXYZ/AssassinGo (使用Go开发的可扩展以及高并发渗透测试框架)
 - https://github.com/jeffzh3ng/InsectsAwake (基于 Flask 应用框架的漏洞扫描系统)
+- https://github.com/m4ll0k/Galileo (一个操作上类似metasploit的web应用安全审计框架)
 
 #### 高级持续性威胁(APT)相关工具
 
