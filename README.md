@@ -233,6 +233,7 @@
 - https://github.com/3xp10it/xupload (A tool for automatically testing whether the upload function can upload webshell)
 - https://github.com/mobrine-mob/M0B-tool (Auto detect cms and exploit)
 - https://github.com/rezasp/vbscan (OWASP VBScan is a Black Box vBulletin Vulnerability Scanner)
+- https://github.com/MrSqar-Ye/BadMod (Detect websites CMS & auto exploit)
 
 #### Wireless Network Scanners
 
