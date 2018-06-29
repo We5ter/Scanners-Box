@@ -309,6 +309,7 @@
 - https://github.com/AmyangXYZ/AssassinGo (使用Go开发的可扩展以及高并发渗透测试框架)
 - https://github.com/jeffzh3ng/InsectsAwake (基于 Flask 应用框架的漏洞扫描系统)
 - https://github.com/m4ll0k/Galileo (一个操作上类似metasploit的web应用安全审计框架)
+- https://github.com/joker25000/Optiva-Framework (一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞)
 
 #### 高级持续性威胁(APT)相关工具
 
