@@ -235,6 +235,7 @@
 - https://github.com/mobrine-mob/M0B-tool （CMS指纹识别及自动化渗透测试框架）
 - https://github.com/rezasp/vbscan (论坛框架vBulletin黑盒漏洞扫描器)
 - https://github.com/MrSqar-Ye/BadMod (CMS指纹识别及自动化渗透测试框架)
+- https://github.com/Tuhinshubhra/CMSeeK (CMS漏洞检测和利用套件)
 
 #### 无线网络（审计）扫描器
 
