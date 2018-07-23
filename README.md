@@ -234,6 +234,7 @@
 - https://github.com/mobrine-mob/M0B-tool (Auto detect cms and exploit)
 - https://github.com/rezasp/vbscan (OWASP VBScan is a Black Box vBulletin Vulnerability Scanner)
 - https://github.com/MrSqar-Ye/BadMod (Detect websites CMS & auto exploit)
+- https://github.com/Tuhinshubhra/CMSeeK (CMS Detection and Exploitation suite)
 
 #### Wireless Network Scanners
 
