@@ -66,7 +66,7 @@
 - https://github.com/JohnTroony/Blisqy （用于http header中的时间盲注爆破工具，仅针对MySQL/MariaDB）
 - https://github.com/ron190/jsql-injection (Java 编写的SQL注入工具)
 - https://github.com/Hadesy2k/sqliv (基于搜索引擎的批量SQL注入漏洞扫描器）
-- https://github.com/UltimateHackers/sqlmate (在sqlmap基础上增加了目录扫描、hash爆破等功能)
+- https://github.com/s0md3v/sqlmate (在sqlmap基础上增加了目录扫描、hash爆破等功能)
 - https://github.com/m8r0wn/enumdb (MySQL以及MSSQL爆破脱裤工具）
 - https://github.com/9tail123/wooscan (批量查询网站在乌云是否存在忽略的sql注入漏洞并自动调用sqlmap测试)
 
@@ -78,7 +78,7 @@
 - https://github.com/netxfly/crack_ssh （Go写的协程版的ssh\redis\mongodb弱口令破解工具）
 - https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
 - https://github.com/shengqi158/weak_password_detect (多线程探测弱口令）
-- https://github.com/UltimateHackers/Blazy (支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器）
+- https://github.com/s0md3v/Blazy (支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器）
 - https://github.com/MooseDojo/myBFF (对CiscoVPN、Citrix Gateway等各类服务进行弱口令检测的脚本)
 
 #### 物联网设备识别工具或扫描器
@@ -97,7 +97,7 @@
 - https://github.com/chuhades/xss_scan (批量扫描XSS的python脚本）
 - https://github.com/BlackHole1/autoFindXssAndCsrf (自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件）
 - https://github.com/shogunlab/shuriken (使用命令行进行XSS批量检测)
-- https://github.com/UltimateHackers/XSStrike (可识别并绕过WAF的XSS扫描工具)
+- https://github.com/s0md3v/XSStrike (可识别并绕过WAF的XSS扫描工具)
 - https://github.com/stamparm/DSXS (支持GET、POST方式的高效XSS扫描器）
 
 #### 企业资产管理或信息泄露搜集工具
@@ -121,6 +121,7 @@
 - https://github.com/MiSecurity/x-patrol (Github泄露巡航工具)
 - https://github.com/1N3/BlackWidow (Web站点信息搜集工具，包括邮箱、电话等信息）
 - https://github.com/anshumanbh/git-all-secrets (集合多个开源GitHub敏感信息扫描的企业信息泄露巡航工具)
+- https://github.com/s0md3v/Photon (可以提取网址，电子邮件，文件，网站帐户等的高速爬虫)
 
 #### webshell检测或木马分析工具
 
@@ -175,7 +176,7 @@
 - https://github.com/0xbug/Howl (网络设备 web 服务指纹扫描与检索)
 - https://github.com/mozilla/cipherscan (目标主机服务ssl类型识别)
 - https://github.com/xmendez/wfuzz (Web应用fuzz工具、框架，同时可用于web路径/服务扫描）
-- https://github.com/UltimateHackers/Breacher (多线程的后台路径扫描器，也可用于发现Execution After Redirect漏洞）
+- https://github.com/s0md3v/Breacher (多线程的后台路径扫描器，也可用于发现Execution After Redirect漏洞）
 - https://github.com/ztgrace/changeme (弱口令扫描器，不仅支持普通登录页，也支持ssh、mongodb等组件）
 - https://github.com/medbenali/CyberScan (渗透测试辅助工具，支持分析数据包、解码、端口扫描、IP地址分析等）
 - https://github.com/m0nad/HellRaiser (基于nmap的扫描器，与cve漏洞关联）
@@ -300,7 +301,7 @@
 - https://github.com/secrary/EllaScanner (被动式漏洞扫描，支持历史cve编号漏洞识别)
 - https://github.com/zaproxy/zaproxy (The OWASP ZAP core project出品的综合性渗透测试工具）
 - https://github.com/sullo/nikto (Web服务综合型扫描器，用于指定目标的资产收集、安全配置缺陷或者安全漏洞扫描）
-- https://github.com/UltimateHackers/Striker (一款多方位信息收集、指纹识别及漏洞扫描工具）
+- https://github.com/s0md3v/Striker (一款多方位信息收集、指纹识别及漏洞扫描工具）
 - https://github.com/dermotblair/webvulscan (一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞，支持输出pdf报告)
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (渗透测试辅助工具，综合利用框架）
 - https://github.com/toyakula/luna (基于被动式扫描框架的自动化web漏洞扫描工具）
@@ -360,7 +361,7 @@
 - **@CodeColorist**
 - **@3xp10it**
 - **@re4lity**
-- **@UltimateHackers团队**
+- **@s0md3v**
 - **@boy-hack**
 - **@marsII**
 - **@tom0li**
