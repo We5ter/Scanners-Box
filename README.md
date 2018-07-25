@@ -65,7 +65,7 @@
 - https://github.com/JohnTroony/Blisqy (Exploit Time-based blind-SQL injection in HTTP-Headers)
 - https://github.com/ron190/jsql-injection (A lightweight application used to find database information from a distant server)
 - https://github.com/Hadesy2k/sqliv (Massive SQL injection vulnerability scanner)
-- https://github.com/UltimateHackers/sqlmate (A friend of SQLmap which will do what you always expected from SQLmap)
+- https://github.com/s0md3v/sqlmate (A friend of SQLmap which will do what you always expected from SQLmap)
 - https://github.com/m8r0wn/enumdb (MySQL and MSSQL brute force and post exploitation tool)
 - https://github.com/9tail123/wooscan (Check whether the site has ignorable sql injection vulnerabilities from wooyun.chamd5.org and automatically scan with sqlmap)
 
@@ -77,7 +77,7 @@
 - https://github.com/netxfly/crack_ssh (Ssh\redis\mongodb weak password bruteforcer)
 - https://github.com/LandGrey/pydictor (A useful hacker dictionary builder for a brute-force attack)
 - https://github.com/shengqi158/weak_password_detect (A python HTTP weak password scanner)
-- https://github.com/UltimateHackers/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
+- https://github.com/s0md3v/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
 - https://github.com/MooseDojo/myBFF (Web application brute force framework,supports Citrix Gateway,CiscoVPN and so on)
 
 #### IoT Detecting Tools or Scanners
@@ -96,7 +96,7 @@
 - https://github.com/chuhades/xss_scan (Reflected XSS scanner)
 - https://github.com/BlackHole1/autoFindXssAndCsrf (A plugin for browser that checks automatically whether a page haves XSS and CSRF vulnerabilities)
 - https://github.com/shogunlab/shuriken （XSS command line tool for testing lists of XSS payloads on web apps）
-- https://github.com/UltimateHackers/XSStrike (fuzz and bruteforce parameters for XSS,WAFs detect and bypass)
+- https://github.com/s0md3v/XSStrike (fuzz and bruteforce parameters for XSS,WAFs detect and bypass)
 - https://github.com/stamparm/DSXS （A fully functional Cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code）
 
 #### Enterprise Assets Management or Leaks Gather Tools
@@ -120,6 +120,8 @@
 - https://github.com/MiSecurity/x-patrol (Github leaked patrol)
 - https://github.com/1N3/BlackWidow (Gather OSINT and fuzz for OWASP vulnerabilities on a target website)
 - https://github.com/anshumanbh/git-all-secrets (A tool to capture all the git secrets by leveraging multiple open source git searching tools)
+- https://github.com/s0md3v/Photon (Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
+)
 
 #### Webshell Detection or Malware Analysis Tools
 
@@ -174,7 +176,7 @@
 - https://github.com/0xbug/Howl (Network equipment, web services, fingerprint scanner and database)
 - https://github.com/mozilla/cipherscan (A very simple way to find out which SSL ciphersuites are supported by a target)
 - https://github.com/xmendez/wfuzz (Web application fuzzer/framework and web content scanner)
-- https://github.com/UltimateHackers/Breacher (An advanced multithreaded admin panel finder written in python)
+- https://github.com/s0md3v/Breacher (An advanced multithreaded admin panel finder written in python)
 - https://github.com/ztgrace/changeme （A default credential scanner）
 - https://github.com/medbenali/CyberScan (An open source penetration testing tool that can analyse packets,decoding,scanning ports, pinging and geolocation of an IP)
 - https://github.com/m0nad/HellRaiser (HellRaiser scan with nmap then correlates cpe's found with cve-search to enumerate vulnerabilities)
@@ -299,7 +301,7 @@
 - https://github.com/secrary/EllaScanner (Passive web scanner,and you can get CVEs related to server’s version)
 - https://github.com/zaproxy/zaproxy (One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers)
 - https://github.com/sullo/nikto (Nikto is a web server assessment tool. It is designed to find various default and insecure files, configurations and programs on any type of web server)
-- https://github.com/UltimateHackers/Striker (Striker is an offensive information and vulnerability scanner)
+- https://github.com/s0md3v/Striker (Striker is an offensive information and vulnerability scanner)
 - https://github.com/dermotblair/webvulscan (Written in PHP and can be used to test remote, or local, web applications for security vulnerabilities)
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (Penetration testing aiding tool and exploitation framework)
 - https://github.com/toyakula/luna (An open-source web security scanner which is based on reduced-code passive scanning framework)
@@ -359,7 +361,7 @@ Please specify reproduced  from https://github.com/We5ter/Scanners-Box , and ple
 - **@CodeColorist**
 - **@3xp10it**
 - **@re4lity**
-- **@UltimateHackers team**
+- **@s0md3v**
 - **@boy-hack**
 - **@marsII**
 - **@tom0li**
