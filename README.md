@@ -312,6 +312,7 @@
 - https://github.com/jeffzh3ng/InsectsAwake （Network Vulnerability Scanner based on Flask）
 - https://github.com/m4ll0k/Galileo (Web Application Audit Framework,like metasploit)
 - https://github.com/joker25000/Optiva-Framework (Web Application Scanner)
+- https://github.com/theInfectedDrake/TIDoS-Framework (The offensive web application penetration testing framework)
 
 #### Some Tools relate with APT
 
