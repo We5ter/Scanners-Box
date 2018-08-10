@@ -312,6 +312,7 @@
 - https://github.com/jeffzh3ng/InsectsAwake (基于 Flask 应用框架的漏洞扫描系统)
 - https://github.com/m4ll0k/Galileo (一个操作上类似metasploit的web应用安全审计框架)
 - https://github.com/joker25000/Optiva-Framework (一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞)
+- https://github.com/theInfectedDrake/TIDoS-Framework (集成104个模块的Web应用程序渗透测试框架)
 
 #### 高级持续性威胁(APT)相关工具
 
