@@ -1,4 +1,4 @@
-# <img src="https://s1.ax1x.com/2018/08/22/PoB5WT.png" width="500px">
+# <img src="https://s1.ax1x.com/2018/08/22/PorYVA.png" width="500px">
 
 ![GitHub issues](https://img.shields.io/github/issues/We5ter/Scanners-Box.svg)
 ![GitHub forks](https://img.shields.io/github/forks/We5ter/Scanners-Box.svg)
@@ -7,7 +7,7 @@
 
 **README.md in [Chinese 中文](https://github.com/We5ter/Scanners-Box/blob/master/README_CN.md)**
 
-<img src="https://github.com/docker/dockercraft/raw/master/docs/img/contribute.png?raw=true">
+<img src="https://github.com/docker/dockercraft/raw/master/docs/img/contribute.png?raw=true" width="100%">
 
 ***
 
