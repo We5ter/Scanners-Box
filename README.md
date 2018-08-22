@@ -318,9 +318,10 @@
 
 - https://github.com/Neo23x0/Loki (Simple IOC and Incident Response Scanner)
 
-#### Some Tools relate with ICS
+#### Some Security Tools relate with ICS & Large network
 
 - https://github.com/w3h/icsmaster/tree/master/nse (Digital Bond's ICS Enumeration Tools)
+- https://github.com/OpenNetworkingFoundation/DELTA (Sdn security evaluation framework)
 
 ***
 
