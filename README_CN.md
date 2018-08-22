@@ -318,9 +318,10 @@
 
 - https://github.com/Neo23x0/Loki (一款APT入侵痕迹扫描器)
 
-#### 工控安全相关工具
+#### 工控系统&大型网络相关安全工具
 
 - https://github.com/w3h/icsmaster/tree/master/nse （ICS设备nmap扫描脚本)
+- https://github.com/OpenNetworkingFoundation/DELTA （SDN安全评估框架）
 
 ***
 
