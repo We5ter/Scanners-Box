@@ -191,6 +191,7 @@
 - https://github.com/Ekultek/WhatWaf （Detect and bypass web application firewalls and protection systems）
 - https://github.com/dzonerzy/goWAPT (Go Web Application Penetration Test and web application fuzz tool)
 - https://github.com/blackye/webdirdig (Sensitive files scanner)
+- https://github.com/GitHackTools/BillCipher (Information Gathering tool for a Website or IP address)
 
 #### Special Scanners(Just for some special Components)
 
@@ -331,7 +332,7 @@ The purpose of this collection is to provide various types of  opensource securi
 
 ### Maintainers
 
-**Wester**(Twitter <a href="http://twitter.com/Hi_Wester/">@Hi_Wester</a>) & **Martin**(Twitter <a href="https://twitter.com/yuyangchow">@Martin ZHOU</a>)
+**Wester**(Twitter <a href="http://twitter.com/a_null_space/">@Wester Zeng</a>) & **Martin**(Twitter <a href="https://twitter.com/yuyangchow">@Martin Chow</a>)
 
 ### Symbolic Description
 
