@@ -189,6 +189,7 @@
 - https://github.com/Ekultek/WhatWaf （WAF指纹识别及自动化bypass工具）
 - https://github.com/dzonerzy/goWAPT (Web应用fuzz工具、框架，同时可用于web路径/服务扫描)
 - https://github.com/blackye/webdirdig (web敏感目录/信息泄漏扫描脚本)
+- https://github.com/GitHackTools/BillCipher (用于网站或IP地址的信息收集工具)
 
 #### 专用（即特定性针对某些组件）扫描器
 
