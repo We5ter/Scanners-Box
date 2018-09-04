@@ -192,6 +192,8 @@
 - https://github.com/dzonerzy/goWAPT (Go Web Application Penetration Test and web application fuzz tool)
 - https://github.com/blackye/webdirdig (Sensitive files scanner)
 - https://github.com/GitHackTools/BillCipher (Information Gathering tool for a Website or IP address)
+- https://github.com/boy-hack/w8fuckcdn (Get the website real IP address by scanning the entire net)
+- https://github.com/boy-hack/w11scan (Distributed WEB fingerprint identification platform)
 
 #### Special Scanners(Just for some special Components)
 
@@ -287,7 +289,6 @@
 - https://github.com/zhangzhenfeng/AnyScan (A automated Penetration Testing Framework)
 - https://github.com/Tuhinshubhra/RED_HAWK (An All In One Tool For Information Gathering, SQL Vulnerability Scanning and Crawling. Coded In PHP)
 - https://github.com/Arachni/arachni (Web Application Security Scanner Framework)
-- https://github.com/boy-hack/w8scan (A scanner that similar to bugscan)
 - https://github.com/juansacco/exploitpack (Exploit Pack - Penetration testing framework GPLv3)
 - https://github.com/swisskyrepo/DamnWebScanner (Another web vulnerabilities scanner, this extension works on Chrome and Opera)
 - https://github.com/anilbaranyelken/tulpar （Web Vulnerability Scanner written in python,supported multiple web vulnerabilities scan）
