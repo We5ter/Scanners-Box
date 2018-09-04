@@ -190,6 +190,8 @@
 - https://github.com/dzonerzy/goWAPT (Web应用fuzz工具、框架，同时可用于web路径/服务扫描)
 - https://github.com/blackye/webdirdig (web敏感目录/信息泄漏扫描脚本)
 - https://github.com/GitHackTools/BillCipher (用于网站或IP地址的信息收集工具)
+- https://github.com/boy-hack/w8fuckcdn (通过扫描全网获得真实IP的自动化程序)
+- https://github.com/boy-hack/w11scan (分布式WEB指纹识别平台)
 
 #### 专用（即特定性针对某些组件）扫描器
 
@@ -285,7 +287,6 @@
 - https://github.com/Tuhinshubhra/RED_HAWK (一款集成信息收集、漏洞扫描、指纹识别等的多合一扫描工具）
 - https://github.com/Arachni/arachni (高度集成化的Web应用漏洞扫描框架，支持REST、RPC等api调用）
 - https://github.com/infobyte/faraday （集成化渗透测试辅助平台及漏洞管理平台）
-- https://github.com/boy-hack/w8scan (一款基于bugscan扫描和架构思想的扫描器）
 - https://github.com/juansacco/exploitpack (渗透测试集成框架，包含超过38,000+ exploits)
 - https://github.com/swisskyrepo/DamnWebScanner （基于chrome/opera插件的被动式漏洞扫描）
 - https://github.com/anilbaranyelken/tulpar (支持多种web漏洞扫描，命令行环境使用）
