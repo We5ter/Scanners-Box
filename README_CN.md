@@ -1,6 +1,6 @@
 <p align="right">
  
-![GitHub issues](https://img.shields.io/github/issues/We5ter/Scanners-Box.svg)&nbsp;![GitHub forks](https://img.shields.io/github/forks/We5ter/Scanners-Box.svg)&nbsp;![GitHub stars](https://img.shields.io/github/stars/We5ter/Scanners-Box.svg)&nbsp;[![GitHub last commit](https://img.shields.io/github/last-commit/We5ter/Scanners-Box.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>README.md in <a href="https://github.com/We5ter/Scanners-Box/blob/master/README.md">English 英文</a></strong>
+![GitHub issues](https://img.shields.io/github/issues/We5ter/Scanners-Box.svg)&nbsp;![GitHub forks](https://img.shields.io/github/forks/We5ter/Scanners-Box.svg)&nbsp;![GitHub stars](https://img.shields.io/github/stars/We5ter/Scanners-Box.svg)&nbsp;[![GitHub last commit](https://img.shields.io/github/last-commit/We5ter/Scanners-Box.svg)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>README.md in <a href="https://github.com/We5ter/Scanners-Box/blob/master/README.md">English 英文</a></strong>
 </p>
 
 <p align="center">
@@ -238,6 +238,7 @@
 - https://github.com/MrSqar-Ye/BadMod (CMS指纹识别及自动化渗透测试框架)
 - https://github.com/Tuhinshubhra/CMSeeK (CMS漏洞检测和利用套件)
 - https://github.com/cloudsploit/scans (AWS安全审计工具)
+- https://github.com/radenvodka/SVScanner (针对wp、magento、joomla等CMS的漏洞扫描器及自动利用工具)
 
 #### 无线网络（审计）扫描器
 
