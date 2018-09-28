@@ -239,6 +239,7 @@
 - https://github.com/Tuhinshubhra/CMSeeK (CMS漏洞检测和利用套件)
 - https://github.com/cloudsploit/scans (AWS安全审计工具)
 - https://github.com/radenvodka/SVScanner (针对wp、magento、joomla等CMS的漏洞扫描器及自动利用工具)
+- https://github.com/rezasp/joomscan (OWASP旗下joomla漏洞扫描项目)
 
 #### 无线网络（审计）扫描器
 
