@@ -136,7 +136,6 @@
 
 #### Intranet Penetration Tools or Scanners
 
-- https://github.com/0xwindows/VulScritp (Intranet penetration test scripts)
 - https://github.com/lcatro/network_backdoor_scanner (An internal network scanner like meterpreter)
 - https://github.com/fdiskyou/hunter (User hunter using WinAPI calls only)
 - https://github.com/BlackHole1/WebRtcXSS (Use XSS automation Invade intranet)
@@ -371,6 +370,7 @@ Please specify reproduced  from https://github.com/We5ter/Scanners-Box , and ple
 - **@boy-hack**
 - **@marsII**
 - **@tom0li**
+- **@hksanduo**
 
 &copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2016-2017
 
