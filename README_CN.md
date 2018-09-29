@@ -134,7 +134,6 @@
 
 #### 内网渗透或扫描工具
 
-- https://github.com/0xwindows/VulScritp （企业内网渗透脚本，包括banner扫描、端口扫描；phpmyadmin、jenkins等通用漏洞利用等）
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
 - https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
 - https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
@@ -369,5 +368,6 @@
 - **@boy-hack**
 - **@marsII**
 - **@tom0li**
+- **@hksanduo**
 
 &copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2016-2017
