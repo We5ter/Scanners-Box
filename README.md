@@ -86,7 +86,7 @@
 - https://github.com/googleinurl/RouterHunterBR (Testing vulnerabilities in devices and routers connected to the Internet)
 - https://github.com/scu-igroup/telnet-scanner (weak telnet password scanner based on password enumeration)
 - https://github.com/viraintel/OWASP-Nettacker (Network Information Gathering Vulnerability Scanner,most useful to scan IoT)
-- https://github.com/threat9/routersploit (Exploitation Framework for Embedded Devices)
+- https://github.com/threat9/routersploit (Exploitation Framework for Embedded Devices,such as router)
 
 #### Reflect or DOM-Based XSS Scanners
 
