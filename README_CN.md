@@ -192,6 +192,7 @@
 - https://github.com/GitHackTools/BillCipher (用于网站或IP地址的信息收集工具)
 - https://github.com/boy-hack/w8fuckcdn (通过扫描全网获得真实IP的自动化程序)
 - https://github.com/boy-hack/w11scan (分布式WEB指纹识别平台)
+- https://github.com/Nekmo/dirhunt (爬虫式web目录扫描工具)
 
 #### 专用（即特定性针对某些组件）扫描器
 
@@ -240,6 +241,7 @@
 - https://github.com/cloudsploit/scans (AWS安全审计工具)
 - https://github.com/radenvodka/SVScanner (针对wp、magento、joomla等CMS的漏洞扫描器及自动利用工具)
 - https://github.com/rezasp/joomscan (OWASP旗下joomla漏洞扫描项目)
+- https://github.com/6IX7ine/djangohunter (用于检测因错误配置导致敏感信息暴露的Django应用程序)
 
 #### 无线网络（审计）扫描器
 
