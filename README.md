@@ -194,6 +194,7 @@
 - https://github.com/GitHackTools/BillCipher (Information Gathering tool for a Website or IP address)
 - https://github.com/boy-hack/w8fuckcdn (Get the website real IP address by scanning the entire net)
 - https://github.com/boy-hack/w11scan (Distributed WEB fingerprint identification platform)
+- https://github.com/Nekmo/dirhunt (Find web directories without bruteforce)
 
 #### Special Scanners(Just for some special Components)
 
@@ -242,6 +243,7 @@
 - https://github.com/cloudsploit/scans (AWS security scanning checks)
 - https://github.com/radenvodka/SVScanner (Scanner vulnerability and maSsive exploit for wp,magento,joomla and so on)
 - https://github.com/rezasp/joomscan (OWASP Joomla Vulnerability Scanner Project )
+- https://github.com/6IX7ine/djangohunter (Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information)
 
 #### Wireless Network Scanners
 
