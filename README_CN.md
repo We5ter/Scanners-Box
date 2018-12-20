@@ -193,6 +193,7 @@
 - https://github.com/boy-hack/w8fuckcdn (通过扫描全网获得真实IP的自动化程序)
 - https://github.com/boy-hack/w11scan (分布式WEB指纹识别平台)
 - https://github.com/Nekmo/dirhunt (爬虫式web目录扫描工具)
+- https://github.com/MetaChar/pyHAWK (数据库文件、私钥等敏感文件泄露扫描)
 
 #### 专用（即特定性针对某些组件）扫描器
 
