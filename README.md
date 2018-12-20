@@ -195,6 +195,7 @@
 - https://github.com/boy-hack/w8fuckcdn (Get the website real IP address by scanning the entire net)
 - https://github.com/boy-hack/w11scan (Distributed WEB fingerprint identification platform)
 - https://github.com/Nekmo/dirhunt (Find web directories without bruteforce)
+- https://github.com/MetaChar/pyHAWK (Searches the directory of choice for interesting files. Such as database files and files with passwords stored on them)
 
 #### Special Scanners(Just for some special Components)
 
