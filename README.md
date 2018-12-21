@@ -122,6 +122,7 @@
 - https://github.com/anshumanbh/git-all-secrets (A tool to capture all the git secrets by leveraging multiple open source git searching tools)
 - https://github.com/s0md3v/Photon (Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
 )
+- https://github.com/VKSRC/Github-Monitor (Github Sensitive Information Leakage Monitor by vipkid SRC)
 
 #### Webshell Detection or Malware Analysis Tools
 
