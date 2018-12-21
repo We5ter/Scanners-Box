@@ -120,6 +120,7 @@
 - https://github.com/1N3/BlackWidow (Web站点信息搜集工具，包括邮箱、电话等信息）
 - https://github.com/anshumanbh/git-all-secrets (集合多个开源GitHub敏感信息扫描的企业信息泄露巡航工具)
 - https://github.com/s0md3v/Photon (可以提取网址，电子邮件，文件，网站帐户等的高速爬虫)
+- https://github.com/VKSRC/Github-Monitor (由vipkid SRC开发的Github信息泄漏监控系统)
 
 #### webshell检测或木马分析工具
 
