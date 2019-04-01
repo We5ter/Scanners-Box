@@ -326,6 +326,7 @@
 - https://github.com/joker25000/Optiva-Framework (Web Application Scanner)
 - https://github.com/theInfectedDrake/TIDoS-Framework (The offensive web application penetration testing framework)
 - https://github.com/TideSec/WDScanner (A full-featured vulnerability scanner for enterprise security)
+- https://github.com/j3ssie/Osmedeus (Fully automated offensive security tool for reconnaissance and vulnerability scanning)
 
 #### Some Tools relate with APT
 
