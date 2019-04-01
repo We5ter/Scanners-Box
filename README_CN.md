@@ -324,6 +324,7 @@
 - https://github.com/joker25000/Optiva-Framework (一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞)
 - https://github.com/theInfectedDrake/TIDoS-Framework (集成104个模块的Web应用程序渗透测试框架)
 - https://github.com/TideSec/WDScanner (一款功能完备的企业级漏洞扫描器)
+- https://github.com/j3ssie/Osmedeus (一款具备多角度信息收集和漏洞扫描能力的全自动扫描器)
 
 #### 高级持续性威胁(APT)相关工具
 
