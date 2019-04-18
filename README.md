@@ -291,7 +291,6 @@
 - https://github.com/netxfly/passive_scan (Realization of Web Vulnerability Scanner Based on http Proxy)
 - https://github.com/1N3/Sn1per (Automated Pentest Recon Scanner)
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner (Directional Fully Automated Penetration Testing)
-- https://github.com/3xp10it/3xp10it （A automated Penetration Testing Framework)
 - https://github.com/Lcys/lcyscan （A vuls scanner，plugins supported)
 - https://github.com/Xyntax/POC-T （Penetration Test Plug-in Concurrency Framework）
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner (Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns)
@@ -321,12 +320,12 @@
 - https://github.com/boy-hack/w9scan (A web vulnerability scanner framework,running with 1200+ plugins)
 - https://github.com/YalcinYolalan/WSSAT (Web Service Security Assessment Tool,provide simple .exe application to use based on windows OS)
 - https://github.com/AmyangXYZ/AssassinGo (An extenisble and concurrency pentest framework in Go)
-- https://github.com/jeffzh3ng/InsectsAwake （Network Vulnerability Scanner based on Flask）
 - https://github.com/m4ll0k/Galileo (Web Application Audit Framework,like metasploit)
 - https://github.com/joker25000/Optiva-Framework (Web Application Scanner)
 - https://github.com/theInfectedDrake/TIDoS-Framework (The offensive web application penetration testing framework)
 - https://github.com/TideSec/WDScanner (A full-featured vulnerability scanner for enterprise security)
 - https://github.com/j3ssie/Osmedeus (Fully automated offensive security tool for reconnaissance and vulnerability scanning)
+- https://github.com/jeffzh3ng/Fuxi-Scanner (Open source network security vulnerability scanner with asset discovery & management)
 
 #### Some Tools relate with APT
 
