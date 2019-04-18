@@ -288,7 +288,6 @@
 - https://github.com/netxfly/passive_scan (基于http代理的web漏洞扫描器)
 - https://github.com/1N3/Sn1per (自动化扫描器，包括中间件扫描以及设备指纹识别)
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner （定向全自动化渗透测试工具）
-- https://github.com/3xp10it/3xp10it （自动化渗透测试框架，支持cdn真实ip查找、指纹识别等)
 - https://github.com/Lcys/lcyscan (python插件化漏洞扫描器，支持生成扫描报表）
 - https://github.com/Xyntax/POC-T （渗透测试插件化并发框架）
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner （支持检测SQLi/XSS/LFI/RFI等漏洞的扫描器）
@@ -319,12 +318,12 @@
 - https://github.com/boy-hack/w9scan (内置1200+插件的web漏洞扫描框架)
 - https://github.com/YalcinYolalan/WSSAT (Web服务安全评估工具,提供基于windows操作系统的简单.exe应用)
 - https://github.com/AmyangXYZ/AssassinGo (使用Go开发的可扩展以及高并发渗透测试框架)
-- https://github.com/jeffzh3ng/InsectsAwake (基于 Flask 应用框架的漏洞扫描系统)
 - https://github.com/m4ll0k/Galileo (一个操作上类似metasploit的web应用安全审计框架)
 - https://github.com/joker25000/Optiva-Framework (一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞)
 - https://github.com/theInfectedDrake/TIDoS-Framework (集成104个模块的Web应用程序渗透测试框架)
 - https://github.com/TideSec/WDScanner (一款功能完备的企业级漏洞扫描器)
 - https://github.com/j3ssie/Osmedeus (一款具备多角度信息收集和漏洞扫描能力的全自动扫描器)
+- https://github.com/jeffzh3ng/Fuxi-Scanner (支持资产探测与管理的一款开源的网络安全检测工具)
 
 #### 高级持续性威胁(APT)相关工具
 
