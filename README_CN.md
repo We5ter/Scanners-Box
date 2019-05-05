@@ -200,6 +200,7 @@
 - https://github.com/boy-hack/w11scan (分布式WEB指纹识别平台)
 - https://github.com/Nekmo/dirhunt (爬虫式web目录扫描工具)
 - https://github.com/MetaChar/pyHAWK (数据库文件、私钥等敏感文件泄露扫描)
+https://github.com/H4ckForJob/dirmap (一个高级web目录扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑)
 
 #### 专用（即特定性针对某些组件）扫描器
 
@@ -249,6 +250,7 @@
 - https://github.com/radenvodka/SVScanner (针对wp、magento、joomla等CMS的漏洞扫描器及自动利用工具)
 - https://github.com/rezasp/joomscan (OWASP旗下joomla漏洞扫描项目)
 - https://github.com/6IX7ine/djangohunter (用于检测因错误配置导致敏感信息暴露的Django应用程序)
+- https://github.com/vulmon/Vulmap (基于实时拉取在线漏洞库思想的linux和windows漏洞扫描器)
 
 #### 无线网络（审计）扫描器
 
