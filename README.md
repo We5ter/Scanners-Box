@@ -202,6 +202,7 @@
 - https://github.com/boy-hack/w11scan (Distributed WEB fingerprint identification platform)
 - https://github.com/Nekmo/dirhunt (Find web directories without bruteforce)
 - https://github.com/MetaChar/pyHAWK (Searches the directory of choice for interesting files. Such as database files and files with passwords stored on them)
+- https://github.com/H4ckForJob/dirmap (An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian)
 
 #### Special Scanners(Just for some special Components)
 
@@ -251,6 +252,7 @@
 - https://github.com/radenvodka/SVScanner (Scanner vulnerability and maSsive exploit for wp,magento,joomla and so on)
 - https://github.com/rezasp/joomscan (OWASP Joomla Vulnerability Scanner Project )
 - https://github.com/6IX7ine/djangohunter (Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information)
+- https://github.com/vulmon/Vulmap (Local vulnerability scanning programs for Windows and Linux operating systems)
 
 #### Wireless Network Scanners
 
