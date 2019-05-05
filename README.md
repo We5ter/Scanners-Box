@@ -336,7 +336,7 @@
 #### Some Security Tools relate with ICS & Large network
 
 - https://github.com/w3h/icsmaster/tree/master/nse (Digital Bond's ICS Enumeration Tools)
-- https://github.com/OpenNetworkingFoundation/DELTA (Sdn security evaluation framework)
+- https://github.com/seungsoo-lee/DELTA (Sdn security evaluation framework)
 
 ***
 
@@ -384,6 +384,7 @@ Please specify reproduced  from https://github.com/We5ter/Scanners-Box , and ple
 - **@tom0li**
 - **@hksanduo**
 - **@alexlauerman**
+- **@MedivhMT**
 
 &copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2016-2017
 
