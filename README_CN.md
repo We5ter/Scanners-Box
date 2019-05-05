@@ -334,7 +334,7 @@ https://github.com/H4ckForJob/dirmap (一个高级web目录扫描工具，功能
 #### 工控系统&大型网络相关安全工具
 
 - https://github.com/w3h/icsmaster/tree/master/nse （ICS设备nmap扫描脚本)
-- https://github.com/OpenNetworkingFoundation/DELTA （SDN安全评估框架）
+- https://github.com/seungsoo-lee/DELTA （SDN网络安全评估框架）
 
 ***
 
@@ -382,5 +382,6 @@ https://github.com/H4ckForJob/dirmap (一个高级web目录扫描工具，功能
 - **@tom0li**
 - **@hksanduo**
 - **@alexlauerman**
+- **@MedivhMT**
 
 &copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2016-2017
