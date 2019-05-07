@@ -265,45 +265,115 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/threat9/routersploit (Exploitation Framework for Embedded Devices,such as router)
-- https://github.com/w3h/icsmaster/tree/master/nse (Digital Bond's ICS Enumeration Tools)
-- https://github.com/seungsoo-lee/DELTA (Sdn security evaluation framework)
+- https://github.com/threat9/routersploit - **Exploitation Framework for Embedded Devices,such as router**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/w3h/icsmaster/tree/master/nse - **Digital Bond's ICS Enumeration Tools**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **NSE**         |         **Ongoing[last 6 months]**: ✖️
+
 
 ### Mutiple types of Cross-site scripting Detection
 
-- https://github.com/shawarkhanethicalhacker/BruteXSS (Cross-Site Scripting Bruteforcer)
-- https://github.com/1N3/XSSTracer  (A small python script to check for Cross-Site Tracing)
-- https://github.com/0x584A/fuzzXssPHP (A very simple reflected XSS scanner supports GET/POST)
-- https://github.com/chuhades/xss_scan (Reflected XSS scanner)
-- https://github.com/BlackHole1/autoFindXssAndCsrf (A plugin for browser that checks automatically whether a page haves XSS and CSRF vulnerabilities)
-- https://github.com/shogunlab/shuriken （XSS command line tool for testing lists of XSS payloads on web apps）
-- https://github.com/s0md3v/XSStrike (fuzz and bruteforce parameters for XSS,WAFs detect and bypass)
-- https://github.com/stamparm/DSXS （A fully functional Cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code）
+- https://github.com/1N3/XSSTracer  - **A small python script to check for Cross-Site Tracing**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/0x584A/fuzzXssPHP - **A very simple reflected XSS scanner supports GET/POST**
+
+> **Rating**: 🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/chuhades/xss_scan - **Reflected XSS scanner**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/BlackHole1/autoFindXssAndCsrf - **A plugin for browser that checks automatically whether a page haves XSS and CSRF vulnerabilities**
+
+> **Rating**: 🌟🌟        |         **Language**: **Javascript**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/shogunlab/shuriken - **XSS command line tool for testing lists of XSS payloads on web apps**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/s0md3v/XSStrike - **fuzz and bruteforce parameters for XSS,WAFs detect and bypass**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/stamparm/DSXS - **A fully functional Cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 ### Enterprise Assets Management or Data Protection
 
-- https://github.com/ysrc/xunfeng (Vulnerability rapid response,scanning system for Intranet)
-- https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
-- https://github.com/x0day/Multisearch-v2 (Enterprise assets collector based on search engine)
-- https://github.com/Ekultek/Zeus-Scanner (An advanced dork searching tool that is capable of finding IP address /URL blocked by search engine,and can run sqlmap and nmap scans on the URL's)
-- https://github.com/0xbug/Biu-framework (Security Scan Framework For Enterprise Intranet Based Services)
-- https://github.com/metac0rtex/GitHarvester (Used for harvesting information from GitHub)
-- https://github.com/shengqi158/svnhack (A `.svn` folder disclosure exploit)
-- https://github.com/repoog/GitPrey (Searching sensitive files and contents in GitHub)
-- https://github.com/0xbug/Hawkeye (Github leak scan foe enterprise)
-- https://github.com/lianfeng30/githubscan (Github leak scan for enterprise)
-- https://github.com/UnkL4b/GitMiner （Advanced search tool and automation in Github）
-- https://github.com/lijiejie/GitHack (A `.git` folder disclosure exploit)
-- https://github.com/dxa4481/truffleHog (Searches high entropy strings through git repositories)
-- https://github.com/1N3/Goohak （Automatically Launch Google Hacking Queries Against A Target Domain）
-- https://github.com/UKHomeOffice/repo-security-scanner (CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys)
-- https://github.com/FeeiCN/GSIL (Github Sensitive Information Leakage)
-- https://github.com/MiSecurity/x-patrol (Github leaked patrol)
-- https://github.com/1N3/BlackWidow (Gather OSINT and fuzz for OWASP vulnerabilities on a target website)
-- https://github.com/anshumanbh/git-all-secrets (A tool to capture all the git secrets by leveraging multiple open source git searching tools)
-- https://github.com/s0md3v/Photon (Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
-)
-- https://github.com/VKSRC/Github-Monitor (Github Sensitive Information Leakage Monitor by vipkid SRC)
+- https://github.com/ysrc/xunfeng - **Vulnerability rapid response,scanning system for Intranet**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/x0day/Multisearch-v2 - **Enterprise assets collector based on search engine**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Ekultek/Zeus-Scanner - **An advanced dork searching tool that is capable of finding IP address /URL blocked by search engine,and can run sqlmap and nmap scans on the URL's**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/0xbug/Biu-framework - **Security Scan Framework For Enterprise Intranet Based Services**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/metac0rtex/GitHarvester - **Used for harvesting information from GitHub**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/repoog/GitPrey - **Searching sensitive files and contents in GitHub**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/0xbug/Hawkeye - **Github leak scan foe enterprise**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/UnkL4b/GitMiner - **Advanced search tool and automation in Github**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/dxa4481/truffleHog - **Searches high entropy strings through git repositories**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/1N3/Goohak - **Automatically Launch Google Hacking Queries Against A Target Domain**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/UKHomeOffice/repo-security-scanner - **CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/FeeiCN/GSIL - **Github Sensitive Information Leakage**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/MiSecurity/x-patrol - **Github leaked patrol**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/1N3/BlackWidow - **Gather OSINT and fuzz for OWASP vulnerabilities on a target website**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/anshumanbh/git-all-secrets - **A tool to capture all the git secrets by leveraging multiple open source git searching tools**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/s0md3v/Photon - **Incredibly fast crawler which extracts urls, emails, files, website accounts and much more
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/VKSRC/Github-Monitor - **Github Sensitive Information Leakage Monitor by vipkid SRC**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Malicious Scripts or Binary Malware Detection
 
@@ -382,6 +452,14 @@ English | [简体中文](./README_CN.md)
 
 ### Special Components or Products Scan
 
+- https://github.com/shengqi158/svnhack - **A `.svn` folder disclosure exploit**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **NSE**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/lijiejie/GitHack - **A `.git` folder disclosure exploit**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
 - https://github.com/blackye/Jenkins (Jenkins vulnerability detection, user grab enumerating)
 - https://github.com/code-scan/dzscan (discuz scanner)
 - https://github.com/chuhades/CMS-Exploit-Framework (CMS Exploit Framework)
@@ -429,6 +507,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/rezasp/joomscan (OWASP Joomla Vulnerability Scanner Project )
 - https://github.com/6IX7ine/djangohunter (Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information)
 - https://github.com/vulmon/Vulmap (Local vulnerability scanning programs for Windows and Linux operating systems)
+- https://github.com/seungsoo-lee/DELTA - Sdn security evaluation framework
 
 ### Vulnerability Assessment for Wireless Network
 
