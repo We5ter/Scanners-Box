@@ -4,13 +4,9 @@ English | [简体中文](./README_CN.md)
 <img src="./logo.png" width="300px">
  </p>
 
-***
-
-### Introduction
+## Introduction
 
 **Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which collects more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as awvs,nmap,w3af will not be included in the scope of collection.**
-
-***
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -19,7 +15,7 @@ English | [简体中文](./README_CN.md)
 
 - [Subdomain Scanners or Enumeration Tools](#subdomain-scanners-or-enumeration-tools)
 - [Database Vulnerability Scanners or Enumeration Tools](#database-vulnerability-scanners-or-enumeration-tools)
-- [Weak Passwords/Users Scanners or Enumeration Tools](#weak-passwords/users-scanners-or-enumeration-tools)
+- [Weak Passwords Scanners or Enumeration Tools](#weak-passwords-scanners-or-enumeration-tools)
 - [IoT Detecting Tools or Scanners](#iot-detecting-tools-or-scanners)
 - [Reflect or DOM-Based XSS Scanners](#reflect-or-dom-based-xss-scanners)
 - [Enterprise Assets Management or Leaks Gather Tools](#subdomain-scanners-or-enumeration-tools)
@@ -36,7 +32,9 @@ English | [简体中文](./README_CN.md)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-#### Subdomain Scanners or Enumeration Tools
+***
+
+### Subdomain Scanners or Enumeration Tools
 
 - https://github.com/lijiejie/subDomainsBrute - **A classical subdomain enumeration Tool by lijiejie**
 
@@ -147,7 +145,7 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 
-#### Database Vulnerability Scanners or Enumeration Tools
+### Database Vulnerability Scanners or Enumeration Tools
 
 - https://github.com/0xbug/SQLiScanner - **A SQLi Vulnerability Scanner via SQLMAP and Charles**
 
@@ -210,7 +208,7 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
-#### Weak Passwords/Users Scanners or Enumeration Tools
+### Weak Passwords Scanners or Enumeration Tools
 
 - https://github.com/lijiejie/htpwdScan (A python HTTP weak pass scanner)
 - https://github.com/ysrc/F-Scrack (single file bruteforcer supports multi-protocol)
@@ -221,7 +219,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/s0md3v/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
 - https://github.com/MooseDojo/myBFF (Web application brute force framework,supports Citrix Gateway,CiscoVPN and so on)
 
-#### IoT Detecting Tools or Scanners
+### IoT Detecting Tools or Scanners
 
 - https://github.com/rapid7/IoTSeeker (Weak-password IoT Devices Scanner)
 - https://github.com/shodan-labs/iotdb (IoT Devices Scanner via nmap)
@@ -230,7 +228,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/viraintel/OWASP-Nettacker (Network Information Gathering Vulnerability Scanner,most useful to scan IoT)
 - https://github.com/threat9/routersploit (Exploitation Framework for Embedded Devices,such as router)
 
-#### Reflect or DOM-Based XSS Scanners
+### Reflect or DOM-Based XSS Scanners
 
 - https://github.com/shawarkhanethicalhacker/BruteXSS (Cross-Site Scripting Bruteforcer)
 - https://github.com/1N3/XSSTracer  (A small python script to check for Cross-Site Tracing)
@@ -241,7 +239,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/s0md3v/XSStrike (fuzz and bruteforce parameters for XSS,WAFs detect and bypass)
 - https://github.com/stamparm/DSXS （A fully functional Cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code）
 
-#### Enterprise Assets Management or Leaks Gather Tools
+### Enterprise Assets Management or Leaks Gather Tools
 
 - https://github.com/ysrc/xunfeng (Vulnerability rapid response,scanning system for Intranet)
 - https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
@@ -266,7 +264,7 @@ English | [简体中文](./README_CN.md)
 )
 - https://github.com/VKSRC/Github-Monitor (Github Sensitive Information Leakage Monitor by vipkid SRC)
 
-#### Webshell Detection or Malware Analysis Tools
+### Webshell Detection or Malware Analysis Tools
 
 - https://github.com/he1m4n6a/findWebshell (Simple webshell Detector)
 - https://github.com/Tencent/HaboMalHunter (Used for automated malware analysis and security assessment on the Linux system)
@@ -278,13 +276,13 @@ English | [简体中文](./README_CN.md)
 - https://github.com/m4rco-/dorothy2 (A malware/botnet analysis framework written in Ruby)
 - https://github.com/droidefense/engine (Advance Android Malware Analysis Framework)
 
-#### Intranet Penetration Tools or Scanners
+### Intranet Penetration Tools or Scanners
 
 - https://github.com/lcatro/network_backdoor_scanner (An internal network scanner like meterpreter)
 - https://github.com/fdiskyou/hunter (User hunter using WinAPI calls only)
 - https://github.com/BlackHole1/WebRtcXSS (Use XSS automation Invade intranet)
 
-#### Middleware Scanners or Fingerprint Tools
+### Middleware Scanners or Fingerprint Tools
 
 - https://github.com/ring04h/wyportmap (Target port scanning + system service fingerprint recognition)
 - https://github.com/ring04h/weakfilescan (Dynamic multi - thread sensitive information leak detection tool)
@@ -341,7 +339,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/MetaChar/pyHAWK (Searches the directory of choice for interesting files. Such as database files and files with passwords stored on them)
 - https://github.com/H4ckForJob/dirmap (An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian)
 
-#### Special Scanners(Just for some special Components)
+### Special Components Scanners
 
 - https://github.com/blackye/Jenkins (Jenkins vulnerability detection, user grab enumerating)
 - https://github.com/code-scan/dzscan (discuz scanner)
@@ -391,7 +389,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/6IX7ine/djangohunter (Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information)
 - https://github.com/vulmon/Vulmap (Local vulnerability scanning programs for Windows and Linux operating systems)
 
-#### Wireless Network Scanners
+### Wireless Network Scanners
 
 - https://github.com/savio-code/fern-wifi-cracker/ (Testing and discovering flaws in ones own network)
 - https://github.com/m4n3dw0lf/PytheM (Multi-purpose network pentest framework)
@@ -401,13 +399,13 @@ English | [简体中文](./README_CN.md)
 - https://github.com/besimaltnok/PiFinger (Searches for wifi-pineapple traces and calculate wireless network security score)
 - https://github.com/derv82/wifite2 （A complete re-write of Wifite,Automated Wireless Attack Tool) 
 
-#### Local Network(Local Area Network) Scanners
+### LAN Scanners
 
 - https://github.com/sowish/LNScan  (Local Network Scanner based on BBScan via.lijiejie)
 - https://github.com/niloofarkheirkhah/nili （Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing）
 - https://github.com/SkyLined/LocalNetworkScanner (PoC Javascript that scans your local network when you open a webpage)
 
-#### Code Review Tools or Scanners
+### Code Review Tools or Scanners
 
 - https://github.com/wufeifei/cobra （A static code analysis system that automates the detecting vulnerabilities and security issue）
 - https://github.com/OneSourceCat/phpvulhunter （A tool that can scan php vulnerabilities automatically using static analysis methods）
@@ -420,7 +418,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/emanuil/php-reaper (PHP tool to scan ADOdb code for SQL Injections)
 - https://github.com/lowjoel/phortress (A PHP static code analyser for potential vulnerabilities)
 
-#### Modular Design Scanners or Vulnerability Detecting Framework
+### Modular Design Scanners or Vulnerability Detecting Framework
 
 - https://github.com/infobyte/faraday (Collaborative Penetration Test and Vulnerability Management Platform)
 - https://github.com/az0ne/AZScanner （Automatic all-around scanner）
@@ -466,47 +464,46 @@ English | [简体中文](./README_CN.md)
 - https://github.com/j3ssie/Osmedeus (Fully automated offensive security tool for reconnaissance and vulnerability scanning)
 - https://github.com/jeffzh3ng/Fuxi-Scanner (Open source network security vulnerability scanner with asset discovery & management)
 
-#### Some Tools relate with APT
+### Some Tools relate with APT
 
 - https://github.com/Neo23x0/Loki (Simple IOC and Incident Response Scanner)
 
-#### Some Security Tools relate with ICS & Large network
+### Some Security Tools relate with ICS & Large network
 
 - https://github.com/w3h/icsmaster/tree/master/nse (Digital Bond's ICS Enumeration Tools)
 - https://github.com/seungsoo-lee/DELTA (Sdn security evaluation framework)
 
 ***
 
-### Collection Purposes
+## Collection Purposes
 
 The purpose of this collection is to provide various types of  opensource security scanning tool that can help Internet companies to be more safer.
 
-### Maintainers
+## Authors
 
 **Wester**(Twitter <a href="http://twitter.com/wester0x01">@Zhiyang Zeng</a>) & **Martin**(Twitter <a href="https://twitter.com/yuyangchow">@Martin Chow</a>)
 
-### Symbolic Description
+## Symbolic Description
 
 **[↑]** means **update scanner description**<br>
 **[+]** means **add scanner**<br>
 **[-]** means **remove scanner**<br>
-**[move]** means **change scanner category**<br>
-**[ac]** means **add someone to Acknowledgments**<br>
-**[other]** means **other actions**
+**[category]** means **change scanner category**<br>
+**[contributor]** means **add someone to Acknowledgments**<br>
 
-### Disclaimer
+## Disclaimer
 
 Do not use for illegal purposes.
 
-### How to contribute?
+## How to contribute?
 
 We welcome everyone to contribute,you can open an issue for this if you have some new idea about this project or you have found some valuable scanner,and then I will add your name to Acknowledgments.
 
-### Copyright
+## Copyright
 
-Please specify reproduced  from https://github.com/We5ter/Scanners-Box , and please do not republish this article for profit.
+Please specify reproduced from https://github.com/We5ter/Scanners-Box , and please do not republish this article for profit.
 
-### Acknowledgments
+## Acknowledgments
 
 - **@0c0c0f**
 - **@藏形匿影(wacai.com)**
