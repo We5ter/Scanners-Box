@@ -30,6 +30,7 @@ English | [简体中文](./README_CN.md)
 - [Special Components or Products Scan](#special-components-or-products-scan)
 - [Vulnerability Assessment for Wireless Network](#vulnerability-assessment-for-wireless-network)
 - [Local Area Network detection](#local-area-network-detection)
+- [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
 - [Advanced Persistent Threat](#advanced-persistent-threat)
 
@@ -244,11 +245,26 @@ English | [简体中文](./README_CN.md)
 
 ### Authorization Brute Force or Vulnerability Scan For IoT
 
-- https://github.com/rapid7/IoTSeeker (Weak-password IoT Devices Scanner)
-- https://github.com/shodan-labs/iotdb (IoT Devices Scanner via nmap)
-- https://github.com/googleinurl/RouterHunterBR (Testing vulnerabilities in devices and routers connected to the Internet)
-- https://github.com/scu-igroup/telnet-scanner (weak telnet password scanner based on password enumeration)
-- https://github.com/viraintel/OWASP-Nettacker (Network Information Gathering Vulnerability Scanner,most useful to scan IoT)
+- https://github.com/rapid7/IoTSeeker - **Weak-password IoT Devices Scanner**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/shodan-labs/iotdb - **IoT Devices Scanner via nmap**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **XML**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/googleinurl/RouterHunterBR - **Testing vulnerabilities in devices and routers connected to the Internet**
+
+> **Rating**: 🌟🌟         |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/scu-igroup/telnet-scanner - **Weak telnet password scanner based on password enumeration**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/viraintel/OWASP-Nettacker - **Network Information Gathering Vulnerability Scanner,most useful to scan IoT**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+
 - https://github.com/threat9/routersploit (Exploitation Framework for Embedded Devices,such as router)
 - https://github.com/w3h/icsmaster/tree/master/nse (Digital Bond's ICS Enumeration Tools)
 - https://github.com/seungsoo-lee/DELTA (Sdn security evaluation framework)
@@ -430,7 +446,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/niloofarkheirkhah/nili （Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing）
 - https://github.com/SkyLined/LocalNetworkScanner (PoC Javascript that scans your local network when you open a webpage)
 
-### Code Review Tools or Scanners
+### Dynamic or Static Code Analysis
 
 - https://github.com/wufeifei/cobra （A static code analysis system that automates the detecting vulnerabilities and security issue）
 - https://github.com/OneSourceCat/phpvulhunter （A tool that can scan php vulnerabilities automatically using static analysis methods）
