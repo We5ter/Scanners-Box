@@ -1,4 +1,4 @@
-English | [简体中文](./README.CN.md)
+English | [简体中文](./README_CN.md)
 
 <p align="center">
 <img src="./logo.png" width="300px">
@@ -6,11 +6,35 @@ English | [简体中文](./README.CN.md)
 
 ***
 
-### Project Description
+### Introduction
 
 **Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which collects more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as awvs,nmap,w3af will not be included in the scope of collection.**
 
 ***
+
+## Contents
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Subdomain Scanners or Enumeration Tools](#subdomain-scanners-or-enumeration-tools)
+- [Database Vulnerability Scanners or Enumeration Tools](#database-vulnerability-scanners-or-enumeration-tools)
+- [Weak Passwords/Users Scanners or Enumeration Tools](#weak-passwords/users-scanners-or-enumeration-tools)
+- [IoT Detecting Tools or Scanners](#iot-detecting-tools-or-scanners)
+- [Reflect or DOM-Based XSS Scanners](#reflect-or-dom-based-xss-scanners)
+- [Enterprise Assets Management or Leaks Gather Tools](#subdomain-scanners-or-enumeration-tools)
+- [Webshell Detection or Malware Analysis Tools](#subdomain-scanners-or-enumeration-tools)
+- [Intranet Penetration Tools or Scanners](#subdomain-scanners-or-enumeration-tools)
+- [Middleware Scanners or Fingerprint Tools](#subdomain-scanners-or-enumeration-tools)
+- [Special Scanners(Just for some special Components)](#subdomain-scanners-or-enumeration-tools)
+- [Wireless Network Scanners](#subdomain-scanners-or-enumeration-tools)
+- [Local Network(Local Area Network) Scanners](#subdomain-scanners-or-enumeration-tools)
+- [Modular Design Scanners or Vulnerability Detecting Framework](#subdomain-scanners-or-enumeration-tools)
+- [Some Tools relate with APT](#subdomain-scanners-or-enumeration-tools)
+- [Some Security Tools relate with ICS & Large network](#subdomain-scanners-or-enumeration-tools)
+
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 #### Subdomain Scanners or Enumeration Tools
 
@@ -118,31 +142,73 @@ English | [简体中文](./README.CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/Ice3man543/subfinder - **SubFinder is a subdomain discovery tool which has a simple modular architecture and has been aimed as a successor to sublist3r project**
+- https://github.com/Ice3man543/subfinder - **A subdomain discovery tool which has a simple modular architecture and has been aimed as a successor to sublist3r project**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 
 #### Database Vulnerability Scanners or Enumeration Tools
 
-- https://github.com/0xbug/SQLiScanner (A SQLi Vulnerability Scanner via SQLMAP and Charles)
-- https://github.com/stamparm/DSSS (A SQLi Vulnerability Scanner with 99 lines of code)
-- https://github.com/LoRexxar/Feigong (A SQLi Vulnerability Scanner for MySQL)
-- https://github.com/youngyangyang04/NoSQLAttack  (A SQLi Vulnerability Scanner for mongoDB)
-- https://github.com/Neohapsis/bbqsql (A Blind SQLi Vulnerability Scanner)
-- https://github.com/NetSPI/PowerUpSQL (A SQLi Vulnerability Scanner with Powershell Script)
-- https://github.com/WhitewidowScanner/whitewidow (Another SQL Vulnerability Scanner)
-- https://github.com/stampery/mongoaudit (A powerful MongoDB auditing and pentesting tool)
-- https://github.com/torque59/Nosql-Exploitation-Framework (A Python Framework For NoSQL Scanning and Exploitation)
-- https://github.com/missDronio/blindy (Simple script to automate brutforcing blind sql injection vulnerabilities)
-- https://github.com/fengxuangit/Fox-scan (A initiative and passive SQL Injection vulnerable Test tools）
-- https://github.com/NetSPI/PowerUpSQL (A PowerShell Toolkit for Attacking SQL Server)
-- https://github.com/JohnTroony/Blisqy (Exploit Time-based blind-SQL injection in HTTP-Headers)
-- https://github.com/ron190/jsql-injection (A lightweight application used to find database information from a distant server)
-- https://github.com/Hadesy2k/sqliv (Massive SQL injection vulnerability scanner)
-- https://github.com/s0md3v/sqlmate (A friend of SQLmap which will do what you always expected from SQLmap)
-- https://github.com/m8r0wn/enumdb (MySQL and MSSQL brute force and post exploitation tool)
-- https://github.com/9tail123/wooscan (Check whether the site has ignorable sql injection vulnerabilities from wooyun.chamd5.org and automatically scan with sqlmap)
+- https://github.com/0xbug/SQLiScanner - **A SQLi Vulnerability Scanner via SQLMAP and Charles**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/stamparm/DSSS - **A SQLi Vulnerability Scanner with 99 lines of code**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/youngyangyang04/NoSQLAttack  - **A SQLi Vulnerability Scanner for mongoDB**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Neohapsis/bbqsql - **A Blind SQLi Vulnerability Scanner**
+
+> **Rating**: 🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/NetSPI/PowerUpSQL - A SQLi Vulnerability Scanner with Powershell Script
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Powershell**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/WhitewidowScanner/whitewidow - **Another SQL Vulnerability Scanner**
+
+> **Rating**: 🌟🌟         |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/stampery/mongoaudit - **A powerful MongoDB auditing and pentesting tool**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/torque59/Nosql-Exploitation-Framework - **A Python Framework For NoSQL Scanning and Exploitation**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/missDronio/blindy - **Simple script to automate brutforcing blind sql injection vulnerabilities**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/fengxuangit/Fox-scan - **A initiative and passive SQL Injection vulnerable Test tools**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/JohnTroony/Blisqy - **Exploit Time-based blind-SQL injection in HTTP-Headers**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/ron190/jsql-injection - **A lightweight application used to find database information from a distant server**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Hadesy2k/sqliv - **Massive SQL injection vulnerability scanner**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/s0md3v/sqlmate - **A friend of SQLmap which will do what you always expected from SQLmap**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/m8r0wn/enumdb  - **MySQL and MSSQL brute force and post exploitation tool**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 #### Weak Passwords/Users Scanners or Enumeration Tools
 
