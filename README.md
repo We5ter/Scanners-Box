@@ -8,7 +8,7 @@ English | [简体中文](./README.CN.md)
 
 ### Project Description
 
-**Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which collects more than 10 types open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as awvs,nmap,w3af will not be included in the scope of collection.**
+**Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which collects more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as awvs,nmap,w3af will not be included in the scope of collection.**
 
 ***
 
