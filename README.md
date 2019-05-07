@@ -1,23 +1,14 @@
+English | [简体中文](./README.CN.md)
+
 <p align="center">
-<img src="https://s2.ax1x.com/2019/02/13/k06IG8.png" width="300px">
+<img src="./logo.png" width="300px">
  </p>
-
-# The project
- 
-![GitHub issues](https://img.shields.io/github/issues/We5ter/Scanners-Box.svg)
-![GitHub forks](https://img.shields.io/github/forks/We5ter/Scanners-Box.svg)
-![GitHub stars](https://img.shields.io/github/stars/We5ter/Scanners-Box.svg)
-[![GitHub last commit](https://img.shields.io/github/last-commit/We5ter/Scanners-Box.svg)]()
-<br/><br/>
-<strong>README.md in <a href="https://github.com/We5ter/Scanners-Box/blob/master/README_CN.md">Chinese 中文</a></strong>
-</p>
-
 
 ***
 
 ### Project Description
 
-**Scanners Box** (**abbr - scanbox**) is a collection of open source scanners which are from the github platform, including subdomain enumeration, database vulnerability scanners, weak passwords or information leak scanners, port scanners, fingerprint scanners, and other large scale scanners, modular scanner etc. **For other Well-known scanning tools, such as: awvs,nmap,w3af will not be included in the scope of collection.**
+**Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which collects more than 10 types open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as awvs,nmap,w3af will not be included in the scope of collection.**
 
 ***
 
@@ -386,6 +377,6 @@ Please specify reproduced  from https://github.com/We5ter/Scanners-Box , and ple
 - **@alexlauerman**
 - **@MedivhMT**
 
-&copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2016-2017
+&copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2019
 
 
