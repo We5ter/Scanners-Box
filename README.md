@@ -4,6 +4,11 @@ English | [简体中文](./README_CN.md)
 <img src="./logo.png" width="300px">
  </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
+  <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
+</p>
+
 ## Introduction
 
 **Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which collects more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as awvs,nmap,w3af will not be included in the scope of collection.**
@@ -208,14 +213,34 @@ English | [简体中文](./README_CN.md)
 
 ### Weak Usernames or Passwords Enumeration For Web
 
-- https://github.com/lijiejie/htpwdScan (A python HTTP weak pass scanner)
-- https://github.com/ysrc/F-Scrack (single file bruteforcer supports multi-protocol)
-- https://github.com/Mebus/cupp (Common User Passwords Profiler)
-- https://github.com/netxfly/crack_ssh (Ssh\redis\mongodb weak password bruteforcer)
-- https://github.com/LandGrey/pydictor (A useful hacker dictionary builder for a brute-force attack)
-- https://github.com/shengqi158/weak_password_detect (A python HTTP weak password scanner)
-- https://github.com/s0md3v/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
-- https://github.com/MooseDojo/myBFF (Web application brute force framework,supports Citrix Gateway,CiscoVPN and so on)
+- https://github.com/lijiejie/htpwdScan  - **A python HTTP weak pass scanner**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Mebus/cupp - **Common User Passwords Profiler**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/netxfly/crack_ssh - **Ssh, redis, mongodb weak password bruteforcer**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/LandGrey/pydictor - **A useful hacker dictionary builder for a brute-force attack**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/shengqi158/weak_password_detect - **A python HTTP weak password scanner**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/s0md3v/Blazy - **a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/MooseDojo/myBFF - **Web application brute force framework,supports Citrix Gateway,CiscoVPN and so on**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
 
 ### Authorization Brute Force or Vulnerability Scan For IoT
 
