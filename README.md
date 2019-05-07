@@ -540,54 +540,176 @@ English | [简体中文](./README_CN.md)
 
 ### Modular Design Scanners or Vulnerability Detecting Framework
 
-- https://github.com/infobyte/faraday (Collaborative Penetration Test and Vulnerability Management Platform)
-- https://github.com/az0ne/AZScanner （Automatic all-around scanner）
-- https://github.com/blackye/lalascan (Distributed web vulnerability scanning framework)
-- https://github.com/blackye/BkScanner (Distributed, plug-in web vulnerability scanner)
-- https://github.com/ysrc/GourdScanV2 (Passive Vulnerability Scanning System)
-- https://github.com/netxfly/passive_scan (Realization of Web Vulnerability Scanner Based on http Proxy)
-- https://github.com/1N3/Sn1per (Automated Pentest Recon Scanner)
-- https://github.com/RASSec/pentestEr_Fully-automatic-scanner (Directional Fully Automated Penetration Testing)
-- https://github.com/Lcys/lcyscan （A vuls scanner，plugins supported)
-- https://github.com/Xyntax/POC-T （Penetration Test Plug-in Concurrency Framework）
-- https://github.com/v3n0m-Scanner/V3n0M-Scanner (Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns)
-- https://github.com/Skycrab/leakScan (Multiple vuls scan supports Web interface）
-- https://github.com/zhangzhenfeng/AnyScan (A automated Penetration Testing Framework)
-- https://github.com/Tuhinshubhra/RED_HAWK (An All In One Tool For Information Gathering, SQL Vulnerability Scanning and Crawling. Coded In PHP)
-- https://github.com/Arachni/arachni (Web Application Security Scanner Framework)
-- https://github.com/juansacco/exploitpack (Exploit Pack - Penetration testing framework GPLv3)
-- https://github.com/swisskyrepo/DamnWebScanner (Another web vulnerabilities scanner, this extension works on Chrome and Opera)
-- https://github.com/anilbaranyelken/tulpar （Web Vulnerability Scanner written in python,supported multiple web vulnerabilities scan）
-- https://github.com/m4ll0k/Spaghetti （A web application security scanner tool,designed to find various default and insecure files, configurations and misconfigurations）
-- https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest (An automated Penetration Testing tool this tool will auditing all standard security test method for you)
-- https://github.com/0xsauby/yasuo ( ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network)
-- https://github.com/hatRiot/clusterd (application server attack toolkit)
-- https://github.com/erevus-cn/pocscan (Open source and distributed web vulnerability scanning framework)
-- https://github.com/TophantTechnology/osprey (Distributed web vulnerability scanning framework)
-- https://github.com/yangbh/Hammer (A web vulnerability scanner framework)
+- https://github.com/infobyte/faraday - **Collaborative Penetration Test and Vulnerability Management Platform**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/az0ne/AZScanner - **Automatic all-around scanner**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/blackye/lalascan - **Distributed web vulnerability scanning framework**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/blackye/BkScanner - **Distributed, plug-in web vulnerability scanner**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/ysrc/GourdScanV2 - **Passive Vulnerability Scanning System**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/netxfly/passive_scan - **Realization of Web Vulnerability Scanner Based on http Proxy**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/1N3/Sn1per - **Automated Pentest Recon Scanner**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/RASSec/pentestEr_Fully-automatic-scanner - **Directional Fully Automated Penetration Testing**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Lcys/lcyscan - **A vuls scanner，plugins supported**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Xyntax/POC-T - **Penetration Test Plug-in Concurrency Framework**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/v3n0m-Scanner/V3n0M-Scanner - **Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Skycrab/leakScan - **Multiple vuls scan supports Web interface**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/zhangzhenfeng/AnyScan - **A automated Penetration Testing Framework**
+
+> **Rating**: 🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Tuhinshubhra/RED_HAWK - **An All In One Tool For Information Gathering, SQL Vulnerability Scanning and Crawling. Coded In PHP**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Arachni/arachni - **Web Application Security Scanner Framework**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/swisskyrepo/DamnWebScanner - **Another web vulnerabilities scanner, this extension works on Chrome and Opera**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/anilbaranyelken/tulpar - **Web Vulnerability Scanner written in python,supported multiple web vulnerabilities scan**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/m4ll0k/Spaghetti - **A web application security scanner tool,designed to find various default and insecure files, configurations and misconfigurations**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest - **An automated Penetration Testing tool this tool will auditing all standard security test method for you**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/0xsauby/yasuo - **ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/hatRiot/clusterd - **application server attack toolkit**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/erevus-cn/pocscan - **Open source and distributed web vulnerability scanning framework**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/TophantTechnology/osprey - **Distributed web vulnerability scanning framework**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/yangbh/Hammer - **A web vulnerability scanner framework**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
 - https://github.com/Lucifer1993/AngelSword （Web vulnerability scanner framework based on python3)
-- https://github.com/secrary/EllaScanner (Passive web scanner,and you can get CVEs related to server’s version)
-- https://github.com/zaproxy/zaproxy (One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers)
-- https://github.com/sullo/nikto (Nikto is a web server assessment tool. It is designed to find various default and insecure files, configurations and programs on any type of web server)
-- https://github.com/s0md3v/Striker (Striker is an offensive information and vulnerability scanner)
-- https://github.com/dermotblair/webvulscan (Written in PHP and can be used to test remote, or local, web applications for security vulnerabilities)
-- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework (Penetration testing aiding tool and exploitation framework)
-- https://github.com/toyakula/luna (An open-source web security scanner which is based on reduced-code passive scanning framework)
-- https://github.com/Manisso/fsociety (A Penetration Testing Framework including Information Gathering,Wireless Testing,Web Hacking and so on)
-- https://github.com/boy-hack/w9scan (A web vulnerability scanner framework,running with 1200+ plugins)
-- https://github.com/YalcinYolalan/WSSAT (Web Service Security Assessment Tool,provide simple .exe application to use based on windows OS)
-- https://github.com/AmyangXYZ/AssassinGo (An extenisble and concurrency pentest framework in Go)
-- https://github.com/m4ll0k/Galileo (Web Application Audit Framework,like metasploit)
-- https://github.com/joker25000/Optiva-Framework (Web Application Scanner)
-- https://github.com/theInfectedDrake/TIDoS-Framework (The offensive web application penetration testing framework)
-- https://github.com/TideSec/WDScanner (A full-featured vulnerability scanner for enterprise security)
-- https://github.com/j3ssie/Osmedeus (Fully automated offensive security tool for reconnaissance and vulnerability scanning)
-- https://github.com/jeffzh3ng/Fuxi-Scanner (Open source network security vulnerability scanner with asset discovery & management)
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/zaproxy/zaproxy - **One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/sullo/nikto - **Nikto is a web server assessment tool. It is designed to find various default and insecure files, configurations and programs on any type of web server**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/s0md3v/Striker - **Striker is an offensive information and vulnerability scanner**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/dermotblair/webvulscan - **Written in PHP and can be used to test remote, or local, web applications for security vulnerabilities**
+
+> **Rating**: 🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework - **Penetration testing aiding tool and exploitation framework**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/toyakula/luna - **An open-source web security scanner which is based on reduced-code passive scanning framework**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Manisso/fsociety - **A Penetration Testing Framework including Information Gathering,Wireless Testing,Web Hacking and so on**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/boy-hack/w9scan - **A web vulnerability scanner framework,running with 1200+ plugins**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/YalcinYolalan/WSSAT - **Web Service Security Assessment Tool,provide simple .exe application to use based on windows OS**
+
+> **Rating**: 🌟🌟        |         **Language**: **C#**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/AmyangXYZ/AssassinGo - **An extenisble and concurrency pentest framework in Go**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/m4ll0k/Galileo - **Web Application Audit Framework,like metasploit**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/joker25000/Optiva-Framework - Web Application Scanner
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/theInfectedDrake/TIDoS-Framework - **The offensive web application penetration testing framework**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/TideSec/WDScanner - **A full-featured vulnerability scanner for enterprise security**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x/PHP**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/j3ssie/Osmedeus - **Fully automated offensive security tool for reconnaissance and vulnerability scanning**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/jeffzh3ng/Fuxi-Scanner - **Open source network security vulnerability scanner with asset discovery & management**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Advanced Persistent Threat
 
 - https://github.com/Neo23x0/Loki (Simple IOC and Incident Response Scanner)
 
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
 ***
 
