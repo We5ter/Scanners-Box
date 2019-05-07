@@ -7,6 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
+ <img src="https://img.shields.io/badge/Scanners/Number-258-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -527,16 +528,42 @@ English | [简体中文](./README_CN.md)
 
 ### Dynamic or Static Code Analysis
 
-- https://github.com/wufeifei/cobra （A static code analysis system that automates the detecting vulnerabilities and security issue）
-- https://github.com/OneSourceCat/phpvulhunter （A tool that can scan php vulnerabilities automatically using static analysis methods）
-- https://github.com/Qihoo360/phptrace （A tracing and troubleshooting tool for PHP scripts）
-- https://github.com/ajinabraham/NodeJsScan (A static security code scanner for Node.js applications)
-- https://github.com/shengqi158/pyvulhunter  (A static security code scanner for python applications)
-- https://github.com/presidentbeef/brakeman (A static analysis security vulnerability scanner for Ruby on Rails applications)
-- https://github.com/python-security/pyt (A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications)
-- https://github.com/m4ll0k/WPSploit (WordPress Plugin Code audit)
-- https://github.com/emanuil/php-reaper (PHP tool to scan ADOdb code for SQL Injections)
-- https://github.com/lowjoel/phortress (A PHP static code analyser for potential vulnerabilities)
+- https://github.com/wufeifei/cobra - **A static code analysis system that automates the detecting vulnerabilities and security issue**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/OneSourceCat/phpvulhunter - **A tool that can scan php vulnerabilities automatically using static analysis methods**
+
+> **Rating**: 🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Qihoo360/phptrace - **A tracing and troubleshooting tool for PHP scripts**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **C**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/ajinabraham/NodeJsScan - **A static security code scanner for Node.js applications**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/shengqi158/pyvulhunter  - **A static security code scanner for python applications**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/presidentbeef/brakeman - **A static analysis security vulnerability scanner for Ruby on Rails applications**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/python-security/pyt - **A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/emanuil/php-reaper - **PHP tool to scan ADOdb code for SQL Injections**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/lowjoel/phortress - **A PHP static code analyser for potential vulnerabilities**
+
+> **Rating**: 🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+
 
 ### Modular Design Scanners or Vulnerability Detecting Framework
 
