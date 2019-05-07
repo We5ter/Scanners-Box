@@ -13,28 +13,26 @@ English | [简体中文](./README_CN.md)
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Subdomain Scanners or Enumeration Tools](#subdomain-scanners-or-enumeration-tools)
-- [Database Vulnerability Scanners or Enumeration Tools](#database-vulnerability-scanners-or-enumeration-tools)
-- [Weak Passwords Scanners or Enumeration Tools](#weak-passwords-scanners-or-enumeration-tools)
-- [IoT Detecting Tools or Scanners](#iot-detecting-tools-or-scanners)
-- [Reflect or DOM-Based XSS Scanners](#reflect-or-dom-based-xss-scanners)
-- [Enterprise Assets Management or Leaks Gather Tools](#enterprise-assets-management-or-leaks-gather-tools)
-- [Webshell Detection or Malware Analysis Tools](#webshell-detection-or-malware-analysis-tools)
-- [Intranet Penetration Tools or Scanners](#intranet-penetration-tools-or-scanners)
-- [Middleware Scanners or Fingerprint Tools](#middleware-scanners-or-fingerprint-tools)
-- [Special Components Scanners](#special-components-scanners)
-- [Wireless Network Scanners](#wireless-network-scanners)
-- [LAN Scanners](#lan-scanners)
+- [Subdomain Enumeration or Takeover](#subdomain-enumeration-or-takeover)
+- [Database SQL Injection Vulnerability or Brute Force](#database-sql-injection-vulnerability-or-brute-force)
+- [Weak Usernames or Passwords Enumeration For Web](#weak-usernames-or-passwords-enumeration-for-web)
+- [Authorization Brute Force or Vulnerability Scan For IoT](#authorization-brute-force-or-vulnerability-scan-for-iot)
+- [Mutiple types of Cross-site scripting Detection](#mutiple-types-of-cross-site-scripting-detection)
+- [Enterprise Assets Management or Data Protection](#enterprise-assets-management-or-data-protection)
+- [Malicious Scripts or Binary Malware Detection](#malicious-scripts-or-binary-malware-detection)
+- [Intranet Penetration](#intranet-penetration)
+- [Vulnerability Assessment for Middleware or Information Leak Scan](#vulnerability-assessment-for-middleware-or-information-leak-scan)
+- [Special Components or Products Scan](#special-components-or-products-scan)
+- [Vulnerability Assessment for Wireless Network](#vulnerability-assessment-for-wireless-network)
+- [Local Area Network detection](#local-area-network-detection)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
-- [Some Tools relate with APT](#some-tools-relate-with-apt)
-- [Some Security Tools relate with ICS](#some-security-tools-relate-with-ics)
-
+- [Advanced Persistent Threat](#advanced-persistent-threat)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ***
 
-### Subdomain Scanners or Enumeration Tools
+### Subdomain Enumeration or Takeover
 
 - https://github.com/lijiejie/subDomainsBrute - **A classical subdomain enumeration Tool by lijiejie**
 
@@ -145,7 +143,7 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 
-### Database Vulnerability Scanners or Enumeration Tools
+### Database SQL Injection Vulnerability or Brute Force
 
 - https://github.com/0xbug/SQLiScanner - **A SQLi Vulnerability Scanner via SQLMAP and Charles**
 
@@ -163,7 +161,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/NetSPI/PowerUpSQL - A SQLi Vulnerability Scanner with Powershell Script
+- https://github.com/NetSPI/PowerUpSQL - **A SQLi Vulnerability Scanner with Powershell Script**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Powershell**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -208,7 +206,7 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
-### Weak Passwords Scanners or Enumeration Tools
+### Weak Usernames or Passwords Enumeration For Web
 
 - https://github.com/lijiejie/htpwdScan (A python HTTP weak pass scanner)
 - https://github.com/ysrc/F-Scrack (single file bruteforcer supports multi-protocol)
@@ -219,7 +217,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/s0md3v/Blazy (Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF)
 - https://github.com/MooseDojo/myBFF (Web application brute force framework,supports Citrix Gateway,CiscoVPN and so on)
 
-### IoT Detecting Tools or Scanners
+### Authorization Brute Force or Vulnerability Scan For IoT
 
 - https://github.com/rapid7/IoTSeeker (Weak-password IoT Devices Scanner)
 - https://github.com/shodan-labs/iotdb (IoT Devices Scanner via nmap)
@@ -227,8 +225,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/scu-igroup/telnet-scanner (weak telnet password scanner based on password enumeration)
 - https://github.com/viraintel/OWASP-Nettacker (Network Information Gathering Vulnerability Scanner,most useful to scan IoT)
 - https://github.com/threat9/routersploit (Exploitation Framework for Embedded Devices,such as router)
+- https://github.com/w3h/icsmaster/tree/master/nse (Digital Bond's ICS Enumeration Tools)
+- https://github.com/seungsoo-lee/DELTA (Sdn security evaluation framework)
 
-### Reflect or DOM-Based XSS Scanners
+### Mutiple types of Cross-site scripting Detection
 
 - https://github.com/shawarkhanethicalhacker/BruteXSS (Cross-Site Scripting Bruteforcer)
 - https://github.com/1N3/XSSTracer  (A small python script to check for Cross-Site Tracing)
@@ -239,7 +239,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/s0md3v/XSStrike (fuzz and bruteforce parameters for XSS,WAFs detect and bypass)
 - https://github.com/stamparm/DSXS （A fully functional Cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code）
 
-### Enterprise Assets Management or Leaks Gather Tools
+### Enterprise Assets Management or Data Protection
 
 - https://github.com/ysrc/xunfeng (Vulnerability rapid response,scanning system for Intranet)
 - https://github.com/laramies/theHarvester (E-mail, subdomain and people names harvester)
@@ -264,7 +264,7 @@ English | [简体中文](./README_CN.md)
 )
 - https://github.com/VKSRC/Github-Monitor (Github Sensitive Information Leakage Monitor by vipkid SRC)
 
-### Webshell Detection or Malware Analysis Tools
+### Malicious Scripts or Binary Malware Detection
 
 - https://github.com/he1m4n6a/findWebshell (Simple webshell Detector)
 - https://github.com/Tencent/HaboMalHunter (Used for automated malware analysis and security assessment on the Linux system)
@@ -276,13 +276,13 @@ English | [简体中文](./README_CN.md)
 - https://github.com/m4rco-/dorothy2 (A malware/botnet analysis framework written in Ruby)
 - https://github.com/droidefense/engine (Advance Android Malware Analysis Framework)
 
-### Intranet Penetration Tools or Scanners
+### Intranet Penetration
 
 - https://github.com/lcatro/network_backdoor_scanner (An internal network scanner like meterpreter)
 - https://github.com/fdiskyou/hunter (User hunter using WinAPI calls only)
 - https://github.com/BlackHole1/WebRtcXSS (Use XSS automation Invade intranet)
 
-### Middleware Scanners or Fingerprint Tools
+### Vulnerability Assessment for Middleware or Information Leak Scan
 
 - https://github.com/ring04h/wyportmap (Target port scanning + system service fingerprint recognition)
 - https://github.com/ring04h/weakfilescan (Dynamic multi - thread sensitive information leak detection tool)
@@ -339,7 +339,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/MetaChar/pyHAWK (Searches the directory of choice for interesting files. Such as database files and files with passwords stored on them)
 - https://github.com/H4ckForJob/dirmap (An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian)
 
-### Special Components Scanners
+### Special Components or Products Scan
 
 - https://github.com/blackye/Jenkins (Jenkins vulnerability detection, user grab enumerating)
 - https://github.com/code-scan/dzscan (discuz scanner)
@@ -389,7 +389,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/6IX7ine/djangohunter (Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information)
 - https://github.com/vulmon/Vulmap (Local vulnerability scanning programs for Windows and Linux operating systems)
 
-### Wireless Network Scanners
+### Vulnerability Assessment for Wireless Network
 
 - https://github.com/savio-code/fern-wifi-cracker/ (Testing and discovering flaws in ones own network)
 - https://github.com/m4n3dw0lf/PytheM (Multi-purpose network pentest framework)
@@ -399,7 +399,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/besimaltnok/PiFinger (Searches for wifi-pineapple traces and calculate wireless network security score)
 - https://github.com/derv82/wifite2 （A complete re-write of Wifite,Automated Wireless Attack Tool) 
 
-### LAN Scanners
+### Local Area Network detection
 
 - https://github.com/sowish/LNScan  (Local Network Scanner based on BBScan via.lijiejie)
 - https://github.com/niloofarkheirkhah/nili （Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing）
@@ -464,14 +464,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/j3ssie/Osmedeus (Fully automated offensive security tool for reconnaissance and vulnerability scanning)
 - https://github.com/jeffzh3ng/Fuxi-Scanner (Open source network security vulnerability scanner with asset discovery & management)
 
-### Some Tools relate with APT
+### Advanced Persistent Threat
 
 - https://github.com/Neo23x0/Loki (Simple IOC and Incident Response Scanner)
 
-### Some Security Tools relate with ICS
-
-- https://github.com/w3h/icsmaster/tree/master/nse (Digital Bond's ICS Enumeration Tools)
-- https://github.com/seungsoo-lee/DELTA (Sdn security evaluation framework)
 
 ***
 
