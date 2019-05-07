@@ -18,16 +18,16 @@ English | [简体中文](./README_CN.md)
 - [Weak Passwords Scanners or Enumeration Tools](#weak-passwords-scanners-or-enumeration-tools)
 - [IoT Detecting Tools or Scanners](#iot-detecting-tools-or-scanners)
 - [Reflect or DOM-Based XSS Scanners](#reflect-or-dom-based-xss-scanners)
-- [Enterprise Assets Management or Leaks Gather Tools](#subdomain-scanners-or-enumeration-tools)
-- [Webshell Detection or Malware Analysis Tools](#subdomain-scanners-or-enumeration-tools)
-- [Intranet Penetration Tools or Scanners](#subdomain-scanners-or-enumeration-tools)
-- [Middleware Scanners or Fingerprint Tools](#subdomain-scanners-or-enumeration-tools)
-- [Special Scanners(Just for some special Components)](#subdomain-scanners-or-enumeration-tools)
-- [Wireless Network Scanners](#subdomain-scanners-or-enumeration-tools)
-- [Local Network(Local Area Network) Scanners](#subdomain-scanners-or-enumeration-tools)
-- [Modular Design Scanners or Vulnerability Detecting Framework](#subdomain-scanners-or-enumeration-tools)
-- [Some Tools relate with APT](#subdomain-scanners-or-enumeration-tools)
-- [Some Security Tools relate with ICS & Large network](#subdomain-scanners-or-enumeration-tools)
+- [Enterprise Assets Management or Leaks Gather Tools](#enterprise-assets-management-or-leaks-gather-tools)
+- [Webshell Detection or Malware Analysis Tools](#webshell-detection-or-malware-analysis-tools)
+- [Intranet Penetration Tools or Scanners](#intranet-penetration-tools-or-scanners)
+- [Middleware Scanners or Fingerprint Tools](#middleware-scanners-or-fingerprint-tools)
+- [Special Components Scanners](#special-components-scanners)
+- [Wireless Network Scanners](#wireless-network-scanners)
+- [LAN Scanners](#lan-scanners)
+- [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
+- [Some Tools relate with APT](#some-tools-relate-with-apt)
+- [Some Security Tools relate with ICS](#some-security-tools-relate-with-ics)
 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -468,7 +468,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/Neo23x0/Loki (Simple IOC and Incident Response Scanner)
 
-### Some Security Tools relate with ICS & Large network
+### Some Security Tools relate with ICS
 
 - https://github.com/w3h/icsmaster/tree/master/nse (Digital Bond's ICS Enumeration Tools)
 - https://github.com/seungsoo-lee/DELTA (Sdn security evaluation framework)
