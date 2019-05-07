@@ -14,111 +14,111 @@ English | [简体中文](./README.CN.md)
 
 #### Subdomain Scanners or Enumeration Tools
 
-- https://github.com/lijiejie/subDomainsBrute - A classical subdomain enumeration Tool by lijiejie
+- https://github.com/lijiejie/subDomainsBrute - **A classical subdomain enumeration Tool by lijiejie**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/ring04h/wydomain - A Speed and Precision subdomain Enumeration Tool by ringzero
+- https://github.com/ring04h/wydomain - **A Speed and Precision subdomain Enumeration Tool by ringzero**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/le4f/dnsmaper - Subdomain Enumeration tool with map record
+- https://github.com/le4f/dnsmaper - **Subdomain Enumeration tool with map record**
 
 > **Rating**: 🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/0xbug/orangescan - Online Subdomain Enumeration Tool
+- https://github.com/0xbug/orangescan - **Online Subdomain Enumeration Tool**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/TheRook/subbrute - A DNS meta-query spider that enumerates DNS records, and subdomains,supported API
+- https://github.com/TheRook/subbrute - **A DNS meta-query spider that enumerates DNS records, and subdomains,supported API**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/We5ter/GSDF - Subdomain enumeration via Google Certificate Transparency
+- https://github.com/We5ter/GSDF - **Subdomain enumeration via Google Certificate Transparency**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/mandatoryprogrammer/cloudflare_enum  - Subdomain enumeration via CloudFlare
+- https://github.com/mandatoryprogrammer/cloudflare_enum  - **Subdomain enumeration via CloudFlare**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/guelfoweb/knock - Knock Subdomain Scan
+- https://github.com/guelfoweb/knock - **Knock Subdomain Scan**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker - An Intergratd Python Subdomain Enumeration Tool
+- https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker - **An Intergratd Python Subdomain Enumeration Tool**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/code-scan/BroDomain - Find brother domain
+- https://github.com/code-scan/BroDomain - **Find brother domain**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/chuhades/dnsbrute - a fast domain brute tool
+- https://github.com/chuhades/dnsbrute - **A fast domain brute tool**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/yanxiu0614/subdomain3 - A simple and fast tool for bruting subdomains
+- https://github.com/yanxiu0614/subdomain3 - **A simple and fast tool for bruting subdomains**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/michenriksen/aquatone - A powerful subdomain tool and Domain takeovers finding tools
+- https://github.com/michenriksen/aquatone - **A powerful subdomain tool and Domain takeovers finding tools**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/evilsocket/dnssearch - A subdomain enumeration tool
+- https://github.com/evilsocket/dnssearch - **A subdomain enumeration tool**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/reconned/domained - Subdomain enumeration tools for bug hunting
+- https://github.com/reconned/domained - **Subdomain enumeration tools for bug hunting**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/bit4woo/Teemo - A Domain Name & Email Address Collection Tool
+- https://github.com/bit4woo/Teemo - **A Domain Name & Email Address Collection Tool**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/laramies/theHarvester - E-mail, subdomain and people names harvester
+- https://github.com/laramies/theHarvester - **E-mail, subdomain and people names harvester**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/nmalcolm/Inventus - A spider designed to find subdomains of a specific domain by crawling it
+- https://github.com/nmalcolm/Inventus - **A spider designed to find subdomains of a specific domain by crawling it**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/aboul3la/Sublist3r - Fast subdomains enumeration tool for penetration testers
+- https://github.com/aboul3la/Sublist3r - **Fast subdomains enumeration tool for penetration testers**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/jonluca/Anubis - Subdomain enumeration and information gathering tool
+- https://github.com/jonluca/Anubis - **Subdomain enumeration and information gathering tool**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/n4xh4ck5/N4xD0rk - Listing subdomains about a main domain
+- https://github.com/n4xh4ck5/N4xD0rk - **Listing subdomains about a main domain**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/infosec-au/altdns - Subdomain discovery through alterations and permutations
+- https://github.com/infosec-au/altdns - **Subdomain discovery through alterations and permutations**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/FeeiCN/ESD - Enumeration sub domains tool,based on AsyncIO and non-repeating dict
+- https://github.com/FeeiCN/ESD - **Enumeration sub domains tool,based on AsyncIO and non-repeating dict**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/UnaPibaGeek/ctfr - Abusing Certificate Transparency logs for getting HTTPS websites subdomains
+- https://github.com/UnaPibaGeek/ctfr - **Abusing Certificate Transparency logs for getting HTTPS websites subdomains**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/giovanifss/Dumb - Dumain Bruteforcer, a fast and flexible domain bruteforcer
+- https://github.com/giovanifss/Dumb - **Dumain Bruteforcer, a fast and flexible domain bruteforcer**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Haskell**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/caffix/amass - Subdomain Enumeration in Go
+- https://github.com/caffix/amass - **Subdomain Enumeration in Go**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/Ice3man543/subfinder -SubFinder is a subdomain discovery tool which has a simple modular architecture and has been aimed as a successor to sublist3r project
+- https://github.com/Ice3man543/subfinder - **SubFinder is a subdomain discovery tool which has a simple modular architecture and has been aimed as a successor to sublist3r project**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
