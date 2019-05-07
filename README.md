@@ -14,8 +14,13 @@ English | [简体中文](./README.CN.md)
 
 #### Subdomain Scanners or Enumeration Tools
 
-- https://github.com/lijiejie/subDomainsBrute (A classical subdomain enumeration Tool by lijiejie)
-- https://github.com/ring04h/wydomain (A Speed and Precision subdomain Enumeration Tool by ringzero)
+- https://github.com/lijiejie/subDomainsBrute - A classical subdomain enumeration Tool by lijiejie
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing**: ✖️
+
+- https://github.com/ring04h/wydomain - A Speed and Precision subdomain Enumeration Tool by ringzero
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing**: ✖️
+
 - https://github.com/le4f/dnsmaper (Subdomain Enumeration tool with map record)
 - https://github.com/0xbug/orangescan (Online Subdomain Enumeration Tool)
 - https://github.com/TheRook/subbrute (A DNS meta-query spider that enumerates DNS records, and subdomains,supported API)
