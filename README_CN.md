@@ -13,7 +13,7 @@
 
 ## 简介
 
-**Scanners Box**也可称为 **scanbox**，是一个强大完备的黑客工具箱，它收集了Github上数10种类别的开源扫描器，包括子域名，数据库，中间件和其他模块化设计的扫描器等，**但对于一些被大众所熟知的知名扫描工具，如nmap、w3af、brakeman、arachni、nikto、metasploit、aircrack-ng将不包括在本项目的收集范围内。**
+**Scanners Box**也被称为 **scanbox**，是一个强大完备的黑客工具箱，它收集了Github上数10种类别的开源扫描器，包括子域名，数据库，中间件和其他模块化设计的扫描器等，**但对于一些被大众所熟知的知名扫描工具，如nmap、w3af、brakeman、arachni、nikto、metasploit、aircrack-ng将不包括在本项目的收集范围内。**
 
 ## 目录
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -21,57 +21,141 @@
 
 
 - [子域名爆破枚举或接管](#子域名爆破枚举或接管)
-- [Database SQL Injection Vulnerability or Brute Force](#database-sql-injection-vulnerability-or-brute-force)
-- [Weak Usernames or Passwords Enumeration For Web](#weak-usernames-or-passwords-enumeration-for-web)
-- [Authorization Brute Force or Vulnerability Scan For IoT](#authorization-brute-force-or-vulnerability-scan-for-iot)
-- [Mutiple types of Cross-site scripting Detection](#mutiple-types-of-cross-site-scripting-detection)
-- [Enterprise Assets Management or Data Protection](#enterprise-assets-management-or-data-protection)
-- [Malicious Scripts or Binary Malware Detection](#malicious-scripts-or-binary-malware-detection)
-- [Intranet Penetration](#intranet-penetration)
-- [Vulnerability Assessment for Middleware or Information Leak Scan](#vulnerability-assessment-for-middleware-or-information-leak-scan)
-- [Special Components or Vulnerability Categories Scan](#special-components-or-vulnerability-categories-scan)
-- [Vulnerability Assessment for Wireless Network](#vulnerability-assessment-for-wireless-network)
-- [Local Area Network detection](#local-area-network-detection)
-- [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
-- [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
-- [Advanced Persistent Threat](#advanced-persistent-threat)
+- [数据库注入漏洞或认证爆破](#数据库注入漏洞或认证爆破)
+- [网站弱用户名或弱口令枚举爆破](#网站弱用户名或弱口令枚举爆破)
+- [物联网设备认证爆破或漏洞评估](#物联网设备认证爆破或漏洞评估)
+- [多类型跨站脚本漏洞检测](#多类型跨站脚本漏洞检测)
+- [企业资产管理或数据保护](#企业资产管理或数据保护)
+- [恶意脚本或木马检测](#恶意脚本或木马检测)
+- [内网渗透](#内网渗透)
+- [中间件漏洞评估或信息泄露扫描](#中间件漏洞评估或信息泄露扫描)
+- [特殊组件或漏洞类型扫描](#特殊组件或漏洞类型扫描)
+- [无线网络漏洞评估](#无线网络漏洞评估)
+- [局域网探测](#局域网探测)
+- [动态或静态代码审计](#动态或静态代码审计)
+- [模块化设计扫描器或漏洞评估框架](#模块化设计扫描器或漏洞评估框架)
+- [高级持续性威胁](#高级持续性威胁)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ***
 
-#### 子域名爆破枚举或接管
+### 子域名爆破枚举或接管
 
-- https://github.com/lijiejie/subDomainsBrute (lijiejie开发的一款使用广泛的子域名爆破枚举工具)
-- https://github.com/ring04h/wydomain (猪猪侠开发的一款域名收集全面、精准的子域名枚举工具)
-- https://github.com/le4f/dnsmaper (子域名枚举爆破工具以及地图位置标记)
-- https://github.com/0xbug/orangescan (提供web界面的在线子域名信息收集工具)
-- https://github.com/TheRook/subbrute （高效精准的子域名爆破工具,同时也是扫描器中最常用的子域名API库)
-- https://github.com/We5ter/GSDF (基于谷歌SSL透明证书的子域名查询脚本)
-- https://github.com/mandatoryprogrammer/cloudflare_enum （使用CloudFlare进行子域名枚举的脚本）
-- https://github.com/guelfoweb/knock (Knock子域名获取，可用于查找子域名接管漏洞)
-- https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker （多方式收集目标子域名信息）
-- https://github.com/code-scan/BroDomain (兄弟域名查询）
-- https://github.com/chuhades/dnsbrute (高效的子域名爆破工具)
-- https://github.com/yanxiu0614/subdomain3 (一款高效的子域名爆破工具）
-- https://github.com/michenriksen/aquatone (子域名枚举、探测工具。可用于子域名接管漏洞探测)
-- https://github.com/evilsocket/dnssearch (一款子域名爆破工具)
-- https://github.com/reconned/domained (可用于子域名收集的一款工具）
-- https://github.com/bit4woo/Teemo (域名收集及枚举工具)
-- https://github.com/laramies/theHarvester (邮箱、服务器信息收集及子域名枚举工具）
-- https://github.com/swisskyrepo/Subdomino (子域名枚举，端口扫描，服务存活确认）
-- https://github.com/nmalcolm/Inventus (通过爬虫实现的子域名收集工具）
-- https://github.com/aboul3la/Sublist3r (快速子域枚举工具)
-- https://github.com/jonluca/Anubis （子域名枚举及信息搜集工具）
-- https://github.com/n4xh4ck5/N4xD0rk (子域名查询工具)
-- https://github.com/infosec-au/altdns (一款高效的子域名爆破工具)
-- https://github.com/FeeiCN/ESD (基于AsyncIO协程以及非重复字典的子域名爆破工具)
-- https://github.com/giovanifss/Dumb (快速而灵活的子域名爆破工具)
-- https://github.com/UnaPibaGeek/ctfr (通过域名透明证书记录获取子域名)
-- https://github.com/caffix/amass (Go语言开发的子域名枚举工具)
-- https://github.com/Ice3man543/subfinder (继承于sublist3r项目的模块化体系结构，一个强劲的子域名枚举工具)
+- https://github.com/lijiejie/subDomainsBrute - **lijiejie开发的一款使用广泛的子域名爆破枚举工具**
 
-#### 数据库类漏洞扫描器或爆破工具
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/ring04h/wydomain - **猪猪侠开发的一款域名收集全面、精准的子域名枚举工具**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/le4f/dnsmaper - **子域名枚举爆破工具以及地图位置标记**
+
+> **Rating**: 🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/0xbug/orangescan - **提供web界面的在线子域名信息收集工具**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/TheRook/subbrute - **高效精准的子域名爆破工具,同时也是扫描器中最常用的子域名API库**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/We5ter/GSDF - **基于谷歌SSL透明证书的子域名查询脚本**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/mandatoryprogrammer/cloudflare_enum  - **使用CloudFlare进行子域名枚举的脚本**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/guelfoweb/knock - **Knock子域名获取，可用于查找子域名接管漏洞**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker - **多方式收集目标子域名信息**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/code-scan/BroDomain - **兄弟域名查询**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/chuhades/dnsbrute - **高效的子域名爆破工具**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/yanxiu0614/subdomain3 - **一款便捷高效的子域名爆破工具**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/michenriksen/aquatone - **子域名枚举、探测工具。可用于子域名接管漏洞探测**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/evilsocket/dnssearch - **一款子域名爆破工具**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/reconned/domained - **可用于子域名收集的一款工具**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/bit4woo/Teemo - **域名邮箱等信息收集及枚举工具**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/laramies/theHarvester - **邮箱、服务器信息收集及子域名枚举工具**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/nmalcolm/Inventus - **通过爬虫实现的子域名收集工具**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/aboul3la/Sublist3r - **强大的快速子域枚举工具**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/jonluca/Anubis - **子域名枚举及信息搜集工具**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/n4xh4ck5/N4xD0rk - **子域名查询工具**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/infosec-au/altdns - **通过字符串组合排列的高效子域名爆破工具**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/FeeiCN/ESD - **基于AsyncIO协程以及非重复字典的子域名爆破工具**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/UnaPibaGeek/ctfr - **通过域名透明证书记录获取子域名**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/giovanifss/Dumb - **灵活扩展的子域名爆破工具**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Haskell**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/caffix/amass - **Go语言开发的子域名枚举工具**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/Ice3man543/subfinder - **继承于sublist3r项目的模块化体系结构，一个强劲的子域名枚举工具**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/Ice3man543/SubOver - **一款精准的子域名结构检测工具**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+
+### 数据库注入漏洞或认证爆破
 
 - https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
 - https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
@@ -92,7 +176,7 @@
 - https://github.com/m8r0wn/enumdb (MySQL以及MSSQL爆破脱裤工具）
 - https://github.com/9tail123/wooscan (批量查询网站在乌云是否存在忽略的sql注入漏洞并自动调用sqlmap测试)
 
-#### 弱口令/弱用户名扫描器或爆破工具
+### 网站弱用户名或弱口令枚举爆破
 
 - https://github.com/lijiejie/htpwdScan (一个简单的HTTP暴力破解、撞库攻击脚本)
 - https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
@@ -103,7 +187,7 @@
 - https://github.com/s0md3v/Blazy (支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器）
 - https://github.com/MooseDojo/myBFF (对CiscoVPN、Citrix Gateway等各类服务进行弱口令检测的脚本)
 
-#### 物联网设备识别工具或扫描器
+### 物联网设备认证爆破或漏洞评估
 
 - https://github.com/rapid7/IoTSeeker （物联网设备默认密码扫描检测工具)
 - https://github.com/shodan-labs/iotdb (使用nmap扫描IoT设备)
@@ -112,7 +196,7 @@
 - https://github.com/viraintel/OWASP-Nettacker (自动化信息搜集及渗透测试工具，比较适用于IoT扫描)
 - https://github.com/threat9/routersploit (嵌入式设备漏洞扫描及利用工具)
 
-#### 反射型或DOM-Based XSS扫描器
+### 多类型跨站脚本漏洞检测
 
 - https://github.com/shawarkhanethicalhacker/BruteXSS （一款XSS扫描器,可暴力注入参数）
 - https://github.com/1N3/XSSTracer (小型XSS扫描器,也可检测CRLF、XSS、点击劫持的)
@@ -123,7 +207,7 @@
 - https://github.com/s0md3v/XSStrike (可识别并绕过WAF的XSS扫描工具)
 - https://github.com/stamparm/DSXS (支持GET、POST方式的高效XSS扫描器）
 
-#### 企业资产管理或信息泄露搜集工具
+### 企业资产管理或数据保护
 
 - https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
 - https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
@@ -147,7 +231,7 @@
 - https://github.com/s0md3v/Photon (可以提取网址，电子邮件，文件，网站帐户等的高速爬虫)
 - https://github.com/VKSRC/Github-Monitor (由vipkid SRC开发的Github信息泄漏监控系统)
 
-#### webshell检测或木马分析工具
+### 恶意脚本或木马检测
 
 - https://github.com/he1m4n6a/findWebshell （一款简单的webshell检测工具)
 - https://github.com/Tencent/HaboMalHunter （哈勃分析系统，linux系统病毒分析及安全检测）
@@ -159,13 +243,13 @@
 - https://github.com/m4rco-/dorothy2 (一款木马、僵尸网络分析框架）
 - https://github.com/droidefense/engine (高级安卓木马病毒分析框架）
 
-#### 内网渗透或扫描工具
+### 内网渗透
 
 - https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
 - https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
 - https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
 
-#### 中间件扫描器或指纹识别工具
+### 中间件漏洞评估或信息泄露扫描
 
 - https://github.com/ring04h/wyportmap (目标端口扫描+系统服务指纹识别)
 - https://github.com/ring04h/weakfilescan (动态多线程敏感信息泄露检测工具)
@@ -222,7 +306,7 @@
 - https://github.com/MetaChar/pyHAWK (数据库文件、私钥等敏感文件泄露扫描)
 https://github.com/H4ckForJob/dirmap (一个高级web目录扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑)
 
-#### 专用（即特定性针对某些组件）扫描器
+### 特殊组件或漏洞类型扫描
 
 - https://github.com/blackye/Jenkins (Jenkins漏洞探测、用户抓取爆破)
 - https://github.com/code-scan/dzscan (首款集成化的Discuz扫描工具)
@@ -272,7 +356,7 @@ https://github.com/H4ckForJob/dirmap (一个高级web目录扫描工具，功能
 - https://github.com/6IX7ine/djangohunter (用于检测因错误配置导致敏感信息暴露的Django应用程序)
 - https://github.com/vulmon/Vulmap (基于实时拉取在线漏洞库思想的linux和windows漏洞扫描器)
 
-#### 无线网络（审计）扫描器
+### 无线网络漏洞评估
 
 - https://github.com/savio-code/fern-wifi-cracker/ (无线安全审计工具)
 - https://github.com/m4n3dw0lf/PytheM （Python网络/渗透测试工具）
@@ -282,13 +366,13 @@ https://github.com/H4ckForJob/dirmap (一个高级web目录扫描工具，功能
 - https://github.com/besimaltnok/PiFinger (检查wifi是否是"大菠萝"所开放的热点，并给予网络评分）
 - https://github.com/derv82/wifite2 （自动化无线网络攻击工具wifite的重构版本）
 
-#### 局域网络（本地网络）扫描器
+### 局域网探测
 
 - https://github.com/sowish/LNScan (基于BBScan via.lijiejie的本地网络扫描)
 - https://github.com/niloofarkheirkhah/nili （网络扫描，中间人攻击，协议检测与逆向）
 - https://github.com/SkyLined/LocalNetworkScanner （基于javascript的本地网络扫描)
 
-#### 代码审计工具或扫描器
+### 动态或静态代码审计
 
 - https://github.com/wufeifei/cobra (白盒代码安全审计系统)
 - https://github.com/OneSourceCat/phpvulhunter (静态PHP代码审计)
@@ -301,7 +385,7 @@ https://github.com/H4ckForJob/dirmap (一个高级web目录扫描工具，功能
 - https://github.com/emanuil/php-reaper (用于扫描PHP应用程序中可能存在SQL漏洞的ADOdb代码）
 - https://github.com/lowjoel/phortress (用于检测潜在安全漏洞的PHP静态代码分析工具）
 
-#### 模块化设计扫描器或漏洞检测框架
+### 模块化设计扫描器或漏洞评估框架
 
 - https://github.com/az0ne/AZScanner (自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测)
 - https://github.com/blackye/lalascan (集合owasp top10漏洞扫描和边界资产发现能力的分布式web漏洞扫描框架)
@@ -347,26 +431,22 @@ https://github.com/H4ckForJob/dirmap (一个高级web目录扫描工具，功能
 - https://github.com/j3ssie/Osmedeus (一款具备多角度信息收集和漏洞扫描能力的全自动扫描器)
 - https://github.com/jeffzh3ng/Fuxi-Scanner (支持资产探测与管理的一款开源的网络安全检测工具)
 
-#### 高级持续性威胁(APT)相关工具
+### 高级持续性威胁
 
 - https://github.com/Neo23x0/Loki (一款APT入侵痕迹扫描器)
 
-#### 工控系统&大型网络相关安全工具
-
-- https://github.com/w3h/icsmaster/tree/master/nse （ICS设备nmap扫描脚本)
-- https://github.com/seungsoo-lee/DELTA （SDN网络安全评估框架）
 
 ***
 
-### 为什么创建这个合辑？
+## 为什么创建这个合辑？
 
-本仓库收集的初衷是为向各类企业安全从业人员提供在企业信息安全防护体系建设过程中可以参考的开源安全扫描工具，以期望企业能够利用这些扫描器对自身业务进行自检，从而保障自身业务的安全
+本仓库收集的初衷是为了向各类企业安全从业者提供在企业信息安全防护体系建设过程中可以参考的开源安全扫描工具，以期望他们能够利用这些扫描器对业务进行自检，从而保障业务的安全
 
-### 作者
+## 作者
 
 **Wester**(sina weibo <a href="http://weibo.com/zzyme/">@Wester的小号</a>) && **Martin**(sina weibo <a href="http://weibo.com/u/1312149403">@Mart1n_ZHOU</a>)
 
-### 代码提交符号说明
+## 代码提交符号说明
 
 **[↑]** 表示 **更新扫描器描述**<br>
 **[+]** 表示 **添加扫描器**<br>
@@ -374,19 +454,25 @@ https://github.com/H4ckForJob/dirmap (一个高级web目录扫描工具，功能
 **[category]** 表示 **修改扫描器分类**<br>
 **[contributor]** 表示 **添加某人至致谢榜**<br>
 
-### 免责说明
+## 免责说明
 
 请勿用于非法的用途，否则造成的严重后果与本项目无关。
 
-### 如何参与？
+## 如何参与？
 
-非常欢迎大家一起来参与贡献,如果你有关于此项目的新想法或者发现了有价值的扫描器
+非常欢迎大家一起来参与建设,如果你有关于此项目的想法、建议或者发现了一些有价值的扫描器，请尽管和我们一起讨论 :)
 
-### 版权
+## 开源协议
 
-转载请注明来自https://github.com/We5ter/Scanners-Box ,同时也请不要通过二次发表此文章谋取不正当的利益（如原创投稿）
+scanbox在Mozilla协议条款下发布
 
-### 致谢
+## 版权
+
+非常开心能够看到这个仓库在安全社区如此广泛的传播，但我也希望大家能够尊重知识，尊重劳动，因此转载的时候请在您的文章里注明来自https://github.com/We5ter/Scanners-Box ,同时也请不要通过二次发表此文章谋取不正当的利益（如原创投稿）
+
+## 致谢
+
+非常感谢下面这些安全研究员为我们提供的宝贵建议和反馈
 
 - **@0c0c0f**     
 - **@藏形匿影(挖财网)**
