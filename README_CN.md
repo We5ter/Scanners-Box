@@ -42,7 +42,7 @@
 
 ### 子域名爆破枚举或接管
 
-- https://github.com/lijiejie/subDomainsBrute - **lijiejie开发的一款使用广泛的子域名爆破枚举工具**
+- https://github.com/lijiejie/subDomainsBrute - **Lijiejie开发的一款使用广泛的子域名爆破枚举工具**
 
 > **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
@@ -146,7 +146,7 @@
 
 > **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
-- https://github.com/Ice3man543/subfinder - **继承于sublist3r项目的模块化体系结构，一个强劲的子域名枚举工具**
+- https://github.com/Ice3man543/subfinder - **继承于Sublist3r项目的模块化体系结构，一个强劲的子域名枚举工具**
 
 > **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
@@ -209,11 +209,11 @@
 
 > **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
-- https://github.com/s0md3v/sqlmate - **在sqlmap基础上变得更加易用和便捷**
+- https://github.com/s0md3v/sqlmate - **在SQLMAP基础上变SQLMAP得更加易用和便捷**
 
 > **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
 
-- https://github.com/m8r0wn/enumdb  - **(MySQL以及MSSQL爆破脱裤工具**
+- https://github.com/m8r0wn/enumdb  - **MySQL以及MSSQL爆破脱裤工具**
 
 > **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
@@ -223,7 +223,7 @@
 
 > **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
-- https://github.com/netxfly/crack_ssh - **Go写的协程版的ssh、redis、mongoDB弱口令破解工具**
+- https://github.com/netxfly/crack_ssh - **Go写的协程版的SSH、Redis、mongoDB弱口令破解工具**
 
 > **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
 
@@ -273,11 +273,11 @@
 
 ### 多类型跨站脚本漏洞检测
 
-- https://github.com/0x584A/fuzzXssPHP - **PHP版本的反射型xss扫描**
+- https://github.com/0x584A/fuzzXssPHP - **PHP版本的反射型XSS扫描**
 
 > **Rating**: 🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/chuhades/xss_scan - **批量扫描XSS的python脚本**
+- https://github.com/chuhades/xss_scan - **批量扫描XSS的Python脚本**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -304,7 +304,7 @@
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
-- https://github.com/x0day/Multisearch-v2 - **Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息**
+- https://github.com/x0day/Multisearch-v2 - **Bing、Google、360、Zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
@@ -316,7 +316,7 @@
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
-- https://github.com/metac0rtex/GitHarvester - **Github Repo信息搜集工具**
+- https://github.com/metac0rtex/GitHarvester - **Github repos信息搜集工具**
 
 > **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
@@ -352,17 +352,9 @@
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
-- https://github.com/1N3/BlackWidow - **Web站点信息搜集工具，包括邮箱、电话等信息**
-
-> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
-
 - https://github.com/anshumanbh/git-all-secrets - **集合多个开源GitHub敏感信息扫描的企业信息泄露巡航工具**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Go**         |         **仍在维护**: ✔️
-
-- https://github.com/s0md3v/Photon - **可以提取网址，电子邮件，文件，网站帐户等的高速爬虫**
-
-> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/VKSRC/Github-Monitor - **由vipkid SRC开发的Github信息泄漏监控系统**
 
@@ -375,7 +367,7 @@
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
-- https://github.com/Tencent/HaboMalHunter  -**哈勃分析系统，linux系统病毒分析及安全检测**
+- https://github.com/Tencent/HaboMalHunter  -**哈勃分析系统，Linux系统病毒分析及安全检测**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
@@ -391,11 +383,11 @@
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **PHP**         |         **仍在维护**: ✖️
 
-- https://github.com/erevus-cn/scan_webshell - **一款基础的基于正则的Webshell扫描工具**
+- https://github.com/erevus-cn/scan_webshell - **一款基础的基于正则的webshell扫描工具**
 
 > **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
-- https://github.com/emposha/Shell-Detector - **Webshell扫描工具，支持php/perl/asp/aspx webshell扫描**
+- https://github.com/emposha/Shell-Detector - **Webshell扫描工具，支持PHP/Perl/ASP/ASPX webshell扫描**
 
 > **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
@@ -509,7 +501,7 @@
 
 > **评分**: 🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
-- https://github.com/mozilla/ssh_scan - **服务器ssh配置信息扫描**
+- https://github.com/mozilla/ssh_scan - **服务器SSH配置信息扫描**
 
 > **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Ruby**         |         **仍在维护**: ✔️
 
@@ -537,7 +529,7 @@
 
 > **评分**: 🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
 
-- https://github.com/mozilla/cipherscan - **目标主机服务ssl类型识别**
+- https://github.com/mozilla/cipherscan - **目标主机服务SSL类型识别**
 
 > **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 2.x/Bash Shell**         |         **仍在维护**: ✔️
 
@@ -561,11 +553,11 @@
 
 > **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Ruby**         |         **仍在维护**: ✖️
 
-- https://github.com/scipag/vulscan - **基于nmap的高级漏洞扫描器，命令行环境使用**
+- https://github.com/scipag/vulscan - **基于Nmap的高级漏洞扫描器，命令行环境使用**
 
 > **评分**: 🌟🌟         |         **编程语言**: **NSE**         |         **仍在维护**: ✖️
 
-- https://github.com/jekyc/wig - **web应用信息搜集工具**
+- https://github.com/jekyc/wig - **Web应用信息搜集工具**
 
 > **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
@@ -577,7 +569,7 @@
 
 > **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Node.js**         |         **仍在维护**: ✔️
 
-- https://github.com/zerokeeper/WebEye - **快速识别WEB服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架**
+- https://github.com/zerokeeper/WebEye - **快速识别web服务器类型、CMS类型、WAF类型、WHOIS信息、以及语言框架**
 
 > **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: 
 
@@ -617,7 +609,7 @@
 
 > **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
-- https://github.com/boy-hack/w11scan - **分布式WEB指纹识别平台**
+- https://github.com/boy-hack/w11scan - **分布式web指纹识别平台**
 
 > **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
@@ -632,6 +624,14 @@
 - https://github.com/H4ckForJob/dirmap - **一个高级web目录扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑**
 
 > **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/s0md3v/Photon - **可以提取网址，电子邮件，文件，网站帐户等的高速爬虫**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/1N3/BlackWidow - **Web站点信息搜集工具，包括邮箱、电话等信息**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 
 ### 特殊组件或漏洞类型扫描
@@ -676,7 +676,7 @@
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
 
-- https://github.com/m4ll0k/WPSeku  - **一款精简的wordpress扫描工具**
+- https://github.com/m4ll0k/WPSeku  - **一款精简的Wordpress扫描工具**
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
@@ -688,7 +688,7 @@
 
 > **评分**: 🌟🌟        |         **编程语言**: **Java**         |         **仍在维护**: ✖️
 
-- https://github.com/riusksk/StrutScan - **一款基于perl的strut2的历史漏洞扫描器**
+- https://github.com/riusksk/StrutScan - **一款基于Perl的Strut2的历史漏洞扫描器**
 
 > **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
@@ -740,7 +740,7 @@
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Java**         |         **仍在维护**: ✖️
 
-- https://github.com/RetireJS/grunt-retire - **扫描js扩展库的常见漏洞**
+- https://github.com/RetireJS/grunt-retire - **扫描Node.js扩展库的常见漏洞**
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Node.js**         |         **仍在维护**: ✔️
 
@@ -756,7 +756,7 @@
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Bash Shell**         |         **仍在维护**: ✖️
 
-- https://github.com/Moham3dRiahi/XAttacker - **Web CMS Exploit 工具,包含针对主流 CMS 的 66 个不同的 Exploits**
+- https://github.com/Moham3dRiahi/XAttacker - **Web CMS exploit 工具,包含针对主流 CMS 的 66 个不同的 exploits**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Perl**         |         **仍在维护**: ✖️
 
@@ -772,7 +772,7 @@
 
 > **评分**: 🌟🌟        |         **编程语言**: **PHP**         |         **仍在维护**: ✖️
 
-- https://github.com/retirejs/retire.js - **检测网站依赖的JavaScript库中存在的已知通用漏洞**
+- https://github.com/retirejs/retire.js - **检测网站依赖的Javascript库中存在的已知通用漏洞**
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Node.js**         |         **仍在维护**: ✔️
 
@@ -804,7 +804,7 @@
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **PHP**         |         **仍在维护**: ✔️
 
-- https://github.com/rezasp/joomscan - **OWASP旗下joomla漏洞扫描项目**
+- https://github.com/rezasp/joomscan - **OWASP旗下Joomla漏洞扫描项目**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Perl**         |         **仍在维护**: ✔️
 
@@ -827,10 +827,6 @@
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
-- https://github.com/m4n3dw0lf/PytheM - **支持ARP欺骗、中间人攻击等多种攻击的网络渗透测试套件**
-
-> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
-
 - https://github.com/P0cL4bs/WiFi-Pumpkin - **无线安全渗透测试套件**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
@@ -839,16 +835,20 @@
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
-- https://github.com/besimaltnok/PiFinger - **检查wifi是否是"大菠萝"所开放的热点，并给予网络评分**
+- https://github.com/besimaltnok/PiFinger - **检查WIFI是否是"大菠萝"所开放的热点，并给予网络评分**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
-- https://github.com/derv82/wifite2 - **自动化无线网络攻击工具wifite的重构版本**
+- https://github.com/derv82/wifite2 - **自动化无线网络攻击工具Wifite的重构版本**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 
 ### 局域网探测
+
+- https://github.com/m4n3dw0lf/PytheM - **支持ARP欺骗、中间人攻击等多种攻击的网络渗透测试套件**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
 - https://github.com/sowish/LNScan  - **基于BBScan via.lijiejie的本地网络扫描**
 
@@ -956,7 +956,7 @@
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **PHP**         |         **仍在维护**: ✖️
 
-- https://github.com/swisskyrepo/DamnWebScanner - **基于chrome、opera插件的被动式漏洞扫描**
+- https://github.com/swisskyrepo/DamnWebScanner - **基于Chrome、Opera插件的被动式漏洞扫描**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
@@ -968,11 +968,11 @@
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
-- https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest - **集成子域名枚举、nmap、waf指纹识别等模块的web应用扫描器**
+- https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest - **集成子域名枚举、Nmap、WAF指纹识别等模块的web应用扫描器**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
-- https://github.com/0xsauby/yasuo - **使用ruby开发的扫描网络中主机存在的第三方web应用服务漏洞**
+- https://github.com/0xsauby/yasuo - **使用Ruby开发的扫描网络中主机存在的第三方web应用服务漏洞**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Ruby**         |         **仍在维护**: ✖️
 
@@ -1004,7 +1004,7 @@
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
-- https://github.com/dermotblair/webvulscan - **一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞，支持输出pdf报告**
+- https://github.com/dermotblair/webvulscan - **一款web应用漏洞扫描器，支持扫描反射型以及存储型XSS、SQL injection等漏洞，支持输出pdf报告**
 
 > **评分**: 🌟🌟        |         **编程语言**: **PHP**         |         **仍在维护**: ✖️
 
@@ -1024,7 +1024,7 @@
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
-- https://github.com/YalcinYolalan/WSSAT - **Web服务安全评估工具,提供基于windows操作系统的简单.exe应用**
+- https://github.com/YalcinYolalan/WSSAT - **Web服务安全评估工具,提供基于Windows操作系统的简单.exe应用**
 
 > **评分**: 🌟🌟        |         **编程语言**: **C#**         |         **仍在维护**: ✖️
 
@@ -1036,11 +1036,11 @@
 
 > **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
-- https://github.com/joker25000/Optiva-Framework - **一款web应用漏洞扫描器，支持扫描反射型以及存储型xss、sql injection等漏洞**
+- https://github.com/joker25000/Optiva-Framework - **一款web应用漏洞扫描器，支持扫描反射型以及存储型XSS、SQL injection等漏洞**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
-- https://github.com/theInfectedDrake/TIDoS-Framework - **集成104个模块的Web应用程序渗透测试框架**
+- https://github.com/theInfectedDrake/TIDoS-Framework - **集成104个模块的web应用程序渗透测试框架**
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
@@ -1088,7 +1088,7 @@
 
 ## 如何参与？
 
-非常欢迎大家一起来参与建设,如果你有关于此项目的想法、建议或者发现了一些有价值的扫描器，请尽管和我们一起讨论 :)
+非常欢迎大家一起来参与建设,如果你有关于此项目的想法、建议或者发现了一些有价值的扫描器，请记得要告诉我们 :)
 
 ## 开源协议
 
