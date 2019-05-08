@@ -436,25 +436,78 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/ring04h/weakfilescan (Dynamic multi - thread sensitive information leak detection tool)
-- https://github.com/EnableSecurity/wafw00f (Identify and fingerprint Web Application Firewall)
-- https://github.com/rbsec/sslscan (Tests SSL/TLS enabled services to discover supported cipher suites)
-- https://github.com/urbanadventurer/whatweb (Website Fingerprinter)
-- https://github.com/tanjiti/FingerPrint (Another Website Fingerprinter)
-- https://github.com/nanshihui/Scan-T (A new spider based on python with more function including Network fingerprint search)
-- https://github.com/OffensivePython/Nscan (Fast internet-wide scanner)
-- https://github.com/ywolf/F-NAScan (Scanning a network asset information script)
-- https://github.com/ywolf/F-MiddlewareScan (A vulnerability detection scripts for middleware services)
-- https://github.com/maurosoria/dirsearch (Web path scanner)
-- https://github.com/x0day/bannerscan (C-segment Banner with path scanner)
-- https://github.com/RASSec/RASscan (Internal network port speed scanners)
-- https://github.com/3xp10it/bypass_waf (Automatic WAF Bypass Fuzzing Tool)  
-- https://github.com/3xp10it/xcdn (Try to find out the actual ip behind cdn)  
-- https://github.com/Xyntax/BingC (Based on the Bing search engine C / side-stop query, multi-threaded, supported API)
-- https://github.com/Xyntax/DirBrute (Multi-thread WEB directory enumerating tool)
-- https://github.com/zer0h/httpscan (A HTTP Service detector with a crawler from IP/CIDR)
-- https://github.com/lietdai/doom (Distributed task distribution of the ip port vulnerability scanner based on thorn)
-- https://github.com/chichou/grab.js (Fast TCP banner grabbing like zgrab, but supports much more protocol)
+- https://github.com/ring04h/weakfilescan - **Dynamic multi - thread sensitive information leak detection tool**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/EnableSecurity/wafw00f - **Identify and fingerprint Web Application Firewall**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/rbsec/sslscan - **Tests SSL/TLS enabled services to discover supported cipher suites**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **C**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/urbanadventurer/whatweb - **Website Fingerprinter**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/tanjiti/FingerPrint - **Another Website Fingerprinter**
+
+> **Rating**: 🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/nanshihui/Scan-T - **A new spider based on python with more function including Network fingerprint search**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/OffensivePython/Nscan - **Fast internet-wide scanner**
+
+> **Rating**: 🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/ywolf/F-NAScan - **Scanning a network asset information script**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/maurosoria/dirsearch - **Web path scanner**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/x0day/bannerscan - **C-segment Banner with path scanner**
+
+> **Rating**: 🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/RASSec/RASscan - **Internal network port speed scanners**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/3xp10it/bypass_waf - **Automatic WAF Bypass Fuzzing Tool**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+ 
+- https://github.com/3xp10it/xcdn - **Try to find out the actual ip behind cdn**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/Xyntax/BingC - **Based on the Bing search engine C / side-stop query, multi-threaded, supported API**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Xyntax/DirBrute - **Multi-thread WEB directory enumerating tool**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/zer0h/httpscan - **A HTTP Service detector with a crawler from IP/CIDR**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/lietdai/doom  - **Distributed task distribution of the ip port vulnerability scanner based on thorn**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/chichou/grab.js  - **Fast TCP banner grabbing like zgrab, but supports much more protocol**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✖️
+
 - https://github.com/Nitr4x/whichCDN (Detect if a given website is protected by a Content Delivery Network)
 - https://github.com/secfree/bcrpscan (Base on crawler result web path scanner)
 - https://github.com/mozilla/ssh_scan (A prototype SSH configuration and policy scanner)
