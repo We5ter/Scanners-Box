@@ -223,15 +223,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Mebus/cupp - **Common user passwords profiler**
-
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
-
 - https://github.com/netxfly/crack_ssh - **Ssh, redis, mongodb weak password bruteforcer**
-
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/LandGrey/pydictor - **A useful hacker dictionary builder for a brute-force attack**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -280,10 +272,6 @@ English | [简体中文](./README_CN.md)
 
 
 ### Mutiple types of Cross-site scripting Detection
-
-- https://github.com/1N3/XSSTracer  - **A small python script to check for cross-Site tracing**
-
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
 - https://github.com/0x584A/fuzzXssPHP - **A very simple reflected XSS scanner supports GET/POST**
 
@@ -646,6 +634,10 @@ English | [简体中文](./README_CN.md)
 
 
 ### Special Components or Vulnerability Categories Scan
+
+- https://github.com/1N3/XSSTracer  - **A small python script to check for cross-Site tracing, Clickjacking etc**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
 - https://github.com/shengqi158/svnhack - **A `.svn` folder disclosure exploit**
 
@@ -1077,7 +1069,7 @@ The purpose of this collection is to provide various types of  open-source secur
 
 ## Commit Symbolic Description
 
-**[↑]** means **update scanner description**<br>
+**[↑]** means **update scanner URL or description**<br>
 **[+]** means **add scanner**<br>
 **[-]** means **remove scanner**<br>
 **[category]** means **change scanner category**<br>
