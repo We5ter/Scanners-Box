@@ -1097,7 +1097,7 @@ If you have any questions about this project ,or you have found some valuable sc
 
 ## License
 
-Scanners Box(a.k.a scanbox) is released under the Mozilla license.
+scanbox is released under the Mozilla license.
 
 ## Copyright
 
@@ -1105,10 +1105,10 @@ It's happy to see that this repository has been widely spreaded in information s
 
 ## Acknowledgments
 
-We would like to thanks the following people for their valuable feedbacks amd suggestions.
+We would like to thanks the following security researchers for their valuable feedbacks amd suggestions.
 
 - **@0c0c0f**
-- **@藏形匿影(wacai.com)**
+- **@藏形匿影**
 - **@Mottoin team**
 - **@BlackHole**
 - **@CodeColorist**
