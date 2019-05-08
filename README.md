@@ -7,12 +7,12 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-258-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-254-blue.svg" alt="number">
 </p>
 
 ## Introduction
 
-**Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which collects more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as awvs,nmap,w3af will not be included in the scope of collection.**
+**Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which collects more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as nmap, w3af, brakeman, arachni, nikto will not be included in the scope of collection.**
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -378,15 +378,42 @@ English | [简体中文](./README_CN.md)
 
 ### Malicious Scripts or Binary Malware Detection
 
-- https://github.com/he1m4n6a/findWebshell (Simple webshell Detector)
-- https://github.com/Tencent/HaboMalHunter (Used for automated malware analysis and security assessment on the Linux system)
-- https://github.com/PlagueScanner/PlagueScanner (Open source multiple AV scanner framework)
-- https://github.com/nbs-system/php-malware-finder (An awesome tool to detect potentially malicious PHP files)
-- https://github.com/emposha/PHP-Shell-Detector （Helps you find and identify php/cgi(perl)/asp/aspx shells)
-- https://github.com/erevus-cn/scan_webshell (Simple webshell Detector)
-- https://github.com/emposha/Shell-Detector (A application that helps you find and identify php/perl/asp/aspx shells)
-- https://github.com/m4rco-/dorothy2 (A malware/botnet analysis framework written in Ruby)
-- https://github.com/droidefense/engine (Advance Android Malware Analysis Framework)
+- https://github.com/he1m4n6a/findWebshell  -**Simple webshell Detector**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/Tencent/HaboMalHunter  -**Used for automated malware analysis and security assessment on the Linux system**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/PlagueScanner/PlagueScanner - **Open source multiple AV scanner framework**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/nbs-system/php-malware-finder - **An awesome tool to detect potentially malicious PHP files**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/emposha/PHP-Shell-Detector - **Helps you find and identify php/cgi(perl)/asp/aspx shells**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/erevus-cn/scan_webshell - **Simple webshell Detector**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/emposha/Shell-Detector - **A application that helps you find and identify php/perl/asp/aspx shells**
+
+> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/m4rco-/dorothy2 - **A malware/botnet analysis framework written in Ruby**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/droidefense/engine - **Advance Android Malware Analysis Framework**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Intranet Penetration
 
@@ -548,10 +575,6 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/presidentbeef/brakeman - **A static analysis security vulnerability scanner for Ruby on Rails applications**
-
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✔️
-
 - https://github.com/python-security/pyt - **A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
@@ -623,10 +646,6 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Arachni/arachni - **Web Application Security Scanner Framework**
-
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✖️
-
 - https://github.com/swisskyrepo/DamnWebScanner - **Another web vulnerabilities scanner, this extension works on Chrome and Opera**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
@@ -670,10 +689,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/zaproxy/zaproxy - **One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
-
-- https://github.com/sullo/nikto - **Nikto is a web server assessment tool. It is designed to find various default and insecure files, configurations and programs on any type of web server**
-
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/s0md3v/Striker - **Striker is an offensive information and vulnerability scanner**
 
@@ -740,15 +755,15 @@ English | [简体中文](./README_CN.md)
 
 ***
 
-## Collection Purposes
+## Why Create This Collection?
 
-The purpose of this collection is to provide various types of  opensource security scanning tool that can help Internet companies to be more safer.
+The purpose of this collection is to provide various types of  open-source security scanners that can help companies to be more safer.
 
 ## Authors
 
 **Wester**(Twitter <a href="http://twitter.com/wester0x01">@Zhiyang Zeng</a>) & **Martin**(Twitter <a href="https://twitter.com/yuyangchow">@Martin Chow</a>)
 
-## Symbolic Description
+## Commit Symbolic Description
 
 **[↑]** means **update scanner description**<br>
 **[+]** means **add scanner**<br>
@@ -762,13 +777,19 @@ Do not use for illegal purposes.
 
 ## How to contribute?
 
-We welcome everyone to contribute,you can open an issue for this if you have some new idea about this project or you have found some valuable scanner,and then I will add your name to Acknowledgments.
+If you have any questions about this project ,or you have found some valuable scanners, please feel free to tell us:)
+
+## License
+
+Scanners Box(a.k.a scanbox) is released under the Mozilla license.
 
 ## Copyright
 
 Please specify reproduced from https://github.com/We5ter/Scanners-Box , and please do not republish this article for profit.
 
 ## Acknowledgments
+
+We would like to thanks the following people for their valuable feedbacks amd suggestions.
 
 - **@0c0c0f**
 - **@藏形匿影(wacai.com)**
