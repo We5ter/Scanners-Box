@@ -300,45 +300,128 @@
 
 ### 企业资产管理或数据保护
 
-- https://github.com/ysrc/xunfeng (网络资产识别引擎，漏洞检测引擎）
-- https://github.com/laramies/theHarvester （企业被搜索引擎收录敏感资产信息监控脚本：员工邮箱、子域名、Hosts）
-- https://github.com/x0day/Multisearch-v2  (Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息）
-- https://github.com/Ekultek/Zeus-Scanner (集成化的综合搜索引擎，能够抓取被搜索引擎隐藏的url,并交由sqlmap、nmap扫描）
-- https://github.com/0xbug/Biu-framework (企业内网基础服务安全扫描框架)
-- https://github.com/metac0rtex/GitHarvester (github Repo信息搜集工具)
-- https://github.com/shengqi158/svnhack （`.svn`文件夹泄漏利用工具）
-- https://github.com/repoog/GitPrey (GitHub敏感信息扫描工具)
-- https://github.com/0xbug/Hawkeye (企业资产、敏感信息GitHub泄露监控系统）
-- https://github.com/lianfeng30/githubscan （根据企业关键词进行项目检索以及相应敏感文件和文件内容扫描的工具）
-- https://github.com/UnkL4b/GitMiner （github敏感信息搜索工具）
-- https://github.com/lijiejie/GitHack (`.git`文件夹泄漏利用工具) 
-- https://github.com/dxa4481/truffleHog (GitHub敏感信息扫描工具,包括检测commit等)
-- https://github.com/1N3/Goohak （自动化对指定域名进行Google hacking搜索并收集信息）
-- https://github.com/UKHomeOffice/repo-security-scanner (用于搜索git commit中的敏感信息，例如密码、私钥等的客户端工具)
-- https://github.com/FeeiCN/GSIL (Github敏感信息泄露扫描)
-- https://github.com/MiSecurity/x-patrol (Github泄露巡航工具)
-- https://github.com/1N3/BlackWidow (Web站点信息搜集工具，包括邮箱、电话等信息）
-- https://github.com/anshumanbh/git-all-secrets (集合多个开源GitHub敏感信息扫描的企业信息泄露巡航工具)
-- https://github.com/s0md3v/Photon (可以提取网址，电子邮件，文件，网站帐户等的高速爬虫)
-- https://github.com/VKSRC/Github-Monitor (由vipkid SRC开发的Github信息泄漏监控系统)
+- https://github.com/ysrc/xunfeng - **网络资产识别引擎，漏洞检测引擎**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/x0day/Multisearch-v2 - **Bing、google、360、zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/Ekultek/Zeus-Scanner - **集成化的综合搜索引擎，能够抓取被搜索引擎隐藏的url,并交由sqlmap、nmap扫描**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
+- https://github.com/0xbug/Biu-framework - **企业内网基础服务安全扫描框架**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/metac0rtex/GitHarvester - **Github Repo信息搜集工具**
+
+> **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/repoog/GitPrey - **GitHub敏感信息扫描工具**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/0xbug/Hawkeye - **企业资产、敏感信息GitHub泄露监控系统**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/UnkL4b/GitMiner - **Github敏感信息搜索工具**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x/3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/dxa4481/truffleHog - **GitHub敏感信息扫描工具,包括检测commit等**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/1N3/Goohak - **自动化对指定域名进行Google hacking搜索并收集信息**
+
+> **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/UKHomeOffice/repo-security-scanner - **用于搜索git commit中的敏感信息，例如密码、私钥等的客户端工具**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **Go**         |         **仍在维护**: ✖️
+
+- https://github.com/FeeiCN/GSIL - **Github敏感信息泄露扫描**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/MiSecurity/x-patrol - **Github泄露检测巡航工具**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
+- https://github.com/1N3/BlackWidow - **Web站点信息搜集工具，包括邮箱、电话等信息**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/anshumanbh/git-all-secrets - **集合多个开源GitHub敏感信息扫描的企业信息泄露巡航工具**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
+- https://github.com/s0md3v/Photon - **可以提取网址，电子邮件，文件，网站帐户等的高速爬虫**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/VKSRC/Github-Monitor - **由vipkid SRC开发的Github信息泄漏监控系统**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
 
 ### 恶意脚本或木马检测
 
-- https://github.com/he1m4n6a/findWebshell （一款简单的webshell检测工具)
-- https://github.com/Tencent/HaboMalHunter （哈勃分析系统，linux系统病毒分析及安全检测）
-- https://github.com/PlagueScanner/PlagueScanner (使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎)
-- https://github.com/nbs-system/php-malware-finder (一款高效率PHP-webshell扫描工具)
-- https://github.com/emposha/PHP-Shell-Detector/ (测试效率高达99%的webshell检测工具)
-- https://github.com/erevus-cn/scan_webshell (一款简洁的Webshell扫描工具）
-- https://github.com/emposha/Shell-Detector （Webshell扫描工具，支持php/perl/asp/aspx webshell扫描)
-- https://github.com/m4rco-/dorothy2 (一款木马、僵尸网络分析框架）
-- https://github.com/droidefense/engine (高级安卓木马病毒分析框架）
+- https://github.com/he1m4n6a/findWebshell  -**一款简单的webshell检测工具**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
+- https://github.com/Tencent/HaboMalHunter  -**哈勃分析系统，linux系统病毒分析及安全检测**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
+- https://github.com/PlagueScanner/PlagueScanner - **使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
+
+- https://github.com/nbs-system/php-malware-finder - **一款高效率PHP-webshell扫描工具**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **PHP**         |         **仍在维护**: ✔️
+
+- https://github.com/emposha/PHP-Shell-Detector - **测试效率高达99%的webshell检测工具**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **PHP**         |         **仍在维护**: ✖️
+
+- https://github.com/erevus-cn/scan_webshell - **一款基础的基于正则的Webshell扫描工具**
+
+> **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/emposha/Shell-Detector - **Webshell扫描工具，支持php/perl/asp/aspx webshell扫描**
+
+> **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/m4rco-/dorothy2 - **一款木马、僵尸网络分析框架**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **Ruby**         |         **仍在维护**: ✖️
+
+- https://github.com/droidefense/engine - **高级安卓木马病毒分析框架**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Java**         |         **仍在维护**: ✔️
+
 
 ### 内网渗透
 
-- https://github.com/lcatro/network_backdoor_scanner （基于网络流量的内网探测框架）
-- https://github.com/fdiskyou/hunter （调用 Windows API 枚举用户登录信息）
-- https://github.com/BlackHole1/WebRtcXSS （自动化利用XSS入侵内网）
+- https://github.com/lcatro/network_backdoor_scanner - **基于网络流量的内网探测框架**
+
+> **评分**: 🌟🌟🌟        |         **语言**: **C++**         |         **仍在维护**: ✖️
+
+- https://github.com/fdiskyou/hunter - **调用 Windows API 枚举用户登录信息**
+
+> **评分**: 🌟🌟        |         **语言**: **C++**         |         **仍在维护**: ✖️
+
+- https://github.com/BlackHole1/WebRtcXSS - **自动化利用XSS入侵内网**
+
+> **评分**: 🌟🌟🌟        |         **语言**: **PHP**         |         **仍在维护**: ✖️
+
 
 ### 中间件漏洞评估或信息泄露扫描
 
