@@ -1,24 +1,20 @@
+[English](./README.md) | 简体中文
+
 <p align="center">
-<img src="https://s2.ax1x.com/2019/02/13/k06IG8.png" width="300px">
+<img src="./logo.png" width="300px">
  </p>
 
-# 项目主页
- 
-![GitHub issues](https://img.shields.io/github/issues/We5ter/Scanners-Box.svg)
-![GitHub forks](https://img.shields.io/github/forks/We5ter/Scanners-Box.svg)
-![GitHub stars](https://img.shields.io/github/stars/We5ter/Scanners-Box.svg)
-[![GitHub last commit](https://img.shields.io/github/last-commit/We5ter/Scanners-Box.svg)]()
-<br/><br/>
-<strong>README.md in <a href="https://github.com/We5ter/Scanners-Box/blob/master/README.md">English 英文</a></strong>
+<p align="center">
+  <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
+  <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
+ <img src="https://img.shields.io/badge/Scanners/Number-254-blue.svg" alt="number">
 </p>
 
-***
 
-### 项目简介
+## 简介
 
-**Scanners Box (简称 - scanbox)** 是一个集合github平台上的安全行业从业者自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器，**同时该仓库只收录各位安全行业从业者自己编写的一般性开源扫描器，类似awvs、nmap、w3af等知名扫描工具不收录**。
+**Scanners Box**也可称为 **scanbox**，是一个功能强大的黑客工具箱，它从Github收集了数10种类别的开源扫描器，包括子域名，数据库，中间件和其他模块化设计扫描器等，**但对于其他众所周知的知名扫描工具，如nmap、w3af、brakeman、arachni、nikto、metasploit、aircrack-ng将不包括在本项目的收集范围内。**
 
-***
 
 #### 子域名枚举扫描器或爆破工具
 
@@ -338,30 +334,29 @@ https://github.com/H4ckForJob/dirmap (一个高级web目录扫描工具，功能
 
 ***
 
-### 收集目的
+### 为什么创建这个合辑？
 
-本仓库收集的初衷是为向各类企业安全从业人员提供在企业信息安全防护体系建设过程中可以参考的开源安全扫描工具，以期望企业能够利用这些扫描器对自身业务进行自检，从而提高自身业务安全性
+本仓库收集的初衷是为向各类企业安全从业人员提供在企业信息安全防护体系建设过程中可以参考的开源安全扫描工具，以期望企业能够利用这些扫描器对自身业务进行自检，从而保障自身业务的安全
 
-### 维护成员
+### 作者
 
 **Wester**(sina weibo <a href="http://weibo.com/zzyme/">@Wester的小号</a>) && **Martin**(sina weibo <a href="http://weibo.com/u/1312149403">@Mart1n_ZHOU</a>)
 
-### 符号说明
+### 代码提交符号说明
 
 **[↑]** 表示 **更新扫描器描述**<br>
 **[+]** 表示 **添加扫描器**<br>
 **[-]** 表示 **移除扫描器**<br>
-**[move]** 表示 **修改扫描器分类**<br>
-**[ac]** 表示 **添加某人至致谢榜**<br>
-**[other]** 表示 **其他操作**
+**[category]** 表示 **修改扫描器分类**<br>
+**[contributor]** 表示 **添加某人至致谢榜**<br>
 
 ### 免责说明
 
 请勿用于非法的用途，否则造成的严重后果与本项目无关。
 
-### 如何参与?
+### 如何参与？
 
-非常欢迎大家一起来参与贡献,如果你有关于此项目的新想法或者发现了有价值的扫描器，可以新建一个issue,经过维护成员确认之后，便会将您的名字添加到致谢榜上
+非常欢迎大家一起来参与贡献,如果你有关于此项目的新想法或者发现了有价值的扫描器
 
 ### 版权
 
@@ -384,4 +379,4 @@ https://github.com/H4ckForJob/dirmap (一个高级web目录扫描工具，功能
 - **@alexlauerman**
 - **@MedivhMT**
 
-&copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2016-2017
+&copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2019
