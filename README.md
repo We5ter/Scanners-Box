@@ -133,7 +133,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/UnaPibaGeek/ctfr - **Abusing Certificate Transparency logs for getting HTTPS websites subdomains**
+- https://github.com/UnaPibaGeek/ctfr - **Abusing certificate transparency logs for getting HTTPS websites subdomains**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -141,7 +141,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Haskell**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/caffix/amass - **Subdomain Enumeration in Go**
+- https://github.com/caffix/amass - **Subdomain enumeration in Go**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -149,34 +149,34 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/Ice3man543/SubOver - **A Powerful Subdomain Takeover Tool**
+- https://github.com/Ice3man543/SubOver - **A powerful subdomain takeover tool**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Database SQL Injection Vulnerability or Brute Force
 
-- https://github.com/0xbug/SQLiScanner - **A SQLi Vulnerability Scanner via SQLMAP and Charles**
+- https://github.com/0xbug/SQLiScanner - **A SQLi vulnerability scanner via SQLMAP and Charles**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/stamparm/DSSS - **A SQLi Vulnerability Scanner with 99 lines of code**
+- https://github.com/stamparm/DSSS - **A SQLi vulnerability scanner with 99 lines of code**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/youngyangyang04/NoSQLAttack  - **A SQLi Vulnerability Scanner for mongoDB**
+- https://github.com/youngyangyang04/NoSQLAttack  - **A SQLi vulnerability scanner for mongoDB**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Neohapsis/bbqsql - **A Blind SQLi Vulnerability Scanner**
+- https://github.com/Neohapsis/bbqsql - **A blind SQLi vulnerability scanner**
 
 > **Rating**: 🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/NetSPI/PowerUpSQL - **A SQLi Vulnerability Scanner with Powershell Script**
+- https://github.com/NetSPI/PowerUpSQL - **A SQLi vulnerability scanner with Powershell script**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Powershell**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/WhitewidowScanner/whitewidow - **Another SQL Vulnerability Scanner**
+- https://github.com/WhitewidowScanner/whitewidow - **Another SQL vulnerability scanner**
 
 > **Rating**: 🌟🌟         |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -184,7 +184,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/torque59/Nosql-Exploitation-Framework - **A Python Framework For NoSQL Scanning and Exploitation**
+- https://github.com/torque59/Nosql-Exploitation-Framework - **A Python framework For NoSQL scanning and exploitation**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -192,11 +192,11 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/fengxuangit/Fox-scan - **A initiative and passive SQL Injection vulnerable Test tools**
+- https://github.com/fengxuangit/Fox-scan - **A initiative and passive SQL injection vulnerable test tools**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/JohnTroony/Blisqy - **Exploit Time-based blind-SQL injection in HTTP-Headers**
+- https://github.com/JohnTroony/Blisqy - **Exploit time-based blind-SQL injection in HTTP-Headers**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -223,7 +223,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Mebus/cupp - **Common User Passwords Profiler**
+- https://github.com/Mebus/cupp - **Common user passwords profiler**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -250,11 +250,11 @@ English | [简体中文](./README_CN.md)
 
 ### Authorization Brute Force or Vulnerability Scan For IoT
 
-- https://github.com/rapid7/IoTSeeker - **Weak-password IoT Devices Scanner**
+- https://github.com/rapid7/IoTSeeker - **Weak-password IoT devices scanner**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/shodan-labs/iotdb - **IoT Devices Scanner via nmap**
+- https://github.com/shodan-labs/iotdb - **IoT Devices scanner via nmap**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **XML**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -266,22 +266,22 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/viraintel/OWASP-Nettacker - **Network Information Gathering Vulnerability Scanner,most useful to scan IoT**
+- https://github.com/viraintel/OWASP-Nettacker - **Network information gathering vulnerability scanner,most useful to scan IoT**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/threat9/routersploit - **Exploitation Framework for Embedded Devices,such as router**
+- https://github.com/threat9/routersploit - **Exploitation Framework for embedded Devices,such as router**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/w3h/icsmaster/tree/master/nse - **Digital Bond's ICS Enumeration Tools**
+- https://github.com/w3h/icsmaster/tree/master/nse - **Digital bond's ICS enumeration tools**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **NSE**         |         **Ongoing[last 6 months]**: ✖️
 
 
 ### Mutiple types of Cross-site scripting Detection
 
-- https://github.com/1N3/XSSTracer  - **A small python script to check for Cross-Site Tracing**
+- https://github.com/1N3/XSSTracer  - **A small python script to check for cross-Site tracing**
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -301,17 +301,17 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/s0md3v/XSStrike - **fuzz and bruteforce parameters for XSS,WAFs detect and bypass**
+- https://github.com/s0md3v/XSStrike - **fuzz and bruteforce parameters for XSS, WAFs detect and bypass**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/stamparm/DSXS - **A fully functional Cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code**
+- https://github.com/stamparm/DSXS - **A fully functional cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 ### Enterprise Assets Management or Data Protection
 
-- https://github.com/ysrc/xunfeng - **Vulnerability rapid response,scanning system for Intranet**
+- https://github.com/ysrc/xunfeng - **Vulnerability rapid response,scanning system for intranet**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -323,7 +323,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/0xbug/Biu-framework - **Security Scan Framework For Enterprise Intranet Based Services**
+- https://github.com/0xbug/Biu-framework - **Security scan framework For enterprise intranet based services**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -335,7 +335,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/0xbug/Hawkeye - **Github leak scan foe enterprise**
+- https://github.com/0xbug/Hawkeye - **Github leak scan for enterprise**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -347,7 +347,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/1N3/Goohak - **Automatically Launch Google Hacking Queries Against A Target Domain**
+- https://github.com/1N3/Goohak - **Automatically launch Google hacking queries against a target domain**
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -355,7 +355,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/FeeiCN/GSIL - **Github Sensitive Information Leakage**
+- https://github.com/FeeiCN/GSIL - **Github sensitive information leakage scan**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -375,14 +375,14 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/VKSRC/Github-Monitor - **Github Sensitive Information Leakage Monitor by vipkid SRC**
+- https://github.com/VKSRC/Github-Monitor - **Github sensitive information leakage monitor by vipkid SRC**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Malicious Scripts or Binary Malware Detection
 
-- https://github.com/he1m4n6a/findWebshell  -**Simple webshell Detector**
+- https://github.com/he1m4n6a/findWebshell  -**Simple webshell detector**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -398,15 +398,15 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/emposha/PHP-Shell-Detector - **Helps you find and identify php/cgi(perl)/asp/aspx shells**
+- https://github.com/emposha/PHP-Shell-Detector - **Helps you find and identify PHP/Perl/Asp/Aspx shells**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/erevus-cn/scan_webshell - **Simple webshell Detector**
+- https://github.com/erevus-cn/scan_webshell - **Simple webshell detector**
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/emposha/Shell-Detector - **A application that helps you find and identify php/perl/asp/aspx shells**
+- https://github.com/emposha/Shell-Detector - **A application that helps you find and identify PHP/Perl/Asp/Aspx shells**
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -414,7 +414,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/droidefense/engine - **Advance Android Malware Analysis Framework**
+- https://github.com/droidefense/engine - **Advance Android malware analysis framework**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -429,7 +429,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟        |         **Language**: **C++**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/BlackHole1/WebRtcXSS (Use XSS automation Invade intranet)
+- https://github.com/BlackHole1/WebRtcXSS - **Use XSS automation invade intranet**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -452,15 +452,15 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **C**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/urbanadventurer/whatweb - **Website Fingerprinter**
+- https://github.com/urbanadventurer/whatweb - **Website fingerprinter**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/tanjiti/FingerPrint - **Another Website Fingerprinter**
+- https://github.com/tanjiti/FingerPrint - **Another website fingerprinter**
 
 > **Rating**: 🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/nanshihui/Scan-T - **A new spider based on python with more function including Network fingerprint search**
+- https://github.com/nanshihui/Scan-T - **A new spider based on Python with more function including Network fingerprint search**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -496,15 +496,15 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Xyntax/DirBrute - **Multi-thread WEB directory enumerating tool**
+- https://github.com/Xyntax/DirBrute - **Multi-thread web directory enumerating tool**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/zer0h/httpscan - **A HTTP Service detector with a crawler from IP/CIDR**
+- https://github.com/zer0h/httpscan - **A HTTP service detector with a crawler from IP/CIDR**
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/lietdai/doom  - **Distributed task distribution of the ip port vulnerability scanner based on thorn**
+- https://github.com/lietdai/doom  - **Distributed task distribution of the IP port vulnerability scanner based on thorn**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -512,7 +512,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Nitr4x/whichCDN (Detect if a given website is protected by a Content Delivery Network)
+- https://github.com/Nitr4x/whichCDN (Detect if a given website is protected by a CDN)
 - https://github.com/secfree/bcrpscan (Base on crawler result web path scanner)
 - https://github.com/mozilla/ssh_scan (A prototype SSH configuration and policy scanner)
 - https://github.com/18F/domain-scan (Scans domains for data on their HTTPS configuration and assorted other things)
@@ -524,12 +524,12 @@ English | [简体中文](./README_CN.md)
 - https://github.com/0xbug/Howl (Network equipment, web services, fingerprint scanner and database)
 - https://github.com/mozilla/cipherscan (A very simple way to find out which SSL ciphersuites are supported by a target)
 - https://github.com/xmendez/wfuzz (Web application fuzzer/framework and web content scanner)
-- https://github.com/s0md3v/Breacher (An advanced multithreaded admin panel finder written in python)
+- https://github.com/s0md3v/Breacher (An advanced multithreaded admin panel finder written in Python)
 - https://github.com/ztgrace/changeme （A default credential scanner）
 - https://github.com/medbenali/CyberScan (An open source penetration testing tool that can analyse packets,decoding,scanning ports, pinging and geolocation of an IP)
 - https://github.com/m0nad/HellRaiser (HellRaiser scan with nmap then correlates cpe's found with cve-search to enumerate vulnerabilities)
 - https://github.com/scipag/vulscan (Advanced vulnerability scanning with Nmap NSE)
-- https://github.com/jekyc/wig (WebApp Information Gatherer)
+- https://github.com/jekyc/wig (WebApp information gatherer)
 - https://github.com/eldraco/domain_analyzer (Analyze the security of any domain by finding all the information possible)
 - https://github.com/cloudtracer/paskto (Passive directory scanner and web crawler based on Nikto DB)
 - https://github.com/zerokeeper/WebEye (A  web service and WAF fingerprinter)
@@ -565,19 +565,19 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/chuhades/CMS-Exploit-Framework  -**CMS Exploit Framework**
+- https://github.com/chuhades/CMS-Exploit-Framework  -**CMS exploit framework**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/lijiejie/IIS_shortname_Scanner - **An IIS shortname Scanner**
+- https://github.com/lijiejie/IIS_shortname_Scanner - **An IIS shortname scanner**
 
 > **Rating**: 🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/riusksk/FlashScanner - **Flash XSS Scanner**
+- https://github.com/riusksk/FlashScanner - **Flash XSS scanner**
 
 > **Rating**: 🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/epinna/tplmap - **Automatic Server-Side Template Injection Detection and Exploitation Tool**
+- https://github.com/epinna/tplmap - **Automatic Server-Side Template Injection detection and exploitation tool**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -585,7 +585,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/m4ll0k/WPSeku  - **Simple Wordpress Security Scanner**
+- https://github.com/m4ll0k/WPSeku  - **Simple Wordpress security scanner**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -593,19 +593,19 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/ilmila/J2EEScan - **A plugin for Burp Suite Proxy to improve the test coverage during web application penetration tests on J2EE applications**
+- https://github.com/ilmila/J2EEScan - **A plugin for Burp Suite proxy to improve the test coverage during web application penetration tests on J2EE applications**
 
 > **Rating**: 🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/riusksk/StrutScan - **Struts2 Vuls Scanner base perl script**
+- https://github.com/riusksk/StrutScan - **Struts2 vuls scanner base Perl script**
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/D35m0nd142/LFISuite - **Totally Automatic LFI Exploiterand Scanner supports Reverse Shell**
+- https://github.com/D35m0nd142/LFISuite - **Totally automatic LFI exploiterand scanner supports reverse shell**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/0x4D31/salt-scanner - **Linux vulnerability scanner based on Salt Open and Vulners audit API, with Slack notifications and JIRA integration**
+- https://github.com/0x4D31/salt-scanner - **Linux vulnerability scanner based on Salt Open and vulners audit API, with Slack notifications and JIRA integration**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -621,7 +621,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/CHYbeta/cmsPoc - **CMS Exploit Framework**
+- https://github.com/CHYbeta/cmsPoc - **CMS exploit framework**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -629,7 +629,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/OsandaMalith/LFiFreak - **A unique automated lfi exploiter with bind/reverse shells**
+- https://github.com/OsandaMalith/LFiFreak - **A unique automated LFI exploiter with bind/reverse shells**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -637,11 +637,11 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/Lucifer1993/struts-scan - **Struts2 vuls Scanner,supported all vuls**
+- https://github.com/Lucifer1993/struts-scan - **Struts2 vuls scanner,supported all vuls**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **C#/Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/hahwul/a2sv - **Auto Scanning to SSL Vulnerability,such as heartbleed etc**
+- https://github.com/hahwul/a2sv - **Auto scanning to SSL vulnerability, such as heartbleed etc**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -649,11 +649,11 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/RetireJS/grunt-retire - **Scanner detecting the use of javaScript libraries with known vulnerabilities**
+- https://github.com/RetireJS/grunt-retire - **Scanner detecting the use of Javascript libraries with known vulnerabilities**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/kotobukki/BDA - **The vulnerability detector for hadoop and spark**
+- https://github.com/kotobukki/BDA - **The vulnerability detector for Hadoop and Spark**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -665,11 +665,11 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Bash Shell**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Moham3dRiahi/XAttacker - **Web CMS Exploit Framework**
+- https://github.com/Moham3dRiahi/XAttacker - **Web CMS exploit framework**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/lijiejie/BBScan - **A tiny Batch weB vulnerability Scanner**
+- https://github.com/lijiejie/BBScan - **A tiny batch web vulnerability scanner**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -677,11 +677,11 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/Jamalc0m/wphunter - **A Wordpress Vulnerability Scanner**
+- https://github.com/Jamalc0m/wphunter - **A Wordpress vulnerability scanner**
 
 > **Rating**: 🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/retirejs/retire.js - **A scanner detecting the use of JavaScript libraries with known vulnerabilities**
+- https://github.com/retirejs/retire.js - **A scanner detecting the use of Javascript libraries with known vulnerabilities**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -689,11 +689,11 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/mobrine-mob/M0B-tool - **Auto detect cms and exploit**
+- https://github.com/mobrine-mob/M0B-tool - **Auto detect CMS and exploit**
 
 > **Rating**: 🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/rezasp/vbscan - **OWASP VBScan is a Black Box vBulletin Vulnerability Scanner**
+- https://github.com/rezasp/vbscan - **OWASP VBScan is a Black Box vBulletin vulnerability scanner**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -701,7 +701,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: 
 
-- https://github.com/Tuhinshubhra/CMSeeK - **CMS Detection and Exploitation suite**
+- https://github.com/Tuhinshubhra/CMSeeK - **CMS detection and exploitation suite**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -709,11 +709,11 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/radenvodka/SVScanner - **Scanner vulnerability and maSsive exploit for wp,magento,joomla and so on**
+- https://github.com/radenvodka/SVScanner - **Scanner vulnerability and massive exploit for Wordpress,Magento,Joomla and so on**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/rezasp/joomscan - **OWASP Joomla Vulnerability Scanner Project**
+- https://github.com/rezasp/joomscan - **OWASP Joomla vulnerability scanner project**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -790,15 +790,15 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/shengqi158/pyvulhunter  - **A static security code scanner for python applications**
+- https://github.com/shengqi158/pyvulhunter  - **A static security code scanner for Python applications**
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/python-security/pyt - **A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications**
+- https://github.com/python-security/pyt - **A static analysis tool for detecting security vulnerabilities in Python web applications**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/emanuil/php-reaper - **PHP tool to scan ADOdb code for SQL Injections**
+- https://github.com/emanuil/php-reaper - **PHP tool to scan ADOdb code for SQL injections**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -809,7 +809,7 @@ English | [简体中文](./README_CN.md)
 
 ### Modular Design Scanners or Vulnerability Detecting Framework
 
-- https://github.com/infobyte/faraday - **Collaborative Penetration Test and Vulnerability Management Platform**
+- https://github.com/infobyte/faraday - **Collaborative penetration test and vulnerability management platform**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -825,43 +825,43 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/ysrc/GourdScanV2 - **Passive Vulnerability Scanning System**
+- https://github.com/ysrc/GourdScanV2 - **Passive vulnerability scanning system**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/netxfly/passive_scan - **Realization of Web Vulnerability Scanner Based on http Proxy**
+- https://github.com/netxfly/passive_scan - **Realization of web vulnerability scanner based on http proxy**
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/1N3/Sn1per - **Automated Pentest Recon Scanner**
+- https://github.com/1N3/Sn1per - **Automated pentest recon scanner**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/RASSec/pentestEr_Fully-automatic-scanner - **Directional Fully Automated Penetration Testing**
+- https://github.com/RASSec/pentestEr_Fully-automatic-scanner - **Directional fully automated penetration testing**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Lcys/lcyscan - **A vuls scanner，plugins supported**
+- https://github.com/Lcys/lcyscan - **A vuls scanner, plugins supported**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Xyntax/POC-T - **Penetration Test Plug-in Concurrency Framework**
+- https://github.com/Xyntax/POC-T - **Penetration test plug-in concurrency framework**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/v3n0m-Scanner/V3n0M-Scanner - **Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns**
+- https://github.com/v3n0m-Scanner/V3n0M-Scanner - **Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other vulns**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Skycrab/leakScan - **Multiple vuls scan supports Web interface**
+- https://github.com/Skycrab/leakScan - **Multiple vuls scan supports web interface**
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/zhangzhenfeng/AnyScan - **A automated Penetration Testing Framework**
+- https://github.com/zhangzhenfeng/AnyScan - **A automated penetration testing framework**
 
 > **Rating**: 🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Tuhinshubhra/RED_HAWK - **An All In One Tool For Information Gathering, SQL Vulnerability Scanning and Crawling. Coded In PHP**
+- https://github.com/Tuhinshubhra/RED_HAWK - **An all In one tool For information gathering, SQL vulnerability scanning and crawling, coded In PHP**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -869,7 +869,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/anilbaranyelken/tulpar - **Web Vulnerability Scanner written in python,supported multiple web vulnerabilities scan**
+- https://github.com/anilbaranyelken/tulpar - **Web Vulnerability Scanner written in Python,supported multiple web vulnerabilities scan**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -877,7 +877,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest - **An automated Penetration Testing tool this tool will auditing all standard security test method for you**
+- https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest - **An automated penetration testing tool this tool will auditing all standard security test method for you**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -933,7 +933,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/YalcinYolalan/WSSAT - **Web Service Security Assessment Tool,provide simple .exe application to use based on windows OS**
+- https://github.com/YalcinYolalan/WSSAT - **Web service security assessment tool,provide simple .exe application to use based on Windows OS**
 
 > **Rating**: 🌟🌟        |         **Language**: **C#**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -941,11 +941,11 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/m4ll0k/Galileo - **Web Application Audit Framework,like metasploit**
+- https://github.com/m4ll0k/Galileo - **Web application audit framework,like metasploit**
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/joker25000/Optiva-Framework - Web Application Scanner
+- https://github.com/joker25000/Optiva-Framework - **Web Application Scanner**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -968,7 +968,7 @@ English | [简体中文](./README_CN.md)
 
 ### Advanced Persistent Threat
 
-- https://github.com/Neo23x0/Loki (Simple IOC and Incident Response Scanner)
+- https://github.com/Neo23x0/Loki - **Simple IOC and Incident Response Scanner**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
