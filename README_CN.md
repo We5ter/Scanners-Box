@@ -44,115 +44,115 @@
 
 - https://github.com/lijiejie/subDomainsBrute - **lijiejie开发的一款使用广泛的子域名爆破枚举工具**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/ring04h/wydomain - **猪猪侠开发的一款域名收集全面、精准的子域名枚举工具**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/le4f/dnsmaper - **子域名枚举爆破工具以及地图位置标记**
 
-> **Rating**: 🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/0xbug/orangescan - **提供web界面的在线子域名信息收集工具**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/TheRook/subbrute - **高效精准的子域名爆破工具,同时也是扫描器中最常用的子域名API库**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/We5ter/GSDF - **基于谷歌SSL透明证书的子域名查询脚本**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/mandatoryprogrammer/cloudflare_enum  - **使用CloudFlare进行子域名枚举的脚本**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/guelfoweb/knock - **Knock子域名获取，可用于查找子域名接管漏洞**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
 - https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker - **多方式收集目标子域名信息**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/code-scan/BroDomain - **兄弟域名查询**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/chuhades/dnsbrute - **高效的子域名爆破工具**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✖️
 
 - https://github.com/yanxiu0614/subdomain3 - **一款便捷高效的子域名爆破工具**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/michenriksen/aquatone - **子域名枚举、探测工具。可用于子域名接管漏洞探测**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
 - https://github.com/evilsocket/dnssearch - **一款子域名爆破工具**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✖️
 
 - https://github.com/reconned/domained - **可用于子域名收集的一款工具**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/bit4woo/Teemo - **域名邮箱等信息收集及枚举工具**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/laramies/theHarvester - **邮箱、服务器信息收集及子域名枚举工具**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/nmalcolm/Inventus - **通过爬虫实现的子域名收集工具**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 2.x/3.x**         |         **仍在维护**: ✖️
 
 - https://github.com/aboul3la/Sublist3r - **强大的快速子域枚举工具**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 2.x/3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/jonluca/Anubis - **子域名枚举及信息搜集工具**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/n4xh4ck5/N4xD0rk - **子域名查询工具**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/infosec-au/altdns - **通过字符串组合排列的高效子域名爆破工具**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/FeeiCN/ESD - **基于AsyncIO协程以及非重复字典的子域名爆破工具**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/UnaPibaGeek/ctfr - **通过域名透明证书记录获取子域名**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/giovanifss/Dumb - **灵活扩展的子域名爆破工具**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Haskell**         |         **Ongoing[last 6 months]**: ✖️
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Haskell**         |         **仍在维护**: ✖️
 
 - https://github.com/caffix/amass - **Go语言开发的子域名枚举工具**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
 - https://github.com/Ice3man543/subfinder - **继承于sublist3r项目的模块化体系结构，一个强劲的子域名枚举工具**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
 - https://github.com/Ice3man543/SubOver - **一款精准的子域名结构检测工具**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
 
 ### 数据库注入漏洞或认证爆破
@@ -475,7 +475,7 @@ scanbox在Mozilla协议条款下发布
 非常感谢下面这些安全研究员为我们提供的宝贵建议和反馈
 
 - **@0c0c0f**     
-- **@藏形匿影(挖财网)**
+- **@藏形匿影**
 - **@Mottoin团队**
 - **@BlackHole**
 - **@CodeColorist**
