@@ -512,40 +512,138 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Nitr4x/whichCDN (Detect if a given website is protected by a CDN)
-- https://github.com/secfree/bcrpscan (Base on crawler result web path scanner)
-- https://github.com/mozilla/ssh_scan (A prototype SSH configuration and policy scanner)
-- https://github.com/18F/domain-scan (Scans domains for data on their HTTPS configuration and assorted other things)
-- https://github.com/ggusoft/inforfinder (A tool made to collect information of any domain pointing at a server and fingerprinter)
-- https://github.com/boy-hack/gwhatweb (Fingerprinter for CMS)
-- https://github.com/Mosuan/FileScan (Sensitive files scanner)
-- https://github.com/Xyntax/FileSensor （Dynamic file detection tool based on crawler）
-- https://github.com/deibit/cansina (Web Content Discovery Tool)
-- https://github.com/0xbug/Howl (Network equipment, web services, fingerprint scanner and database)
-- https://github.com/mozilla/cipherscan (A very simple way to find out which SSL ciphersuites are supported by a target)
-- https://github.com/xmendez/wfuzz (Web application fuzzer/framework and web content scanner)
-- https://github.com/s0md3v/Breacher (An advanced multithreaded admin panel finder written in Python)
-- https://github.com/ztgrace/changeme （A default credential scanner）
-- https://github.com/medbenali/CyberScan (An open source penetration testing tool that can analyse packets,decoding,scanning ports, pinging and geolocation of an IP)
-- https://github.com/m0nad/HellRaiser (HellRaiser scan with nmap then correlates cpe's found with cve-search to enumerate vulnerabilities)
-- https://github.com/scipag/vulscan (Advanced vulnerability scanning with Nmap NSE)
-- https://github.com/jekyc/wig (WebApp information gatherer)
-- https://github.com/eldraco/domain_analyzer (Analyze the security of any domain by finding all the information possible)
-- https://github.com/cloudtracer/paskto (Passive directory scanner and web crawler based on Nikto DB)
-- https://github.com/zerokeeper/WebEye (A  web service and WAF fingerprinter)
-- https://github.com/m3liot/shcheck (Just check security headers on a target website)
-- https://github.com/aipengjie/sensitivefilescan (A speed and awesome sensitive files scanner)
-- https://github.com/fnk0c/cangibrina (A fast and powerfull dashboard (admin) finder)
-- https://github.com/n4xh4ck5/CMSsc4n (Tool to identify if a domain is a CMS such as Wordpress, Moodle, Joomla)
-- https://github.com/Ekultek/WhatWaf （Detect and bypass web application firewalls and protection systems）
-- https://github.com/dzonerzy/goWAPT (Go Web Application Penetration Test and web application fuzz tool)
-- https://github.com/blackye/webdirdig (Sensitive files scanner)
-- https://github.com/GitHackTools/BillCipher (Information Gathering tool for a Website or IP address)
-- https://github.com/boy-hack/w8fuckcdn (Get the website real IP address by scanning the entire net)
-- https://github.com/boy-hack/w11scan (Distributed WEB fingerprint identification platform)
-- https://github.com/Nekmo/dirhunt (Find web directories without bruteforce)
-- https://github.com/MetaChar/pyHAWK (Searches the directory of choice for interesting files. Such as database files and files with passwords stored on them)
-- https://github.com/H4ckForJob/dirmap (An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian)
+- https://github.com/Nitr4x/whichCDN - **Detect if a given website is protected by a CDN**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/secfree/bcrpscan - **Base on crawler result web path scanner**
+
+> **Rating**: 🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/mozilla/ssh_scan - A prototype SSH configuration and policy scanner**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/18F/domain-scan - **Scans domains for data on their HTTPS configuration and assorted other things**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/ggusoft/inforfinder - **A tool made to collect information of any domain pointing at a server and fingerprinter**
+
+> **Rating**: 🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/boy-hack/gwhatweb - **Fingerprinter for CMS**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/Mosuan/FileScan - **Sensitive files scanner**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/Xyntax/FileSensor - **Dynamic file detection tool based on crawler**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/deibit/cansina - **Web content discovery tool**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/mozilla/cipherscan - **A very simple way to find out which SSL ciphersuites are supported by a target**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/Bash Shell**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/xmendez/wfuzz - **Web application framework and web content scanner**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/s0md3v/Breacher - **An advanced multithreaded admin panel finder written in Python**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/ztgrace/changeme - **A default credential scanner**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/medbenali/CyberScan - **An open source penetration testing tool that can analyse packets,decoding,scanning ports, pinging and geolocation of an IP**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/m0nad/HellRaiser - **HellRaiser scan with nmap then correlates cpe's found with cve-search to enumerate vulnerabilities**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/scipag/vulscan - **Advanced vulnerability scanning with Nmap NSE**
+
+> **Rating**: 🌟🌟         |         **Language**: **NSE**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/jekyc/wig - **WebApp information gatherer**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/eldraco/domain_analyzer - **Analyze the security of any domain by finding all the information possible**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/cloudtracer/paskto - **Passive directory scanner and web crawler based on Nikto DB**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/zerokeeper/WebEye - **A web service and WAF fingerprinter**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: 
+
+- https://github.com/m3liot/shcheck - **Just check security headers on a target website**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/aipengjie/sensitivefilescan - **A speed and awesome sensitive files scanner**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/fnk0c/cangibrina - **A fast and powerfull dashboard (admin) finder**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/n4xh4ck5/CMSsc4n - **Tool to identify if a domain is a CMS such as Wordpress, Moodle, Joomla**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/Ekultek/WhatWaf - **Detect and bypass web application firewalls and protection systems**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/dzonerzy/goWAPT - **Go web application penetration test and web application fuzz tool**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/blackye/webdirdig - **Sensitive files scanner**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/GitHackTools/BillCipher - **Information gathering tool for a website or IP address**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/boy-hack/w8fuckcdn - **Get the website real IP address by scanning the entire net**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/boy-hack/w11scan - **Distributed web fingerprint identification platform**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/Nekmo/dirhunt - **Find web directories without bruteforce**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/MetaChar/pyHAWK - **Searches the directory of choice for interesting files. Such as database files and files with passwords stored on them**
+
+> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/H4ckForJob/dirmap - **An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Special Components or Vulnerability Categories Scan
 
