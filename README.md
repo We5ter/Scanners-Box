@@ -12,7 +12,7 @@ English | [简体中文](./README_CN.md)
 
 ## Introduction
 
-**Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which collects more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as nmap, w3af, brakeman, arachni, nikto will not be included in the scope of collection.**
+**Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which collects more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as nmap, w3af, brakeman, arachni, nikto, metasploit, aircrack-ng will not be included in the scope of collection.**
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -417,13 +417,25 @@ English | [简体中文](./README_CN.md)
 
 ### Intranet Penetration
 
-- https://github.com/lcatro/network_backdoor_scanner (An internal network scanner like meterpreter)
-- https://github.com/fdiskyou/hunter (User hunter using WinAPI calls only)
+- https://github.com/lcatro/network_backdoor_scanner - **An internal network scanner like meterpreter**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **C++**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/fdiskyou/hunter - **User hunter using WinAPI calls only**
+
+> **Rating**: 🌟🌟        |         **Language**: **C++**         |         **Ongoing[last 6 months]**: ✖️
+
 - https://github.com/BlackHole1/WebRtcXSS (Use XSS automation Invade intranet)
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+
 
 ### Vulnerability Assessment for Middleware or Information Leak Scan
 
-- https://github.com/ring04h/wyportmap (Target port scanning + system service fingerprint recognition)
+- https://github.com/ring04h/wyportmap - **Target port scanning + system service fingerprint recognition**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
 - https://github.com/ring04h/weakfilescan (Dynamic multi - thread sensitive information leak detection tool)
 - https://github.com/EnableSecurity/wafw00f (Identify and fingerprint Web Application Firewall)
 - https://github.com/rbsec/sslscan (Tests SSL/TLS enabled services to discover supported cipher suites)
@@ -539,19 +551,45 @@ English | [简体中文](./README_CN.md)
 
 ### Vulnerability Assessment for Wireless Network
 
-- https://github.com/savio-code/fern-wifi-cracker/ (Testing and discovering flaws in ones own network)
-- https://github.com/m4n3dw0lf/PytheM (Multi-purpose network pentest framework)
-- https://github.com/P0cL4bs/WiFi-Pumpkin (Framework for Rogue Wi-Fi Access Point Attack)
-- https://github.com/MisterBianco/BoopSuite (A Suite of Tools written in Python for wireless auditing and security testing)
-- https://github.com/DanMcInerney/LANs.py (Automatically find the most active WLAN users,Inject code, jam wifi, and spy on wifi users)
-- https://github.com/besimaltnok/PiFinger (Searches for wifi-pineapple traces and calculate wireless network security score)
-- https://github.com/derv82/wifite2 （A complete re-write of Wifite,Automated Wireless Attack Tool) 
+- https://github.com/savio-code/fern-wifi-cracker - **Testing and discovering flaws in ones own network**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/m4n3dw0lf/PytheM - **Multi-purpose network pentest framework**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/P0cL4bs/WiFi-Pumpkin - **Framework for Rogue Wi-Fi Access Point Attack**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/MisterBianco/BoopSuite - **A Suite of Tools written in Python for wireless auditing and security testing**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/besimaltnok/PiFinger - **Searches for wifi-pineapple traces and calculate wireless network security score**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/derv82/wifite2 - **A complete re-write of Wifite,Automated Wireless Attack Tool**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
 
 ### Local Area Network detection
 
-- https://github.com/sowish/LNScan  (Local Network Scanner based on BBScan via.lijiejie)
-- https://github.com/niloofarkheirkhah/nili （Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing）
-- https://github.com/SkyLined/LocalNetworkScanner (PoC Javascript that scans your local network when you open a webpage)
+- https://github.com/sowish/LNScan  - **Local Network Scanner based on BBScan via.lijiejie**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/niloofarkheirkhah/nili - **Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/SkyLined/LocalNetworkScanner - **PoC Javascript that scans your local network when you open a webpage**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Javascript**         |         **Ongoing[last 6 months]**: ✖️
+
 
 ### Dynamic or Static Code Analysis
 
@@ -754,14 +792,9 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
 ***
-
 ## Why Create This Collection?
 
 The purpose of this collection is to provide various types of  open-source security scanners that can help companies to be more safer.
-
-## Authors
-
-**Wester**(Twitter <a href="http://twitter.com/wester0x01">@Zhiyang Zeng</a>) & **Martin**(Twitter <a href="https://twitter.com/yuyangchow">@Martin Chow</a>)
 
 ## Commit Symbolic Description
 
@@ -770,6 +803,10 @@ The purpose of this collection is to provide various types of  open-source secur
 **[-]** means **remove scanner**<br>
 **[category]** means **change scanner category**<br>
 **[contributor]** means **add someone to Acknowledgments**<br>
+
+## Authors
+
+**Wester**(Twitter <a href="http://twitter.com/wester0x01">@Zhiyang Zeng</a>) & **Martin**(Twitter <a href="https://twitter.com/yuyangchow">@Martin Chow</a>)
 
 ## Disclaimer
 
