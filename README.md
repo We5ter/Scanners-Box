@@ -223,7 +223,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/netxfly/crack_ssh - **Ssh, redis, mongodb weak password bruteforcer**
+- https://github.com/netxfly/crack_ssh - **SSH, Redis, mongoDB weak password bruteforcer**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -289,7 +289,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/s0md3v/XSStrike - **fuzz and bruteforce parameters for XSS, WAFs detect and bypass**
+- https://github.com/s0md3v/XSStrike - **Fuzz and bruteforce parameters for XSS, WAFs detect and bypass**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -351,17 +351,9 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/1N3/BlackWidow - **Gather OSINT and fuzz for OWASP vulnerabilities on a target website**
-
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
-
 - https://github.com/anshumanbh/git-all-secrets - **A tool to capture all the git secrets by leveraging multiple open source git searching tools**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
-
-- https://github.com/s0md3v/Photon - **Incredibly fast crawler which extracts urls, emails, files, website accounts and much more
-
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/VKSRC/Github-Monitor - **Github sensitive information leakage monitor by vipkid SRC**
 
@@ -508,7 +500,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/mozilla/ssh_scan - A prototype SSH configuration and policy scanner**
+- https://github.com/mozilla/ssh_scan - **A prototype SSH configuration and policy scanner**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -631,6 +623,14 @@ English | [简体中文](./README_CN.md)
 - https://github.com/H4ckForJob/dirmap - **An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/s0md3v/Photon - **Incredibly fast crawler which extracts urls, emails, files, website accounts and much more
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/1N3/BlackWidow - **Gather OSINT and fuzz for OWASP vulnerabilities on a target website**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
 
 ### Special Components or Vulnerability Categories Scan
@@ -826,10 +826,6 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/m4n3dw0lf/PytheM - **Multi-purpose network pentest framework**
-
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
-
 - https://github.com/P0cL4bs/WiFi-Pumpkin - **Framework for Rogue Wi-Fi Access Point Attack**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
@@ -848,6 +844,10 @@ English | [简体中文](./README_CN.md)
 
 
 ### Local Area Network detection
+
+- https://github.com/m4n3dw0lf/PytheM - **Multi-purpose network pentest framework**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/sowish/LNScan  - **Local Network Scanner based on BBScan via.lijiejie**
 
@@ -991,7 +991,7 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/Lucifer1993/AngelSword （Web vulnerability scanner framework based on python3)
+- https://github.com/Lucifer1993/AngelSword - **Web vulnerability scanner framework based on python3**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
