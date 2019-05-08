@@ -157,55 +157,146 @@
 
 ### 数据库注入漏洞或认证爆破
 
-- https://github.com/0xbug/SQLiScanner (一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具)
-- https://github.com/stamparm/DSSS (99行代码实现的sql注入漏洞扫描器)
-- https://github.com/LoRexxar/Feigong （针对各种情况自由变化的MySQL注入脚本）
-- https://github.com/youngyangyang04/NoSQLAttack (一款针对mongoDB的攻击工具)
-- https://github.com/Neohapsis/bbqsql （SQL盲注利用框架）
-- https://github.com/NetSPI/PowerUpSQL （攻击SQLSERVER的Powershell脚本框架）
-- https://github.com/WhitewidowScanner/whitewidow (一款数据库扫描器)
-- https://github.com/stampery/mongoaudit (MongoDB审计及渗透工具）
-- https://github.com/torque59/Nosql-Exploitation-Framework (NoSQL扫描/爆破工具）
-- https://github.com/missDronio/blindy (MySQL盲注爆破工具）
-- https://github.com/fengxuangit/Fox-scan (基于SQLMAP的主动和被动资源发现的漏洞扫描工具）
-- https://github.com/NetSPI/PowerUpSQL (用于SQL Server审计的powershell脚本）
-- https://github.com/JohnTroony/Blisqy （用于http header中的时间盲注爆破工具，仅针对MySQL/MariaDB）
-- https://github.com/ron190/jsql-injection (Java 编写的SQL注入工具)
-- https://github.com/Hadesy2k/sqliv (基于搜索引擎的批量SQL注入漏洞扫描器）
-- https://github.com/s0md3v/sqlmate (在sqlmap基础上增加了目录扫描、hash爆破等功能)
-- https://github.com/m8r0wn/enumdb (MySQL以及MSSQL爆破脱裤工具）
-- https://github.com/9tail123/wooscan (批量查询网站在乌云是否存在忽略的sql注入漏洞并自动调用sqlmap测试)
+- https://github.com/0xbug/SQLiScanner - **一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
+
+- https://github.com/stamparm/DSSS - **99行代码实现的sql注入漏洞扫描器**
+
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
+- https://github.com/youngyangyang04/NoSQLAttack  - **一款针对mongoDB的攻击工具**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/Neohapsis/bbqsql - **SQL盲注利用框架**
+
+> **评分**: 🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/NetSPI/PowerUpSQL - **攻击SQLSERVER的Powershell脚本框架**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Powershell**         |         **仍在维护**: ✔️
+
+- https://github.com/WhitewidowScanner/whitewidow - **一款数据库扫描器**
+
+> **评分**: 🌟🌟         |         **编程语言**: **Ruby**         |         **仍在维护**: ✖️
+
+- https://github.com/stampery/mongoaudit - **MongoDB审计及渗透工具**
+
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
+
+- https://github.com/torque59/Nosql-Exploitation-Framework - **NoSQL扫描、爆破工具**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/missDronio/blindy - **MySQL盲注爆破工具**
+
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/fengxuangit/Fox-scan - **基于SQLMAP的主动和被动资源发现的漏洞扫描工具**
+
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/JohnTroony/Blisqy - **用于http header中的时间盲注爆破工具，仅针对MySQL/MariaDB**
+
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/ron190/jsql-injection - **Java 编写的SQL注入工具**
+
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Java**         |         **仍在维护**: ✖️
+
+- https://github.com/Hadesy2k/sqliv - **基于搜索引擎的批量SQL注入漏洞扫描器**
+
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/s0md3v/sqlmate - **在sqlmap基础上变得更加易用和便捷**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
+
+- https://github.com/m8r0wn/enumdb  - **(MySQL以及MSSQL爆破脱裤工具**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 ### 网站弱用户名或弱口令枚举爆破
 
-- https://github.com/lijiejie/htpwdScan (一个简单的HTTP暴力破解、撞库攻击脚本)
-- https://github.com/ysrc/F-Scrack （对各类服务进行弱口令检测的脚本)
-- https://github.com/Mebus/cupp （根据用户习惯生成弱口令探测字典脚本）
-- https://github.com/netxfly/crack_ssh （Go写的协程版的ssh\redis\mongodb弱口令破解工具）
-- https://github.com/LandGrey/pydictor (暴力破解字典建立工具)
-- https://github.com/shengqi158/weak_password_detect (多线程探测弱口令）
-- https://github.com/s0md3v/Blazy (支持测试 CSRF, Clickjacking, Cloudflare and WAF的弱口令探测器）
-- https://github.com/MooseDojo/myBFF (对CiscoVPN、Citrix Gateway等各类服务进行弱口令检测的脚本)
+- https://github.com/lijiejie/htpwdScan  - **一个简单的HTTP暴力破解、撞库攻击脚本**
+
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/netxfly/crack_ssh - **Go写的协程版的ssh、redis、mongoDB弱口令破解工具**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
+
+- https://github.com/shengqi158/weak_password_detect - **多线程探测弱口令**
+
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/s0md3v/Blazy - **支持测试 CSRF, Clickjacking, Cloudflare 和 WAF识别的弱口令探测器**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
+
+- https://github.com/MooseDojo/myBFF - **对CiscoVPN、Citrix Gateway等各类服务进行弱口令检测的脚本**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
 
 ### 物联网设备认证爆破或漏洞评估
 
-- https://github.com/rapid7/IoTSeeker （物联网设备默认密码扫描检测工具)
-- https://github.com/shodan-labs/iotdb (使用nmap扫描IoT设备)
-- https://github.com/googleinurl/RouterHunterBR （路由器设备漏洞扫描利用)
-- https://github.com/scu-igroup/telnet-scanner (Telnet服务密码撞库)
-- https://github.com/viraintel/OWASP-Nettacker (自动化信息搜集及渗透测试工具，比较适用于IoT扫描)
-- https://github.com/threat9/routersploit (嵌入式设备漏洞扫描及利用工具)
+- https://github.com/rapid7/IoTSeeker - **物联网设备默认密码扫描检测工具**
+
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Perl**         |         **仍在维护**: ✖️
+
+- https://github.com/shodan-labs/iotdb - **使用nmap扫描IoT设备**
+
+> **评分**: 🌟🌟🌟         |         **编程语言**: **XML**         |         **仍在维护**: ✖️
+
+- https://github.com/googleinurl/RouterHunterBR - **路由器设备漏洞扫描利用**
+
+> **评分**: 🌟🌟         |         **编程语言**: **PHP**         |         **仍在维护**: ✖️
+
+- https://github.com/scu-igroup/telnet-scanner - **Telnet服务密码撞库**
+
+> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/viraintel/OWASP-Nettacker - **自动化信息搜集及渗透测试工具，比较适用于IoT扫描**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 2.x/3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/threat9/routersploit - **嵌入式设备漏洞扫描及利用工具**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/w3h/icsmaster/tree/master/nse - **数字化工控设备认证爆破工具**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **NSE**         |         **仍在维护**: ✖️
+
 
 ### 多类型跨站脚本漏洞检测
 
-- https://github.com/shawarkhanethicalhacker/BruteXSS （一款XSS扫描器,可暴力注入参数）
-- https://github.com/1N3/XSSTracer (小型XSS扫描器,也可检测CRLF、XSS、点击劫持的)
-- https://github.com/0x584A/fuzzXssPHP (PHP版本的反射型xss扫描)
-- https://github.com/chuhades/xss_scan (批量扫描XSS的python脚本）
-- https://github.com/BlackHole1/autoFindXssAndCsrf (自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件）
-- https://github.com/shogunlab/shuriken (使用命令行进行XSS批量检测)
-- https://github.com/s0md3v/XSStrike (可识别并绕过WAF的XSS扫描工具)
-- https://github.com/stamparm/DSXS (支持GET、POST方式的高效XSS扫描器）
+- https://github.com/0x584A/fuzzXssPHP - **PHP版本的反射型xss扫描**
+
+> **Rating**: 🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/chuhades/xss_scan - **批量扫描XSS的python脚本**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/BlackHole1/autoFindXssAndCsrf - **自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件**
+
+> **Rating**: 🌟🌟        |         **Language**: **Javascript**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/shogunlab/shuriken - **使用命令行进行XSS批量检测**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/s0md3v/XSStrike - **可识别并绕过WAF的XSS扫描工具**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/stamparm/DSXS - **支持GET、POST方式的高效XSS扫描器**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### 企业资产管理或数据保护
 
@@ -448,7 +539,7 @@ https://github.com/H4ckForJob/dirmap (一个高级web目录扫描工具，功能
 
 ## 代码提交符号说明
 
-**[↑]** 表示 **更新扫描器描述**<br>
+**[↑]** 表示 **更新扫描地址或描述**<br>
 **[+]** 表示 **添加扫描器**<br>
 **[-]** 表示 **移除扫描器**<br>
 **[category]** 表示 **修改扫描器分类**<br>
