@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-245-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-246-blue.svg" alt="number">
 </p>
 
 
@@ -153,6 +153,10 @@
 - https://github.com/Ice3man543/SubOver - **一款精准的子域名结构检测工具**
 
 > **评分**: 🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
+- https://github.com/janniskirschner/horn3t - **带有网页截图功能的子可视化域名枚举工具**
+
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ### 数据库注入漏洞或认证爆破
