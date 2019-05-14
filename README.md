@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-245-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-246-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -152,6 +152,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/Ice3man543/SubOver - **A powerful subdomain takeover tool**
 
 > **Rating**: 🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/janniskirschner/horn3t - **Powerful Visual Subdomain Enumeration**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Database SQL Injection Vulnerability or Brute Force
