@@ -824,6 +824,10 @@
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Java/Python 2.x**         |         **仍在维护**: ✔️
 
+- https://github.com/thelinuxchoice/facebash - **基于TOR网络的Facebook登录爆破脚本**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Bash Shell**         |         **仍在维护**: ✔️
+
 
 ### 无线网络漏洞评估
 
