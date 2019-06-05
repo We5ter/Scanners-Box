@@ -12,7 +12,7 @@ English | [简体中文](./README_CN.md)
 
 ## Introduction
 
-**Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which collects more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as nmap, w3af, brakeman, arachni, nikto, metasploit, aircrack-ng will not be included in the scope of collection.**
+**Scanners Box** also known as **scanbox**, is a powerful **hacker toolkit**, which has collected more than 10 categories of open source scanners from Github, including subdomain, database, middleware and other modular design scanner etc. **But for other Well-known scanning tools, such as nmap, w3af, brakeman, arachni, nikto, metasploit, aircrack-ng will not be included in the scope of collection.**
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -822,6 +822,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/seungsoo-lee/DELTA - **Sdn security evaluation framework**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Java/Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/thelinuxchoice/facebash - **Facebook Brute Forcer in shellscript using TOR**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Bash Shell**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Vulnerability Assessment for Wireless Network
