@@ -1087,9 +1087,9 @@ The purpose of this collection is to provide various types of  open-source secur
 
 **Wester**(Twitter <a href="http://twitter.com/wester0x01">@Zhiyang Zeng</a>) & **Martin**(Twitter <a href="https://twitter.com/yuyangchow">@Martin Chow</a>)
 
-## Disclaimer
+## Legal Disclaimer
 
-Do not use for illegal purposes.
+The scanners provided by this project are for research and study purposes only, and please obey the laws and regulations of your country during use. If you are a Chinese citizen, please ensure you are obedient to *The Cyber Security Law of the People's Republic of China*, and please do not break the article 286 of *the Criminal Law of the People's Republic of China* for the regulation on the crime of destroying computer systems. At last, I would like to point out to you that you must be fully held responsible for any consequence that may arise.
 
 ## How to contribute?
 
@@ -1101,7 +1101,7 @@ scanbox is released under the Mozilla license.
 
 ## Copyright
 
-It's happy to see that this repository has been widely spreaded in information security community, but I hope everyone could respect knowledge and our efforts, so please specify reproduced from https://github.com/We5ter/Scanners-Box in your articles, and please do not republish this article for profit.
+It's happy to see that this repository has been widely spreaded in information security community, but I hope everyone could at all times respect knowledge and our efforts, so please specify reproduced from https://github.com/We5ter/Scanners-Box in your articles, and please do not republish this article for profit.
 
 ## Acknowledgments
 
