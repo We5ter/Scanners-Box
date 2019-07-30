@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-246-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-248-blue.svg" alt="number">
 </p>
 
 
@@ -1064,6 +1064,14 @@
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
+- https://github.com/knownsec/Pocsuite - **开源漏洞检测框架**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/opensec-cn/kunpeng - **Golang编写的开源POC框架/库，以动态链接库的形式提供各种语言调用**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### 高级持续性威胁
 
@@ -1125,4 +1133,4 @@ scanbox在Mozilla协议条款下发布
 - **@alexlauerman**
 - **@MedivhMT**
 
-&copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2019
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2019
