@@ -827,6 +827,10 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Bash Shell**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/cyberark/KubiScan - **A tool to scan Kubernetes cluster for risky permissions**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Vulnerability Assessment for Wireless Network
 
