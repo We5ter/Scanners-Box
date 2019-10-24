@@ -446,11 +446,11 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/TideSec/TideFinger - **Web fingerprint identification tool, more fingerprint database, more detection methods**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**        |         **Ongoing**: ✔️
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**        |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/TideSec/FuzzScanner - **Comprehensive web information collection platform, easy to deploy, versatile and practical**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**        |         **Ongoing**: ✔️
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**        |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/urbanadventurer/whatweb - **Website fingerprinter**
 
@@ -1149,5 +1149,6 @@ We would like to thanks the following security researchers for their valuable fe
 - **@hksanduo**
 - **@alexlauerman**
 - **@MedivhMT**
+- **@TideSec**
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2019
