@@ -243,6 +243,10 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
+- https://github.com/TideSec/web_pwd_common_crack - **A common web weak_password cracking script,can detect batches of management backgrounds without verification codes**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Authorization Brute Force or Vulnerability Scan For IoT
 
@@ -439,6 +443,14 @@ English | [简体中文](./README_CN.md)
 - https://github.com/rbsec/sslscan - **Tests SSL/TLS enabled services to discover supported cipher suites**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **C**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/TideSec/TideFinger - **Web fingerprint identification tool, more fingerprint database, more detection methods**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**        |         **Ongoing**: ✔️
+
+- https://github.com/TideSec/FuzzScanner - **Comprehensive web information collection platform, easy to deploy, versatile and practical**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**        |         **Ongoing**: ✔️
 
 - https://github.com/urbanadventurer/whatweb - **Website fingerprinter**
 
