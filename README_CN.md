@@ -1152,5 +1152,6 @@ scanbox在Mozilla协议条款下发布
 - **@hksanduo**
 - **@alexlauerman**
 - **@MedivhMT**
+- **@TideSec**
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2019
