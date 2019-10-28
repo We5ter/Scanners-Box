@@ -487,7 +487,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/3xp10it/bypass_waf - **Automatic WAF Bypass Fuzzing Tool**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
- 
+
 - https://github.com/3xp10it/xcdn - **Try to find out the actual ip behind cdn**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
@@ -658,6 +658,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/1N3/XSSTracer  - **A small python script to check for cross-Site tracing, Clickjacking etc**
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/0xHJK/dumpall - **`.git` / `.svn` / `.DS_Store` disclosure exploit**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/shengqi158/svnhack - **A `.svn` folder disclosure exploit**
 
