@@ -488,7 +488,7 @@
 - https://github.com/3xp10it/bypass_waf - **waf自动暴破绕过**
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
- 
+
 - https://github.com/3xp10it/xcdn - **尝试找出cdn背后的真实ip**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
@@ -659,6 +659,10 @@
 - https://github.com/1N3/XSSTracer  - **用于检测跨站跟踪, 点击劫持等问题的工具**
 
 > **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/0xHJK/dumpall - **`.git` / `.svn` / `.DS_Store`等信息泄露集成利用工具**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/shengqi158/svnhack - **A `.svn` 文件夹泄露利用工具**
 
@@ -1098,7 +1102,6 @@
 - https://github.com/Neo23x0/Loki - **根据公开情报库里的IOC信息检索本地是否存在相同hash的文件或与恶意C2的网络连接**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
-
 
 ***
 
