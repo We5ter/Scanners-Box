@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-248-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-255-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -1154,5 +1154,6 @@ We would like to thanks the following security researchers for their valuable fe
 - **@alexlauerman**
 - **@MedivhMT**
 - **@TideSec**
+- **@0xHJK**
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2019
