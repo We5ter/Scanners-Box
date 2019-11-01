@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-255-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-256-blue.svg" alt="number">
 </p>
 
 
@@ -1102,6 +1102,11 @@
 - https://github.com/Neo23x0/Loki - **根据公开情报库里的IOC信息检索本地是否存在相同hash的文件或与恶意C2的网络连接**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
+- https://github.com/Neo23x0/Loki - **根据公开情报库里的IOC信息检索本地是否存在相同hash、相似文本内容的文件或与恶意C2的网络连接**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Bash Shell**         |         **仍在维护**: ✔️
+
 
 ***
 
