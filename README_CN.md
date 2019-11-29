@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-257-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-253-blue.svg" alt="number">
 </p>
 
 
@@ -53,10 +53,6 @@
 - https://github.com/le4f/dnsmaper - **子域名枚举爆破工具以及地图位置标记**
 
 > **评分**: 🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
-
-- https://github.com/0xbug/orangescan - **提供web界面的在线子域名信息收集工具**
-
-> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/TheRook/subbrute - **高效精准的子域名爆破工具,同时也是扫描器中最常用的子域名API库**
 
@@ -319,10 +315,6 @@
 - https://github.com/Ekultek/Zeus-Scanner - **集成化的综合搜索引擎，能够抓取被搜索引擎隐藏的url,并交由sqlmap、nmap扫描**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
-
-- https://github.com/0xbug/Biu-framework - **企业内网基础服务安全扫描框架**
-
-> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/metac0rtex/GitHarvester - **Github repos信息搜集工具**
 
@@ -804,10 +796,6 @@
 
 > **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
-- https://github.com/mobrine-mob/M0B-tool - **CMS指纹识别及自动化渗透测试框架**
-
-> **评分**: 🌟🌟        |         **编程语言**: **Perl**         |         **仍在维护**: ✖️
-
 - https://github.com/rezasp/vbscan - **论坛框架vBulletin黑盒漏洞扫描器**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Perl**         |         **仍在维护**: ✔️
@@ -961,10 +949,6 @@
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner - **定向全自动化渗透测试工具**
-
-> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
-
-- https://github.com/Lcys/lcyscan - **Python插件化漏洞扫描器，支持生成扫描报表**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
