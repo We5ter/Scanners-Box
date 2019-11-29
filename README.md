@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-256-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-257-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -1092,6 +1092,10 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/opensec-cn/kunpeng - **An open source POC framework written by Golang that provides various language calls in the form of a dynamic link library**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/jaeles-project/jaeles - **The Swiss Army knife for automated Web Application Testing**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
