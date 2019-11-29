@@ -1150,5 +1150,7 @@ scanbox在Mozilla协议条款下发布
 - **@MedivhMT**
 - **@TideSec**
 - **@0xHJK**
+- **@j3ssie**
+- **@Luci-d**
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2019
