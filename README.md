@@ -1148,5 +1148,7 @@ We would like to thanks the following security researchers for their valuable fe
 - **@MedivhMT**
 - **@TideSec**
 - **@0xHJK**
+- **@j3ssie**
+- **@Luci-d**
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2019
