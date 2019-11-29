@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-257-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-253-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -52,10 +52,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/le4f/dnsmaper - **Subdomain enumeration tool with map record**
 
 > **Rating**: 🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/0xbug/orangescan - **Online subdomain enumeration tool**
-
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
 - https://github.com/TheRook/subbrute - **A DNS meta-query spider that enumerates DNS records, and subdomains,supported API**
 
@@ -318,10 +314,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/Ekultek/Zeus-Scanner - **An advanced dork searching tool that is capable of finding IP address /URL blocked by search engine,and can run sqlmap and nmap scans on the URL's**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
-
-- https://github.com/0xbug/Biu-framework - **Security scan framework For enterprise intranet based services**
-
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/metac0rtex/GitHarvester - **Used for harvesting information from GitHub**
 
@@ -803,10 +795,6 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/mobrine-mob/M0B-tool - **Auto detect CMS and exploit**
-
-> **Rating**: 🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✖️
-
 - https://github.com/rezasp/vbscan - **OWASP VBScan is a Black Box vBulletin vulnerability scanner**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✔️
@@ -960,10 +948,6 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner - **Directional fully automated penetration testing**
-
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/Lcys/lcyscan - **A vuls scanner, plugins supported**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
