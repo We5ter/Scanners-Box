@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-253-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-254-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -300,6 +300,11 @@ English | [简体中文](./README_CN.md)
 - https://github.com/stamparm/DSXS - **A fully functional cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/fcavallarin/domdig - **DOM XSS scanner for Single Page Applications**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Enterprise Assets Management or Data Protection
 
