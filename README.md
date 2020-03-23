@@ -1018,7 +1018,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/Lucifer1993/AngelSword - **Web vulnerability scanner framework based on python3**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
 
 - https://github.com/zaproxy/zaproxy - **One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers**
 
@@ -1159,5 +1159,6 @@ We would like to thanks the following security researchers for their valuable fe
 - **@0xHJK**
 - **@j3ssie**
 - **@Luci-d**
+- **@cnlnn**
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2019
