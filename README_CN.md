@@ -1018,7 +1018,7 @@
 
 - https://github.com/Lucifer1993/AngelSword - **被动式漏洞扫描，支持历史cve编号漏洞识别**
 
-> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
 
 - https://github.com/zaproxy/zaproxy - **The OWASP ZAP core project出品的综合性渗透测试工具**
 
@@ -1160,5 +1160,6 @@ scanbox在Mozilla协议条款下发布
 - **@0xHJK**
 - **@j3ssie**
 - **@Luci-d**
+- **@cnlnn**
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2019
