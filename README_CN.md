@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-255-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-256-blue.svg" alt="number">
 </p>
 
 
@@ -153,6 +153,10 @@
 - https://github.com/janniskirschner/horn3t - **带有网页截图功能的子可视化域名枚举工具**
 
 > **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/yunxu1/dnsub - **基于Go语言的高并发和跨平台子域名扫描工具**
+
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
 
 ### 数据库注入漏洞或认证爆破
@@ -1161,5 +1165,6 @@ scanbox在Mozilla协议条款下发布
 - **@j3ssie**
 - **@Luci-d**
 - **@cnlnn**
+- **@yunxu1**
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2019
