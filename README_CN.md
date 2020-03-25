@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-256-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-257-blue.svg" alt="number">
 </p>
 
 
@@ -658,6 +658,11 @@
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 
+- https://github.com/saeeddhqan/Maryam - **基于Recon-ng的开源情报（OSINT）收集和Web指纹识别的模块化框架**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
+
 ### 特殊组件或漏洞类型扫描
 
 - https://github.com/1N3/XSSTracer  - **用于检测跨站跟踪, 点击劫持等问题的工具**
@@ -1166,5 +1171,6 @@ scanbox在Mozilla协议条款下发布
 - **@Luci-d**
 - **@cnlnn**
 - **@yunxu1**
+- **@saeeddhqan**
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2019
