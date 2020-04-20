@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-257-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-258-blue.svg" alt="number">
 </p>
 
 
@@ -157,6 +157,10 @@
 - https://github.com/yunxu1/dnsub - **基于Go语言的高并发和跨平台子域名扫描工具**
 
 > **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
+- https://github.com/shmilylty/OneForAll - **集成了多款子域名扫描工具的终极版子域名扫描器**
+
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ### 数据库注入漏洞或认证爆破
@@ -660,7 +664,7 @@
 
 - https://github.com/saeeddhqan/Maryam - **基于Recon-ng的开源情报（OSINT）收集和Web指纹识别的模块化框架**
 
-> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ### 特殊组件或漏洞类型扫描
