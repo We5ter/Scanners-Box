@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-258-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-259-blue.svg" alt="number">
 </p>
 
 
@@ -1104,6 +1104,10 @@
 - https://github.com/jaeles-project/jaeles - **Golang编写的功能强大，灵活且易于扩展的扫描器基础框架**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/TideSec/Mars - **WDScanner重铸版**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### 高级持续性威胁
