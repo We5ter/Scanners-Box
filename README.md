@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-259-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-261-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -375,6 +375,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/VKSRC/Github-Monitor - **Github sensitive information leakage monitor by vipkid SRC**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/eth0izzle/shhgit - **A docker and web based monitor for finding secrets and sensitive files across GitHub**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Malicious Scripts or Binary Malware Detection
@@ -1108,6 +1112,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/TideSec/Mars - **The totally new generation of WDScanner**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/knassar702/scant3r - **Yet another web security scanner**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Advanced Persistent Threat
