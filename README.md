@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-261-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-262-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -1116,6 +1116,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/knassar702/scant3r - **Yet another web security scanner**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/google/tsunami-security-scanner - **A general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidenc by Google**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Advanced Persistent Threat
