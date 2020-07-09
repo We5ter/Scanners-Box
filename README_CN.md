@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-261-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-262-blue.svg" alt="number">
 </p>
 
 
@@ -1116,6 +1116,10 @@
 - https://github.com/knassar702/scant3r - **又一款网友定制扫描器**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/google/tsunami-security-scanner - **谷歌出品的可扩展高效漏洞扫描器**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### 高级持续性威胁
