@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-259-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-261-blue.svg" alt="number">
 </p>
 
 
@@ -375,6 +375,10 @@
 - https://github.com/VKSRC/Github-Monitor - **由vipkid SRC开发的Github信息泄漏监控系统**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/eth0izzle/shhgit - **基于Docker和Web的Github敏感信息泄漏监控系统**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
 
 ### 恶意脚本或木马检测
@@ -1108,6 +1112,10 @@
 - https://github.com/TideSec/Mars - **WDScanner重铸版**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/knassar702/scant3r - **又一款网友定制扫描器**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### 高级持续性威胁
