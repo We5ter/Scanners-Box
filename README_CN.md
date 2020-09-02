@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-262-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-263-blue.svg" alt="number">
 </p>
 
 
@@ -379,6 +379,10 @@
 - https://github.com/eth0izzle/shhgit - **基于Docker和Web的Github敏感信息泄漏监控系统**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
+- https://github.com/SAP/credential-digger - **基于机器学习去除误报的Github敏感信息泄漏扫描系统**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ### 恶意脚本或木马检测
@@ -1192,5 +1196,6 @@ scanbox在Mozilla协议条款下发布
 - **@cnlnn**
 - **@yunxu1**
 - **@saeeddhqan**
+- **@Sofiane Lounici**
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2019
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2020
