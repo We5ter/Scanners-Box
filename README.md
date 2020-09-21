@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-264-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-265-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -155,11 +155,16 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/yunxu1/dnsub - **A high concurrency and cross platform subdomain scanner based on Golang**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **GO**         |         **Ongoing[last 6 months]**: ✔️
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/shmilylty/OneForAll - **An ultimate subdomains scanner integrated multiple subdomain scanning tools**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+
+- https://github.com/knownsec/ksubdomain - **A stateless and cross-platform subdomain enumeration tool, speed up to 30w/s on Mac and Windows, and 160w/s on Linux**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Database SQL Injection Vulnerability or Brute Force
