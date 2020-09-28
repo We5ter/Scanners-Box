@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-265-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-266-blue.svg" alt="number">
 </p>
 
 
@@ -320,6 +320,10 @@
 - https://github.com/lwzSoviet/NoXss - **基于Phantomjs的DOM-XSS和反射型XSS扫描器**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/pwn0sec/PwnXSS - **基于Python 3.7的多线程XSS扫描器**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### 企业资产管理或数据保护
