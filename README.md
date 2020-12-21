@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-266-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-267-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -228,6 +228,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/m8r0wn/enumdb  - **MySQL and MSSQL brute force and post exploitation tool**
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/tariqhawis/injectbot  - **A web-based, easy-to-use, SQL injection scanner and exploiter tool**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Weak Usernames or Passwords Enumeration For Web
