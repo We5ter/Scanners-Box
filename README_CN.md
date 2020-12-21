@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-266-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-267-blue.svg" alt="number">
 </p>
 
 
@@ -228,6 +228,11 @@
 - https://github.com/m8r0wn/enumdb  - **MySQL以及MSSQL爆破脱裤工具**
 
 > **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/tariqhawis/injectbot  - **一个基于Web的SQL注入扫描程序和漏洞利用工具**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **PHP**         |         **仍在维护**: ✔️
+
 
 ### 网站弱用户名或弱口令枚举爆破
 
