@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-267-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-268-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -34,6 +34,7 @@ English | [简体中文](./README_CN.md)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
 - [Advanced Persistent Threat](#advanced-persistent-threat)
+- [Mobile Apps Code Analysis](#mobile-apps-code-analysis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -1153,6 +1154,13 @@ English | [简体中文](./README_CN.md)
 - https://github.com/Neo23x0/Fenrir - **Simple IOC and Incident Response Scanner**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Bash Shell**         |         **Ongoing[last 6 months]**: ✔️
+
+
+### Mobile Apps Code Analysis
+
+- https://github.com/dwisiswant0/apkleaks - **Scanning APK file for URIs, endpoints & secrets**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ***
