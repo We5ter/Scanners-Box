@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-267-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-268-blue.svg" alt="number">
 </p>
 
 
@@ -35,6 +35,7 @@
 - [动态或静态代码审计](#动态或静态代码审计)
 - [模块化设计扫描器或漏洞评估框架](#模块化设计扫描器或漏洞评估框架)
 - [高级持续性威胁](#高级持续性威胁)
+- [移动应用代码分析](#移动应用代码分析)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -1152,6 +1153,12 @@
 - https://github.com/Neo23x0/Loki - **根据公开情报库里的IOC信息检索本地是否存在相同hash、相似文本内容的文件或与恶意C2的网络连接**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Bash Shell**         |         **仍在维护**: ✔️
+
+### 移动应用代码分析
+
+- https://github.com/dwisiswant0/apkleaks - **扫描APK文件中的URL、接口与密钥泄露等风险**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
 
 ***
