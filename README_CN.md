@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-270-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-271-blue.svg" alt="number">
 </p>
 
 
@@ -166,6 +166,10 @@
 - https://github.com/knownsec/ksubdomain - **一款跨平台且无状态子域名爆破工具，Mac和Windows上理论最大发包速度在30w/s,linux上为160w/s**
 
 > **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
+- https://github.com/gwen001/github-subdomains - **在Github上搜索目标子域名**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
 
 ### 数据库注入漏洞或认证爆破
