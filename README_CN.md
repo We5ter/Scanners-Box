@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-272-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-273-blue.svg" alt="number">
 </p>
 
 
@@ -295,6 +295,11 @@
 - https://github.com/w3h/icsmaster/tree/master/nse - **数字化工控设备认证爆破工具**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **NSE**         |         **仍在维护**: ✖️
+
+
+- https://github.com/threat9/routersploit - **IDA 插件，基于敏感函数参数回溯来辅助漏洞挖掘**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ### 多类型跨站脚本漏洞检测
