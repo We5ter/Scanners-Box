@@ -219,7 +219,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/ron190/jsql-injection - **A lightweight application used to find database information from a distant server**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✖️
+> **Rating**: 🌟🌟🌟         |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/Hadesy2k/sqliv - **Massive SQL injection vulnerability scanner**
 
