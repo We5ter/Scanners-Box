@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-273-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-275-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -1180,6 +1180,14 @@ English | [简体中文](./README_CN.md)
 - https://github.com/kelvinBen/AppInfoScanner - **Collecting information from APK file, support self-defined rules**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/maaaaz/androwarn - **Yet another static code analyzer for malicious Android applications**
+
+> **Rating**: 🌟🌟       |         **Language**: **Python 2.X/3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/quark-engine/quark-engine - **Android Malware (Analysis | Scoring) System**
+
+> **Rating**: 🌟🌟🌟🌟🌟     |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ***
