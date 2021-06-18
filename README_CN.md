@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-273-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-275-blue.svg" alt="number">
 </p>
 
 
@@ -1180,6 +1180,13 @@
 - https://github.com/kelvinBen/AppInfoScanner - **APK文件信息搜集工具，支持自定义规则**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/maaaaz/androwarn - **安卓应用静态代码扫描工具**
+
+> **评分**: 🌟🌟       |         **编程语言**: **Python 2.x/3.x**         |         **仍在维护**: ✖️
+- https://github.com/quark-engine/quark-engine - **安卓恶意分析扫描工具**
+
+> **评分**: 🌟🌟🌟🌟🌟     |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ***
