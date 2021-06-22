@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-275-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-276-blue.svg" alt="number">
 </p>
 
 
@@ -1156,9 +1156,13 @@
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/er10yi/MagiCude - **基于Spring Boot微服务架构的扫描器,支持分布式端口（漏洞）扫描、资产安全管理、实时威胁监控与通知、自动漏洞闭环、漏洞wiki、邮件通知等功能。**
+- https://github.com/er10yi/MagiCude - **基于Spring Boot微服务架构的扫描器,支持分布式端口（漏洞）扫描、资产安全管理、实时威胁监控与通知、自动漏洞闭环、漏洞wiki、邮件通知等功能**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/projectdiscovery/nuclei - **基于YAML规则的高扩展性模板化漏洞扫描工具**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### 高级持续性威胁
