@@ -18,19 +18,16 @@ English | [简体中文](./README_CN.md)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
+- [Red Team vs Blue team](#red-team-vs-blue-team)
 - [Subdomain Enumeration or Takeover](#subdomain-enumeration-or-takeover)
 - [Database SQL Injection Vulnerability or Brute Force](#database-sql-injection-vulnerability-or-brute-force)
 - [Weak Usernames or Passwords Enumeration For Web](#weak-usernames-or-passwords-enumeration-for-web)
 - [Authorization Brute Force or Vulnerability Scan For IoT](#authorization-brute-force-or-vulnerability-scan-for-iot)
 - [Mutiple types of Cross-site scripting Detection](#mutiple-types-of-cross-site-scripting-detection)
-- [Enterprise Assets Management or Data Protection](#enterprise-assets-management-or-data-protection)
+- [Enterprise sensitive information Leak Scan](#enterprise-sensitive-information-leak-scan)
 - [Malicious Scripts or Binary Malware Detection](#malicious-scripts-or-binary-malware-detection)
-- [Intranet Penetration](#intranet-penetration)
 - [Vulnerability Assessment for Middleware or Information Leak Scan](#vulnerability-assessment-for-middleware-or-information-leak-scan)
 - [Special Components or Vulnerability Categories Scan](#special-components-or-vulnerability-categories-scan)
-- [Vulnerability Assessment for Wireless Network](#vulnerability-assessment-for-wireless-network)
-- [Local Area Network detection](#local-area-network-detection)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
 - [Advanced Persistent Threat](#advanced-persistent-threat)
@@ -39,6 +36,65 @@ English | [简体中文](./README_CN.md)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ***
+
+### Red Team vs Blue team
+
+#### Intranet detection
+
+- https://github.com/lcatro/network_backdoor_scanner - **An internal network scanner like meterpreter**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **C++**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/fdiskyou/hunter - **User hunter using WinAPI calls only**
+
+> **Rating**: 🌟🌟        |         **Language**: **C++**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/BlackHole1/WebRtcXSS - **Use XSS automation invade intranet**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/Tib3rius/AutoRecon - **A multi-threaded network reconnaissance tool which performs automated enumeration of services**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/m4n3dw0lf/PytheM - **Multi-purpose network pentest framework**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/sowish/LNScan  - **Local Network Scanner based on BBScan via.lijiejie**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/niloofarkheirkhah/nili - **Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/SkyLined/LocalNetworkScanner - **PoC Javascript that scans your local network when you open a webpage**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Javascript**         |         **Ongoing[last 6 months]**: ✖️
+
+#### Wireless Pentest
+
+- https://github.com/savio-code/fern-wifi-cracker - **Testing and discovering flaws in ones own network**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/P0cL4bs/WiFi-Pumpkin - **Framework for Rogue Wi-Fi Access Point Attack**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/MisterBianco/BoopSuite - **A Suite of Tools written in Python for wireless auditing and security testing**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/besimaltnok/PiFinger - **Searches for wifi-pineapple traces and calculate wireless network security score**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+- https://github.com/derv82/wifite2 - **A complete re-write of Wifite,Automated Wireless Attack Tool**
+
+> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
 
 ### Subdomain Enumeration or Takeover
 
@@ -340,11 +396,7 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
-### Enterprise Assets Management or Data Protection
-
-- https://github.com/ysrc/xunfeng - **Vulnerability rapid response,scanning system for intranet**
-
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+### Enterprise sensitive information Leak Scan
 
 - https://github.com/x0day/Multisearch-v2 - **Enterprise assets collector based on search engine**
 
@@ -406,14 +458,6 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
-- https://github.com/TophantTechnology/ARL - **An agile asset reconnaissance system**
-
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
-
-- https://github.com/smallcham/sec-admin - **SEC can be used for enterprises to scan and check the security of server resources which has strong controllability, supports distributed multi-node deployment.**
-
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
-
 
 ### Malicious Scripts or Binary Malware Detection
 
@@ -452,25 +496,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/droidefense/engine - **Advance Android malware analysis framework**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
-
-
-### Intranet Penetration
-
-- https://github.com/lcatro/network_backdoor_scanner - **An internal network scanner like meterpreter**
-
-> **Rating**: 🌟🌟🌟        |         **Language**: **C++**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/fdiskyou/hunter - **User hunter using WinAPI calls only**
-
-> **Rating**: 🌟🌟        |         **Language**: **C++**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/BlackHole1/WebRtcXSS - **Use XSS automation invade intranet**
-
-> **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/Tib3rius/AutoRecon - **A multi-threaded network reconnaissance tool which performs automated enumeration of services**
-
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Vulnerability Assessment for Middleware or Information Leak Scan
@@ -900,48 +925,6 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
-### Vulnerability Assessment for Wireless Network
-
-- https://github.com/savio-code/fern-wifi-cracker - **Testing and discovering flaws in ones own network**
-
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
-
-- https://github.com/P0cL4bs/WiFi-Pumpkin - **Framework for Rogue Wi-Fi Access Point Attack**
-
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
-
-- https://github.com/MisterBianco/BoopSuite - **A Suite of Tools written in Python for wireless auditing and security testing**
-
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
-
-- https://github.com/besimaltnok/PiFinger - **Searches for wifi-pineapple traces and calculate wireless network security score**
-
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/derv82/wifite2 - **A complete re-write of Wifite,Automated Wireless Attack Tool**
-
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
-
-
-### Local Area Network detection
-
-- https://github.com/m4n3dw0lf/PytheM - **Multi-purpose network pentest framework**
-
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
-
-- https://github.com/sowish/LNScan  - **Local Network Scanner based on BBScan via.lijiejie**
-
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/niloofarkheirkhah/nili - **Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing**
-
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/SkyLined/LocalNetworkScanner - **PoC Javascript that scans your local network when you open a webpage**
-
-> **Rating**: 🌟🌟🌟        |         **Language**: **Javascript**         |         **Ongoing[last 6 months]**: ✖️
-
-
 ### Dynamic or Static Code Analysis
 
 - https://github.com/wufeifei/cobra - **A static code analysis system that automates the detecting vulnerabilities and security issue**
@@ -1165,6 +1148,20 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 
+- https://github.com/ysrc/xunfeng - **Vulnerability rapid response,scanning system for intranet**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+
+- https://github.com/TophantTechnology/ARL - **An agile asset reconnaissance system**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/smallcham/sec-admin - **SEC can be used for enterprises to scan and check the security of server resources which has strong controllability, supports distributed multi-node deployment.**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+
 ### Advanced Persistent Threat
 
 - https://github.com/Neo23x0/Loki - **Simple IOC and Incident Response Scanner**
@@ -1255,4 +1252,4 @@ We would like to thanks the following security researchers for their valuable fe
 - **@saeeddhqan**
 - **@Sofiane Lounici**
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2020
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2021
