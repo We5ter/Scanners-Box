@@ -19,19 +19,16 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
+- [红蓝对抗](#红蓝对抗)
 - [子域名爆破枚举或接管](#子域名爆破枚举或接管)
 - [数据库注入漏洞或认证爆破](#数据库注入漏洞或认证爆破)
 - [网站弱用户名或弱口令枚举爆破](#网站弱用户名或弱口令枚举爆破)
 - [物联网设备认证爆破或漏洞评估](#物联网设备认证爆破或漏洞评估)
 - [多类型跨站脚本漏洞检测](#多类型跨站脚本漏洞检测)
-- [企业资产管理或数据保护](#企业资产管理或数据保护)
+- [企业敏感信息泄露检测](#企业敏感信息泄露检测)
 - [恶意脚本或木马检测](#恶意脚本或木马检测)
-- [内网渗透](#内网渗透)
 - [中间件漏洞评估或信息泄露扫描](#中间件漏洞评估或信息泄露扫描)
 - [特殊组件或漏洞类型扫描](#特殊组件或漏洞类型扫描)
-- [无线网络漏洞评估](#无线网络漏洞评估)
-- [局域网探测](#局域网探测)
 - [动态或静态代码审计](#动态或静态代码审计)
 - [模块化设计扫描器或漏洞评估框架](#模块化设计扫描器或漏洞评估框架)
 - [高级持续性威胁](#高级持续性威胁)
@@ -40,6 +37,66 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ***
+
+### 红蓝对抗
+
+#### 内网探测
+
+- https://github.com/lcatro/network_backdoor_scanner - **基于网络流量的内网探测框架**
+
+> **评分**: 🌟🌟🌟        |         **语言**: **C++**         |         **仍在维护**: ✖️
+
+- https://github.com/fdiskyou/hunter - **调用 Windows API 枚举用户登录信息**
+
+> **评分**: 🌟🌟        |         **语言**: **C++**         |         **仍在维护**: ✖️
+
+- https://github.com/BlackHole1/WebRtcXSS - **自动化利用XSS入侵内网**
+
+> **评分**: 🌟🌟🌟        |         **语言**: **PHP**         |         **仍在维护**: ✖️
+
+- https://github.com/Tib3rius/AutoRecon - **多线程目标网段探测工具，适用于大型内网探测扫描**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/m4n3dw0lf/PytheM - **支持ARP欺骗、中间人攻击等多种攻击的网络渗透测试套件**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
+- https://github.com/sowish/LNScan  - **基于BBScan via.lijiejie的本地网络扫描**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/niloofarkheirkhah/nili - **网络扫描，中间人攻击，协议检测与逆向**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
+
+- https://github.com/SkyLined/LocalNetworkScanner - **基于javascript的本地网络扫描**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **Javascript**         |         **仍在维护**: ✖️
+
+
+#### 无线网络渗透
+
+- https://github.com/savio-code/fern-wifi-cracker - **无线安全审计工具**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
+- https://github.com/P0cL4bs/WiFi-Pumpkin - **无线安全渗透测试套件**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
+- https://github.com/MisterBianco/BoopSuite - **无线网络审计工具，支持2-5GHZ频段**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/besimaltnok/PiFinger - **检查WIFI是否是"大菠萝"所开放的热点，并给予网络评分**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/derv82/wifite2 - **自动化无线网络攻击工具Wifite的重构版本**
+
+> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
 
 ### 子域名爆破枚举或接管
 
@@ -341,11 +398,8 @@
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
-### 企业资产管理或数据保护
+### 企业敏感信息泄露检测
 
-- https://github.com/ysrc/xunfeng - **网络资产识别引擎，漏洞检测引擎**
-
-> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/x0day/Multisearch-v2 - **Bing、Google、360、Zoomeye等搜索引擎聚合搜索，可用于发现企业被搜索引擎收录的敏感资产信息**
 
@@ -407,14 +461,6 @@
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
-- https://github.com/TophantTechnology/ARL - **敏捷资产侦查管理系统**
-
-> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
-
-- https://github.com/smallcham/sec-admin - **SEC可用于企业对服务器资源安全进行扫描排查，可控性强、支持分布式多节点部署**
-
-> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
-
 
 ### 恶意脚本或木马检测
 
@@ -453,25 +499,6 @@
 - https://github.com/droidefense/engine - **高级安卓木马病毒分析框架**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Java**         |         **仍在维护**: ✔️
-
-
-### 内网渗透
-
-- https://github.com/lcatro/network_backdoor_scanner - **基于网络流量的内网探测框架**
-
-> **评分**: 🌟🌟🌟        |         **语言**: **C++**         |         **仍在维护**: ✖️
-
-- https://github.com/fdiskyou/hunter - **调用 Windows API 枚举用户登录信息**
-
-> **评分**: 🌟🌟        |         **语言**: **C++**         |         **仍在维护**: ✖️
-
-- https://github.com/BlackHole1/WebRtcXSS - **自动化利用XSS入侵内网**
-
-> **评分**: 🌟🌟🌟        |         **语言**: **PHP**         |         **仍在维护**: ✖️
-
-- https://github.com/Tib3rius/AutoRecon - **多线程目标网段探测工具，适用于大型内网探测扫描**
-
-> **评分**: 🌟🌟🌟🌟🌟        |         **语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ### 中间件漏洞评估或信息泄露扫描
@@ -901,48 +928,6 @@
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
-### 无线网络漏洞评估
-
-- https://github.com/savio-code/fern-wifi-cracker - **无线安全审计工具**
-
-> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
-
-- https://github.com/P0cL4bs/WiFi-Pumpkin - **无线安全渗透测试套件**
-
-> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
-
-- https://github.com/MisterBianco/BoopSuite - **无线网络审计工具，支持2-5GHZ频段**
-
-> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
-
-- https://github.com/besimaltnok/PiFinger - **检查WIFI是否是"大菠萝"所开放的热点，并给予网络评分**
-
-> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
-
-- https://github.com/derv82/wifite2 - **自动化无线网络攻击工具Wifite的重构版本**
-
-> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
-
-
-### 局域网探测
-
-- https://github.com/m4n3dw0lf/PytheM - **支持ARP欺骗、中间人攻击等多种攻击的网络渗透测试套件**
-
-> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
-
-- https://github.com/sowish/LNScan  - **基于BBScan via.lijiejie的本地网络扫描**
-
-> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
-
-- https://github.com/niloofarkheirkhah/nili - **网络扫描，中间人攻击，协议检测与逆向**
-
-> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
-
-- https://github.com/SkyLined/LocalNetworkScanner - **基于javascript的本地网络扫描**
-
-> **评分**: 🌟🌟🌟        |         **编程语言**: **Javascript**         |         **仍在维护**: ✖️
-
-
 ### 动态或静态代码审计
 
 - https://github.com/wufeifei/cobra - **白盒代码安全审计系统**
@@ -1164,6 +1149,18 @@
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/ysrc/xunfeng - **网络资产识别引擎，漏洞检测引擎**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/TophantTechnology/ARL - **敏捷资产侦查管理系统**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/smallcham/sec-admin - **SEC可用于企业对服务器资源安全进行扫描排查，可控性强、支持分布式多节点部署**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
 
 ### 高级持续性威胁
 
@@ -1254,4 +1251,4 @@ scanbox在Mozilla协议条款下发布
 - **@saeeddhqan**
 - **@Sofiane Lounici**
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2020
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2021
