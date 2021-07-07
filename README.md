@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-277-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-274-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -45,19 +45,17 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
+#### Man-In-The-Middle
+
+- https://github.com/niloofarkheirkhah/nili - **Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+
 #### Intranet detection
 
 - https://github.com/lcatro/network_backdoor_scanner - **An internal network scanner like meterpreter**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **C++**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/fdiskyou/hunter - **User hunter using WinAPI calls only**
-
-> **Rating**: 🌟🌟        |         **Language**: **C++**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/BlackHole1/WebRtcXSS - **Use XSS automation invade intranet**
-
-> **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
 
 - https://github.com/Tib3rius/AutoRecon - **A multi-threaded network reconnaissance tool which performs automated enumeration of services**
 
@@ -70,14 +68,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/sowish/LNScan  - **Local Network Scanner based on BBScan via.lijiejie**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/niloofarkheirkhah/nili - **Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing**
-
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/SkyLined/LocalNetworkScanner - **PoC Javascript that scans your local network when you open a webpage**
-
-> **Rating**: 🌟🌟🌟        |         **Language**: **Javascript**         |         **Ongoing[last 6 months]**: ✖️
 
 #### Wireless Pentest
 
