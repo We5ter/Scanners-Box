@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-274-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-276-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -19,6 +19,7 @@ English | [简体中文](./README_CN.md)
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Red Team vs Blue Team](#red-team-vs-blue-team)
+- [Privacy Compliance](privacy-compliance)
 - [Subdomain Enumeration or Takeover](#subdomain-enumeration-or-takeover)
 - [Database SQL Injection Vulnerability or Brute Force](#database-sql-injection-vulnerability-or-brute-force)
 - [Weak Usernames or Passwords Enumeration For Web](#weak-usernames-or-passwords-enumeration-for-web)
@@ -90,6 +91,16 @@ English | [简体中文](./README_CN.md)
 - https://github.com/derv82/wifite2 - **A complete re-write of Wifite,Automated Wireless Attack Tool**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+### Privacy Compliance
+
+- https://github.com/riskscanner/riskscanner - **Multi-cloud privacy compliance scanning platform, through Cloud Custodian's YAML DSL to define scanning rules**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/momosecurity/bombus - **Enterprise security and privacy compliance platform**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
 
 
 ### Subdomain Enumeration or Takeover
