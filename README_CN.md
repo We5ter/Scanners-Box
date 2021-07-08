@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-274-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-276-blue.svg" alt="number">
 </p>
 
 
@@ -20,6 +20,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [红蓝对抗](#红蓝对抗)
+- [隐私合规](#隐私合规)
 - [子域名爆破枚举或接管](#子域名爆破枚举或接管)
 - [数据库注入漏洞或认证爆破](#数据库注入漏洞或认证爆破)
 - [网站弱用户名或弱口令枚举爆破](#网站弱用户名或弱口令枚举爆破)
@@ -91,6 +92,17 @@
 - https://github.com/derv82/wifite2 - **自动化无线网络攻击工具Wifite的重构版本**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+
+### 隐私合规
+
+- https://github.com/riskscanner/riskscanner - **RiskScanner 是开源的多云安全合规扫描平台，通过 Cloud Custodian 的 YAML DSL 定义扫描规则**
+
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Java**         |         **仍在维护**: ✔️
+
+- https://github.com/momosecurity/bombus - **企业安全与隐私合规审计平台**
+
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
 
 
 ### 子域名爆破枚举或接管
