@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-276-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-277-blue.svg" alt="number">
 </p>
 
 
@@ -70,6 +70,10 @@
 - https://github.com/sowish/LNScan  - **基于BBScan via.lijiejie的本地网络扫描**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+- https://github.com/shadow1ng/fscan  - **内网综合扫描工具，方便一键自动化、全方位漏扫扫描**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
 #### 无线网络渗透
 
