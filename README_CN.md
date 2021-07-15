@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-278-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-279-blue.svg" alt="number">
 </p>
 
 
@@ -977,6 +977,9 @@
 
 > **评分**: 🌟🌟        |         **编程语言**: **PHP**         |         **仍在维护**: ✖️
 
+- https://github.com/zsdlove/Hades - **Java静态代码审计工具**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 3.X**         |         **仍在维护**: ✔️
 
 ### 模块化设计扫描器或漏洞评估框架
 
