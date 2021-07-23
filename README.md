@@ -1274,4 +1274,8 @@ We would like to thanks the following security researchers for their valuable fe
 - **@saeeddhqan**
 - **@Sofiane Lounici**
 
+## Stargazers
+
+[![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
+
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2021
