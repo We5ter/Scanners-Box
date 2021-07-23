@@ -118,47 +118,47 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/lijiejie/subDomainsBrute - **A classical subdomain enumeration Tool by lijiejie**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lijiejie/subDomainsBrute?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lijiejie/subDomainsBrute?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lijiejie/subDomainsBrute?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lijiejie/subDomainsBrute?style=flat-square)
 
 - https://github.com/ring04h/wydomain - **A Speed and Precision subdomain enumeration Tool by ringzero**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ring04h/wydomain?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ring04h/wydomain?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ring04h/wydomain?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ring04h/wydomain?style=flat-square)
 
 - https://github.com/le4f/dnsmaper - **Subdomain enumeration tool with map record**
 
-> **Rating**: 🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/le4f/dnsmaper?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/le4f/dnsmaper?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/le4f/dnsmaper?style=flat-square)  ![GitHub](https://img.shields.io/github/license/le4f/dnsmaper?style=flat-square)
 
 - https://github.com/TheRook/subbrute - **A DNS meta-query spider that enumerates DNS records, and subdomains,supported API**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/TheRook/subbrute?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/TheRook/subbrute?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/TheRook/subbrute?style=flat-square)  ![GitHub](https://img.shields.io/github/license/TheRook/subbrute?style=flat-square)
 
 - https://github.com/We5ter/GSDF - **Subdomain enumeration via Google certificate transparency**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/We5ter/GSDF?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/We5ter/GSDF?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/We5ter/GSDF?style=flat-square)  ![GitHub](https://img.shields.io/github/license/We5ter/GSDF?style=flat-square)
 
 - https://github.com/mandatoryprogrammer/cloudflare_enum  - **Subdomain enumeration via CloudFlare**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/mandatoryprogrammer/cloudflare_enum?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/mandatoryprogrammer/cloudflare_enum?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mandatoryprogrammer/cloudflare_enum?style=flat-square)  ![GitHub](https://img.shields.io/github/license/mandatoryprogrammer/cloudflare_enum?style=flat-square)
 
 - https://github.com/guelfoweb/knock - **Knock subdomain scan**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/guelfoweb/knock?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/guelfoweb/knock?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/guelfoweb/knock?style=flat-square)  ![GitHub](https://img.shields.io/github/license/guelfoweb/knock?style=flat-square)
 
 - https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker - **An intergratd Python subdomain enumeration tool**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/exp-db/PythonPool?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/exp-db/PythonPool?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/exp-db/PythonPool?style=flat-square)  ![GitHub](https://img.shields.io/github/license/exp-db/PythonPool?style=flat-square)
 
 - https://github.com/code-scan/BroDomain - **Find brother domain**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/code-scan/BroDomain?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/code-scan/BroDomain?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/code-scan/BroDomain?style=flat-square)  ![GitHub](https://img.shields.io/github/license/code-scan/BroDomain?style=flat-square)
 
 - https://github.com/chuhades/dnsbrute - **A fast domain brute tool**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chuhades/dnsbrute?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/chuhades/dnsbrute?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/chuhades/dnsbrute?style=flat-square)  ![GitHub](https://img.shields.io/github/license/chuhades/dnsbrute?style=flat-square)
 
 - https://github.com/yanxiu0614/subdomain3 - **A simple and fast tool for bruting subdomains**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/yanxiu0614/subdomain3?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/yanxiu0614/subdomain3?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/yanxiu0614/subdomain3?style=flat-square)  ![GitHub](https://img.shields.io/github/license/yanxiu0614/subdomain3?style=flat-square)
 
 - https://github.com/michenriksen/aquatone - **A powerful subdomain tool and domain takeovers finding tools**
 
