@@ -76,44 +76,43 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/FunnyWolf/Viper  - **Graphical, Modularization and weaponization intranet penetration tool**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Ruby,C,Python 3.X, Javascript**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Ruby-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/FunnyWolf/Viper?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/FunnyWolf/Viper?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/FunnyWolf/Viper?style=flat-square)  ![GitHub](https://img.shields.io/github/license/FunnyWolf/Viper?style=flat-square)
 
 - https://github.com/P1-Team/AlliN  - **Mostly used for asset collection before penetration and lateral movement of intranet**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.X**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/P1-Team/AlliN?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/P1-Team/AlliN?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/P1-Team/AlliN?style=flat-square)  ![GitHub](https://img.shields.io/github/license/P1-Team/AlliN?style=flat-square)
 
 #### Wireless Pentest
 
 - https://github.com/savio-code/fern-wifi-cracker - **Testing and discovering flaws in ones own network**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/savio-code/fern-wifi-cracker?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/savio-code/fern-wifi-cracker?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/savio-code/fern-wifi-cracker?style=flat-square)  ![GitHub](https://img.shields.io/github/license/savio-code/fern-wifi-cracker?style=flat-square)
 
 - https://github.com/P0cL4bs/WiFi-Pumpkin - **Framework for Rogue Wi-Fi Access Point Attack**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/P0cL4bs/WiFi-Pumpkin?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/P0cL4bs/WiFi-Pumpkin?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/P0cL4bs/WiFi-Pumpkin?style=flat-square)  ![GitHub](https://img.shields.io/github/license/P0cL4bs/WiFi-Pumpkin?style=flat-square)
 
 - https://github.com/MisterBianco/BoopSuite - **A Suite of Tools written in Python for wireless auditing and security testing**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/MisterBianco/BoopSuite?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/MisterBianco/BoopSuite?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/MisterBianco/BoopSuite?style=flat-square)  ![GitHub](https://img.shields.io/github/license/MisterBianco/BoopSuite?style=flat-square)
 
 - https://github.com/besimaltnok/PiFinger - **Searches for wifi-pineapple traces and calculate wireless network security score**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/besimaltnok/PiFinger?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/besimaltnok/PiFinger?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/besimaltnok/PiFinger?style=flat-square)  ![GitHub](https://img.shields.io/github/license/besimaltnok/PiFinger?style=flat-square)
 
 - https://github.com/derv82/wifite2 - **A complete re-write of Wifite,Automated Wireless Attack Tool**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/derv82/wifite2?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/derv82/wifite2?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/derv82/wifite2?style=flat-square)  ![GitHub](https://img.shields.io/github/license/derv82/wifite2?style=flat-square)
 
 ### Privacy Compliance
 
 - https://github.com/riskscanner/riskscanner - **Multi-cloud privacy compliance scanning platform, through Cloud Custodian's YAML DSL to define scanning rules**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/riskscanner/riskscanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/riskscanner/riskscanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/riskscanner/riskscanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/riskscanner/riskscanner?style=flat-square)
 
 - https://github.com/momosecurity/bombus - **Enterprise security and privacy compliance platform**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
-
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/momosecurity/bombus?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/momosecurity/bombus?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/momosecurity/bombus?style=flat-square)  ![GitHub](https://img.shields.io/github/license/momosecurity/bombus?style=flat-square)
 
 ### Subdomain Enumeration or Takeover
 
