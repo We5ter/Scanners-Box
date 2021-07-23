@@ -1273,4 +1273,8 @@ scanbox在Mozilla协议条款下发布
 - **@saeeddhqan**
 - **@Sofiane Lounici**
 
+## star走势
+
+[![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
+
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2021
