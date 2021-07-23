@@ -5,7 +5,7 @@ English | [简体中文](./README_CN.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
+  <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
  <img src="https://img.shields.io/badge/Scanners/Number-280-blue.svg" alt="number">
 </p>
@@ -44,35 +44,35 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/cdk-team/CDK - **A tool to gather information inside container/cluster and exploit them**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cdk-team/CDK?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/cdk-team/CDK?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/cdk-team/CDK.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/cdk-team/CDK?style=flat-square)
 
 #### Man-In-The-Middle
 
 - https://github.com/niloofarkheirkhah/nili - **Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cdk-team/CDK?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/niloofarkheirkhah/nili?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/niloofarkheirkhah/nili.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/niloofarkheirkhah/nili?style=flat-square)
 
 #### Intranet detection
 
 - https://github.com/lcatro/network_backdoor_scanner - **An internal network scanner like meterpreter**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **C++**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-C++-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lcatro/network_backdoor_scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lcatro/network_backdoor_scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lcatro/network_backdoor_scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lcatro/network_backdoor_scanner?style=flat-square)
 
 - https://github.com/Tib3rius/AutoRecon - **A multi-threaded network reconnaissance tool which performs automated enumeration of services**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tib3rius/AutoRecon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tib3rius/AutoRecon?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Tib3rius/AutoRecon?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Tib3rius/AutoRecon?style=flat-square)
 
 - https://github.com/m4n3dw0lf/PytheM - **Multi-purpose network pentest framework**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m4n3dw0lf/PytheM?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/m4n3dw0lf/PytheM?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/m4n3dw0lf/PytheM?style=flat-square)  ![GitHub](https://img.shields.io/github/license/m4n3dw0lf/PytheM?style=flat-square)
 
 - https://github.com/sowish/LNScan  - **Local Network Scanner based on BBScan via.lijiejie**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/sowish/LNScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/sowish/LNScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/sowish/LNScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/sowish/LNScan?style=flat-square)
 
 - https://github.com/shadow1ng/fscan  - **Intranet integrated scanning tool,build for automatic, full coverage scanning**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shadow1ng/fscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/shadow1ng/fscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/shadow1ng/fscan?style=flat-square)
 
 - https://github.com/FunnyWolf/Viper  - **Graphical, Modularization and weaponization intranet penetration tool**
 
