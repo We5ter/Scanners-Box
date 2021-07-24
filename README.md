@@ -206,7 +206,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/UnaPibaGeek/ctfr - **Abusing certificate transparency logs for getting HTTPS websites subdomains**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/naPibaGeek/ctfr?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/naPibaGeek/ctfr?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/naPibaGeek/ctfr?style=flat-square)  ![GitHub](https://img.shields.io/github/license/naPibaGeek/ctfr?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/UnaPibaGeek/ctfr?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/UnaPibaGeek/ctfr?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/UnaPibaGeek/ctfr?style=flat-square)  ![GitHub](https://img.shields.io/github/license/UnaPibaGeek/ctfr?style=flat-square)
 
 - https://github.com/giovanifss/Dumb - **Dumain Bruteforcer, a fast and flexible domain bruteforcer**
 
