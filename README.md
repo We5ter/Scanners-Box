@@ -162,55 +162,55 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/michenriksen/aquatone - **A powerful subdomain tool and domain takeovers finding tools**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/michenriksen/aquatone?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/michenriksen/aquatone?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/michenriksen/aquatone?style=flat-square)  ![GitHub](https://img.shields.io/github/license/michenriksen/aquatone?style=flat-square)
 
 - https://github.com/evilsocket/dnssearch - **A subdomain enumeration tool**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/evilsocket/dnssearch?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/evilsocket/dnssearch?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/evilsocket/dnssearch?style=flat-square)  ![GitHub](https://img.shields.io/github/license/evilsocket/dnssearch?style=flat-square)
 
 - https://github.com/reconned/domained - **Subdomain enumeration tools for bug hunting**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/reconned/domained?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/reconned/domained?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/reconned/domained?style=flat-square)  ![GitHub](https://img.shields.io/github/license/reconned/domained?style=flat-square)
 
 - https://github.com/bit4woo/Teemo - **A domain name & Email address collection tool**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/bit4woo/Teemo?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/bit4woo/Teemo?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/bit4woo/Teemo?style=flat-square)  ![GitHub](https://img.shields.io/github/license/bit4woo/Teemo?style=flat-square)
 
 - https://github.com/laramies/theHarvester - **E-mail, subdomain and people names harvester**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/laramies/theHarvester?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/laramies/theHarvester?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/laramies/theHarvester?style=flat-square)  ![GitHub](https://img.shields.io/github/license/laramies/theHarvester?style=flat-square)
 
 - https://github.com/nmalcolm/Inventus - **A spider designed to find subdomains of a specific domain by crawling it**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/nmalcolm/Inventus?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/nmalcolm/Inventus?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/nmalcolm/Inventus?style=flat-square)  ![GitHub](https://img.shields.io/github/license/nmalcolm/Inventus?style=flat-square)
 
 - https://github.com/aboul3la/Sublist3r - **Fast subdomains enumeration tool for penetration testers**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/aboul3la/Sublist3r?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/aboul3la/Sublist3r?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/aboul3la/Sublist3r?style=flat-square)  ![GitHub](https://img.shields.io/github/license/aboul3la/Sublist3r?style=flat-square)
 
 - https://github.com/jonluca/Anubis - **Subdomain enumeration and information gathering tool**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/jonluca/Anubis?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/jonluca/Anubis?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/jonluca/Anubis?style=flat-square)  ![GitHub](https://img.shields.io/github/license/jonluca/Anubis?style=flat-square)
 
 - https://github.com/n4xh4ck5/N4xD0rk - **Listing subdomains about a main domain**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/n4xh4ck5/N4xD0rk?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/n4xh4ck5/N4xD0rk?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/n4xh4ck5/N4xD0rk?style=flat-square)  ![GitHub](https://img.shields.io/github/license/n4xh4ck5/N4xD0rk?style=flat-square)
 
 - https://github.com/infosec-au/altdns - **Subdomain discovery through alterations and permutations**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/infosec-au/altdns?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/infosec-au/altdns?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/infosec-au/altdns?style=flat-square)  ![GitHub](https://img.shields.io/github/license/infosec-au/altdns?style=flat-square)
 
 - https://github.com/FeeiCN/ESD - **Enumeration sub domains tool,based on AsyncIO and non-repeating dict**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/FeeiCN/ESD?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/FeeiCN/ESD?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/FeeiCN/ESD?style=flat-square)  ![GitHub](https://img.shields.io/github/license/FeeiCN/ESD?style=flat-square)
 
 - https://github.com/UnaPibaGeek/ctfr - **Abusing certificate transparency logs for getting HTTPS websites subdomains**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/naPibaGeek/ctfr?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/naPibaGeek/ctfr?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/naPibaGeek/ctfr?style=flat-square)  ![GitHub](https://img.shields.io/github/license/naPibaGeek/ctfr?style=flat-square)
 
 - https://github.com/giovanifss/Dumb - **Dumain Bruteforcer, a fast and flexible domain bruteforcer**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Haskell**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Haskell-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/giovanifss/Dumb?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/giovanifss/Dumb?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/giovanifss/Dumb?style=flat-square)  ![GitHub](https://img.shields.io/github/license/giovanifss/Dumb?style=flat-square)
 
 - https://github.com/caffix/amass - **Subdomain enumeration in Go**
 
