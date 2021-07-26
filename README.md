@@ -214,102 +214,102 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/caffix/amass - **Subdomain enumeration in Go**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/caffix/amass?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/caffix/amass?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/caffix/amass?style=flat-square)  ![GitHub](https://img.shields.io/github/license/caffix/amass?style=flat-square)
 
 - https://github.com/Ice3man543/subfinder - **A subdomain discovery tool which has a simple modular architecture and has been aimed as a successor to sublist3r project**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Ice3man543/subfinder?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Ice3man543/subfinder?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Ice3man543/subfinder?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Ice3man543/subfinder?style=flat-square)
 
 - https://github.com/Ice3man543/SubOver - **A powerful subdomain takeover tool**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Ice3man543/SubOver?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Ice3man543/SubOver?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Ice3man543/SubOver?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Ice3man543/SubOver?style=flat-square)
 
 - https://github.com/janniskirschner/horn3t - **Powerful Visual Subdomain Enumeration**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/janniskirschner/horn3t?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/janniskirschner/horn3t?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/janniskirschner/horn3t?style=flat-square)  ![GitHub](https://img.shields.io/github/license/janniskirschner/horn3t?style=flat-square)
 
 - https://github.com/yunxu1/dnsub - **A high concurrency and cross platform subdomain scanner based on Golang**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/yunxu1/dnsub?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/yunxu1/dnsub?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/yunxu1/dnsub?style=flat-square)  ![GitHub](https://img.shields.io/github/license/yunxu1/dnsub?style=flat-square)
 
 - https://github.com/shmilylty/OneForAll - **An ultimate subdomains scanner integrated multiple subdomain scanning tools**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shmilylty/OneForAll?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/shmilylty/OneForAll?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/shmilylty/OneForAll?style=flat-square)  ![GitHub](https://img.shields.io/github/license/shmilylty/OneForAll?style=flat-square)
 
 - https://github.com/knownsec/ksubdomain - **A stateless and cross-platform subdomain enumeration tool, speed up to 30w/s on Mac and Windows, and 160w/s on Linux**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/knownsec/ksubdomain?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/knownsec/ksubdomain?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/knownsec/ksubdomain?style=flat-square)  ![GitHub](https://img.shields.io/github/license/knownsec/ksubdomain?style=flat-square)
 
 - https://github.com/gwen001/github-subdomains - **Find subdomains on GitHub**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/gwen001/github-subdomains?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/gwen001/github-subdomains?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/gwen001/github-subdomains?style=flat-square)  ![GitHub](https://img.shields.io/github/license/gwen001/github-subdomains?style=flat-square)
 
 
 ### Database SQL Injection Vulnerability or Brute Force
 
 - https://github.com/0xbug/SQLiScanner - **A SQLi vulnerability scanner via SQLMAP and Charles**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/0xbug/SQLiScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/0xbug/SQLiScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/0xbug/SQLiScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/0xbug/SQLiScanner?style=flat-square)
 
 - https://github.com/stamparm/DSSS - **A SQLi vulnerability scanner with 99 lines of code**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/stamparm/DSSS?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/stamparm/DSSS?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/stamparm/DSSS?style=flat-square)  ![GitHub](https://img.shields.io/github/license/stamparm/DSSS?style=flat-square)
 
 - https://github.com/youngyangyang04/NoSQLAttack  - **A SQLi vulnerability scanner for mongoDB**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/stamparm/DSSS?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/youngyangyang04/NoSQLAttack?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/youngyangyang04/NoSQLAttack?style=flat-square)  ![GitHub](https://img.shields.io/github/license/youngyangyang04/NoSQLAttack?style=flat-square)
 
 - https://github.com/Neohapsis/bbqsql - **A blind SQLi vulnerability scanner**
 
-> **Rating**: 🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Neohapsis/bbqsql?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Neohapsis/bbqsql?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Neohapsis/bbqsql?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Neohapsis/bbqsql?style=flat-square)
 
 - https://github.com/NetSPI/PowerUpSQL - **A SQLi vulnerability scanner with Powershell script**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Powershell**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-PowerShell-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/NetSPI/PowerUpSQL?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/NetSPI/PowerUpSQL?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/NetSPI/PowerUpSQL?style=flat-square)  ![GitHub](https://img.shields.io/github/license/NetSPI/PowerUpSQL?style=flat-square)
 
 - https://github.com/WhitewidowScanner/whitewidow - **Another SQL vulnerability scanner**
 
-> **Rating**: 🌟🌟         |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Ruby-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/WhitewidowScanner/whitewidow?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/WhitewidowScanner/whitewidow?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/WhitewidowScanner/whitewidow?style=flat-square)  ![GitHub](https://img.shields.io/github/license/WhitewidowScanner/whitewidow?style=flat-square)
 
 - https://github.com/stampery/mongoaudit - **A powerful MongoDB auditing and pentesting tool**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/stampery/mongoaudit?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/stampery/mongoaudit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/stampery/mongoaudit?style=flat-square)  ![GitHub](https://img.shields.io/github/license/stampery/mongoaudit?style=flat-square)
 
 - https://github.com/torque59/Nosql-Exploitation-Framework - **A Python framework For NoSQL scanning and exploitation**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/stampery/mongoaudit?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/stampery/mongoaudit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/stampery/mongoaudit?style=flat-square)  ![GitHub](https://img.shields.io/github/license/stampery/mongoaudit?style=flat-square)
 
 - https://github.com/missDronio/blindy - **Simple script to automate brutforcing blind sql injection vulnerabilities**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/missDronio/blindy?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/missDronio/blindy?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/missDronio/blindy?style=flat-square)  ![GitHub](https://img.shields.io/github/license/missDronio/blindy?style=flat-square)
 
 - https://github.com/fengxuangit/Fox-scan - **A initiative and passive SQL injection vulnerable test tools**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/fengxuangit/Fox-scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/fengxuangit/Fox-scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/fengxuangit/Fox-scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/fengxuangit/Fox-scan?style=flat-square)
 
 - https://github.com/JohnTroony/Blisqy - **Exploit time-based blind-SQL injection in HTTP-Headers**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/JohnTroony/Blisqy?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/JohnTroony/Blisqy?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/JohnTroony/Blisqy?style=flat-square)  ![GitHub](https://img.shields.io/github/license/JohnTroony/Blisqy?style=flat-square)
 
 - https://github.com/ron190/jsql-injection - **A lightweight application used to find database information from a distant server**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ron190/jsql-injection?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ron190/jsql-injection?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ron190/jsql-injection?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ron190/jsql-injection?style=flat-square)
 
 - https://github.com/Hadesy2k/sqliv - **Massive SQL injection vulnerability scanner**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Hadesy2k/sqliv?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Hadesy2k/sqliv?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Hadesy2k/sqliv?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Hadesy2k/sqliv?style=flat-square)
 
 - https://github.com/s0md3v/sqlmate - **A friend of SQLmap which will do what you always expected from SQLmap**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/s0md3v/sqlmate?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/s0md3v/sqlmate?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/s0md3v/sqlmate?style=flat-square)  ![GitHub](https://img.shields.io/github/license/s0md3v/sqlmate?style=flat-square)
 
 - https://github.com/m8r0wn/enumdb  - **MySQL and MSSQL brute force and post exploitation tool**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m8r0wn/enumdb?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/m8r0wn/enumdb?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/m8r0wn/enumdb?style=flat-square)  ![GitHub](https://img.shields.io/github/license/m8r0wn/enumdb?style=flat-square)
 
 - https://github.com/tariqhawis/injectbot  - **A web-based, easy-to-use, SQL injection scanner and exploiter tool**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-PHP-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/tariqhawis/injectbot?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/tariqhawis/injectbot?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/tariqhawis/injectbot?style=flat-square)  ![GitHub](https://img.shields.io/github/license/tariqhawis/injectbot?style=flat-square)
 
 
 ### Weak Usernames or Passwords Enumeration For Web
