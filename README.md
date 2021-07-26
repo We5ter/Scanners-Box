@@ -316,62 +316,62 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/lijiejie/htpwdScan  - **A python HTTP weak pass scanner**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lijiejie/htpwdScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lijiejie/htpwdScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lijiejie/htpwdScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lijiejie/htpwdScan?style=flat-square)
 
 - https://github.com/netxfly/crack_ssh - **SSH, Redis, mongoDB weak password bruteforcer**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/netxfly/crack_ssh?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/netxfly/crack_ssh?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/netxfly/crack_ssh?style=flat-square)  ![GitHub](https://img.shields.io/github/license/netxfly/crack_ssh?style=flat-square)
 
 - https://github.com/shengqi158/weak_password_detect - **A python HTTP weak password scanner**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shengqi158/weak_password_detect?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/shengqi158/weak_password_detect?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/shengqi158/weak_password_detect?style=flat-square)  ![GitHub](https://img.shields.io/github/license/shengqi158/weak_password_detect?style=flat-square)
 
 - https://github.com/s0md3v/Blazy - **a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/s0md3v/Blazy?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/s0md3v/Blazy?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/s0md3v/Blazy?style=flat-square)  ![GitHub](https://img.shields.io/github/license/s0md3v/Blazy?style=flat-square)
 
 - https://github.com/MooseDojo/myBFF - **Web application brute force framework,supports Citrix Gateway,CiscoVPN and so on**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/MooseDojo/myBFF?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/MooseDojo/myBFF?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/MooseDojo/myBFF?style=flat-square)  ![GitHub](https://img.shields.io/github/license/MooseDojo/myBFF?style=flat-square)
 
 - https://github.com/TideSec/web_pwd_common_crack - **A common web weak_password cracking script,can detect batches of management backgrounds without verification codes**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/TideSec/web_pwd_common_crack?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/TideSec/web_pwd_common_crack?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/TideSec/web_pwd_common_crack?style=flat-square)  ![GitHub](https://img.shields.io/github/license/TideSec/web_pwd_common_crack?style=flat-square)
 
 
 ### Authorization Brute Force or Vulnerability Scan For IoT
 
 - https://github.com/rapid7/IoTSeeker - **Weak-password IoT devices scanner**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Perl-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/rapid7/IoTSeeker?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/rapid7/IoTSeeker?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/rapid7/IoTSeeker?style=flat-square)  ![GitHub](https://img.shields.io/github/license/rapid7/IoTSeeker?style=flat-square)
 
 - https://github.com/shodan-labs/iotdb - **IoT Devices scanner via nmap**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **XML**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-XML-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shodan-labs/iotdb?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/shodan-labs/iotdb?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/shodan-labs/iotdb?style=flat-square)  ![GitHub](https://img.shields.io/github/license/shodan-labs/iotdb?style=flat-square)
 
 - https://github.com/googleinurl/RouterHunterBR - **Testing vulnerabilities in devices and routers connected to the Internet**
 
-> **Rating**: 🌟🌟         |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-PHP-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/googleinurl/RouterHunterBR?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/googleinurl/RouterHunterBR?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/googleinurl/RouterHunterBR?style=flat-square)  ![GitHub](https://img.shields.io/github/license/googleinurl/RouterHunterBR?style=flat-square)
 
 - https://github.com/scu-igroup/telnet-scanner - **Weak telnet password scanner based on password enumeration**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/scu-igroup/telnet-scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/scu-igroup/telnet-scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/scu-igroup/telnet-scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/scu-igroup/telnet-scanner?style=flat-square)
 
 - https://github.com/viraintel/OWASP-Nettacker - **Network information gathering vulnerability scanner,most useful to scan IoT**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/viraintel/OWASP-Nettacker?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/viraintel/OWASP-Nettacker?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/viraintel/OWASP-Nettacker?style=flat-square)  ![GitHub](https://img.shields.io/github/license/viraintel/OWASP-Nettacker?style=flat-square)
 
 - https://github.com/threat9/routersploit - **Exploitation Framework for embedded Devices,such as router**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/threat9/routersploit?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/threat9/routersploit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/threat9/routersploit?style=flat-square)  ![GitHub](https://img.shields.io/github/license/threat9/routersploit?style=flat-square)
 
 - https://github.com/w3h/icsmaster/tree/master/nse - **Digital bond's ICS enumeration tools**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **NSE**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-NSE-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/w3h/icsmaster?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/w3h/icsmaster?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/w3h/icsmaster?style=flat-square)  ![GitHub](https://img.shields.io/github/license/w3h/icsmaster?style=flat-square)
 
 - https://github.com/firmianay/firmeye - **An IDA plug-in, based on sensitive function parameter backtracking to assist in vulnerability mining**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/firmianay/firmeye?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/firmianay/firmeye?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/firmianay/firmeye?style=flat-square)  ![GitHub](https://img.shields.io/github/license/firmianay/firmeye?style=flat-square)
 
 
 ### Mutiple types of Cross-site scripting Detection
