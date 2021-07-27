@@ -442,78 +442,78 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/dxa4481/truffleHog - **Searches high entropy strings through git repositories**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/dxa4481/truffleHog?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/dxa4481/truffleHog?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/dxa4481/truffleHog?style=flat-square)  ![GitHub](https://img.shields.io/github/license/dxa4481/truffleHog?style=flat-square)
 
 - https://github.com/1N3/Goohak - **Automatically launch Google hacking queries against a target domain**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/1N3/Goohak?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/1N3/Goohak?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/1N3/Goohak?style=flat-square)  ![GitHub](https://img.shields.io/github/license/1N3/Goohak?style=flat-square)
 
 - https://github.com/UKHomeOffice/repo-security-scanner - **CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/UKHomeOffice/repo-security-scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/UKHomeOffice/repo-security-scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/UKHomeOffice/repo-security-scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/UKHomeOffice/repo-security-scanner?style=flat-square)
 
 - https://github.com/FeeiCN/GSIL - **Github sensitive information leakage scan**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/FeeiCN/GSIL?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/FeeiCN/GSIL?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/FeeiCN/GSIL?style=flat-square)  ![GitHub](https://img.shields.io/github/license/FeeiCN/GSIL?style=flat-square)
 
 - https://github.com/MiSecurity/x-patrol - **Github leaked patrol**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/MiSecurity/x-patrol?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/MiSecurity/x-patrol?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/MiSecurity/x-patrol?style=flat-square)  ![GitHub](https://img.shields.io/github/license/MiSecurity/x-patrol?style=flat-square)
 
 - https://github.com/anshumanbh/git-all-secrets - **A tool to capture all the git secrets by leveraging multiple open source git searching tools**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anshumanbh/git-all-secrets?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/anshumanbh/git-all-secrets?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/anshumanbh/git-all-secrets?style=flat-square)  ![GitHub](https://img.shields.io/github/license/anshumanbh/git-all-secrets?style=flat-square)
 
 - https://github.com/VKSRC/Github-Monitor - **Github sensitive information leakage monitor by vipkid SRC**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/FeeiCN/GSIL?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/FeeiCN/GSIL?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/FeeiCN/GSIL?style=flat-square)  ![GitHub](https://img.shields.io/github/license/FeeiCN/GSIL?style=flat-square)
 
 - https://github.com/eth0izzle/shhgit - **A docker and web based monitor for finding secrets and sensitive files across GitHub**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/aeth0izzle/shhgit?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/eth0izzle/shhgit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/eth0izzle/shhgit?style=flat-square)  ![GitHub](https://img.shields.io/github/license/eth0izzle/shhgit?style=flat-square)
 
 - https://github.com/SAP/credential-digger - **A GitHub scanning tool that identifies hardcoded credentials, filtering the false positive data through machine learning models.**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SAP/credential-digger?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/credential-digger?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/SAP/credential-digger?style=flat-square)  ![GitHub](https://img.shields.io/github/license/SAP/credential-digger?style=flat-square)
 
 
 ### Malicious Scripts or Binary Malware Detection
 
 - https://github.com/he1m4n6a/findWebshell  -**Simple webshell detector**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/he1m4n6a/findWebshell?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/he1m4n6a/findWebshell?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/he1m4n6a/findWebshell?style=flat-square)  ![GitHub](https://img.shields.io/github/license/he1m4n6a/findWebshell?style=flat-square)
 
 - https://github.com/Tencent/HaboMalHunter  -**Used for automated malware analysis and security assessment on the Linux system**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tencent/HaboMalHunter?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/HaboMalHunter?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Tencent/HaboMalHunter?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Tencent/HaboMalHunter?style=flat-square)
 
 - https://github.com/PlagueScanner/PlagueScanner - **Open source multiple AV scanner framework**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/PlagueScanner/PlagueScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/PlagueScanner/PlagueScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/PlagueScanner/PlagueScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/PlagueScanner/PlagueScanner?style=flat-square)
 
 - https://github.com/nbs-system/php-malware-finder - **An awesome tool to detect potentially malicious PHP files**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-PHP-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/nbs-system/php-malware-finder?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/nbs-system/php-malware-finder?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/nbs-system/php-malware-finder?style=flat-square)  ![GitHub](https://img.shields.io/github/license/nbs-system/php-malware-finder?style=flat-square)
 
 - https://github.com/emposha/PHP-Shell-Detector - **Helps you find and identify PHP/Perl/Asp/Aspx shells**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-PHP-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/emposha/PHP-Shell-Detector?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/emposha/PHP-Shell-Detector?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/emposha/PHP-Shell-Detector?style=flat-square)  ![GitHub](https://img.shields.io/github/license/emposha/PHP-Shell-Detector?style=flat-square)
 
 - https://github.com/erevus-cn/scan_webshell - **Simple webshell detector**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/erevus-cn/scan_webshell?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/erevus-cn/scan_webshell?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/erevus-cn/scan_webshell?style=flat-square)  ![GitHub](https://img.shields.io/github/license/erevus-cn/scan_webshell?style=flat-square)
 
 - https://github.com/emposha/Shell-Detector - **A application that helps you find and identify PHP/Perl/Asp/Aspx shells**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/emposha/Shell-Detector?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/emposha/Shell-Detector?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/emposha/Shell-Detector?style=flat-square)  ![GitHub](https://img.shields.io/github/license/emposha/Shell-Detector?style=flat-square)
 
 - https://github.com/m4rco-/dorothy2 - **A malware/botnet analysis framework written in Ruby**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Ruby-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m4rco-/dorothy2?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/m4rco-/dorothy2?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/m4rco-/dorothy2?style=flat-square)  ![GitHub](https://img.shields.io/github/license/m4rco-/dorothy2?style=flat-square)
 
 - https://github.com/droidefense/engine - **Advance Android malware analysis framework**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/droidefense/engine?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/droidefense/engine?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/droidefense/engine?style=flat-square)  ![GitHub](https://img.shields.io/github/license/droidefense/engine?style=flat-square)
 
 
 ### Vulnerability Assessment for Middleware or Information Leak Scan
