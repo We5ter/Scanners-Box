@@ -520,27 +520,27 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/ring04h/wyportmap - **Target port scanning + system service fingerprint recognition**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ring04h/wyportmap?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ring04h/wyportmap?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ring04h/wyportmap?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ring04h/wyportmap?style=flat-square)
 
 - https://github.com/ring04h/weakfilescan - **Dynamic multi - thread sensitive information leak detection tool**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ring04h/wyportmap?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ring04h/wyportmap?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ring04h/wyportmap?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ring04h/wyportmap?style=flat-square)
 
 - https://github.com/EnableSecurity/wafw00f - **Identify and fingerprint Web Application Firewall**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ring04h/weakfilescan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ring04h/weakfilescan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ring04h/weakfilescan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ring04h/weakfilescan?style=flat-square)
 
 - https://github.com/rbsec/sslscan - **Tests SSL/TLS enabled services to discover supported cipher suites**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **C**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-C-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/rbsec/sslscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/rbsec/sslscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/rbsec/sslscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/rbsec/sslscan?style=flat-square)
 
 - https://github.com/TideSec/TideFinger - **Web fingerprint identification tool, more fingerprint database, more detection methods**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**        |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/TideSec/TideFinger?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/TideSec/TideFinger?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/TideSec/TideFinger?style=flat-square)  ![GitHub](https://img.shields.io/github/license/TideSec/TideFinger?style=flat-square)
 
 - https://github.com/TideSec/FuzzScanner - **Comprehensive web information collection platform, easy to deploy, versatile and practical**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**        |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/TideSec/FuzzScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/TideSec/FuzzScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/TideSec/FuzzScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/TideSec/FuzzScanner?style=flat-square)
 
 - https://github.com/urbanadventurer/whatweb - **Website fingerprinter**
 
