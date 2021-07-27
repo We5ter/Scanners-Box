@@ -378,31 +378,31 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/0x584A/fuzzXssPHP - **A very simple reflected XSS scanner supports GET/POST**
 
-> **Rating**: 🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-PHP-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/0x584A/fuzzXssPHP?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/0x584A/fuzzXssPHP?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/0x584A/fuzzXssPHP?style=flat-square)  ![GitHub](https://img.shields.io/github/license/0x584A/fuzzXssPHP?style=flat-square)
 
 - https://github.com/chuhades/xss_scan - **Reflected XSS scanner**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chuhades/xss_scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/chuhades/xss_scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/chuhades/xss_scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/chuhades/xss_scan?style=flat-square)
 
 - https://github.com/BlackHole1/autoFindXssAndCsrf - **A plugin for browser that checks automatically whether a page haves XSS and CSRF vulnerabilities**
 
-> **Rating**: 🌟🌟        |         **Language**: **Javascript**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-JavaScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/BlackHole1/autoFindXssAndCsrf?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/BlackHole1/autoFindXssAndCsrf?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/BlackHole1/autoFindXssAndCsrf?style=flat-square)  ![GitHub](https://img.shields.io/github/license/BlackHole1/autoFindXssAndCsrf?style=flat-square)
 
 - https://github.com/shogunlab/shuriken - **XSS command line tool for testing lists of XSS payloads on web apps**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shogunlab/shuriken?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/shogunlab/shuriken?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/shogunlab/shuriken?style=flat-square)  ![GitHub](https://img.shields.io/github/license/shogunlab/shuriken?style=flat-square)
 
 - https://github.com/s0md3v/XSStrike - **Fuzz and bruteforce parameters for XSS, WAFs detect and bypass**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/s0md3v/XSStrike?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/s0md3v/XSStrike?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/s0md3v/XSStrike?style=flat-square)  ![GitHub](https://img.shields.io/github/license/s0md3v/XSStrike?style=flat-square)
 
 - https://github.com/stamparm/DSXS - **A fully functional cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/stamparm/DSXS?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/stamparm/DSXS?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/stamparm/DSXS?style=flat-square)  ![GitHub](https://img.shields.io/github/license/stamparm/DSXS?style=flat-square)
 
 - https://github.com/fcavallarin/domdig - **DOM XSS scanner for Single Page Applications**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/fcavallarin/domdig?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/fcavallarin/domdig?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/fcavallarin/domdig?style=flat-square)  ![GitHub](https://img.shields.io/github/license/fcavallarin/domdig?style=flat-square)
 
 - https://github.com/lwzSoviet/NoXss - **Faster reflected-xss and dom-xss scanner based on Phantomjs**
 
