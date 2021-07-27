@@ -406,39 +406,39 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/lwzSoviet/NoXss - **Faster reflected-xss and dom-xss scanner based on Phantomjs**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lwzSoviet/NoXss?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lwzSoviet/NoXss?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lwzSoviet/NoXss?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lwzSoviet/NoXss?style=flat-square)
 
 
 - https://github.com/pwn0sec/PwnXSS - **A powerful XSS scanner made in python 3.7**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/pwn0sec/PwnXSS?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/pwn0sec/PwnXSS?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/pwn0sec/PwnXSS?style=flat-square)  ![GitHub](https://img.shields.io/github/license/pwn0sec/PwnXSS?style=flat-square)
 
 
 ### Enterprise sensitive information Leak Scan
 
 - https://github.com/x0day/Multisearch-v2 - **Enterprise assets collector based on search engine**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/x0day/Multisearch-v2?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/x0day/Multisearch-v2?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/x0day/Multisearch-v2?style=flat-square)  ![GitHub](https://img.shields.io/github/license/x0day/Multisearch-v2?style=flat-square)
 
 - https://github.com/Ekultek/Zeus-Scanner - **An advanced dork searching tool that is capable of finding IP address /URL blocked by search engine,and can run sqlmap and nmap scans on the URL's**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Ekultek/Zeus-Scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Ekultek/Zeus-Scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Ekultek/Zeus-Scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Ekultek/Zeus-Scanner?style=flat-square)
 
 - https://github.com/metac0rtex/GitHarvester - **Used for harvesting information from GitHub**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/metac0rtex/GitHarvester?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/metac0rtex/GitHarvester?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/metac0rtex/GitHarvester?style=flat-square)  ![GitHub](https://img.shields.io/github/license/metac0rtex/GitHarvester?style=flat-square)
 
 - https://github.com/repoog/GitPrey - **Searching sensitive files and contents in GitHub**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/repoog/GitPrey?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/repoog/GitPrey?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/repoog/GitPrey?style=flat-square)  ![GitHub](https://img.shields.io/github/license/repoog/GitPrey?style=flat-square)
 
 - https://github.com/0xbug/Hawkeye - **Github leak scan for enterprise**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/0xbug/Hawkeye?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/0xbug/Hawkeye?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/0xbug/Hawkeye?style=flat-square)  ![GitHub](https://img.shields.io/github/license/0xbug/Hawkeye?style=flat-square)
 
 - https://github.com/UnkL4b/GitMiner - **Advanced search tool and automation in Github**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/UnkL4b/GitMiner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/UnkL4b/GitMiner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/UnkL4b/GitMiner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/UnkL4b/GitMiner?style=flat-square)
 
 - https://github.com/dxa4481/truffleHog - **Searches high entropy strings through git repositories**
 
