@@ -544,87 +544,87 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/urbanadventurer/whatweb - **Website fingerprinter**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Ruby-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/urbanadventurer/whatweb?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/urbanadventurer/whatweb?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/urbanadventurer/whatweb?style=flat-square)  ![GitHub](https://img.shields.io/github/license/urbanadventurer/whatweb?style=flat-square)
 
 - https://github.com/tanjiti/FingerPrint - **Another website fingerprinter**
 
-> **Rating**: 🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Perl-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/tanjiti/FingerPrint?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/tanjiti/FingerPrint?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/tanjiti/FingerPrint?style=flat-square)  ![GitHub](https://img.shields.io/github/license/tanjiti/FingerPrint?style=flat-square)
 
 - https://github.com/nanshihui/Scan-T - **A new spider based on Python with more function including Network fingerprint search**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/nanshihui/Scan-T?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/nanshihui/Scan-T?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/nanshihui/Scan-T?style=flat-square)  ![GitHub](https://img.shields.io/github/license/nanshihui/Scan-T?style=flat-square)
 
 - https://github.com/OffensivePython/Nscan - **Fast internet-wide scanner**
 
-> **Rating**: 🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/OffensivePython/Nscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/OffensivePython/Nscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/OffensivePython/Nscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/OffensivePython/Nscan?style=flat-square)
 
 - https://github.com/ywolf/F-NAScan - **Scanning a network asset information script**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ywolf/F-NAScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ywolf/F-NAScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ywolf/F-NAScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ywolf/F-NAScan?style=flat-square)
 
 - https://github.com/maurosoria/dirsearch - **Web path scanner**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/maurosoria/dirsearch?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/maurosoria/dirsearch?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/maurosoria/dirsearch?style=flat-square)  ![GitHub](https://img.shields.io/github/license/maurosoria/dirsearch?style=flat-square)
 
 - https://github.com/x0day/bannerscan - **C-segment Banner with path scanner**
 
-> **Rating**: 🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/x0day/bannerscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/x0day/bannerscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/x0day/bannerscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/x0day/bannerscan?style=flat-square)
 
 - https://github.com/RASSec/RASscan - **Internal network port speed scanners**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/RASSec/RASscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/RASSec/RASscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/RASSec/RASscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/RASSec/RASscan?style=flat-square)
 
 - https://github.com/3xp10it/bypass_waf - **Automatic WAF Bypass Fuzzing Tool**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/3xp10it/bypass_waf?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/3xp10it/bypass_waf?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/3xp10it/bypass_waf?style=flat-square)  ![GitHub](https://img.shields.io/github/license/3xp10it/bypass_waf?style=flat-square)
 
 - https://github.com/3xp10it/xcdn - **Try to find out the actual ip behind cdn**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/3xp10it/xcdn?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/3xp10it/xcdn?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/3xp10it/xcdn?style=flat-square)  ![GitHub](https://img.shields.io/github/license/3xp10it/xcdn?style=flat-square)
 
 - https://github.com/Xyntax/BingC - **Based on the Bing search engine C / side-stop query, multi-threaded, supported API**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Xyntax/BingC?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Xyntax/BingC?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Xyntax/BingC?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Xyntax/BingC?style=flat-square)
 
 - https://github.com/Xyntax/DirBrute - **Multi-thread web directory enumerating tool**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Xyntax/DirBrute?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Xyntax/DirBrute?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Xyntax/DirBrute?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Xyntax/DirBrute?style=flat-square)
 
 - https://github.com/zer0h/httpscan - **A HTTP service detector with a crawler from IP/CIDR**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/zer0h/httpscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/zer0h/httpscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/zer0h/httpscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/zer0h/httpscan?style=flat-square)
 
 - https://github.com/lietdai/doom  - **Distributed task distribution of the IP port vulnerability scanner based on thorn**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lietdai/doom?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lietdai/doom?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lietdai/doom?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lietdai/doom?style=flat-square)
 
 - https://github.com/chichou/grab.js  - **Fast TCP banner grabbing like zgrab, but supports much more protocol**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chichou/grab.js?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/chichou/grab.js?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/chichou/grab.js?style=flat-square)  ![GitHub](https://img.shields.io/github/license/chichou/grab.js?style=flat-square)
 
 - https://github.com/Nitr4x/whichCDN - **Detect if a given website is protected by a CDN**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Nitr4x/whichCDN?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Nitr4x/whichCDN?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Nitr4x/whichCDN?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Nitr4x/whichCDN?style=flat-square)
 
 - https://github.com/secfree/bcrpscan - **Base on crawler result web path scanner**
 
-> **Rating**: 🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/secfree/bcrpscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/secfree/bcrpscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/secfree/bcrpscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/secfree/bcrpscan?style=flat-square)
 
 - https://github.com/mozilla/ssh_scan - **A prototype SSH configuration and policy scanner**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Ruby-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/mozilla/ssh_scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/ssh_scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mozilla/ssh_scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/mozilla/ssh_scan?style=flat-square)
 
 - https://github.com/18F/domain-scan - **Scans domains for data on their HTTPS configuration and assorted other things**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/18F/domain-scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/18F/domain-scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/18F/domain-scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/18F/domain-scan?style=flat-square)
 
 - https://github.com/ggusoft/inforfinder - **A tool made to collect information of any domain pointing at a server and fingerprinter**
 
-> **Rating**: 🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ggusoft/inforfinder?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ggusoft/inforfinder?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ggusoft/inforfinder?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ggusoft/inforfinder?style=flat-square)
 
 - https://github.com/boy-hack/gwhatweb - **Fingerprinter for CMS**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/boy-hack/gwhatweb?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/boy-hack/gwhatweb?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/boy-hack/gwhatweb?style=flat-square)  ![GitHub](https://img.shields.io/github/license/boy-hack/gwhatweb?style=flat-square)
 
 - https://github.com/Mosuan/FileScan - **Sensitive files scanner**
 
