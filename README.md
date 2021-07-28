@@ -668,27 +668,27 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/jekyc/wig - **WebApp information gatherer**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/jekyc/wig?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/jekyc/wig?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/jekyc/wig?style=flat-square)  ![GitHub](https://img.shields.io/github/license/jekyc/wig?style=flat-square)
 
 - https://github.com/eldraco/domain_analyzer - **Analyze the security of any domain by finding all the information possible**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/eldraco/domain_analyzer?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/eldraco/domain_analyzer?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/eldraco/domain_analyzer?style=flat-square)  ![GitHub](https://img.shields.io/github/license/eldraco/domain_analyzer?style=flat-square)
 
 - https://github.com/cloudtracer/paskto - **Passive directory scanner and web crawler based on Nikto DB**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cloudtracer/paskto?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/cloudtracer/paskto?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/cloudtracer/paskto?style=flat-square)  ![GitHub](https://img.shields.io/github/license/cloudtracer/paskto?style=flat-square)
 
 - https://github.com/zerokeeper/WebEye - **A web service and WAF fingerprinter**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: 
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/zerokeeper/WebEye?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/zerokeeper/WebEye?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/zerokeeper/WebEye?style=flat-square)  ![GitHub](https://img.shields.io/github/license/zerokeeper/WebEye?style=flat-square)
 
 - https://github.com/m3liot/shcheck - **Just check security headers on a target website**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m3liot/shcheck?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/m3liot/shcheck?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/m3liot/shcheck?style=flat-square)  ![GitHub](https://img.shields.io/github/license/m3liot/shcheck?style=flat-square)
 
 - https://github.com/aipengjie/sensitivefilescan - **A speed and awesome sensitive files scanner**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/aipengjie/sensitivefilescan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/aipengjie/sensitivefilescan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/aipengjie/sensitivefilescan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/aipengjie/sensitivefilescan?style=flat-square)
 
 - https://github.com/fnk0c/cangibrina - **A fast and powerfull dashboard (admin) finder**
 
