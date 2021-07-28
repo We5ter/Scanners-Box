@@ -628,43 +628,43 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/Mosuan/FileScan - **Sensitive files scanner**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Mosuan/FileScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Mosuan/FileScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Mosuan/FileScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Mosuan/FileScan?style=flat-square)
 
 - https://github.com/Xyntax/FileSensor - **Dynamic file detection tool based on crawler**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Xyntax/FileSensor?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Xyntax/FileSensor?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Xyntax/FileSensor?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Xyntax/FileSensor?style=flat-square)
 
 - https://github.com/deibit/cansina - **Web content discovery tool**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/deibit/cansina?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/deibit/cansina?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/deibit/cansina?style=flat-square)  ![GitHub](https://img.shields.io/github/license/deibit/cansina?style=flat-square)
 
 - https://github.com/mozilla/cipherscan - **A very simple way to find out which SSL ciphersuites are supported by a target**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/Bash Shell**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/mozilla/cipherscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/cipherscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mozilla/cipherscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/mozilla/cipherscan?style=flat-square)
 
 - https://github.com/xmendez/wfuzz - **Web application framework and web content scanner**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/xmendez/wfuzz?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/xmendez/wfuzz?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/xmendez/wfuzz?style=flat-square)  ![GitHub](https://img.shields.io/github/license/xmendez/wfuzz?style=flat-square)
 
 - https://github.com/s0md3v/Breacher - **An advanced multithreaded admin panel finder written in Python**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/s0md3v/Breacher?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/s0md3v/Breacher?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/s0md3v/Breacher?style=flat-square)  ![GitHub](https://img.shields.io/github/license/s0md3v/Breacher?style=flat-square)
 
 - https://github.com/ztgrace/changeme - **A default credential scanner**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ztgrace/changeme?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ztgrace/changeme?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ztgrace/changeme?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ztgrace/changeme?style=flat-square)
 
 - https://github.com/medbenali/CyberScan - **An open source penetration testing tool that can analyse packets,decoding,scanning ports, pinging and geolocation of an IP**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/medbenali/CyberScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/medbenali/CyberScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/medbenali/CyberScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/medbenali/CyberScan?style=flat-square)
 
 - https://github.com/m0nad/HellRaiser - **HellRaiser scan with nmap then correlates cpe's found with cve-search to enumerate vulnerabilities**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Ruby-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m0nad/HellRaiser?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/m0nad/HellRaiser?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/m0nad/HellRaiser?style=flat-square)  ![GitHub](https://img.shields.io/github/license/m0nad/HellRaiser?style=flat-square)
 
 - https://github.com/scipag/vulscan - **Advanced vulnerability scanning with Nmap NSE**
 
-> **Rating**: 🌟🌟         |         **Language**: **NSE**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-NSE-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/scipag/vulscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/scipag/vulscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/scipag/vulscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/scipag/vulscan?style=flat-square)
 
 - https://github.com/jekyc/wig - **WebApp information gatherer**
 
