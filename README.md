@@ -1198,19 +1198,19 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/dwisiswant0/apkleaks - **Scanning APK file for URIs, endpoints & secrets**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/dwisiswant0/apkleaks?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/dwisiswant0/apkleaks?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/dwisiswant0/apkleaks?style=flat-square)  ![GitHub](https://img.shields.io/github/license/dwisiswant0/apkleaks?style=flat-square)
 
 - https://github.com/kelvinBen/AppInfoScanner - **Collecting information from APK file, support self-defined rules**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/kelvinBen/AppInfoScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/kelvinBen/AppInfoScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/kelvinBen/AppInfoScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/kelvinBen/AppInfoScanner?style=flat-square)
 
 - https://github.com/maaaaz/androwarn - **Yet another static code analyzer for malicious Android applications**
 
-> **Rating**: 🌟🌟       |         **Language**: **Python 2.X/3.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/maaaaz/androwarn?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/maaaaz/androwarn?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/maaaaz/androwarn?style=flat-square)  ![GitHub](https://img.shields.io/github/license/maaaaz/androwarn?style=flat-square)
 
 - https://github.com/quark-engine/quark-engine - **Android Malware (Analysis | Scoring) System**
 
-> **Rating**: 🌟🌟🌟🌟🌟     |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/quark-engine/quark-engine?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/quark-engine/quark-engine?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/quark-engine/quark-engine?style=flat-square)  ![GitHub](https://img.shields.io/github/license/quark-engine/quark-engine?style=flat-square)
 
 
 ***
