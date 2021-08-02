@@ -1156,41 +1156,38 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/google/tsunami-security-scanner - **A general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidenc by Google**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/google/tsunami-security-scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/google/tsunami-security-scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/google/tsunami-security-scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/google/tsunami-security-scanner?style=flat-square)
 
 - https://github.com/er10yi/MagiCude - **A scanner based on the Spring Boot micro-service,supports distributed port (vulnerability) scanning, asset security management, real-time threat monitoring and notification, vulnerability lifecycle, vulnerability wiki, email notification, etc**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
-
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/er10yi/MagiCude?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/er10yi/MagiCude?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/er10yi/MagiCude?style=flat-square)  ![GitHub](https://img.shields.io/github/license/er10yi/MagiCude?style=flat-square)
 
 - https://github.com/projectdiscovery/nuclei - **A fast tool for configurable targeted vulnerability scanning based on templates offering massive extensibility**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
-
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/projectdiscovery/nuclei?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=flat-square)  ![GitHub](https://img.shields.io/github/license/projectdiscovery/nuclei?style=flat-square)
 
 - https://github.com/ysrc/xunfeng - **Vulnerability rapid response,scanning system for intranet**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
-
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ysrc/xunfeng?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ysrc/xunfeng?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ysrc/xunfeng?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ysrc/xunfeng?style=flat-square)
 
 - https://github.com/TophantTechnology/ARL - **An agile asset reconnaissance system**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/TophantTechnology/ARL?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/TophantTechnology/ARL?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/TophantTechnology/ARL?style=flat-square)  ![GitHub](https://img.shields.io/github/license/TophantTechnology/ARL?style=flat-square)
 
 - https://github.com/smallcham/sec-admin - **SEC can be used for enterprises to scan and check the security of server resources which has strong controllability, supports distributed multi-node deployment.**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/smallcham/sec-admini?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/smallcham/sec-admin?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/smallcham/sec-admin?style=flat-square)  ![GitHub](https://img.shields.io/github/license/smallcham/sec-admin?style=flat-square)
 
 
 ### Advanced Persistent Threat
 
 - https://github.com/Neo23x0/Loki - **Simple IOC and Incident Response Scanner**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Neo23x0/Loki?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Neo23x0/Loki?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Neo23x0/Loki?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Neo23x0/Loki?style=flat-square)
 
 - https://github.com/Neo23x0/Fenrir - **Simple IOC and Incident Response Scanner**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Bash Shell**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-BashShell-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Neo23x0/Fenrir?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Neo23x0/Fenrir?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Neo23x0/Fenrir?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Neo23x0/Fenrir?style=flat-square)
 
 
 ### Mobile Apps Code Analysis
