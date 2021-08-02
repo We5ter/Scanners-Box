@@ -692,67 +692,66 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/fnk0c/cangibrina - **A fast and powerfull dashboard (admin) finder**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/fnk0c/cangibrina?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/aipengjie/sensitivefilescan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/fnk0c/cangibrina?style=flat-square)  ![GitHub](https://img.shields.io/github/license/fnk0c/cangibrina?style=flat-square)
 
 - https://github.com/n4xh4ck5/CMSsc4n - **Tool to identify if a domain is a CMS such as Wordpress, Moodle, Joomla**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/n4xh4ck5/CMSsc4n?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/n4xh4ck5/CMSsc4n?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/n4xh4ck5/CMSsc4n?style=flat-square)  ![GitHub](https://img.shields.io/github/license/n4xh4ck5/CMSsc4n?style=flat-square)
 
 - https://github.com/Ekultek/WhatWaf - **Detect and bypass web application firewalls and protection systems**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Ekultek/WhatWaf?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Ekultek/WhatWaf?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Ekultek/WhatWaf?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Ekultek/WhatWaf?style=flat-square)
 
 - https://github.com/dzonerzy/goWAPT - **Go web application penetration test and web application fuzz tool**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/dzonerzy/goWAPT?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/dzonerzy/goWAPT?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/dzonerzy/goWAPT?style=flat-square)  ![GitHub](https://img.shields.io/github/license/dzonerzy/goWAPT?style=flat-square)
 
 - https://github.com/blackye/webdirdig - **Sensitive files scanner**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/blackye/webdirdig?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/blackye/webdirdig?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/blackye/webdirdig?style=flat-square)  ![GitHub](https://img.shields.io/github/license/blackye/webdirdig?style=flat-square)
 
 - https://github.com/GitHackTools/BillCipher - **Information gathering tool for a website or IP address**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/GitHackTools/BillCipher?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/GitHackTools/BillCipher?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/GitHackTools/BillCipher?style=flat-square)  ![GitHub](https://img.shields.io/github/license/GitHackTools/BillCipher?style=flat-square)
 
 - https://github.com/boy-hack/w8fuckcdn - **Get the website real IP address by scanning the entire net**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/boy-hack/w8fuckcdn?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/boy-hack/w8fuckcdn?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/boy-hack/w8fuckcdn?style=flat-square)  ![GitHub](https://img.shields.io/github/license/boy-hack/w8fuckcdn?style=flat-square)
 
 - https://github.com/boy-hack/w11scan - **Distributed web fingerprint identification platform**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/boy-hack/w11scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/boy-hack/w11scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/boy-hack/w11scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/boy-hack/w11scan?style=flat-square)
 
 - https://github.com/Nekmo/dirhunt - **Find web directories without bruteforce**
 
-> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Nekmo/dirhunt?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Nekmo/dirhunt?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Nekmo/dirhunt?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Nekmo/dirhunt?style=flat-square)
 
 - https://github.com/MetaChar/pyHAWK - **Searches the directory of choice for interesting files. Such as database files and files with passwords stored on them**
 
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/MetaChar/pyHAWK?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/MetaChar/pyHAWK?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/MetaChar/pyHAWK?style=flat-square)  ![GitHub](https://img.shields.io/github/license/MetaChar/pyHAWK?style=flat-square)
 
 - https://github.com/H4ckForJob/dirmap - **An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian**
 
-> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/H4ckForJob/dirmap?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/H4ckForJob/dirmap?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/H4ckForJob/dirmap?style=flat-square)  ![GitHub](https://img.shields.io/github/license/H4ckForJob/dirmap?style=flat-square)
 
 - https://github.com/s0md3v/Photon - **Incredibly fast crawler which extracts urls, emails, files, website accounts and much more
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/s0md3v/Photon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/s0md3v/Photon?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/s0md3v/Photon?style=flat-square)  ![GitHub](https://img.shields.io/github/license/s0md3v/Photon?style=flat-square)
 
 - https://github.com/1N3/BlackWidow - **Gather OSINT and fuzz for OWASP vulnerabilities on a target website**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
-
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/1N3/BlackWidow?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/1N3/BlackWidow?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/1N3/BlackWidow?style=flat-square)  ![GitHub](https://img.shields.io/github/license/1N3/BlackWidow?style=flat-square)
 
 - https://github.com/saeeddhqan/Maryam - **OSINT and Web-based Footprinting modular framework based on the Recon-ng**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/saeeddhqan/Maryam?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/saeeddhqan/Maryam?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/saeeddhqan/Maryam?style=flat-square)  ![GitHub](https://img.shields.io/github/license/saeeddhqan/Maryam?style=flat-square)
 
 
 ### Special Components or Vulnerability Categories Scan
 
 - https://github.com/1N3/XSSTracer  - **A small python script to check for cross-Site tracing, Clickjacking etc**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/1N3/XSSTracer?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/1N3/XSSTracer?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/1N3/XSSTracer?style=flat-square)  ![GitHub](https://img.shields.io/github/license/1N3/XSSTracer?style=flat-square)
 
 - https://github.com/0xHJK/dumpall - **`.git` / `.svn` / `.DS_Store` disclosure exploit**
 
