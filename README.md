@@ -755,35 +755,35 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/0xHJK/dumpall - **`.git` / `.svn` / `.DS_Store` disclosure exploit**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/0xHJK/dumpall?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/0xHJK/dumpall?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/0xHJK/dumpall?style=flat-square)  ![GitHub](https://img.shields.io/github/license/0xHJK/dumpall?style=flat-square)
 
 - https://github.com/shengqi158/svnhack - **A `.svn` folder disclosure exploit**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **NSE**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-NSE-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shengqi158/svnhack?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/shengqi158/svnhack?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/shengqi158/svnhack?style=flat-square)  ![GitHub](https://img.shields.io/github/license/shengqi158/svnhack?style=flat-square)
 
 - https://github.com/lijiejie/GitHack - **A `.git` folder disclosure exploit**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lijiejie/GitHack?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lijiejie/GitHack?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lijiejie/GitHack?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lijiejie/GitHack?style=flat-square)
 
 - https://github.com/blackye/Jenkins - **Jenkins vulnerability detection, user grab enumerating**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/blackye/Jenkins?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/blackye/Jenkins?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/blackye/Jenkins?style=flat-square)  ![GitHub](https://img.shields.io/github/license/blackye/Jenkins?style=flat-square)
 
 - https://github.com/code-scan/dzscan - **discuz scanner**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/code-scan/dzscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/code-scan/dzscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/code-scan/dzscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/code-scan/dzscan?style=flat-square)
 
 - https://github.com/chuhades/CMS-Exploit-Framework  -**CMS exploit framework**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chuhades/CMS-Exploit-Framework?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/chuhades/CMS-Exploit-Framework?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/chuhades/CMS-Exploit-Framework?style=flat-square)  ![GitHub](https://img.shields.io/github/license/chuhades/CMS-Exploit-Framework?style=flat-square)
 
 - https://github.com/lijiejie/IIS_shortname_Scanner - **An IIS shortname scanner**
 
-> **Rating**: 🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lijiejie/IIS_shortname_Scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lijiejie/IIS_shortname_Scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lijiejie/IIS_shortname_Scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lijiejie/IIS_shortname_Scanner?style=flat-square)
 
 - https://github.com/riusksk/FlashScanner - **Flash XSS scanner**
 
-> **Rating**: 🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/riusksk/FlashScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/riusksk/FlashScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/riusksk/FlashScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/riusksk/FlashScanner?style=flat-square)
 
 - https://github.com/epinna/tplmap - **Automatic Server-Side Template Injection detection and exploitation tool**
 
@@ -1112,47 +1112,47 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/m4ll0k/Galileo - **Web application audit framework,like metasploit**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m4ll0k/Galileo?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/m4ll0k/Galileo?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/m4ll0k/Galileo?style=flat-square)  ![GitHub](https://img.shields.io/github/license/m4ll0k/Galileo?style=flat-square)
 
 - https://github.com/joker25000/Optiva-Framework - **Web Application Scanner**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/joker25000/Optiva-Framework?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/joker25000/Optiva-Framework?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/joker25000/Optiva-Framework?style=flat-square)  ![GitHub](https://img.shields.io/github/license/joker25000/Optiva-Framework?style=flat-square)
 
 - https://github.com/theInfectedDrake/TIDoS-Framework - **The offensive web application penetration testing framework**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/theInfectedDrake/TIDoS-Framework?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/theInfectedDrake/TIDoS-Framework?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/theInfectedDrake/TIDoS-Framework?style=flat-square)  ![GitHub](https://img.shields.io/github/license/theInfectedDrake/TIDoS-Framework?style=flat-square)
 
 - https://github.com/TideSec/WDScanner - **A full-featured vulnerability scanner for enterprise security**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x/PHP**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/TideSec/WDScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/TideSec/WDScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/TideSec/WDScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/TideSec/WDScanner?style=flat-square)
 
 - https://github.com/j3ssie/Osmedeus - **Fully automated offensive security tool for reconnaissance and vulnerability scanning**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/j3ssie/Osmedeus?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/j3ssie/Osmedeus?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/j3ssie/Osmedeus?style=flat-square)  ![GitHub](https://img.shields.io/github/license/j3ssie/Osmedeus?style=flat-square)
 
 - https://github.com/jeffzh3ng/Fuxi-Scanner - **Open source network security vulnerability scanner with asset discovery & management**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/jeffzh3ng/Fuxi-Scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/jeffzh3ng/Fuxi-Scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/jeffzh3ng/Fuxi-Scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/jeffzh3ng/Fuxi-Scanner?style=flat-square)
 
 - https://github.com/knownsec/Pocsuite - **Open-sourced remote vulnerability testing framework**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/knownsec/Pocsuite?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/knownsec/Pocsuite?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/knownsec/Pocsuite?style=flat-square)  ![GitHub](https://img.shields.io/github/license/knownsec/Pocsuite?style=flat-square)
 
 - https://github.com/opensec-cn/kunpeng - **An open source POC framework written by Golang that provides various language calls in the form of a dynamic link library**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/opensec-cn/kunpeng?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/opensec-cn/kunpeng?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/opensec-cn/kunpeng?style=flat-square)  ![GitHub](https://img.shields.io/github/license/opensec-cn/kunpeng?style=flat-square)
 
 - https://github.com/jaeles-project/jaeles - **The Swiss Army knife for automated Web Application Testing**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/jaeles-project/jaeles?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/jaeles-project/jaeles?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/jaeles-project/jaeles?style=flat-square)  ![GitHub](https://img.shields.io/github/license/jaeles-project/jaeles?style=flat-square)
 
 - https://github.com/TideSec/Mars - **The totally new generation of WDScanner**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/TideSec/Mars?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/TideSec/Mars?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/TideSec/Mars?style=flat-square)  ![GitHub](https://img.shields.io/github/license/TideSec/Mars?style=flat-square)
 
 - https://github.com/knassar702/scant3r - **Yet another web security scanner**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/knassar702/scant3r?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/knassar702/scant3r?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/knassar702/scant3r?style=flat-square)  ![GitHub](https://img.shields.io/github/license/knassar702/scant3r?style=flat-square)
 
 - https://github.com/google/tsunami-security-scanner - **A general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidenc by Google**
 
