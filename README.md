@@ -1056,23 +1056,23 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/hatRiot/clusterd - **application server attack toolkit**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/hatRiot/clusterd?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/hatRiot/clusterd?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/hatRiot/clusterd?style=flat-square)  ![GitHub](https://img.shields.io/github/license/hatRiot/clusterd?style=flat-square)
 
 - https://github.com/erevus-cn/pocscan - **Open source and distributed web vulnerability scanning framework**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/erevus-cn/pocscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/erevus-cn/pocscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/erevus-cn/pocscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/erevus-cn/pocscan?style=flat-square)
 
 - https://github.com/TophantTechnology/osprey - **Distributed web vulnerability scanning framework**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/TophantTechnology/osprey?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/TophantTechnology/osprey?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/TophantTechnology/osprey?style=flat-square)  ![GitHub](https://img.shields.io/github/license/TophantTechnology/osprey?style=flat-square)
 
 - https://github.com/yangbh/Hammer - **A web vulnerability scanner framework**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/yangbh/Hammer?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/yangbh/Hammer?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/yangbh/Hammer?style=flat-square)  ![GitHub](https://img.shields.io/github/license/yangbh/Hammer?style=flat-square)
 
 - https://github.com/Lucifer1993/AngelSword - **Web vulnerability scanner framework based on python3**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Lucifer1993/AngelSword?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Lucifer1993/AngelSword?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Lucifer1993/AngelSword?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Lucifer1993/AngelSword?style=flat-square)
 
 - https://github.com/zaproxy/zaproxy - **One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers**
 
@@ -1104,7 +1104,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/YalcinYolalan/WSSAT - **Web service security assessment tool,provide simple .exe application to use based on Windows OS**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-C#-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/alcinYolalan/WSSAT?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/alcinYolalan/WSSAT?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/alcinYolalan/WSSAT?style=flat-square)  ![GitHub](https://img.shields.io/github/license/alcinYolalan/WSSAT?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-C#-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/YalcinYolalan/WSSAT?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/YalcinYolalan/WSSAT?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/YalcinYolalan/WSSAT?style=flat-square)  ![GitHub](https://img.shields.io/github/license/YalcinYolalan/WSSAT?style=flat-square)
 
 - https://github.com/AmyangXYZ/AssassinGo - **An extenisble and concurrency pentest framework in Go**
 
