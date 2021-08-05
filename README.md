@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-280-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-279-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -1076,43 +1076,39 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/zaproxy/zaproxy - **One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/zaproxy/zaproxy?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/zaproxy/zaproxy?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=flat-square)  ![GitHub](https://img.shields.io/github/license/zaproxy/zaproxy?style=flat-square)
 
 - https://github.com/s0md3v/Striker - **Striker is an offensive information and vulnerability scanner**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/s0md3v/Striker?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/s0md3v/Striker?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/s0md3v/Striker?style=flat-square)  ![GitHub](https://img.shields.io/github/license/s0md3v/Striker?style=flat-square)
 
 - https://github.com/dermotblair/webvulscan - **Written in PHP and can be used to test remote, or local, web applications for security vulnerabilities**
 
-> **Rating**: 🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
-
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-PHP-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/dermotblair/webvulscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/dermotblair/webvulscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/dermotblair/webvulscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/dermotblair/webvulscan?style=flat-square)
+> 
 - https://github.com/alienwithin/OWASP-mth3l3m3nt-framework - **Penetration testing aiding tool and exploitation framework**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/alienwithin/OWASP-mth3l3m3nt-framework?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/alienwithin/OWASP-mth3l3m3nt-framework?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/alienwithin/OWASP-mth3l3m3nt-framework?style=flat-square)  ![GitHub](https://img.shields.io/github/license/alienwithin/OWASP-mth3l3m3nt-framework?style=flat-square)
 
 - https://github.com/toyakula/luna - **An open-source web security scanner which is based on reduced-code passive scanning framework**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/toyakula/luna?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/toyakula/luna?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/toyakula/luna?style=flat-square)  ![GitHub](https://img.shields.io/github/license/toyakula/luna?style=flat-square)
 
 - https://github.com/Manisso/fsociety - **A Penetration Testing Framework including Information Gathering,Wireless Testing,Web Hacking and so on**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Manisso/fsociety?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Manisso/fsociety?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Manisso/fsociety?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Manisso/fsociety?style=flat-square)
 
 - https://github.com/boy-hack/w9scan - **A web vulnerability scanner framework,running with 1200+ plugins**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/boy-hack/w9scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/boy-hack/w9scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/boy-hack/w9scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/boy-hack/w9scan?style=flat-square)
 
 - https://github.com/YalcinYolalan/WSSAT - **Web service security assessment tool,provide simple .exe application to use based on Windows OS**
 
-> **Rating**: 🌟🌟        |         **Language**: **C#**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-C#-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/alcinYolalan/WSSAT?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/alcinYolalan/WSSAT?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/alcinYolalan/WSSAT?style=flat-square)  ![GitHub](https://img.shields.io/github/license/alcinYolalan/WSSAT?style=flat-square)
 
 - https://github.com/AmyangXYZ/AssassinGo - **An extenisble and concurrency pentest framework in Go**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
-
-- https://github.com/m4ll0k/Galileo - **Web application audit framework,like metasploit**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m4ll0k/Galileo?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/m4ll0k/Galileo?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/m4ll0k/Galileo?style=flat-square)  ![GitHub](https://img.shields.io/github/license/m4ll0k/Galileo?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/AmyangXYZ/AssassinGo?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/AmyangXYZ/AssassinGo?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/AmyangXYZ/AssassinGo?style=flat-square)  ![GitHub](https://img.shields.io/github/license/AmyangXYZ/AssassinGo?style=flat-square)
 
 - https://github.com/joker25000/Optiva-Framework - **Web Application Scanner**
 
