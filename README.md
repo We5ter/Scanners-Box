@@ -954,85 +954,85 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/Qihoo360/phptrace - **A tracing and troubleshooting tool for PHP scripts**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **C**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Qihoo360/phptrace?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Qihoo360/phptrace?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Qihoo360/phptrace?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Qihoo360/phptrace?style=flat-square)
 
 - https://github.com/ajinabraham/NodeJsScan - **A static security code scanner for Node.js applications**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ajinabraham/NodeJsScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ajinabraham/NodeJsScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ajinabraham/NodeJsScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ajinabraham/NodeJsScan?style=flat-square)
 
 - https://github.com/shengqi158/pyvulhunter  - **A static security code scanner for Python applications**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shengqi158/pyvulhunter?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/shengqi158/pyvulhunter?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/shengqi158/pyvulhunter?style=flat-square)  ![GitHub](https://img.shields.io/github/license/shengqi158/pyvulhunter?style=flat-square)
 
 - https://github.com/python-security/pyt - **A static analysis tool for detecting security vulnerabilities in Python web applications**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/python-security/pyt?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/python-security/pyt?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/python-security/pyt?style=flat-square)  ![GitHub](https://img.shields.io/github/license/python-security/pyt?style=flat-square)
 
 - https://github.com/emanuil/php-reaper - **PHP tool to scan ADOdb code for SQL injections**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-PHP-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/emanuil/php-reaper?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/emanuil/php-reaper?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/emanuil/php-reaper?style=flat-square)  ![GitHub](https://img.shields.io/github/license/emanuil/php-reaper?style=flat-square)
 
 - https://github.com/lowjoel/phortress - **A PHP static code analyser for potential vulnerabilities**
 
-> **Rating**: 🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-PHP-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lowjoel/phortress?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lowjoel/phortress?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lowjoel/phortress?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lowjoel/phortress?style=flat-square)
 
 - https://github.com/zsdlove/Hades - **A Java static code auditing system**
 
-> **Rating**: 🌟🌟🌟🌟🌟       |         **Language**: **Python 3.X**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/zsdlove/Hades?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/zsdlove/Hades?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/zsdlove/Hades?style=flat-square)  ![GitHub](https://img.shields.io/github/license/zsdlove/Hades?style=flat-square)
 
 ### Modular Design Scanners or Vulnerability Detecting Framework
 
 - https://github.com/infobyte/faraday - **Collaborative penetration test and vulnerability management platform**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/infobyte/faraday?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/infobyte/faraday?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/infobyte/faraday?style=flat-square)  ![GitHub](https://img.shields.io/github/license/infobyte/faraday?style=flat-square)
 
 - https://github.com/az0ne/AZScanner - **Automatic all-around scanner**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/az0ne/AZScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/az0ne/AZScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/az0ne/AZScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/az0ne/AZScanner?style=flat-square)
 
 - https://github.com/blackye/lalascan - **Distributed web vulnerability scanning framework**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/blackye/lalascan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/blackye/lalascan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/blackye/lalascan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/blackye/lalascan?style=flat-square)
 
 - https://github.com/blackye/BkScanner - **Distributed, plug-in web vulnerability scanner**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/blackye/BkScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/blackye/BkScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/blackye/BkScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/blackye/BkScanner?style=flat-square)
 
 - https://github.com/ysrc/GourdScanV2 - **Passive vulnerability scanning system**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ysrc/GourdScanV2?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ysrc/GourdScanV2?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ysrc/GourdScanV2?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ysrc/GourdScanV2?style=flat-square)
 
 - https://github.com/netxfly/passive_scan - **Realization of web vulnerability scanner based on http proxy**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/netxfly/passive_scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/netxfly/passive_scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/netxfly/passive_scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/netxfly/passive_scan?style=flat-square)
 
 - https://github.com/1N3/Sn1per - **Automated pentest recon scanner**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/1N3/Sn1per?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/1N3/Sn1per?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/1N3/Sn1per?style=flat-square)  ![GitHub](https://img.shields.io/github/license/1N3/Sn1per?style=flat-square)
 
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner - **Directional fully automated penetration testing**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/RASSec/pentestEr_Fully-automatic-scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/RASSec/pentestEr_Fully-automatic-scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/RASSec/pentestEr_Fully-automatic-scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/RASSec/pentestEr_Fully-automatic-scanner?style=flat-square)
 
 - https://github.com/Xyntax/POC-T - **Penetration test plug-in concurrency framework**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Xyntax/POC-T?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Xyntax/POC-T?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Xyntax/POC-T?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Xyntax/POC-T?style=flat-square)
 
 - https://github.com/v3n0m-Scanner/V3n0M-Scanner - **Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other vulns**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/v3n0m-Scanner/V3n0M-Scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/v3n0m-Scanner/V3n0M-Scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/v3n0m-Scanner/V3n0M-Scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/v3n0m-Scanner/V3n0M-Scanner?style=flat-square)
 
 - https://github.com/Skycrab/leakScan - **Multiple vuls scan supports web interface**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Skycrab/leakScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Skycrab/leakScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Skycrab/leakScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Skycrab/leakScan?style=flat-square)
 
 - https://github.com/zhangzhenfeng/AnyScan - **A automated penetration testing framework**
 
-> **Rating**: 🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/zhangzhenfeng/AnyScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/zhangzhenfeng/AnyScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/zhangzhenfeng/AnyScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/zhangzhenfeng/AnyScan?style=flat-square)
 
 - https://github.com/Tuhinshubhra/RED_HAWK - **An all In one tool For information gathering, SQL vulnerability scanning and crawling, coded In PHP**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-PHP-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tuhinshubhra/RED_HAWK?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tuhinshubhra/RED_HAWK?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Tuhinshubhra/RED_HAWK?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Tuhinshubhra/RED_HAWK?style=flat-square)
 
 - https://github.com/swisskyrepo/DamnWebScanner - **Another web vulnerabilities scanner, this extension works on Chrome and Opera**
 
