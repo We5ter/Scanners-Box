@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-279-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-278-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -1036,23 +1036,19 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/swisskyrepo/DamnWebScanner - **Another web vulnerabilities scanner, this extension works on Chrome and Opera**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/swisskyrepo/DamnWebScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/swisskyrepo/DamnWebScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/swisskyrepo/DamnWebScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/swisskyrepo/DamnWebScanner?style=flat-square)
 
 - https://github.com/anilbaranyelken/tulpar - **Web Vulnerability Scanner written in Python,supported multiple web vulnerabilities scan**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/m4ll0k/Spaghetti - **A web application security scanner tool,designed to find various default and insecure files, configurations and misconfigurations**
-
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anilbaranyelken/tulpar?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/anilbaranyelken/tulpar?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/anilbaranyelken/tulpar?style=flat-square)  ![GitHub](https://img.shields.io/github/license/anilbaranyelken/tulpar?style=flat-square)
 
 - https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest - **An automated penetration testing tool this tool will auditing all standard security test method for you**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Yukinoshita47/Yuki-Chan-The-Auto-Pentest?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Yukinoshita47/Yuki-Chan-The-Auto-Pentest?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Yukinoshita47/Yuki-Chan-The-Auto-Pentest?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Yukinoshita47/Yuki-Chan-The-Auto-Pentest?style=flat-square)
 
 - https://github.com/0xsauby/yasuo - **ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Ruby-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/0xsauby/yasuo?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/0xsauby/yasuo?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/0xsauby/yasuo?style=flat-square)  ![GitHub](https://img.shields.io/github/license/0xsauby/yasuo?style=flat-square)
 
 - https://github.com/hatRiot/clusterd - **application server attack toolkit**
 
@@ -1104,7 +1100,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/YalcinYolalan/WSSAT - **Web service security assessment tool,provide simple .exe application to use based on Windows OS**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-C#-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/YalcinYolalan/WSSAT?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/YalcinYolalan/WSSAT?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/YalcinYolalan/WSSAT?style=flat-square)  ![GitHub](https://img.shields.io/github/license/YalcinYolalan/WSSAT?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-CSharp-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/YalcinYolalan/WSSAT?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/YalcinYolalan/WSSAT?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/YalcinYolalan/WSSAT?style=flat-square)  ![GitHub](https://img.shields.io/github/license/YalcinYolalan/WSSAT?style=flat-square)
 
 - https://github.com/AmyangXYZ/AssassinGo - **An extenisble and concurrency pentest framework in Go**
 
@@ -1172,7 +1168,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/smallcham/sec-admin - **SEC can be used for enterprises to scan and check the security of server resources which has strong controllability, supports distributed multi-node deployment.**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/smallcham/sec-admini?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/smallcham/sec-admin?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/smallcham/sec-admin?style=flat-square)  ![GitHub](https://img.shields.io/github/license/smallcham/sec-admin?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/smallcham/sec-admin?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/smallcham/sec-admin?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/smallcham/sec-admin?style=flat-square)  ![GitHub](https://img.shields.io/github/license/smallcham/sec-admin?style=flat-square)
 
 
 ### Advanced Persistent Threat
