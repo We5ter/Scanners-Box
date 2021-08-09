@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-277-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-276-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -45,6 +45,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/cdk-team/CDK - **A tool to gather information inside container/cluster and exploit them**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cdk-team/CDK?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/cdk-team/CDK?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/cdk-team/CDK.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/cdk-team/CDK?style=flat-square)
+
+- https://github.com/cr0hn/dockerscan - **Docker security analysis & hacking tools**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cr0hn/dockerscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/cr0hn/dockerscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/cr0hn/dockerscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/cr0hn/dockerscan?style=flat-square)
 
 #### Man-In-The-Middle
 
@@ -787,91 +791,83 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/epinna/tplmap - **Automatic Server-Side Template Injection detection and exploitation tool**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
-
-- https://github.com/cr0hn/dockerscan - **Docker security analysis & hacking tools**
-
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/m4ll0k/WPSeku  - **Simple Wordpress security scanner**
-
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/epinna/tplmap?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/epinna/tplmap?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/epinna/tplmap?style=flat-square)  ![GitHub](https://img.shields.io/github/license/epinna/tplmap?style=flat-square)
 
 - https://github.com/rastating/wordpress-exploit-framework - **Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Ruby**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Ruby-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/rastating/wordpress-exploit-framework?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/rastating/wordpress-exploit-framework?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/rastating/wordpress-exploit-framework?style=flat-square)  ![GitHub](https://img.shields.io/github/license/rastating/wordpress-exploit-framework?style=flat-square)
 
 - https://github.com/ilmila/J2EEScan - **A plugin for Burp Suite proxy to improve the test coverage during web application penetration tests on J2EE applications**
 
-> **Rating**: 🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ilmila/J2EEScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ilmila/J2EEScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ilmila/J2EEScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ilmila/J2EEScan?style=flat-square)
 
 - https://github.com/riusksk/StrutScan - **Struts2 vuls scanner base Perl script**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/riusksk/StrutScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/riusksk/StrutScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/riusksk/StrutScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/riusksk/StrutScan?style=flat-square)
 
 - https://github.com/D35m0nd142/LFISuite - **Totally automatic LFI exploiterand scanner supports reverse shell**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/D35m0nd142/LFISuite?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/D35m0nd142/LFISuite?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/D35m0nd142/LFISuite?style=flat-square)  ![GitHub](https://img.shields.io/github/license/D35m0nd142/LFISuite?style=flat-square)
 
 - https://github.com/0x4D31/salt-scanner - **Linux vulnerability scanner based on Salt Open and vulners audit API, with Slack notifications and JIRA integration**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/0x4D31/salt-scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/0x4D31/salt-scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/0x4D31/salt-scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/0x4D31/salt-scanner?style=flat-square)
 
 - https://github.com/tijme/angularjs-csti-scanner - **Automated client-side template injection detection for AngularJS**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x/3.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/tijme/angularjs-csti-scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/tijme/angularjs-csti-scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/tijme/angularjs-csti-scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/tijme/angularjs-csti-scanner?style=flat-square)
 
 - https://github.com/irsdl/IIS-ShortName-Scanner - **Scanners for IIS short filename 8.3 disclosure vulnerability**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/irsdl/IIS-ShortName-Scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/irsdl/IIS-ShortName-Scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/irsdl/IIS-ShortName-Scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/irsdl/IIS-ShortName-Scanner?style=flat-square)
 
 - https://github.com/swisskyrepo/Wordpresscan - **WPScan rewritten in Python + some WPSeku ideas**
 
-> **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/swisskyrepo/Wordpresscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/swisskyrepo/Wordpresscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/swisskyrepo/Wordpresscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/swisskyrepo/Wordpresscan?style=flat-square)
 
 - https://github.com/CHYbeta/cmsPoc - **CMS exploit framework**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/CHYbeta/cmsPoc?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/CHYbeta/cmsPoc?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/CHYbeta/cmsPoc?style=flat-square)  ![GitHub](https://img.shields.io/github/license/CHYbeta/cmsPoc?style=flat-square)
 
 - https://github.com/3gstudent/Smbtouch-Scanner - **Automatically scan the inner network to detect whether they are vulnerable**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/3gstudent/Smbtouch-Scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/3gstudent/Smbtouch-Scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/3gstudent/Smbtouch-Scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/3gstudent/Smbtouch-Scanner?style=flat-square)
 
 - https://github.com/OsandaMalith/LFiFreak - **A unique automated LFI exploiter with bind/reverse shells**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/OsandaMalith/LFiFreak?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/OsandaMalith/LFiFreak?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/OsandaMalith/LFiFreak?style=flat-square)  ![GitHub](https://img.shields.io/github/license/OsandaMalith/LFiFreak?style=flat-square)
 
 - https://github.com/mak-/parameth - **This tool can be used to brute discover GET and POST parameters**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/mak-/parameth?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/mak-/parameth?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mak-/parameth?style=flat-square)  ![GitHub](https://img.shields.io/github/license/mak-/parameth?style=flat-square)
 
 - https://github.com/Lucifer1993/struts-scan - **Struts2 vuls scanner,supported all vuls**
 
-> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **C#/Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Lucifer1993/struts-scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Lucifer1993/struts-scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Lucifer1993/struts-scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Lucifer1993/struts-scan?style=flat-square)
 
 - https://github.com/hahwul/a2sv - **Auto scanning to SSL vulnerability, such as heartbleed etc**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/hahwul/a2sv?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/hahwul/a2sv?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/hahwul/a2sv?style=flat-square)  ![GitHub](https://img.shields.io/github/license/hahwul/a2sv?style=flat-square)
 
 - https://github.com/NickstaDB/BaRMIe - **Java RMI enumeration and attack tool**
 
-> **Rating**: 🌟🌟🌟        |         **Language**: **Java**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/NickstaDB/BaRMIe?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/NickstaDB/BaRMIe?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/NickstaDB/BaRMIe?style=flat-square)  ![GitHub](https://img.shields.io/github/license/NickstaDB/BaRMIe?style=flat-square)
 
 - https://github.com/RetireJS/grunt-retire - **Scanner detecting the use of Javascript libraries with known vulnerabilities**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/RetireJS/grunt-retire?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/RetireJS/grunt-retire?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/RetireJS/grunt-retire?style=flat-square)  ![GitHub](https://img.shields.io/github/license/RetireJS/grunt-retire?style=flat-square)
 
 - https://github.com/kotobukki/BDA - **The vulnerability detector for Hadoop and Spark**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/kotobukki/BDA?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/kotobukki/BDA?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/kotobukki/BDA?style=flat-square)  ![GitHub](https://img.shields.io/github/license/kotobukki/BDA?style=flat-square)
 
 - https://github.com/jagracey/Regex-DoS - **RegEx Denial of service scanner for Node.js package**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/jagracey/Regex-DoS?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/jagracey/Regex-DoS?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/jagracey/Regex-DoS?style=flat-square)  ![GitHub](https://img.shields.io/github/license/jagracey/Regex-DoS?style=flat-square)
 
 - https://github.com/milesrichardson/docker-onion-nmap - **Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Bash Shell**         |         **Ongoing[last 6 months]**: ✖️
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Bash-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/milesrichardson/docker-onion-nmap?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/milesrichardson/docker-onion-nmap?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/milesrichardson/docker-onion-nmap?style=flat-square)  ![GitHub](https://img.shields.io/github/license/milesrichardson/docker-onion-nmap?style=flat-square)
 
 - https://github.com/Moham3dRiahi/XAttacker - **Web CMS exploit framework**
 
