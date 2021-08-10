@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-2.0-blue.svg">
   <img src="http://img.shields.io/badge/开源协议-Mozilla-blue.svg?style=flat" alt="开源协议">
- <img src="https://img.shields.io/badge/扫描器/总数-276-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-278-blue.svg" alt="number">
 </p>
 
 
@@ -250,6 +250,10 @@
 - https://github.com/gwen001/github-subdomains - **在Github上搜索目标子域名**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/gwen001/github-subdomains?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/gwen001/github-subdomains?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/gwen001/github-subdomains?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/gwen001/github-subdomains?style=flat-square&label=开源协议)
+
+- https://github.com/bit4woo/domain_hunter_pro - **目标管理、自动化的信息收集、与burp无缝衔接**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/bit4woo/domain_hunter_pro?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/bit4woo/domain_hunter_pro?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/bit4woo/domain_hunter_pro?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/bit4woo/domain_hunter_pro?style=flat-square&label=开源协议)
 
 
 ### 数据库注入漏洞或认证爆破
@@ -974,6 +978,10 @@
 - https://github.com/zsdlove/Hades - **Java静态代码审计工具**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/zsdlove/Hades?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/zsdlove/Hades?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/zsdlove/Hades?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/zsdlove/Hades?style=flat-square&label=开源协议)
+
+- https://github.com/LoRexxar/Kunlun-M - **静态白盒扫描工具，支持PHP、JavaScript的语义扫描，基础安全、组件安全扫描，Chrome Ext\Solidity的基础扫描**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/LoRexxar/Kunlun-M?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/LoRexxar/Kunlun-M?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/LoRexxar/Kunlun-M?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/LoRexxar/Kunlun-M?style=flat-square&label=开源协议)
 
 
 ### 模块化设计扫描器或漏洞评估框架
