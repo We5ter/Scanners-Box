@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-276-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-278-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -247,6 +247,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/gwen001/github-subdomains - **Find subdomains on GitHub**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/gwen001/github-subdomains?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/gwen001/github-subdomains?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/gwen001/github-subdomains?style=flat-square)  ![GitHub](https://img.shields.io/github/license/gwen001/github-subdomains?style=flat-square)
+
+- https://github.com/bit4woo/domain_hunter_pro - **Domain finder and Targets management, automated information collection, integrated with burpsuite**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/bit4woo/domain_hunter_pro?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/bit4woo/domain_hunter_pro?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/bit4woo/domain_hunter_pro?style=flat-square)  ![GitHub](https://img.shields.io/github/license/bit4woo/domain_hunter_pro?style=flat-square)
 
 
 ### Database SQL Injection Vulnerability or Brute Force
@@ -971,6 +975,11 @@ English | [简体中文](./README_CN.md)
 - https://github.com/zsdlove/Hades - **A Java static code auditing system**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/zsdlove/Hades?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/zsdlove/Hades?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/zsdlove/Hades?style=flat-square)  ![GitHub](https://img.shields.io/github/license/zsdlove/Hades?style=flat-square)
+
+- https://github.com/LoRexxar/Kunlun-M - **Static code auditing system for PHP/JavaScript/Chrome EXT**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/LoRexxar/Kunlun-M?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/LoRexxar/Kunlun-M?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/LoRexxar/Kunlun-M?style=flat-square)  ![GitHub](https://img.shields.io/github/license/LoRexxar/Kunlun-M?style=flat-square)
+
 
 ### Modular Design Scanners or Vulnerability Detecting Framework
 
