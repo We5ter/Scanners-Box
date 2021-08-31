@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-279-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-280-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -50,13 +50,19 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cr0hn/dockerscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/cr0hn/dockerscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/cr0hn/dockerscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/cr0hn/dockerscan?style=flat-square)
 
+#### Services fingerprint detection
+
+- https://github.com/EdgeSecurityTeam/EHole - **Core system fingerprint detection tool for Red team**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/EdgeSecurityTeam/EHole?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/EdgeSecurityTeam/EHole?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/EdgeSecurityTeam/EHole.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/EdgeSecurityTeam/EHole?style=flat-square)
+
 #### Man-In-The-Middle
 
 - https://github.com/niloofarkheirkhah/nili - **Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cdk-team/CDK?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/niloofarkheirkhah/nili?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/niloofarkheirkhah/nili.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/niloofarkheirkhah/nili?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/niloofarkheirkhah/nili?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/niloofarkheirkhah/nili?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/niloofarkheirkhah/nili.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/niloofarkheirkhah/nili?style=flat-square)
 
-#### Intranet detection
+#### Intranet penetration
 
 - https://github.com/lcatro/network_backdoor_scanner - **An internal network scanner like meterpreter**
 
