@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-3.0-blue.svg">
   <img src="http://img.shields.io/badge/开源协议-Mozilla-blue.svg?style=flat" alt="开源协议">
- <img src="https://img.shields.io/badge/扫描器/总数-280-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-281-blue.svg" alt="number">
 </p>
 
 
@@ -432,6 +432,10 @@
 - https://github.com/pwn0sec/PwnXSS - **基于Python 3.7的多线程XSS扫描器**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/pwn0sec/PwnXSS?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/pwn0sec/PwnXSS?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/pwn0sec/PwnXSS?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/pwn0sec/PwnXSS?style=flat-square&label=开源协议)
+
+- https://github.com/hahwul/dalfox - **基于golang的参数分析和XSS扫描工具**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/hahwul/dalfox?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/hahwul/dalfox?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/hahwul/dalfox?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/hahwul/dalfox?style=flat-square&label=开源协议)
 
 
 ### 企业敏感信息泄露检测
