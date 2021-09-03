@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-281-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-282-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -95,6 +95,11 @@ English | [简体中文](./README_CN.md)
 - https://github.com/b1gcat/DarkEye  - **Ports scan and host-alived detect**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/b1gcat/DarkEye?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/b1gcat/DarkEye?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/b1gcat/DarkEye?style=flat-square)  ![GitHub](https://img.shields.io/github/license/b1gcat/DarkEye?style=flat-square)
+
+- https://github.com/v-byte-cpu/sx  - **A network scanner that 30x times faster than nmap**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/v-byte-cpu/sx?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/v-byte-cpu/sx?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/v-byte-cpu/sx?style=flat-square)  ![GitHub](https://img.shields.io/github/license/v-byte-cpu/sx?style=flat-square)
+
 
 #### Wireless Pentest
 
