@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-284-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-285-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -49,6 +49,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/cr0hn/dockerscan - **Docker security analysis & hacking tools**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cr0hn/dockerscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/cr0hn/dockerscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/cr0hn/dockerscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/cr0hn/dockerscan?style=flat-square)
+
+- https://github.com/armosec/kubescape - **The first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/armosec/kubescape?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/armosec/kubescape?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/armosec/kubescape?style=flat-square)  ![GitHub](https://img.shields.io/github/license/armosec/kubescape?style=flat-square)
 
 #### Services fingerprint detection
 
