@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-286-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-285-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -500,7 +500,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/eth0izzle/shhgit - **A docker and web based monitor for finding secrets and sensitive files across GitHub**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/aeth0izzle/shhgit?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/eth0izzle/shhgit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/eth0izzle/shhgit?style=flat-square)  ![GitHub](https://img.shields.io/github/license/eth0izzle/shhgit?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/eth0izzle/shhgit?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/eth0izzle/shhgit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/eth0izzle/shhgit?style=flat-square)  ![GitHub](https://img.shields.io/github/license/eth0izzle/shhgit?style=flat-square)
 
 - https://github.com/SAP/credential-digger - **A GitHub scanning tool that identifies hardcoded credentials, filtering the false positive data through machine learning models.**
 
@@ -739,10 +739,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/blackye/webdirdig - **Sensitive files scanner**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/blackye/webdirdig?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/blackye/webdirdig?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/blackye/webdirdig?style=flat-square)  ![GitHub](https://img.shields.io/github/license/blackye/webdirdig?style=flat-square)
-
-- https://github.com/GitHackTools/BillCipher - **Information gathering tool for a website or IP address**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/GitHackTools/BillCipher?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/GitHackTools/BillCipher?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/GitHackTools/BillCipher?style=flat-square)  ![GitHub](https://img.shields.io/github/license/GitHackTools/BillCipher?style=flat-square)
 
 - https://github.com/boy-hack/w8fuckcdn - **Get the website real IP address by scanning the entire net**
 
