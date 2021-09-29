@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-285-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-284-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -751,10 +751,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/Nekmo/dirhunt - **Find web directories without bruteforce**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Nekmo/dirhunt?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Nekmo/dirhunt?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Nekmo/dirhunt?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Nekmo/dirhunt?style=flat-square)
-
-- https://github.com/MetaChar/pyHAWK - **Searches the directory of choice for interesting files. Such as database files and files with passwords stored on them**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/MetaChar/pyHAWK?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/MetaChar/pyHAWK?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/MetaChar/pyHAWK?style=flat-square)  ![GitHub](https://img.shields.io/github/license/MetaChar/pyHAWK?style=flat-square)
 
 - https://github.com/H4ckForJob/dirmap - **An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian**
 
