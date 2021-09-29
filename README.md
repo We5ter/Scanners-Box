@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-285-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-286-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -1002,9 +1002,13 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/LoRexxar/Kunlun-M?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/LoRexxar/Kunlun-M?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/LoRexxar/Kunlun-M?style=flat-square)  ![GitHub](https://img.shields.io/github/license/LoRexxar/Kunlun-M?style=flat-square)
 
-- https://github.com/PyCQA/bandit - **A tool designed to find common security issues in Python cod**
+- https://github.com/PyCQA/bandit - **A tool designed to find common security issues in Python code**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/PyCQA/bandit?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/bandit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/PyCQA/bandit?style=flat-square)  ![GitHub](https://img.shields.io/github/license/PyCQA/bandit?style=flat-square)
+
+- https://github.com/praetorian-inc/gokart - **A static analysis tool for securing Go code**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/praetorian-inc/gokart?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/praetorian-inc/gokart?style=flat-square)  ![GitHub](https://img.shields.io/github/license/praetorian-inc/gokart?style=flat-square)
 
 
 ### Modular Design Scanners or Vulnerability Detecting Framework
