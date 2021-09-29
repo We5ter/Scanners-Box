@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-3.0-blue.svg">
   <img src="http://img.shields.io/badge/开源协议-Mozilla-blue.svg?style=flat" alt="开源协议">
- <img src="https://img.shields.io/badge/扫描器/总数-285-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-286-blue.svg" alt="number">
 </p>
 
 
@@ -1009,6 +1009,10 @@
 - https://github.com/PyCQA/bandit - **Python应用源代码扫描工具，可自定义规则拓展**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/PyCQA/bandit?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/bandit?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/PyCQA/bandit?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/PyCQA/bandit?style=flat-square&label=开源协议)
+
+- https://github.com/praetorian-inc/gokart - **Go应用源代码扫描工具**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/praetorian-inc/gokart?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/praetorian-inc/gokart?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/praetorian-inc/gokart?style=flat-square&label=开源协议)
 
 
 ### 模块化设计扫描器或漏洞评估框架
