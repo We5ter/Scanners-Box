@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-3.0-blue.svg">
   <img src="http://img.shields.io/badge/开源协议-Mozilla-blue.svg?style=flat" alt="开源协议">
- <img src="https://img.shields.io/badge/扫描器/总数-286-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-284-blue.svg" alt="number">
 </p>
 
 
@@ -504,7 +504,7 @@
 
 - https://github.com/eth0izzle/shhgit - **基于Docker和Web的Github敏感信息泄漏监控系统**
 
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/aeth0izzle/shhgit?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/eth0izzle/shhgit?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/eth0izzle/shhgit?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/eth0izzle/shhgit?style=flat-square&label=开源协议)
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/eth0izzle/shhgit?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/eth0izzle/shhgit?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/eth0izzle/shhgit?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/eth0izzle/shhgit?style=flat-square&label=开源协议)
 
 - https://github.com/SAP/credential-digger - **基于机器学习去除误报的Github敏感信息泄漏扫描系统**
 
@@ -744,10 +744,6 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/blackye/webdirdig?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/blackye/webdirdig?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/blackye/webdirdig?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/blackye/webdirdig?style=flat-square&label=开源协议)
 
-- https://github.com/GitHackTools/BillCipher - **用于网站或IP地址的信息收集工具**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/GitHackTools/BillCipher?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/GitHackTools/BillCipher?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/GitHackTools/BillCipher?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/GitHackTools/BillCipher?style=flat-square&label=开源协议)
-
 - https://github.com/boy-hack/w8fuckcdn - **通过扫描全网获得真实IP的自动化程序**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/boy-hack/w8fuckcdn?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/boy-hack/w8fuckcdn?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/boy-hack/w8fuckcdn?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/boy-hack/w8fuckcdn?style=flat-square&label=开源协议)
@@ -759,10 +755,6 @@
 - https://github.com/Nekmo/dirhunt - **爬虫式web目录扫描工具**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Nekmo/dirhunt?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/Nekmo/dirhunt?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/Nekmo/dirhunt?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/Nekmo/dirhunt?style=flat-square&label=开源协议)
-
-- https://github.com/MetaChar/pyHAWK - **数据库文件、私钥等敏感文件泄露扫描**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/MetaChar/pyHAWK?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/MetaChar/pyHAWK?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/MetaChar/pyHAWK?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/MetaChar/pyHAWK?style=flat-square&label=开源协议)
 
 - https://github.com/H4ckForJob/dirmap - **一个高级web目录扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑**
 
