@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-286-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-287-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -1009,6 +1009,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/praetorian-inc/gokart - **A static analysis tool for securing Go code**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/praetorian-inc/gokart?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/praetorian-inc/gokart?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/praetorian-inc/gokart?style=flat-square)  ![GitHub](https://img.shields.io/github/license/praetorian-inc/gokart?style=flat-square)
+
+- https://github.com/wh1t3p1g/tabby - **A static analysis tool for Java**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/wh1t3p1g/tabby?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/wh1t3p1g/tabby?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/wh1t3p1g/tabby?style=flat-square)  ![GitHub](https://img.shields.io/github/license/wh1t3p1g/tabby?style=flat-square)
 
 
 ### Modular Design Scanners or Vulnerability Detecting Framework
