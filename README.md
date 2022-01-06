@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-287-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-288-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -31,7 +31,7 @@ English | [简体中文](./README_CN.md)
 - [Special Components or Vulnerability Categories Scan](#special-components-or-vulnerability-categories-scan)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
-- [Advanced Persistent Threat](#advanced-persistent-threat)
+- [Advanced Persistent Threat Detect](#advanced-persistent-threat-detect)
 - [Mobile App Packages Analysis](#mobile-apps-packages-analysis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -1209,8 +1209,12 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/olacabs/jackhammer?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/olacabs/jackhammer?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/olacabs/jackhammer?style=flat-square)  ![GitHub](https://img.shields.io/github/license/olacabs/jackhammer?style=flat-square)
 
+- https://github.com/bigblackhat/oFx - **One Security vulnerability assessment/management tool to solve all the security team problems**
 
-### Advanced Persistent Threat
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/bigblackhat/oFx?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/bigblackhat/oFx?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/bigblackhat/oFx?style=flat-square)  ![GitHub](https://img.shields.io/github/license/bigblackhat/oFx?style=flat-square)
+
+
+### Advanced Persistent Threat Detect
 
 - https://github.com/Neo23x0/Loki - **Simple IOC and Incident Response Scanner**
 
