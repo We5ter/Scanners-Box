@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-3.0-blue.svg">
   <img src="http://img.shields.io/badge/开源协议-Mozilla-blue.svg?style=flat" alt="开源协议">
- <img src="https://img.shields.io/badge/扫描器/总数-287-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-288-blue.svg" alt="number">
 </p>
 
 
@@ -32,7 +32,7 @@
 - [特殊组件或漏洞类型扫描](#特殊组件或漏洞类型扫描)
 - [动态或静态代码审计](#动态或静态代码审计)
 - [模块化设计扫描器或漏洞评估框架](#模块化设计扫描器或漏洞评估框架)
-- [高级持续性威胁](#高级持续性威胁)
+- [定向APT攻击检测](#定向APT攻击检测)
 - [移动应用包文件分析](#移动应用包文件分析)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -1214,7 +1214,12 @@
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/olacabs/jackhammer?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/olacabs/jackhammer?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/olacabs/jackhammer?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/olacabs/jackhammer?style=flat-square&label=开源协议)
 
 
-### 高级持续性威胁
+- https://github.com/bigblackhat/oFx - **漏洞验证框架，企业资产评估，1day快速扫描**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/bigblackhat/oFx?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/bigblackhat/oFx?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/bigblackhat/oFx?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/bigblackhat/oFx?style=flat-square&label=开源协议)
+
+
+### 定向APT攻击检测
 
 - https://github.com/Neo23x0/Loki - **根据公开情报库里的IOC信息检索本地是否存在相同hash的文件或与恶意C2的网络连接**
 
