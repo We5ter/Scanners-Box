@@ -1209,7 +1209,7 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/olacabs/jackhammer?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/olacabs/jackhammer?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/olacabs/jackhammer?style=flat-square)  ![GitHub](https://img.shields.io/github/license/olacabs/jackhammer?style=flat-square)
 
-- https://github.com/bigblackhat/oFx - **One Security vulnerability assessment/management tool to solve all the security team problems**
+- https://github.com/bigblackhat/oFx - **Vulnerability verification framework, corporate assets analysis and rapid scanner for 1day vulnerability**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/bigblackhat/oFx?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/bigblackhat/oFx?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/bigblackhat/oFx?style=flat-square)  ![GitHub](https://img.shields.io/github/license/bigblackhat/oFx?style=flat-square)
 
