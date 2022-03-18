@@ -58,7 +58,6 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/deepfence/ThreatMapper?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/deepfence/ThreatMapper?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/deepfence/ThreatMapper?style=flat-square)  ![GitHub](https://img.shields.io/github/license/deepfence/ThreatMapper?style=flat-square)
 
-
 - https://github.com/chaitin/veinmind-tools - **Container security scanner for backdoor, malicious, weak pass and sensitive and the like.**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go/Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chaitin/veinmind-tools?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/chaitin/veinmind-tools?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/chaitin/veinmind-tools?style=flat-square)  ![GitHub](https://img.shields.io/github/license/chaitin/veinmind-tools?style=flat-square)
@@ -1054,8 +1053,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/deepfence/SecretScanner - **Scan containers and host filesystems for unprotected keys, API tokens and passwords**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/deepfence/SecretScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/deepfence/SecretScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/deepfence/SecretScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/deepfence/SecretScanner?style=flat-square)
-
-
 
 - https://github.com/1N3/Sn1per - **Automated pentest recon scanner**
 
