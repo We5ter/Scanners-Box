@@ -55,6 +55,10 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/armosec/kubescape?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/armosec/kubescape?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/armosec/kubescape?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/armosec/kubescape?style=flat-square&label=开源协议)
 
+- https://github.com/deepfence/ThreatMapper - **扫描生产中的漏洞和暴露的秘密，并识别攻击路径以远程访问它们**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/deepfence/ThreatMapper?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/deepfence/ThreatMapper?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/deepfence/ThreatMapper?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/deepfence/ThreatMapper?style=flat-square&label=开源协议)
+
 - https://github.com/chaitin/veinmind-tools - **容器安全扫描工具，针对弱口令、恶意文件、后门、敏感信息等问题**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go/Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chaitin/veinmind-tools?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/chaitin/veinmind-tools?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/chaitin/veinmind-tools?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/chaitin/veinmind-tools?style=flat-square&label=开源协议)
@@ -1049,6 +1053,10 @@
 - https://github.com/netxfly/passive_scan - **基于http代理的web漏洞扫描器**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/netxfly/passive_scan?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/netxfly/passive_scan?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/netxfly/passive_scan?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/netxfly/passive_scan?style=flat-square&label=开源协议)
+
+- https://github.com/deepfence/SecretScanner - **扫描容器和主机文件系统以获取未受保护的密钥、API 令牌和密码**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/deepfence/ThreatMapper?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/deepfence/ThreatMapper?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/deepfence/ThreatMapper?style=flat-square)  ![GitHub](https://img.shields.io/github/license/deepfence/ThreatMapper?style=flat-square)
 
 - https://github.com/1N3/Sn1per - **自动化扫描器，包括中间件扫描以及设备指纹识别**
 
