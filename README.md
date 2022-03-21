@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-291-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-292-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -1025,6 +1025,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/wh1t3p1g/tabby - **A static analysis tool for Java**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/wh1t3p1g/tabby?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/wh1t3p1g/tabby?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/wh1t3p1g/tabby?style=flat-square)  ![GitHub](https://img.shields.io/github/license/wh1t3p1g/tabby?style=flat-square)
+
+- https://github.com/CoolerVoid/codecat - **The tool to help you find/track user input sinks and security bugs in Java, C++,GO, Python, javascript, Swift etc. with regex rules**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/CoolerVoid/codecat?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/CoolerVoid/codecat?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/CoolerVoid/codecat?style=flat-square)  ![GitHub](https://img.shields.io/github/license/CoolerVoid/codecat?style=flat-square)
 
 
 ### Modular Design Scanners or Vulnerability Detecting Framework
