@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-3.0-blue.svg">
   <img src="http://img.shields.io/badge/开源协议-Mozilla-blue.svg?style=flat" alt="开源协议">
- <img src="https://img.shields.io/badge/扫描器/总数-289-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-291-blue.svg" alt="number">
 </p>
 
 
@@ -59,6 +59,13 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go/Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chaitin/veinmind-tools?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/chaitin/veinmind-tools?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/chaitin/veinmind-tools?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/chaitin/veinmind-tools?style=flat-square&label=开源协议)
 
+- https://github.com/deepfence/ThreatMapper **云原生(k8s/AWS/GKE等)漏洞扫描和攻击面枚举**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square) ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/deepfence/ThreatMapper?style=flat-square&label=语言数量) ![GitHub last commit](https://img.shields.io/github/last-commit/deepfence/ThreatMapper?style=flat-square&label=上次提交) ![GitHub stars](https://img.shields.io/github/stars/deepfence/ThreatMapper?style=flat-square&label=start数量) ![GitHub](https://img.shields.io/github/license/deepfence/ThreatMapper?style=flat-square&label=开源协议)
+
+- https://github.com/deepfence/SecretScanner - **扫描容器和主机文件系统以检测未受保护的密钥、API令牌和密码**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/deepfence/SecretScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/deepfence/SecretScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/deepfence/SecretScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/deepfence/SecretScanner?style=flat-square)
 
 #### 服务指纹探测
 
@@ -1313,6 +1320,8 @@ scanbox在Mozilla协议条款下发布
 - **@yunxu1**
 - **@saeeddhqan**
 - **@Sofiane Lounici**
+- **Owen Garrett@deepfence**
+
 
 ## star走势
 
