@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-289-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-291-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -58,6 +58,13 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go/Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chaitin/veinmind-tools?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/chaitin/veinmind-tools?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/chaitin/veinmind-tools?style=flat-square)  ![GitHub](https://img.shields.io/github/license/chaitin/veinmind-tools?style=flat-square)
 
+- https://github.com/deepfence/ThreatMapper **Scan for in-production vulnerabilities and exposed secrets, and identify attack paths to reach them remotely**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square) ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/deepfence/ThreatMapper?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/deepfence/ThreatMapper?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/deepfence/ThreatMapper?style=flat-square) ![GitHub](https://img.shields.io/github/license/deepfence/ThreatMapper?style=flat-square)
+
+- https://github.com/deepfence/SecretScanner - **Scan containers and host filesystems for unprotected keys, API tokens and passwords**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/deepfence/SecretScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/deepfence/SecretScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/deepfence/SecretScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/deepfence/SecretScanner?style=flat-square)
 
 #### Services fingerprint detection
 
@@ -1308,6 +1315,7 @@ We would like to thanks the following security researchers for their valuable fe
 - **@yunxu1**
 - **@saeeddhqan**
 - **@Sofiane Lounici**
+- **Owen Garrettz@deepfence**
 
 ## Stargazers
 
