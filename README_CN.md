@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-3.0-blue.svg">
   <img src="http://img.shields.io/badge/开源协议-Mozilla-blue.svg?style=flat" alt="开源协议">
- <img src="https://img.shields.io/badge/扫描器/总数-292-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-293-blue.svg" alt="number">
 </p>
 
 
@@ -293,6 +293,10 @@
 - https://github.com/m4ll0k/takeover - **子域名劫持扫描器**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m4ll0k/takeover?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/m4ll0k/takeover?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/m4ll0k/takeover?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/m4ll0k/takeover?style=flat-square&label=开源协议)
+
+- https://github.com/v4d1/Dome - **主动与被动扫描相结合的子域名扫描，也支持开放端口检测**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/v4d1/Dome?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/v4d1/Dome?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/v4d1/Dome?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/v4d1/Dome?style=flat-square&label=开源协议)
 
 
 ### 数据库注入漏洞或认证爆破
@@ -1331,4 +1335,4 @@ scanbox在Mozilla协议条款下发布
 
 [![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2021
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2022
