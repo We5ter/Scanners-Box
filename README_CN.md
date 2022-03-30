@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-3.0-blue.svg">
   <img src="http://img.shields.io/badge/开源协议-Mozilla-blue.svg?style=flat" alt="开源协议">
- <img src="https://img.shields.io/badge/扫描器/总数-293-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-294-blue.svg" alt="number">
 </p>
 
 
@@ -40,6 +40,12 @@
 ***
 
 ### 红蓝对抗
+
+#### 软件供应链分析
+
+- https://github.com/murphysecurity/murphysec - **软件供应链攻击分析工具**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/murphysecurity/murphysec?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/murphysecurity/murphysec?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/murphysecurity/murphysec.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/murphysecurity/murphysec?style=flat-square&label=开源协议)
 
 #### 容器和集群
 
