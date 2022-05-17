@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-294-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-295-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -27,7 +27,7 @@ English | [简体中文](./README_CN.md)
 - [Mutiple types of Cross-site scripting Detection](#mutiple-types-of-cross-site-scripting-detection)
 - [Enterprise sensitive information Leak Scan](#enterprise-sensitive-information-leak-scan)
 - [Malicious Scripts or Binary Malware Detection](#malicious-scripts-or-binary-malware-detection)
-- [Vulnerability Assessment for Middleware or Information Leak Scan](#vulnerability-assessment-for-middleware-or-information-leak-scan)
+- [Vulnerability Assessment for Middleware](#vulnerability-assessment-for-middleware)
 - [Special Components or Vulnerability Categories Scan](#special-components-or-vulnerability-categories-scan)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
@@ -40,7 +40,7 @@ English | [简体中文](./README_CN.md)
 
 ### Red Team vs Blue Team
 
-#### supply chain analysis(SCA)
+#### Supply Chain Analysis(SCA)
 
 - https://github.com/murphysecurity/murphysec - **Open source tool for software supply chain security**
 
@@ -72,6 +72,10 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/deepfence/SecretScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/deepfence/SecretScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/deepfence/SecretScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/deepfence/SecretScanner?style=flat-square)
 
+- https://github.com/cyberark/KubiScan - **A tool to scan Kubernetes cluster for risky permissions**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cyberark/KubiScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/cyberark/KubiScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/cyberark/KubiScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/cyberark/KubiScan?style=flat-square)
+
 #### Services fingerprint detection
 
 - https://github.com/EdgeSecurityTeam/EHole - **Core system fingerprint detection tool for Red team**
@@ -84,27 +88,11 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/niloofarkheirkhah/nili?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/niloofarkheirkhah/nili?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/niloofarkheirkhah/nili.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/niloofarkheirkhah/nili?style=flat-square)
 
-#### Intranet penetration
-
-- https://github.com/lcatro/network_backdoor_scanner - **An internal network scanner like meterpreter**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-C++-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lcatro/network_backdoor_scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lcatro/network_backdoor_scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lcatro/network_backdoor_scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lcatro/network_backdoor_scanner?style=flat-square)
-
-- https://github.com/Tib3rius/AutoRecon - **A multi-threaded network reconnaissance tool which performs automated enumeration of services**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tib3rius/AutoRecon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tib3rius/AutoRecon?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Tib3rius/AutoRecon?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Tib3rius/AutoRecon?style=flat-square)
+#### Intranet penetration Framework
 
 - https://github.com/m4n3dw0lf/PytheM - **Multi-purpose network pentest framework**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m4n3dw0lf/PytheM?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/m4n3dw0lf/PytheM?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/m4n3dw0lf/PytheM?style=flat-square)  ![GitHub](https://img.shields.io/github/license/m4n3dw0lf/PytheM?style=flat-square)
-
-- https://github.com/sowish/LNScan  - **Local Network Scanner based on BBScan via.lijiejie**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/sowish/LNScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/sowish/LNScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/sowish/LNScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/sowish/LNScan?style=flat-square)
-
-- https://github.com/shadow1ng/fscan  - **Intranet integrated scanning tool,build for automatic, full coverage scanning**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shadow1ng/fscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/shadow1ng/fscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/shadow1ng/fscan?style=flat-square)
 
 - https://github.com/FunnyWolf/Viper  - **Graphical, Modularization and weaponization intranet penetration tool**
 
@@ -114,18 +102,9 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/P1-Team/AlliN?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/P1-Team/AlliN?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/P1-Team/AlliN?style=flat-square)  ![GitHub](https://img.shields.io/github/license/P1-Team/AlliN?style=flat-square)
 
-- https://github.com/b1gcat/DarkEye  - **Ports scan and host-alived detect**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/b1gcat/DarkEye?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/b1gcat/DarkEye?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/b1gcat/DarkEye?style=flat-square)  ![GitHub](https://img.shields.io/github/license/b1gcat/DarkEye?style=flat-square)
-
-- https://github.com/v-byte-cpu/sx  - **A network scanner that 30x times faster than nmap**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/v-byte-cpu/sx?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/v-byte-cpu/sx?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/v-byte-cpu/sx?style=flat-square)  ![GitHub](https://img.shields.io/github/license/v-byte-cpu/sx?style=flat-square)
-
 - https://github.com/k8gege/LadonGo  - **Pentest framework for Windows/Linux/Mac intranet networks**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/k8gege/LadonGo?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/k8gege/LadonGo?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/k8gege/LadonGo?style=flat-square)  ![GitHub](https://img.shields.io/github/license/k8gege/LadonGo?style=flat-square)
-
 
 #### Wireless Pentest
 
@@ -576,7 +555,7 @@ English | [简体中文](./README_CN.md)
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/droidefense/engine?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/droidefense/engine?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/droidefense/engine?style=flat-square)  ![GitHub](https://img.shields.io/github/license/droidefense/engine?style=flat-square)
 
 
-### Vulnerability Assessment for Middleware or Information Leak Scan
+### Vulnerability Assessment for Middleware
 
 - https://github.com/ring04h/wyportmap - **Target port scanning + system service fingerprint recognition**
 
@@ -630,7 +609,7 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/x0day/bannerscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/x0day/bannerscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/x0day/bannerscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/x0day/bannerscan?style=flat-square)
 
-- https://github.com/RASSec/RASscan - **Internal network port speed scanners**
+- https://github.com/RASSec/RASscan - **Internal network port service scanners**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/RASSec/RASscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/RASSec/RASscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/RASSec/RASscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/RASSec/RASscan?style=flat-square)
 
@@ -797,6 +776,34 @@ English | [简体中文](./README_CN.md)
 - https://github.com/saeeddhqan/Maryam - **OSINT and Web-based Footprinting modular framework based on the Recon-ng**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/saeeddhqan/Maryam?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/saeeddhqan/Maryam?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/saeeddhqan/Maryam?style=flat-square)  ![GitHub](https://img.shields.io/github/license/saeeddhqan/Maryam?style=flat-square)
+
+- https://github.com/lcatro/network_backdoor_scanner - **An internal network scanner like meterpreter**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-C++-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lcatro/network_backdoor_scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lcatro/network_backdoor_scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lcatro/network_backdoor_scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lcatro/network_backdoor_scanner?style=flat-square)
+
+- https://github.com/Tib3rius/AutoRecon - **A multi-threaded network reconnaissance tool which performs automated enumeration of services**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tib3rius/AutoRecon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tib3rius/AutoRecon?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Tib3rius/AutoRecon?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Tib3rius/AutoRecon?style=flat-square)
+
+- https://github.com/sowish/LNScan  - **Local Network Scanner based on BBScan via.lijiejie**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/sowish/LNScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/sowish/LNScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/sowish/LNScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/sowish/LNScan?style=flat-square)
+
+- https://github.com/shadow1ng/fscan  - **Intranet integrated scanning tool,build for automatic, full coverage scanning**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shadow1ng/fscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/shadow1ng/fscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/shadow1ng/fscan?style=flat-square)
+
+- https://github.com/b1gcat/DarkEye  - **Ports scan and host-alived detect**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/b1gcat/DarkEye?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/b1gcat/DarkEye?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/b1gcat/DarkEye?style=flat-square)  ![GitHub](https://img.shields.io/github/license/b1gcat/DarkEye?style=flat-square)
+
+- https://github.com/v-byte-cpu/sx  - **A network scanner that 30x times faster than nmap**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/v-byte-cpu/sx?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/v-byte-cpu/sx?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/v-byte-cpu/sx?style=flat-square)  ![GitHub](https://img.shields.io/github/license/v-byte-cpu/sx?style=flat-square)
+
+- https://github.com/nullt3r/jfscan  - **Super fast port scanning & service discovery using Masscan and Nmap**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/nullt3r/jfscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/nullt3r/jfscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/nullt3r/jfscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/nullt3r/jfscan?style=flat-square)
 
 
 ### Special Components or Vulnerability Categories Scan
@@ -976,10 +983,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/seungsoo-lee/DELTA - **Sdn security evaluation framework**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/seungsoo-lee/DELTA?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/seungsoo-lee/DELTA?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/seungsoo-lee/DELTA?style=flat-square)  ![GitHub](https://img.shields.io/github/license/seungsoo-lee/DELTA?style=flat-square)
-
-- https://github.com/cyberark/KubiScan - **A tool to scan Kubernetes cluster for risky permissions**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cyberark/KubiScan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/cyberark/KubiScan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/cyberark/KubiScan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/cyberark/KubiScan?style=flat-square)
 
 
 ### Dynamic or Static Code Analysis
