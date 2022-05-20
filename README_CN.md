@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-3.0-blue.svg">
   <img src="http://img.shields.io/badge/开源协议-Mozilla-blue.svg?style=flat" alt="开源协议">
- <img src="https://img.shields.io/badge/扫描器/总数-295-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-296-blue.svg" alt="number">
 </p>
 
 
@@ -519,6 +519,11 @@
 - https://github.com/SAP/credential-digger - **基于机器学习去除误报的Github敏感信息泄漏扫描系统**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SAP/credential-digger?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/credential-digger?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/SAP/credential-digger?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/SAP/credential-digger?style=flat-square&label=开源协议)
+
+
+- https://github.com/sdushantha/dora - **基于RegEx查找暴露的API密钥，如Facebook Access Token/AWS key等，并获取找到的某些密钥的利用方法**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/sdushantha/dora?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/sdushantha/dora?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/sdushantha/dora?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/sdushantha/dora?style=flat-square&label=开源协议)
 
 
 ### 恶意脚本或木马检测
