@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-295-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-296-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -511,9 +511,13 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/eth0izzle/shhgit?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/eth0izzle/shhgit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/eth0izzle/shhgit?style=flat-square)  ![GitHub](https://img.shields.io/github/license/eth0izzle/shhgit?style=flat-square)
 
-- https://github.com/SAP/credential-digger - **A GitHub scanning tool that identifies hardcoded credentials, filtering the false positive data through machine learning models.**
+- https://github.com/SAP/credential-digger - **A GitHub scanning tool that identifies hardcoded credentials, filtering the false positive data through machine learning models**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SAP/credential-digger?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/credential-digger?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/SAP/credential-digger?style=flat-square)  ![GitHub](https://img.shields.io/github/license/SAP/credential-digger?style=flat-square)
+
+- https://github.com/sdushantha/dora - **Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/sdushantha/dora?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/sdushantha/dora?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/sdushantha/dora?style=flat-square)  ![GitHub](https://img.shields.io/github/license/sdushantha/dora?style=flat-square)
 
 
 ### Malicious Scripts or Binary Malware Detection
