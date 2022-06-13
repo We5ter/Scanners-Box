@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-3.0-blue.svg">
   <img src="http://img.shields.io/badge/开源协议-Mozilla-blue.svg?style=flat" alt="开源协议">
- <img src="https://img.shields.io/badge/扫描器/总数-297-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-298-blue.svg" alt="number">
 </p>
 
 
@@ -819,6 +819,10 @@
 - https://github.com/nullt3r/jfscan  - **基于nmap以及Masscan的大规模网络扫描器**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/nullt3r/jfscan?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/nullt3r/jfscan?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/nullt3r/jfscan?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/nullt3r/jfscan?style=flat-square&label=开源协议)
+
+- https://github.com/lcvvvv/kscan  - **具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lcvvvv/kscan?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/lcvvvv/kscan?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/lcvvvv/kscan?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/lcvvvv/kscan?style=flat-square&label=开源协议) <img alt="kcon-arsenal-2022" src="https://dpurl.org/Hgyne">
 
 
 ### 特殊组件或漏洞类型扫描
