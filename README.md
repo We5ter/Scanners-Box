@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-297-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-298-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -109,7 +109,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/shmilylty/netspy  - **Quickly scan the reachable network segmentation of the intranet**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shmilylty/netspy?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/shmilylty/netspy?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/shmilylty/netspy?style=flat-square)  ![GitHub](https://img.shields.io/github/license/shmilylty/netspy?style=flat-square)
-
 
 #### Wireless Pentest
 
@@ -813,6 +812,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/nullt3r/jfscan  - **Super fast port scanning & service discovery using Masscan and Nmap**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/nullt3r/jfscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/nullt3r/jfscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/nullt3r/jfscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/nullt3r/jfscan?style=flat-square)
+
+- https://github.com/lcvvvv/kscan  - **Port scanning, protocol detection(1200+), fingerprint(1w+) and brute force cracking**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lcvvvv/kscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lcvvvv/kscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lcvvvv/kscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lcvvvv/kscan?style=flat-square)  <img alt="kcon-arsenal-2022" src="https://dpurl.org/Hgyne">
 
 
 ### Special Components or Vulnerability Categories Scan
