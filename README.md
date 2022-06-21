@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-298-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-303-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -18,8 +18,10 @@ English | [简体中文](./README_CN.md)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Smart Contracts Security](#smart-contracts-security)
 - [Red Team vs Blue Team](#red-team-vs-blue-team)
-- [Privacy Compliance](privacy-compliance)
+- [Mobile App Packages Analysis](#mobile-apps-packages-analysis)
+- [Privacy Compliance](#privacy-compliance)
 - [Subdomain Enumeration or Takeover](#subdomain-enumeration-or-takeover)
 - [Database SQL Injection Vulnerability or Brute Force](#database-sql-injection-vulnerability-or-brute-force)
 - [Weak Usernames or Passwords Enumeration For Web](#weak-usernames-or-passwords-enumeration-for-web)
@@ -32,11 +34,35 @@ English | [简体中文](./README_CN.md)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
 - [Advanced Persistent Threat Detect](#advanced-persistent-threat-detect)
-- [Mobile App Packages Analysis](#mobile-apps-packages-analysis)
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ***
+
+
+### Smart Contracts Security
+
+- https://github.com/ConsenSys/mythril - **Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera etc.**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ConsenSys/mythril?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ConsenSys/mythril?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ConsenSys/mythril.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ConsenSys/mythril?style=flat-square)
+
+- https://github.com/enzymefinance/oyente - **An Analysis Tool for Smart Contracts**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/enzymefinance/oyente?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/enzymefinance/oyente?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/enzymefinance/oyente.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/enzymefinance/oyente?style=flat-square)
+
+- https://github.com/eth-sri/securify2 - **Official security scanner for Ethereum smart contracts supported by the Ethereum Foundation**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/eth-sri/securify2?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/eth-sri/securify2?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/eth-sri/securify2.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/eth-sri/securify2?style=flat-square)
+
+- https://github.com/smartdec/smartcheck - **Static analysis tool that detects vulnerabilities and bugs in Solidity programs**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-or-Node-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/smartdec/smartcheck?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/smartdec/smartcheck?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/smartdec/smartcheck.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/smartdec/smartcheck?style=flat-square)
+
+- https://github.com/ivicanikolicsg/MAIAN - **Automatic tool for finding trace vulnerabilities in Ethereum smart contracts**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ivicanikolicsg/MAIAN?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/ivicanikolicsg/MAIAN?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ivicanikolicsg/MAIAN.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/ivicanikolicsg/MAIAN?style=flat-square)
+
 
 ### Red Team vs Blue Team
 
@@ -131,6 +157,25 @@ English | [简体中文](./README_CN.md)
 - https://github.com/derv82/wifite2 - **A complete re-write of Wifite,Automated Wireless Attack Tool**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/derv82/wifite2?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/derv82/wifite2?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/derv82/wifite2?style=flat-square)  ![GitHub](https://img.shields.io/github/license/derv82/wifite2?style=flat-square)
+
+### Mobile Apps Packages Analysis
+
+- https://github.com/dwisiswant0/apkleaks - **Scanning APK file for URIs, endpoints & secrets**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/dwisiswant0/apkleaks?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/dwisiswant0/apkleaks?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/dwisiswant0/apkleaks?style=flat-square)  ![GitHub](https://img.shields.io/github/license/dwisiswant0/apkleaks?style=flat-square)
+
+- https://github.com/kelvinBen/AppInfoScanner - **Collecting information from APK file, support self-defined rules**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/kelvinBen/AppInfoScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/kelvinBen/AppInfoScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/kelvinBen/AppInfoScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/kelvinBen/AppInfoScanner?style=flat-square)
+
+- https://github.com/maaaaz/androwarn - **Yet another static code analyzer for malicious Android applications**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/maaaaz/androwarn?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/maaaaz/androwarn?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/maaaaz/androwarn?style=flat-square)  ![GitHub](https://img.shields.io/github/license/maaaaz/androwarn?style=flat-square)
+
+- https://github.com/quark-engine/quark-engine - **Android Malware (Analysis | Scoring) System**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/quark-engine/quark-engine?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/quark-engine/quark-engine?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/quark-engine/quark-engine?style=flat-square)  ![GitHub](https://img.shields.io/github/license/quark-engine/quark-engine?style=flat-square)
+
 
 ### Privacy Compliance
 
@@ -1264,25 +1309,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/Neo23x0/Fenrir - **Simple IOC and Incident Response Scanner**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-BashShell-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Neo23x0/Fenrir?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Neo23x0/Fenrir?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Neo23x0/Fenrir?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Neo23x0/Fenrir?style=flat-square)
-
-
-### Mobile Apps Packages Analysis
-
-- https://github.com/dwisiswant0/apkleaks - **Scanning APK file for URIs, endpoints & secrets**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/dwisiswant0/apkleaks?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/dwisiswant0/apkleaks?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/dwisiswant0/apkleaks?style=flat-square)  ![GitHub](https://img.shields.io/github/license/dwisiswant0/apkleaks?style=flat-square)
-
-- https://github.com/kelvinBen/AppInfoScanner - **Collecting information from APK file, support self-defined rules**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/kelvinBen/AppInfoScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/kelvinBen/AppInfoScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/kelvinBen/AppInfoScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/kelvinBen/AppInfoScanner?style=flat-square)
-
-- https://github.com/maaaaz/androwarn - **Yet another static code analyzer for malicious Android applications**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/maaaaz/androwarn?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/maaaaz/androwarn?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/maaaaz/androwarn?style=flat-square)  ![GitHub](https://img.shields.io/github/license/maaaaz/androwarn?style=flat-square)
-
-- https://github.com/quark-engine/quark-engine - **Android Malware (Analysis | Scoring) System**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/quark-engine/quark-engine?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/quark-engine/quark-engine?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/quark-engine/quark-engine?style=flat-square)  ![GitHub](https://img.shields.io/github/license/quark-engine/quark-engine?style=flat-square)
 
 
 ***
