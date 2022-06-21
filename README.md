@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-303-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-305-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -57,7 +57,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/smartdec/smartcheck - **Static analysis tool that detects vulnerabilities and bugs in Solidity programs**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-or-Node-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/smartdec/smartcheck?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/smartdec/smartcheck?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/smartdec/smartcheck.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/smartdec/smartcheck?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java--or--Node-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/smartdec/smartcheck?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/smartdec/smartcheck?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/smartdec/smartcheck.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/smartdec/smartcheck?style=flat-square)
 
 - https://github.com/ivicanikolicsg/MAIAN - **Automatic tool for finding trace vulnerabilities in Ethereum smart contracts**
 
@@ -1100,6 +1100,14 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/CoolerVoid/codecat?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/CoolerVoid/codecat?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/CoolerVoid/codecat?style=flat-square)  ![GitHub](https://img.shields.io/github/license/CoolerVoid/codecat?style=flat-square)
 
+- https://github.com/qax-os/goreporter - **A Golang tool that does static analysis, unit testing, code review and generate code quality report**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/qax-os/goreporter?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/qax-os/goreporter?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/qax-os/goreporter?style=flat-square)  ![GitHub](https://img.shields.io/github/license/qax-os/goreporter?style=flat-square)
+
+- https://github.com/hudangwei/codemillx - **CodeQL tool for Go programs**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/hudangwei/codemillx?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/hudangwei/codemillx?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/hudangwei/codemillx?style=flat-square)  ![GitHub](https://img.shields.io/github/license/hudangwei/codemillx?style=flat-square)
+
 
 ### Modular Design Scanners or Vulnerability Detecting Framework
 
@@ -1318,11 +1326,13 @@ The purpose of this collection is to provide various types of  open-source secur
 
 ## Commit Symbolic Description
 
-**[↑]** means **update scanner URL or description**<br>
-**[+]** means **add scanner**<br>
-**[-]** means **remove scanner**<br>
-**[category]** means **change scanner category**<br>
-**[contributor]** means **add someone to Acknowledgments**<br>
+**[↑scanner]xxx** means **update scanner info**<br>
+**[+scanner]xxx** means **add scanner**<br>
+**[-scanner]xxx** means **remove scanner**<br>
+**[+category]xxx** means **add scanner category**<br>
+**[-category]xxx** means **remove scanner category**<br>
+**[+contributor]xxx** means **add someone to Acknowledgments**<br>
+**[-contributor]xxx** means **remove someone from Acknowledgments**<br>
 
 ## Authors
 
