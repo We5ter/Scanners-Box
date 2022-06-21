@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-3.0-blue.svg">
   <img src="http://img.shields.io/badge/开源协议-Mozilla-blue.svg?style=flat" alt="开源协议">
- <img src="https://img.shields.io/badge/扫描器/总数-298-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-305-blue.svg" alt="number">
 </p>
 
 
@@ -19,7 +19,9 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [智能合约安全](#智能合约安全)
 - [红蓝对抗](#红蓝对抗)
+- [移动应用包文件分析](#移动应用包文件分析)
 - [隐私合规](#隐私合规)
 - [子域名爆破枚举或接管](#子域名爆破枚举或接管)
 - [数据库注入漏洞或认证爆破](#数据库注入漏洞或认证爆破)
@@ -33,11 +35,34 @@
 - [动态或静态代码审计](#动态或静态代码审计)
 - [模块化设计扫描器或漏洞评估框架](#模块化设计扫描器或漏洞评估框架)
 - [定向APT攻击检测](#定向APT攻击检测)
-- [移动应用包文件分析](#移动应用包文件分析)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ***
+
+### 智能合约安全
+
+- https://github.com/ConsenSys/mythril - **EVM字节码审计工具，使用符号执行、污点分析来检测以太坊、Hedera等区块链的安全漏洞**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ConsenSys/mythril?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/ConsenSys/mythril?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/ConsenSys/mythril.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/ConsenSys/mythril?style=flat-square&label=开源协议)
+
+- https://github.com/enzymefinance/oyente - **EVM字节码审计工具，用于检测智能合约中的安全漏洞**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/enzymefinance/oyente?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/enzymefinance/oyente?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/enzymefinance/oyente.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/enzymefinance/oyente?style=flat-square&label=开源协议)
+
+- https://github.com/eth-sri/securify2 - **由以太坊官方组织认证的智能合约安全扫描工具**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/eth-sri/securify2?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/eth-sri/securify2?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/eth-sri/securify2.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/eth-sri/securify2?style=flat-square&label=开源协议)
+
+- https://github.com/smartdec/smartcheck - **针对Solidity程序的静态代码分析工具**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/%E4%B8%BB%E8%AF%AD%E8%A8%80-Java--or--Node-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/smartdec/smartcheck?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/smartdec/smartcheck?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/smartdec/smartcheck.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/smartdec/smartcheck?style=flat-square&label=开源协议)
+
+
+- https://github.com/ivicanikolicsg/MAIAN - **用于在以太坊智能合约中查找漏洞的工具**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/%E4%B8%BB%E8%AF%AD%E8%A8%80-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/ivicanikolicsg/MAIAN?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/ivicanikolicsg/MAIAN?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/ivicanikolicsg/MAIAN.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/ivicanikolicsg/MAIAN?style=flat-square&label=开源协议)
+
 
 ### 红蓝对抗
 
@@ -133,6 +158,25 @@
 - https://github.com/derv82/wifite2 - **自动化无线网络攻击工具Wifite的重构版本**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/derv82/wifite2?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/derv82/wifite2?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/derv82/wifite2?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/derv82/wifite2?style=flat-square&label=开源协议)
+
+
+### 移动应用包文件分析
+
+- https://github.com/dwisiswant0/apkleaks - **扫描APK文件中的URL、接口与密钥泄露等风险**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/dwisiswant0/apkleaks?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/dwisiswant0/apkleaks?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/dwisiswant0/apkleaks?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/dwisiswant0/apkleaks?style=flat-square&label=开源协议)
+
+- https://github.com/kelvinBen/AppInfoScanner - **APK文件信息搜集工具，支持自定义规则**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/kelvinBen/AppInfoScanner?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/kelvinBen/AppInfoScanner?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/kelvinBen/AppInfoScanner?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/kelvinBen/AppInfoScanner?style=flat-square&label=开源协议)
+
+- https://github.com/maaaaz/androwarn - **安卓应用静态代码扫描工具**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/maaaaz/androwarn?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/maaaaz/androwarn?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/maaaaz/androwarn?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/maaaaz/androwarn?style=flat-square&label=开源协议)
+
+- https://github.com/quark-engine/quark-engine - **安卓恶意分析扫描工具**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/quark-engine/quark-engine?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/quark-engine/quark-engine?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/quark-engine/quark-engine?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/quark-engine/quark-engine?style=flat-square&label=开源协议)
 
 
 ### 隐私合规
@@ -1062,6 +1106,14 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/CoolerVoid/codecat?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/CoolerVoid/codecat?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/CoolerVoid/codecat?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/CoolerVoid/codecat?style=flat-square&label=开源协议)
 
+- https://github.com/qax-os/goreporter - **奇安信出品的国内首款Go语言代码审计工具，支持单元测试以及生成代码质量报告**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/qax-os/goreporter?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/qax-os/goreporter?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/qax-os/goreporter?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/qax-os/goreporter?style=flat-square&label=开源协议)
+
+- https://github.com/hudangwei/codemillx - **用于Go程序的CodeQL工具**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/hudangwei/codemillx?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/hudangwei/codemillx?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/hudangwei/codemillx?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/hudangwei/codemillx?style=flat-square&label=开源协议)
+
 
 ### 模块化设计扫描器或漏洞评估框架
 
@@ -1273,24 +1325,6 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-BashShell-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Neo23x0/Fenrir?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/Neo23x0/Fenrir?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/Neo23x0/Fenrir?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/Neo23x0/Fenrir?style=flat-square&label=开源协议)
 
-### 移动应用包文件分析
-
-- https://github.com/dwisiswant0/apkleaks - **扫描APK文件中的URL、接口与密钥泄露等风险**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/dwisiswant0/apkleaks?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/dwisiswant0/apkleaks?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/dwisiswant0/apkleaks?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/dwisiswant0/apkleaks?style=flat-square&label=开源协议)
-
-- https://github.com/kelvinBen/AppInfoScanner - **APK文件信息搜集工具，支持自定义规则**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/kelvinBen/AppInfoScanner?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/kelvinBen/AppInfoScanner?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/kelvinBen/AppInfoScanner?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/kelvinBen/AppInfoScanner?style=flat-square&label=开源协议)
-
-- https://github.com/maaaaz/androwarn - **安卓应用静态代码扫描工具**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/maaaaz/androwarn?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/maaaaz/androwarn?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/maaaaz/androwarn?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/maaaaz/androwarn?style=flat-square&label=开源协议)
-
-- https://github.com/quark-engine/quark-engine - **安卓恶意分析扫描工具**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/quark-engine/quark-engine?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/quark-engine/quark-engine?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/quark-engine/quark-engine?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/quark-engine/quark-engine?style=flat-square&label=开源协议)
-
 
 ***
 
@@ -1304,11 +1338,13 @@
 
 ## 代码提交符号说明
 
-**[↑]** 表示 **更新扫描地址或描述**<br>
-**[+]** 表示 **添加扫描器**<br>
-**[-]** 表示 **移除扫描器**<br>
-**[category]** 表示 **修改扫描器分类**<br>
-**[contributor]** 表示 **添加某人至致谢榜**<br>
+**[↑扫描器]xxx** 表示 **更新扫描器信息**<br>
+**[+扫描器]xxx** 表示 **添加扫描器**<br>
+**[-扫描器]xxx** 表示 **移除扫描器**<br>
+**[+类别]xxx** 表示 **增加扫描器分类**<br>
+**[-类别]xxx** 表示 **删除扫描器分类**<br>
+**[+社区贡献者]xxx** 表示 **添加某人至致谢榜**<br>
+**[-社区贡献者]xxx** 表示 **从致谢榜移除某人**<br>
 
 ## 法律声明
 
