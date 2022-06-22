@@ -1349,7 +1349,7 @@
 **[-category]xxx** 表示 **删除扫描器分类**<br>
 **[+contributor]xxx** 表示 **添加某人至致谢榜**<br>
 **[↑contributor]xxx** 表示 **修改致谢榜中某人的信息**<br>
-**[↑other]xxx** 表示 **修改致谢榜中某人的信息**<br>
+**[↑other]xxx** 表示 **其他操作**<br>
 
 ## 法律声明
 
