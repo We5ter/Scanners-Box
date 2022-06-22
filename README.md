@@ -5,8 +5,8 @@ English | [简体中文](./README_CN.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
-  <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
+  <img src="https://img.shields.io/badge/version-2022.06-blue.svg" alt="python 3.x">
+  <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
  <img src="https://img.shields.io/badge/Scanners/Number-306-blue.svg" alt="number">
 </p>
 
@@ -1354,7 +1354,7 @@ If you have any questions about this project ,or you have found some valuable sc
 
 ## License
 
-scanbox is released under the Mozilla license.
+The content of this Repository is released under the [<CC BY-NC-ND 4.0>](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) license.
 
 ## Copyright
 
