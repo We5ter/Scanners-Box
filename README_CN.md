@@ -5,9 +5,9 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-3.0-blue.svg">
-  <img src="http://img.shields.io/badge/开源协议-Mozilla-blue.svg?style=flat" alt="开源协议">
- <img src="https://img.shields.io/badge/扫描器/总数-305-blue.svg" alt="number">
+  <img src="https://img.shields.io/badge/版本-2022.06-blue.svg">
+  <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
+ <img src="https://img.shields.io/badge/扫描器/总数-306-blue.svg" alt="number">
 </p>
 
 
@@ -135,6 +135,10 @@
 - https://github.com/shmilylty/netspy  - **快速探测内网可达网段工具**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shmilylty/netspy?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/shmilylty/netspy?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/shmilylty/netspy?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/shmilylty/netspy?style=flat-square&label=开源协议)
+
+- https://github.com/byt3bl33d3r/CrackMapExec  - **针对windows-AD域的后渗透的工具**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/byt3bl33d3r/CrackMapExec?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/byt3bl33d3r/CrackMapExec?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/byt3bl33d3r/CrackMapExec?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/byt3bl33d3r/CrackMapExec?style=flat-square&label=开源协议)
 
 
 #### 无线网络渗透
@@ -1338,13 +1342,14 @@
 
 ## 代码提交符号说明
 
-**[↑扫描器]xxx** 表示 **更新扫描器信息**<br>
-**[+扫描器]xxx** 表示 **添加扫描器**<br>
-**[-扫描器]xxx** 表示 **移除扫描器**<br>
-**[+类别]xxx** 表示 **增加扫描器分类**<br>
-**[-类别]xxx** 表示 **删除扫描器分类**<br>
-**[+社区贡献者]xxx** 表示 **添加某人至致谢榜**<br>
-**[-社区贡献者]xxx** 表示 **从致谢榜移除某人**<br>
+**[↑scanner]xxx** 表示 **更新扫描器信息**<br>
+**[+scanner]xxx** 表示 **添加扫描器**<br>
+**[-scanner]xxx** 表示 **移除扫描器**<br>
+**[+category]xxx** 表示 **增加扫描器分类**<br>
+**[-category]xxx** 表示 **删除扫描器分类**<br>
+**[+contributor]xxx** 表示 **添加某人至致谢榜**<br>
+**[↑contributor]xxx** 表示 **修改致谢榜中某人的信息**<br>
+**[↑other]xxx** 表示 **修改致谢榜中某人的信息**<br>
 
 ## 法律声明
 
@@ -1356,7 +1361,7 @@
 
 ## 开源协议
 
-scanbox在Mozilla协议条款下发布
+本仓库内容在知识共享[《署名-非商业性使用-禁止演绎 4.0 国际协议》](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)条款下发布
 
 ## 版权
 
