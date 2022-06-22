@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-305-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-306-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -135,6 +135,11 @@ English | [简体中文](./README_CN.md)
 - https://github.com/shmilylty/netspy  - **Quickly scan the reachable network segmentation of the intranet**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shmilylty/netspy?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/shmilylty/netspy?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/shmilylty/netspy?style=flat-square)  ![GitHub](https://img.shields.io/github/license/shmilylty/netspy?style=flat-square)
+
+- https://github.com/byt3bl33d3r/CrackMapExec  - **Swiss army knife for pentesting Windows/Active Directory environments**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/byt3bl33d3r/CrackMapExec?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/byt3bl33d3r/CrackMapExec?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/byt3bl33d3r/CrackMapExec?style=flat-square)  ![GitHub](https://img.shields.io/github/license/byt3bl33d3r/CrackMapExec?style=flat-square)
+
 
 #### Wireless Pentest
 
@@ -1331,8 +1336,9 @@ The purpose of this collection is to provide various types of  open-source secur
 **[-scanner]xxx** means **remove scanner**<br>
 **[+category]xxx** means **add scanner category**<br>
 **[-category]xxx** means **remove scanner category**<br>
-**[+contributor]xxx** means **add someone to Acknowledgments**<br>
-**[-contributor]xxx** means **remove someone from Acknowledgments**<br>
+**[+contributor]xxx** means **add someone to acknowledgments**<br>
+**[↑contributor]xxx** means **update someone's info for acknowledgments**<br>
+**[↑other]xxx** means **other actions**<br>
 
 ## Authors
 
