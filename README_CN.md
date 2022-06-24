@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-2022.06-blue.svg">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-307-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-306-blue.svg" alt="number">
 </p>
 
 
@@ -22,6 +22,7 @@
 - [智能合约安全](#智能合约安全)
 - [红蓝对抗](#红蓝对抗)
 - [移动应用包文件分析](#移动应用包文件分析)
+- [二进制可执行文件分析](#二进制可执行文件分析)
 - [隐私合规](#隐私合规)
 - [子域名爆破枚举或接管](#子域名爆破枚举或接管)
 - [数据库注入漏洞或认证爆破](#数据库注入漏洞或认证爆破)
@@ -29,7 +30,7 @@
 - [物联网设备认证爆破或漏洞评估](#物联网设备认证爆破或漏洞评估)
 - [多类型跨站脚本漏洞检测](#多类型跨站脚本漏洞检测)
 - [企业敏感信息泄露检测](#企业敏感信息泄露检测)
-- [恶意脚本或木马检测](#恶意脚本或木马检测)
+- [恶意脚本检测](#恶意脚本检测)
 - [中间件漏洞评估](#中间件漏洞评估)
 - [特殊组件或漏洞类型扫描](#特殊组件或漏洞类型扫描)
 - [动态或静态代码审计](#动态或静态代码审计)
@@ -90,7 +91,7 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go/Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chaitin/veinmind-tools?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/chaitin/veinmind-tools?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/chaitin/veinmind-tools?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/chaitin/veinmind-tools?style=flat-square&label=开源协议)
 
-- https://github.com/deepfence/ThreatMapper **云原生(k8s/AWS/GKE等)漏洞扫描和攻击面枚举**
+- https://github.com/deepfence/ThreatMapper - **云原生(k8s/AWS/GKE等)漏洞扫描和攻击面枚举**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square) ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/deepfence/ThreatMapper?style=flat-square&label=语言数量) ![GitHub last commit](https://img.shields.io/github/last-commit/deepfence/ThreatMapper?style=flat-square&label=上次提交) ![GitHub stars](https://img.shields.io/github/stars/deepfence/ThreatMapper?style=flat-square&label=start数量) ![GitHub](https://img.shields.io/github/license/deepfence/ThreatMapper?style=flat-square&label=开源协议)
 
@@ -185,6 +186,20 @@
 - https://github.com/quark-engine/quark-engine - **安卓恶意分析扫描工具**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/quark-engine/quark-engine?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/quark-engine/quark-engine?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/quark-engine/quark-engine?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/quark-engine/quark-engine?style=flat-square&label=开源协议)
+
+- https://github.com/droidefense/engine - **高级安卓木马病毒分析框架**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/droidefense/engine?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/droidefense/engine?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/droidefense/engine?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/droidefense/engine?style=flat-square&label=开源协议)
+
+### 二进制可执行文件分析
+
+- https://github.com/m4rco-/dorothy2 - **一款木马、僵尸网络分析框架**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Ruby-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m4rco-/dorothy2?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/m4rco-/dorothy2?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/m4rco-/dorothy2?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/m4rco-/dorothy2?style=flat-square&label=开源协议)
+
+- https://github.com/Tencent/HaboMalHunter  - **哈勃分析系统，Linux系统病毒分析及安全检测**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tencent/HaboMalHunter?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/HaboMalHunter?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/Tencent/HaboMalHunter?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/Tencent/HaboMalHunter?style=flat-square&label=开源协议)
 
 
 ### 隐私合规
@@ -582,19 +597,11 @@
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/sdushantha/dora?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/sdushantha/dora?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/sdushantha/dora?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/sdushantha/dora?style=flat-square&label=开源协议)
 
 
-### 恶意脚本或木马检测
+### 恶意脚本检测
 
-- https://github.com/he1m4n6a/findWebshell  -**一款简单的webshell检测工具**
+- https://github.com/he1m4n6a/findWebshell  - **一款简单的webshell检测工具**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/he1m4n6a/findWebshell?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/he1m4n6a/findWebshell?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/he1m4n6a/findWebshell?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/he1m4n6a/findWebshell?style=flat-square&label=开源协议)
-
-- https://github.com/Tencent/HaboMalHunter  -**哈勃分析系统，Linux系统病毒分析及安全检测**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tencent/HaboMalHunter?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/HaboMalHunter?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/Tencent/HaboMalHunter?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/Tencent/HaboMalHunter?style=flat-square&label=开源协议)
-
-- https://github.com/PlagueScanner/PlagueScanner - **使用python实现的集成ClamAV、ESET、Bitdefender的反病毒引擎**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/PlagueScanner/PlagueScanner?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/PlagueScanner/PlagueScanner?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/PlagueScanner/PlagueScanner?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/PlagueScanner/PlagueScanner?style=flat-square&label=开源协议)
 
 - https://github.com/nbs-system/php-malware-finder - **一款高效率PHP-webshell扫描工具**
 
@@ -611,14 +618,6 @@
 - https://github.com/emposha/Shell-Detector - **Webshell扫描工具，支持PHP/Perl/ASP/ASPX webshell扫描**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/emposha/Shell-Detector?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/emposha/Shell-Detector?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/emposha/Shell-Detector?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/emposha/Shell-Detector?style=flat-square&label=开源协议)
-
-- https://github.com/m4rco-/dorothy2 - **一款木马、僵尸网络分析框架**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Ruby-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m4rco-/dorothy2?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/m4rco-/dorothy2?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/m4rco-/dorothy2?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/m4rco-/dorothy2?style=flat-square&label=开源协议)
-
-- https://github.com/droidefense/engine - **高级安卓木马病毒分析框架**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/droidefense/engine?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/droidefense/engine?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/droidefense/engine?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/droidefense/engine?style=flat-square&label=开源协议)
 
 
 ### 中间件漏洞评估
@@ -903,7 +902,7 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/code-scan/dzscan?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/code-scan/dzscan?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/code-scan/dzscan?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/code-scan/dzscan?style=flat-square&label=开源协议)
 
-- https://github.com/chuhades/CMS-Exploit-Framework  -**一款简洁优雅的CMS扫描及利用框架**
+- https://github.com/chuhades/CMS-Exploit-Framework  - **一款简洁优雅的CMS扫描及利用框架**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chuhades/CMS-Exploit-Framework?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/chuhades/CMS-Exploit-Framework?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/chuhades/CMS-Exploit-Framework?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/chuhades/CMS-Exploit-Framework?style=flat-square&label=开源协议)
 
