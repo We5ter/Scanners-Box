@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2022.06-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-307-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-306-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -21,6 +21,7 @@ English | [简体中文](./README_CN.md)
 - [Smart Contracts Security](#smart-contracts-security)
 - [Red Team vs Blue Team](#red-team-vs-blue-team)
 - [Mobile App Packages Analysis](#mobile-apps-packages-analysis)
+- [Binary Executables Analysis](#binary-executables-analysis)
 - [Privacy Compliance](#privacy-compliance)
 - [Subdomain Enumeration or Takeover](#subdomain-enumeration-or-takeover)
 - [Database SQL Injection Vulnerability or Brute Force](#database-sql-injection-vulnerability-or-brute-force)
@@ -28,7 +29,7 @@ English | [简体中文](./README_CN.md)
 - [Authorization Brute Force or Vulnerability Scan For IoT](#authorization-brute-force-or-vulnerability-scan-for-iot)
 - [Mutiple types of Cross-site scripting Detection](#mutiple-types-of-cross-site-scripting-detection)
 - [Enterprise sensitive information Leak Scan](#enterprise-sensitive-information-leak-scan)
-- [Malicious Scripts or Binary Malware Detection](#malicious-scripts-or-binary-malware-detection)
+- [Malicious Scripts Detection](#malicious-scripts-detection)
 - [Vulnerability Assessment for Middleware](#vulnerability-assessment-for-middleware)
 - [Special Components or Vulnerability Categories Scan](#special-components-or-vulnerability-categories-scan)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
@@ -90,7 +91,7 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go/Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chaitin/veinmind-tools?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/chaitin/veinmind-tools?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/chaitin/veinmind-tools?style=flat-square)  ![GitHub](https://img.shields.io/github/license/chaitin/veinmind-tools?style=flat-square)
 
-- https://github.com/deepfence/ThreatMapper **Scan for in-production vulnerabilities and exposed secrets, and identify attack paths to reach them remotely**
+- https://github.com/deepfence/ThreatMapper - **Scan for in-production vulnerabilities and exposed secrets, and identify attack paths to reach them remotely**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square) ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/deepfence/ThreatMapper?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/deepfence/ThreatMapper?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/deepfence/ThreatMapper?style=flat-square) ![GitHub](https://img.shields.io/github/license/deepfence/ThreatMapper?style=flat-square)
 
@@ -185,6 +186,20 @@ English | [简体中文](./README_CN.md)
 - https://github.com/quark-engine/quark-engine - **Android Malware (Analysis | Scoring) System**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/quark-engine/quark-engine?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/quark-engine/quark-engine?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/quark-engine/quark-engine?style=flat-square)  ![GitHub](https://img.shields.io/github/license/quark-engine/quark-engine?style=flat-square)
+
+- https://github.com/droidefense/engine - **Advance Android malware analysis framework**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/droidefense/engine?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/droidefense/engine?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/droidefense/engine?style=flat-square)  ![GitHub](https://img.shields.io/github/license/droidefense/engine?style=flat-square)
+
+### Binary Executables Analysis
+
+- https://github.com/m4rco-/dorothy2 - **A malware/botnet analysis framework written in Ruby**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Ruby-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m4rco-/dorothy2?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/m4rco-/dorothy2?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/m4rco-/dorothy2?style=flat-square)  ![GitHub](https://img.shields.io/github/license/m4rco-/dorothy2?style=flat-square)
+
+- https://github.com/Tencent/HaboMalHunter  - **Used for automated malware analysis and security assessment on the Linux system**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tencent/HaboMalHunter?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/HaboMalHunter?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Tencent/HaboMalHunter?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Tencent/HaboMalHunter?style=flat-square)
 
 
 ### Privacy Compliance
@@ -579,19 +594,11 @@ English | [简体中文](./README_CN.md)
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/sdushantha/dora?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/sdushantha/dora?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/sdushantha/dora?style=flat-square)  ![GitHub](https://img.shields.io/github/license/sdushantha/dora?style=flat-square)
 
 
-### Malicious Scripts or Binary Malware Detection
+### Malicious Scripts Detection
 
-- https://github.com/he1m4n6a/findWebshell  -**Simple webshell detector**
+- https://github.com/he1m4n6a/findWebshell  - **Simple webshell detector**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/he1m4n6a/findWebshell?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/he1m4n6a/findWebshell?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/he1m4n6a/findWebshell?style=flat-square)  ![GitHub](https://img.shields.io/github/license/he1m4n6a/findWebshell?style=flat-square)
-
-- https://github.com/Tencent/HaboMalHunter  -**Used for automated malware analysis and security assessment on the Linux system**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tencent/HaboMalHunter?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/HaboMalHunter?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Tencent/HaboMalHunter?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Tencent/HaboMalHunter?style=flat-square)
-
-- https://github.com/PlagueScanner/PlagueScanner - **Open source multiple AV scanner framework**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/PlagueScanner/PlagueScanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/PlagueScanner/PlagueScanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/PlagueScanner/PlagueScanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/PlagueScanner/PlagueScanner?style=flat-square)
 
 - https://github.com/nbs-system/php-malware-finder - **An awesome tool to detect potentially malicious PHP files**
 
@@ -608,14 +615,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/emposha/Shell-Detector - **A application that helps you find and identify PHP/Perl/Asp/Aspx shells**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/emposha/Shell-Detector?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/emposha/Shell-Detector?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/emposha/Shell-Detector?style=flat-square)  ![GitHub](https://img.shields.io/github/license/emposha/Shell-Detector?style=flat-square)
-
-- https://github.com/m4rco-/dorothy2 - **A malware/botnet analysis framework written in Ruby**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Ruby-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/m4rco-/dorothy2?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/m4rco-/dorothy2?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/m4rco-/dorothy2?style=flat-square)  ![GitHub](https://img.shields.io/github/license/m4rco-/dorothy2?style=flat-square)
-
-- https://github.com/droidefense/engine - **Advance Android malware analysis framework**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/droidefense/engine?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/droidefense/engine?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/droidefense/engine?style=flat-square)  ![GitHub](https://img.shields.io/github/license/droidefense/engine?style=flat-square)
 
 
 ### Vulnerability Assessment for Middleware
