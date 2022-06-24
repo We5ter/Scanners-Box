@@ -201,6 +201,14 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tencent/HaboMalHunter?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/HaboMalHunter?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Tencent/HaboMalHunter?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Tencent/HaboMalHunter?style=flat-square)
 
+- https://github.com/KeenSecurityLab/BinAbsInspector  - **Static analyzer for automated reverse engineering and scanning vulnerabilities in binaries**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeenSecurityLab/BinAbsInspector?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeenSecurityLab/BinAbsInspector?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/KeenSecurityLab/BinAbsInspector?style=flat-square)  ![GitHub](https://img.shields.io/github/license/KeenSecurityLab/BinAbsInspector?style=flat-square)
+
+- https://github.com/fkie-cad/cwe_checker  - **Static analyzer for detecting common bug classes such as Null pointer dereferences and buffer overflows**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Rust-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/fkie-cad/cwe_checker?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/fkie-cad/cwe_checker?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/fkie-cad/cwe_checker?style=flat-square)  ![GitHub](https://img.shields.io/github/license/fkie-cad/cwe_checker?style=flat-square)
+
 
 ### Privacy Compliance
 
