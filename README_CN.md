@@ -5,9 +5,9 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-2022.06-blue.svg">
+  <img src="https://img.shields.io/badge/版本-2022.07-blue.svg" alt="202207">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-308-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-309-blue.svg" alt="number">
 </p>
 
 
@@ -208,6 +208,10 @@
 - https://github.com/fkie-cad/cwe_checker  - **二进制文件常见漏洞扫描(CWEs)**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Rust-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/fkie-cad/cwe_checker?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/fkie-cad/cwe_checker?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/fkie-cad/cwe_checker?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/fkie-cad/cwe_checker?style=flat-square&label=开源协议)
+
+- https://github.com/airbus-seclab/bincat  - **基于污点分析的二进制代码静态分析器，可作为IDA插件使用**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/airbus-seclab/bincat?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/airbus-seclab/bincat?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/airbus-seclab/bincat?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/airbus-seclab/bincat?style=flat-square&label=开源协议)
 
 
 ### 隐私合规
