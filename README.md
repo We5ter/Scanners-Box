@@ -5,9 +5,9 @@ English | [简体中文](./README_CN.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2022.06-blue.svg" alt="python 3.x">
+  <img src="https://img.shields.io/badge/version-2022.07-blue.svg" alt="202207">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-308-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-309-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -208,6 +208,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/fkie-cad/cwe_checker  - **Static analyzer for detecting common bug classes such as buffer overflows in binaries**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Rust-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/fkie-cad/cwe_checker?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/fkie-cad/cwe_checker?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/fkie-cad/cwe_checker?style=flat-square)  ![GitHub](https://img.shields.io/github/license/fkie-cad/cwe_checker?style=flat-square)
+
+- https://github.com/airbus-seclab/bincat  - **Binary code static analyser, with IDA integration. Performs value and taint analysis**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/airbus-seclab/bincat?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/airbus-seclab/bincat?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/airbus-seclab/bincat?style=flat-square)  ![GitHub](https://img.shields.io/github/license/airbus-seclab/bincat?style=flat-square)
 
 
 ### Privacy Compliance
