@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2022.07-blue.svg" alt="202207">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-309-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-310-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -1128,6 +1128,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/hudangwei/codemillx - **CodeQL tool for Go programs**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/hudangwei/codemillx?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/hudangwei/codemillx?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/hudangwei/codemillx?style=flat-square)  ![GitHub](https://img.shields.io/github/license/hudangwei/codemillx?style=flat-square)
+
+- https://github.com/securego/gosec - **Inspects source code for security problems by scanning the Go AST**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/securego/gosec?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/securego/gosec?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/securego/gosec?style=flat-square)  ![GitHub](https://img.shields.io/github/license/securego/gosec?style=flat-square)
 
 
 ### Modular Design Scanners or Vulnerability Detecting Framework
