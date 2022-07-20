@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2022.07-blue.svg" alt="202207">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-311-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-312-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -167,6 +167,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/D3Ext/WEF - **Wi-Fi Exploitation Framework for 2.4 and 5 Ghz both attacks**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Bash-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/D3Ext/WEF?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/D3Ext/WEF?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/D3Ext/WEF?style=flat-square)  ![GitHub](https://img.shields.io/github/license/D3Ext/WEF?style=flat-square)
+
+- https://github.com/pinecone-wifi/pinecone - **A WLAN red team framework**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/pinecone-wifi/pinecone?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/pinecone-wifi/pinecone?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/pinecone-wifi/pinecone?style=flat-square)  ![GitHub](https://img.shields.io/github/license/pinecone-wifi/pinecone?style=flat-square)
 
 
 ### Mobile Apps Packages Analysis
@@ -843,7 +847,7 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/H4ckForJob/dirmap?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/H4ckForJob/dirmap?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/H4ckForJob/dirmap?style=flat-square)  ![GitHub](https://img.shields.io/github/license/H4ckForJob/dirmap?style=flat-square)
 
-- https://github.com/s0md3v/Photon - **Incredibly fast crawler which extracts urls, emails, files, website accounts and much more
+- https://github.com/s0md3v/Photon - **Incredibly fast crawler which extracts urls, emails, files, website accounts and much more**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/s0md3v/Photon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/s0md3v/Photon?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/s0md3v/Photon?style=flat-square)  ![GitHub](https://img.shields.io/github/license/s0md3v/Photon?style=flat-square)
 
