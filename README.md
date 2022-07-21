@@ -1,5 +1,5 @@
 English | [简体中文](./README_CN.md)
-
+ 
 <p align="center">
 <img src="./logo.png" width="300px">
  </p>
@@ -8,7 +8,14 @@ English | [简体中文](./README_CN.md)
   <img src="https://img.shields.io/badge/version-2022.07-blue.svg" alt="202207">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
  <img src="https://img.shields.io/badge/Scanners/Number-312-blue.svg" alt="number">
-</p>
+ <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box">
+ </p>
+<br/>
+
+## Sponsor This Project
+
+<a href="https://www.buymeacoffee.com/we5ter"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=we5ter&button_colour=0773b3&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+
 
 ## Introduction
 
