@@ -8,7 +8,7 @@ English | [简体中文](./README_CN.md)
   <img src="https://img.shields.io/badge/version-2022.07-blue.svg" alt="202207">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
  <img src="https://img.shields.io/badge/Scanners/Number-312-blue.svg" alt="number">
- <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box">
+ <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
  </p>
 <br/>
 
