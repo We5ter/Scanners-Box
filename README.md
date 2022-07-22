@@ -204,7 +204,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/abhi-r3v0/Adhrit - **Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera benchmarks**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/abhi-r3v0/Adhrit?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/abhi-r3v0/Adhrit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/abhi-r3v0/Adhrit?style=flat-square)  ![GitHub](https://img.shields.io/github/license/abhi-r3v0/Adhrit?style=flat-square) <img alt="BlacHatUSA-arsenal-2022" src="https://dpurl.org/uweMP">
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/abhi-r3v0/Adhrit?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/abhi-r3v0/Adhrit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/abhi-r3v0/Adhrit?style=flat-square)  ![GitHub](https://img.shields.io/github/license/abhi-r3v0/Adhrit?style=flat-square) <img alt="BlacHatUSA-arsenal-2022" src="./badges/BlackHatUSA--arsenal-2022-blue.svg">
 
 ### Binary Executables Analysis
 
@@ -896,7 +896,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/lcvvvv/kscan  - **Port scanning, protocol detection(1200+), fingerprint(1w+) and brute force cracking**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lcvvvv/kscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lcvvvv/kscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lcvvvv/kscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lcvvvv/kscan?style=flat-square)  <img alt="kcon-arsenal-2022" src="https://dpurl.org/Hgyne">
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lcvvvv/kscan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lcvvvv/kscan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lcvvvv/kscan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lcvvvv/kscan?style=flat-square)
 
 
 ### Special Components or Vulnerability Categories Scan
