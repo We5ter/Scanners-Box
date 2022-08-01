@@ -208,7 +208,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/pascal-lab/Tai-e - **An easy-to-learn/use static analysis framework for Java, especially for Android**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/pascal-lab/Tai-e?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/pascal-lab/Tai-e?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/pascal-lab/Tai-e?style=flat-square)  ![GitHub](https://img.shields.io/github/license/pascal-lab/Tai-e?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/pascal-lab/Tai-e?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/pascal-lab/Tai-e?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/pascal-lab/Tai-e?style=flat-square)  ![GitHub](https://img.shields.io/github/license/pascal-lab/Tai-e?style=flat-square)
 
 
 ### Binary Executables Analysis
