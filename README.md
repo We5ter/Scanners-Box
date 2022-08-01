@@ -5,9 +5,9 @@ English | [简体中文](./README_CN.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2022.07-blue.svg" alt="202207">
+  <img src="https://img.shields.io/badge/version-2022.08-blue.svg" alt="202208">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-312-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-313-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
  </p>
 <br/>
@@ -205,6 +205,11 @@ English | [简体中文](./README_CN.md)
 - https://github.com/abhi-r3v0/Adhrit - **Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera benchmarks**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/abhi-r3v0/Adhrit?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/abhi-r3v0/Adhrit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/abhi-r3v0/Adhrit?style=flat-square)  ![GitHub](https://img.shields.io/github/license/abhi-r3v0/Adhrit?style=flat-square) <img alt="BlacHatUSA-arsenal-2022" src="./badges/BlackHatUSA--arsenal-2022-blue.svg">
+
+- https://github.com/pascal-lab/Tai-e - **An easy-to-learn/use static analysis framework for Java, especially for Android**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/pascal-lab/Tai-e?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/pascal-lab/Tai-e?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/pascal-lab/Tai-e?style=flat-square)  ![GitHub](https://img.shields.io/github/license/pascal-lab/Tai-e?style=flat-square)
+
 
 ### Binary Executables Analysis
 
