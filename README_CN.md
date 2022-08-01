@@ -5,9 +5,9 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-2022.07-blue.svg" alt="202207">
+  <img src="https://img.shields.io/badge/版本-2022.08-blue.svg" alt="202208">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-312-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-313-blue.svg" alt="number">
 </p>
 
 
@@ -197,7 +197,12 @@
 
 - https://github.com/abhi-r3v0/Adhrit - **安卓安全套件，基于Ghera benchmarks进行静态字节码分析**
 
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/abhi-r3v0/Adhrit?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/abhi-r3v0/Adhrit?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/abhi-r3v0/Adhrit?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/abhi-r3v0/Adhrit?style=flat-square&label=开源协议) <img alt="BlacHatUSA-arsenal-2022" src="https://dpurl.org/uweMP">
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/abhi-r3v0/Adhrit?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/abhi-r3v0/Adhrit?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/abhi-r3v0/Adhrit?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/abhi-r3v0/Adhrit?style=flat-square&label=开源协议) <img alt="BlackHatUSA-arsenal-2022" src="./badges/BlackHatUSA--arsenal-2022-blue.svg">
+
+- https://github.com/pascal-lab/Tai-e - **“易学易用” 同时 “性能出色” 的通用型Java静态分析框架,比较适用于安卓代码分析**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/pascal-lab/Tai-e?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/pascal-lab/Tai-e?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/pascal-lab/Tai-e?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/pascal-lab/Tai-e?style=flat-square&label=开源协议)
+
 
 ### 二进制可执行文件分析
 
@@ -893,7 +898,7 @@
 
 - https://github.com/lcvvvv/kscan  - **具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种**
 
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lcvvvv/kscan?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/lcvvvv/kscan?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/lcvvvv/kscan?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/lcvvvv/kscan?style=flat-square&label=开源协议) <img alt="kcon-arsenal-2022" src="https://dpurl.org/Hgyne">
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lcvvvv/kscan?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/lcvvvv/kscan?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/lcvvvv/kscan?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/lcvvvv/kscan?style=flat-square&label=开源协议)
 
 
 ### 特殊组件或漏洞类型扫描
