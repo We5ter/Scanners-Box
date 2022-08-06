@@ -342,9 +342,9 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Haskell-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/giovanifss/Dumb?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/giovanifss/Dumb?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/giovanifss/Dumb?style=flat-square)  ![GitHub](https://img.shields.io/github/license/giovanifss/Dumb?style=flat-square)
 
-- https://github.com/caffix/amass - **Subdomain enumeration in Go**
+- https://github.com/OWASP/Amass - **In-depth Attack Surface Mapping and Asset Discovery**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/caffix/amass?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/caffix/amass?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/caffix/amass?style=flat-square)  ![GitHub](https://img.shields.io/github/license/caffix/amass?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/OWASP/Amass?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/OWASP/Amass?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/OWASP/Amass?style=flat-square)  ![GitHub](https://img.shields.io/github/license/OWASP/Amass?style=flat-square)
 
 - https://github.com/Ice3man543/subfinder - **A subdomain discovery tool which has a simple modular architecture and has been aimed as a successor to sublist3r project**
 
