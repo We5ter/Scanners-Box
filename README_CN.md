@@ -336,9 +336,9 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Haskell-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/giovanifss/Dumb?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/giovanifss/Dumb?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/giovanifss/Dumb?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/giovanifss/Dumb?style=flat-square&label=开源协议)
 
-- https://github.com/caffix/amass - **Go语言开发的子域名枚举工具**
+- https://github.com/OWASP/Amass - **Go语言攻击面与域名资产发现**
 
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/caffix/amass?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/caffix/amass?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/caffix/amass?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/caffix/amass?style=flat-square&label=开源协议)
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/OWASP/Amass?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/OWASP/Amass?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/OWASP/Amass?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/OWASP/Amass?style=flat-square&label=开源协议)
 
 - https://github.com/Ice3man543/subfinder - **继承于Sublist3r项目的模块化体系结构，一个强劲的子域名枚举工具**
 
