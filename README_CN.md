@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/版本-2022.11-blue.svg" alt="202208">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-316-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-317-blue.svg" alt="number">
 </p>
 
 
@@ -1090,6 +1090,10 @@
 - https://github.com/seungsoo-lee/DELTA - **SDN网络安全评估及利用框架**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/seungsoo-lee/DELTA?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/seungsoo-lee/DELTA?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/seungsoo-lee/DELTA?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/seungsoo-lee/DELTA?style=flat-square&label=开源协议)
+
+- https://github.com/anouarbensaad/vulnx - **CMS漏洞扫描利用框架，支持Joomla、WP、drupal等**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anouarbensaad/vulnx?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/anouarbensaad/vulnx?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/anouarbensaad/vulnx?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/anouarbensaad/vulnx?style=flat-square&label=开源协议)
 
 
 ### 动态或静态代码审计
