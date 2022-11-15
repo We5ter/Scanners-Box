@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2022.11-blue.svg" alt="202208">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-316-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-317-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
  </p>
 <br/>
@@ -1094,6 +1094,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/seungsoo-lee/DELTA - **Sdn security evaluation framework**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/seungsoo-lee/DELTA?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/seungsoo-lee/DELTA?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/seungsoo-lee/DELTA?style=flat-square)  ![GitHub](https://img.shields.io/github/license/seungsoo-lee/DELTA?style=flat-square)
+
+- https://github.com/anouarbensaad/vulnx - **Intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anouarbensaad/vulnx?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/anouarbensaad/vulnx?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/anouarbensaad/vulnx?style=flat-square)  ![GitHub](https://img.shields.io/github/license/anouarbensaad/vulnx?style=flat-square)
 
 
 ### Dynamic or Static Code Analysis
