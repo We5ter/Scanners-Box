@@ -5,9 +5,9 @@ English | [简体中文](./README_CN.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2023.01-blue.svg" alt="202301">
+  <img src="https://img.shields.io/badge/version-2023.02-blue.svg" alt="202301">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-320-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-321-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
  </p>
 <br/>
@@ -223,6 +223,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/pascal-lab/Tai-e - **An easy-to-learn/use static analysis framework for Java, especially for Android**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Java-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/pascal-lab/Tai-e?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/pascal-lab/Tai-e?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/pascal-lab/Tai-e?style=flat-square)  ![GitHub](https://img.shields.io/github/license/pascal-lab/Tai-e?style=flat-square)
+
+- https://github.com/Cyber-Buddy/APKHunt - **A comprehensive static code analysis tool for Android apps that is based on the OWASP MASVS framework**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Cyber-Buddy/APKHunt?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Cyber-Buddy/APKHunt?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Cyber-Buddy/APKHunt?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Cyber-Buddy/APKHunt?style=flat-square)
 
 
 ### Binary Executables Analysis
