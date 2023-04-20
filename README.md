@@ -5,9 +5,9 @@ English | [简体中文](./README_CN.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2023.02-blue.svg" alt="202301">
+  <img src="https://img.shields.io/badge/version-2023.04-blue.svg" alt="202301">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-321-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-322-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
  </p>
 <br/>
@@ -161,6 +161,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/h4wkst3r/SCMKit  - **Source Code Management Attack Toolkit,such as GitHub Enterprise, GitLab Enterprise and Bitbucket Server**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-CSharp-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/h4wkst3r/SCMKit?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/h4wkst3r/SCMKit?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/h4wkst3r/SCMKit?style=flat-square)  ![GitHub](https://img.shields.io/github/license/h4wkst3r/SCMKit?style=flat-square)
+
+- https://github.com/lijiejie/MisConfig_HTTP_Proxy_Scanner  - **Helps to scan misconfigured reverse proxy servers and misconfigured forward proxy servers**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lijiejie/MisConfig_HTTP_Proxy_Scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/lijiejie/MisConfig_HTTP_Proxy_Scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lijiejie/MisConfig_HTTP_Proxy_Scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/lijiejie/MisConfig_HTTP_Proxy_Scanner?style=flat-square)
 
 
 #### Wireless Pentest
