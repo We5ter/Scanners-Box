@@ -5,9 +5,9 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-2023.02-blue.svg" alt="202301">
+  <img src="https://img.shields.io/badge/版本-2023.04-blue.svg" alt="202301">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-321-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-322-blue.svg" alt="number">
 </p>
 
 
@@ -153,6 +153,10 @@
 - https://github.com/h4wkst3r/SCMKit  - **针对GitHub Enterprise, GitLab Enterprise and Bitbucket Server的源代码平台攻击工具**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-CSharp-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/h4wkst3r/SCMKit?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/h4wkst3r/SCMKit?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/h4wkst3r/SCMKit?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/h4wkst3r/SCMKit?style=flat-square&label=开源协议)
+
+- https://github.com/lijiejie/MisConfig_HTTP_Proxy_Scanner  - **用于扫描企业错误配置的直通内网的反向代理服务器和错误配置的正向代理服务器**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lijiejie/MisConfig_HTTP_Proxy_Scanner?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/lijiejie/MisConfig_HTTP_Proxy_Scanner?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/lijiejie/MisConfig_HTTP_Proxy_Scanner?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/lijiejie/MisConfig_HTTP_Proxy_Scanner?style=flat-square&label=开源协议)
 
 
 #### 无线网络渗透
