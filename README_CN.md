@@ -1,4 +1,4 @@
-[English](./README.md) | 简体中文
+[English](./README.md_cn) | 简体中文
 
 <p align="center">
 <img src="./logo.png" width="300px">
