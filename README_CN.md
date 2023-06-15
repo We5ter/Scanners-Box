@@ -5,9 +5,9 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-2023.04-blue.svg" alt="202301">
+  <img src="https://img.shields.io/badge/版本-2023.06-blue.svg" alt="202301">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-322-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-323-blue.svg" alt="number">
 </p>
 
 
@@ -120,7 +120,7 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/niloofarkheirkhah/nili?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/niloofarkheirkhah/nili?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/niloofarkheirkhah/nili.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/niloofarkheirkhah/nili?style=flat-square&label=开源协议)
 
-#### 内网渗透工具集
+#### 框架类
 
 - https://github.com/m4n3dw0lf/PytheM - **支持ARP欺骗、中间人攻击等多种攻击的网络渗透测试套件**
 
@@ -157,6 +157,10 @@
 - https://github.com/lijiejie/MisConfig_HTTP_Proxy_Scanner  - **用于扫描企业错误配置的直通内网的反向代理服务器和错误配置的正向代理服务器**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lijiejie/MisConfig_HTTP_Proxy_Scanner?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/lijiejie/MisConfig_HTTP_Proxy_Scanner?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/lijiejie/MisConfig_HTTP_Proxy_Scanner?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/lijiejie/MisConfig_HTTP_Proxy_Scanner?style=flat-square&label=开源协议)
+
+- https://github.com/chainreactors/gogo  - **面向红队的, 高度可控可拓展的自动化引擎**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chainreactors/gogo?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/chainreactors/gogo?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/chainreactors/gogo?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/chainreactors/gogo?style=flat-square&label=开源协议)
 
 
 #### 无线网络渗透
