@@ -5,9 +5,9 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-2023.06-blue.svg" alt="202301">
+  <img src="https://img.shields.io/badge/版本-2023.07-blue.svg" alt="202301">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-323-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-326-blue.svg" alt="number">
 </p>
 
 
@@ -19,6 +19,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [大模型安全](#大模型安全)
 - [智能合约安全](#智能合约安全)
 - [红蓝对抗](#红蓝对抗)
 - [移动应用包文件分析](#移动应用包文件分析)
@@ -40,6 +41,21 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ***
+
+### 大模型安全
+
+- https://github.com/leondz/garak - **用于监测大模型数据泄露、提示注入、错误信息、投毒、越狱和许多其他风险的扫描工具**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/leondz/garak?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/leondz/garak?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/leondz/garak.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/leondz/garak?style=flat-square&label=开源协议)
+
+- https://github.com/protectai/rebuff - **保护 AI 应用程序免受即时注入 (PI) 攻击**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/protectai/rebuff?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/protectai/rebuff?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/protectai/rebuff.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/protectai/rebuff?style=flat-square&label=开源协议)
+
+- https://github.com/mnns/LLMFuzzer - **大模型模糊测试框架**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/mnns/LLMFuzzer?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/mnns/LLMFuzzer?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/mnns/LLMFuzzer.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/mnns/LLMFuzzer?style=flat-square&label=开源协议)
+
 
 ### 智能合约安全
 
