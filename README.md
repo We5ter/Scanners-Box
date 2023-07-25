@@ -12,10 +12,18 @@ English | [简体中文](./README_CN.md)
  </p>
 <br/>
 
-## Sponsor This Project
+## Buy Me a Coffee
 
-<a href="https://www.buymeacoffee.com/we5ter"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=we5ter&button_colour=0773b3&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+<div style="display:flex; justify-content: space-between;">
+<img src="badges/bmc_qr.png" width="240">
+<img src="badges/PHOTO_20230725_111629792.jpg" width="220">
+</div>
 
+## Sponsors
+<div class="sponsor">
+<img class="avatar avatar-user" src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="50" height="50">
+<b>Albert</b>
+</div>
 
 ## Introduction
 
@@ -1489,4 +1497,4 @@ We would like to thanks the following security researchers for their valuable fe
 
 [![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2022
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2023
