@@ -5,9 +5,9 @@ English | [简体中文](./README_CN.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2023.07-blue.svg" alt="202301">
+  <img src="https://img.shields.io/badge/version-2023.08-blue.svg" alt="202301">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-326-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-327-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
  </p>
 <br/>
@@ -45,7 +45,7 @@ English | [简体中文](./README_CN.md)
 - [Enterprise sensitive information Leak Scan](#enterprise-sensitive-information-leak-scan)
 - [Malicious Scripts Detection](#malicious-scripts-detection)
 - [Vulnerability Assessment for Middleware](#vulnerability-assessment-for-middleware)
-- [Special Components or Vulnerability Categories Scan](#special-components-or-vulnerability-categories-scan)
+- [Special Targets Scan](#special-targets-scan)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
 - [Advanced Persistent Threat Detect](#advanced-persistent-threat-detect)
@@ -963,7 +963,7 @@ English | [简体中文](./README_CN.md)
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/OJ/gobuster?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/OJ/gobuster?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/OJ/gobuster?style=flat-square)  ![GitHub](https://img.shields.io/github/license/OJ/gobuster?style=flat-square)
 
 
-### Special Components or Vulnerability Categories Scan
+### Special Targets Scan
 
 - https://github.com/1N3/XSSTracer  - **A small python script to check for cross-Site tracing, Clickjacking etc**
 
@@ -1144,6 +1144,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/anouarbensaad/vulnx - **Intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anouarbensaad/vulnx?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/anouarbensaad/vulnx?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/anouarbensaad/vulnx?style=flat-square)  ![GitHub](https://img.shields.io/github/license/anouarbensaad/vulnx?style=flat-square)
+
+- https://github.com/MrEmpy/Mantra - **A tool used to hunt down API key leaks in JS files and pages**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/MrEmpy/Mantra?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/MrEmpy/Mantra?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/MrEmpy/Mantra?style=flat-square)  ![GitHub](https://img.shields.io/github/license/MrEmpy/Mantra?style=flat-square)
 
 
 ### Dynamic or Static Code Analysis
