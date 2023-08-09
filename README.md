@@ -12,12 +12,10 @@ English | [简体中文](./README_CN.md)
  </p>
 <br/>
 
-## Buy Me a Coffee
+## Donate with PayPal
 
-<div style="display:flex; justify-content: space-between;">
-<img src="badges/bmc_qr.png" width="240">
-<img src="badges/PHOTO_20230725_111629792.jpg" width="220">
-</div>
+<a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="240"></a>
+
 
 ## Sponsors
 <div class="sponsor">
