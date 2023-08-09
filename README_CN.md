@@ -5,9 +5,9 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-2023.07-blue.svg" alt="202301">
+  <img src="https://img.shields.io/badge/版本-2023.08-blue.svg" alt="202301">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-326-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-327-blue.svg" alt="number">
 </p>
 
 
@@ -33,7 +33,7 @@
 - [企业敏感信息泄露检测](#企业敏感信息泄露检测)
 - [恶意脚本检测](#恶意脚本检测)
 - [中间件漏洞评估](#中间件漏洞评估)
-- [特殊组件或漏洞类型扫描](#特殊组件或漏洞类型扫描)
+- [特定目标扫描](#特殊目标扫描)
 - [动态或静态代码审计](#动态或静态代码审计)
 - [模块化设计扫描器或漏洞评估框架](#模块化设计扫描器或漏洞评估框架)
 - [定向APT攻击检测](#定向APT攻击检测)
@@ -964,7 +964,7 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/0xHJK/dumpall?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/0xHJK/dumpall?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/0xHJK/dumpall?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/0xHJK/dumpall?style=flat-square&label=开源协议)
 
-- https://github.com/shengqi158/svnhack - **A `.svn` 文件夹泄露利用工具**
+- https://github.com/shengqi158/svnhack - **`.svn` 文件夹泄露利用工具**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-NSE-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/shengqi158/svnhack?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/shengqi158/svnhack?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/shengqi158/svnhack?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/shengqi158/svnhack?style=flat-square&label=开源协议)
 
@@ -980,7 +980,7 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/code-scan/dzscan?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/code-scan/dzscan?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/code-scan/dzscan?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/code-scan/dzscan?style=flat-square&label=开源协议)
 
-- https://github.com/chuhades/CMS-Exploit-Framework  - **一款简洁优雅的CMS扫描及利用框架**
+- https://github.com/chuhades/CMS-Exploit-Framework  - **内容管理系统CMS扫描及利用框架**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/chuhades/CMS-Exploit-Framework?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/chuhades/CMS-Exploit-Framework?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/chuhades/CMS-Exploit-Framework?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/chuhades/CMS-Exploit-Framework?style=flat-square&label=开源协议)
 
@@ -988,7 +988,7 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lijiejie/IIS_shortname_Scanner?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/lijiejie/IIS_shortname_Scanner?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/lijiejie/IIS_shortname_Scanner?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/lijiejie/IIS_shortname_Scanner?style=flat-square&label=开源协议)
 
-- https://github.com/riusksk/FlashScanner - **Flash-XSS扫描**
+- https://github.com/riusksk/FlashScanner - **Flash-XSS扫描(Flash已被抛弃)**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/riusksk/FlashScanner?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/riusksk/FlashScanner?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/riusksk/FlashScanner?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/riusksk/FlashScanner?style=flat-square&label=开源协议)
 
@@ -1028,7 +1028,7 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/swisskyrepo/Wordpresscan?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/swisskyrepo/Wordpresscan?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/swisskyrepo/Wordpresscan?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/swisskyrepo/Wordpresscan?style=flat-square&label=开源协议)
 
-- https://github.com/CHYbeta/cmsPoc - **CMS渗透测试框架**
+- https://github.com/CHYbeta/cmsPoc - **内容管理系统CMS渗透测试框架**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/CHYbeta/cmsPoc?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/CHYbeta/cmsPoc?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/CHYbeta/cmsPoc?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/CHYbeta/cmsPoc?style=flat-square&label=开源协议)
 
@@ -1076,7 +1076,7 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Perl-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Moham3dRiahi/XAttacker?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/Moham3dRiahi/XAttacker?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/Moham3dRiahi/XAttacker?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/Moham3dRiahi/XAttacker?style=flat-square&label=开源协议)
 
-- https://github.com/lijiejie/BBScan - **一个迷你的信息泄漏批量扫描脚本**
+- https://github.com/lijiejie/BBScan - **通用信息泄漏批量扫描**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/lijiejie/BBScan?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/lijiejie/BBScan?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/lijiejie/BBScan?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/lijiejie/BBScan?style=flat-square&label=开源协议)
 
@@ -1100,11 +1100,11 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Perl-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/rezasp/vbscan?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/rezasp/vbscan?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/rezasp/vbscan?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/rezasp/vbscan?style=flat-square&label=开源协议)
 
-- https://github.com/MrSqar-Ye/BadMod - **CMS指纹识别及自动化渗透测试框架**
+- https://github.com/MrSqar-Ye/BadMod - **内容管理系统CMS指纹识别及自动化渗透测试框架**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-PHP-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/MrSqar-Ye/BadMod?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/MrSqar-Ye/BadMod?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/MrSqar-Ye/BadMod?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/MrSqar-Ye/BadMod?style=flat-square&label=开源协议)
 
-- https://github.com/Tuhinshubhra/CMSeeK - **CMS漏洞检测和利用套件**
+- https://github.com/Tuhinshubhra/CMSeeK - **内容管理系统CMS漏洞检测和利用套件**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tuhinshubhra/CMSeeK?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/Tuhinshubhra/CMSeeK?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/Tuhinshubhra/CMSeeK?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/Tuhinshubhra/CMSeeK?style=flat-square&label=开源协议)
 
@@ -1135,6 +1135,10 @@
 - https://github.com/anouarbensaad/vulnx - **CMS漏洞扫描利用框架，支持Joomla、WP、drupal等**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anouarbensaad/vulnx?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/anouarbensaad/vulnx?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/anouarbensaad/vulnx?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/anouarbensaad/vulnx?style=flat-square&label=开源协议)
+
+- https://github.com/MrEmpy/Mantra - **用于查找 JS 文件和页面中 API 密钥泄漏**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/MrEmpy/Mantra?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/MrEmpy/Mantra?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/MrEmpy/Mantra?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/MrEmpy/Mantra?style=flat-square&label=开源协议)
 
 
 ### 动态或静态代码审计
