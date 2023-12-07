@@ -12,7 +12,7 @@ English | [简体中文](./README_CN.md)
  </p>
 <br/>
 
-## Donate with PayPal
+## Donate with PayPal or Buy me a coffee
 
 <a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="240"></a>
 <a href="https://www.buymeacoffee.com/we5ter"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=we5ter&button_colour=019cdf&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
@@ -148,7 +148,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/opabravo/mass-bruter - **Mass bruteforce network protocols and default credentials for ports**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python -blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/opabravo/mass-bruter?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/opabravo/mass-bruter?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/opabravo/mass-bruter.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/opabravo/mass-bruter?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/opabravo/mass-bruter?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/opabravo/mass-bruter?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/opabravo/mass-bruter.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/opabravo/mass-bruter?style=flat-square)
 
 #### Man-In-The-Middle
 
