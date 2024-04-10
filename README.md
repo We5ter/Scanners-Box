@@ -5,9 +5,9 @@ English | [简体中文](./README_CN.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2023.12-blue.svg" alt="202301">
+  <img src="https://img.shields.io/badge/version-2024.04-blue.svg" alt="202301">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-329-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-331-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
  </p>
 <br/>
@@ -37,6 +37,7 @@ English | [简体中文](./README_CN.md)
 - [Mobile App Packages Analysis](#mobile-apps-packages-analysis)
 - [Binary Executables Analysis](#binary-executables-analysis)
 - [Privacy Compliance](#privacy-compliance)
+- [IoT Hardware Automated Audit](#iot-hardware-automated-audit)
 - [Subdomain Enumeration or Takeover](#subdomain-enumeration-or-takeover)
 - [Database SQL Injection Vulnerability or Brute Force](#database-sql-injection-vulnerability-or-brute-force)
 - [Weak Usernames or Passwords Enumeration For Web](#weak-usernames-or-passwords-enumeration-for-web)
@@ -45,7 +46,7 @@ English | [简体中文](./README_CN.md)
 - [Enterprise sensitive information Leak Scan](#enterprise-sensitive-information-leak-scan)
 - [Malicious Scripts Detection](#malicious-scripts-detection)
 - [Vulnerability Assessment for Middleware](#vulnerability-assessment-for-middleware)
-- [Special Targets Scan](#special-targets-scan)
+- [Special Vulnerability Categories Scan for Web](#special-vulnerability-categories-scan-for-web)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
 - [Advanced Persistent Threat Detect](#advanced-persistent-threat-detect)
@@ -265,6 +266,10 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Cyber-Buddy/APKHunt?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Cyber-Buddy/APKHunt?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Cyber-Buddy/APKHunt?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Cyber-Buddy/APKHunt?style=flat-square)
 
+- https://github.com/cryptax/droidlysis - **A pre-analysis tool for Android apps: it performs repetitive and boring tasks we'd typically do at the beginning of any reverse engineering**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cryptax/droidlysis?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/cryptax/droidlysis?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/cryptax/droidlysis?style=flat-square)  ![GitHub](https://img.shields.io/github/license/cryptax/droidlysis?style=flat-square)
+
 
 ### Binary Executables Analysis
 
@@ -298,6 +303,21 @@ English | [简体中文](./README_CN.md)
 - https://github.com/momosecurity/bombus - **Enterprise security and privacy compliance platform**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/momosecurity/bombus?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/momosecurity/bombus?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/momosecurity/bombus?style=flat-square)  ![GitHub](https://img.shields.io/github/license/momosecurity/bombus?style=flat-square)
+
+### IoT Hardware Automated Audit
+
+- https://github.com/bahaabdelwahed/st - **An advanced security tool engineered specifically to scrutinize and detect threats within the intricate protocols utilized by IoT (Internet of Things) devices**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%8-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/bahaabdelwahed/st?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/bahaabdelwahed/st?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/bahaabdelwahed/st?style=flat-square)  ![GitHub](https://img.shields.io/github/license/bahaabdelwahed/st?style=flat-square)
+
+- https://github.com/0x4D31/salt-scanner - **Linux vulnerability scanner based on Salt Open and vulners audit API, with Slack notifications and JIRA integration**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/0x4D31/salt-scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/0x4D31/salt-scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/0x4D31/salt-scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/0x4D31/salt-scanner?style=flat-square)
+
+- https://github.com/vulmon/Vulmap - **Local vulnerability scanning programs for Windows and Linux operating systems**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-PowerShell-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vulmon/Vulmap?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/vulmon/Vulmap?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/vulmon/Vulmap?style=flat-square)  ![GitHub](https://img.shields.io/github/license/vulmon/Vulmap?style=flat-square)
+
 
 ### Subdomain Enumeration or Takeover
 
@@ -971,7 +991,7 @@ English | [简体中文](./README_CN.md)
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/OJ/gobuster?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/OJ/gobuster?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/OJ/gobuster?style=flat-square)  ![GitHub](https://img.shields.io/github/license/OJ/gobuster?style=flat-square)
 
 
-### Special Targets Scan
+### Special Vulnerability Categories Scan for Web
 
 - https://github.com/1N3/XSSTracer  - **A small python script to check for cross-Site tracing, Clickjacking etc**
 
@@ -1029,9 +1049,6 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/D35m0nd142/LFISuite?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/D35m0nd142/LFISuite?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/D35m0nd142/LFISuite?style=flat-square)  ![GitHub](https://img.shields.io/github/license/D35m0nd142/LFISuite?style=flat-square)
 
-- https://github.com/0x4D31/salt-scanner - **Linux vulnerability scanner based on Salt Open and vulners audit API, with Slack notifications and JIRA integration**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/0x4D31/salt-scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/0x4D31/salt-scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/0x4D31/salt-scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/0x4D31/salt-scanner?style=flat-square)
 
 - https://github.com/tijme/angularjs-csti-scanner - **Automated client-side template injection detection for AngularJS**
 
@@ -1140,10 +1157,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/6IX7ine/djangohunter - **Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/6IX7ine/djangohunter?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/6IX7ine/djangohunter?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/6IX7ine/djangohunter?style=flat-square)  ![GitHub](https://img.shields.io/github/license/6IX7ine/djangohunter?style=flat-square)
-
-- https://github.com/vulmon/Vulmap - **Local vulnerability scanning programs for Windows and Linux operating systems**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-PowerShell-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vulmon/Vulmap?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/vulmon/Vulmap?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/vulmon/Vulmap?style=flat-square)  ![GitHub](https://img.shields.io/github/license/vulmon/Vulmap?style=flat-square)
 
 - https://github.com/seungsoo-lee/DELTA - **Sdn security evaluation framework**
 
@@ -1507,4 +1520,4 @@ We would like to thanks the following security researchers for their valuable fe
 
 [![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2023
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2024
