@@ -5,9 +5,9 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-2023.12-blue.svg" alt="202310">
+  <img src="https://img.shields.io/badge/版本-2024.04-blue.svg" alt="202310">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-329-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-331-blue.svg" alt="number">
 </p>
 
 
@@ -28,12 +28,12 @@
 - [子域名爆破枚举或接管](#子域名爆破枚举或接管)
 - [数据库注入漏洞或认证爆破](#数据库注入漏洞或认证爆破)
 - [网站弱用户名或弱口令枚举爆破](#网站弱用户名或弱口令枚举爆破)
-- [物联网设备认证爆破或漏洞评估](#物联网设备认证爆破或漏洞评估)
+- [IoT设备审计](#IoT设备审计)
 - [多类型跨站脚本漏洞检测](#多类型跨站脚本漏洞检测)
 - [企业敏感信息泄露检测](#企业敏感信息泄露检测)
 - [恶意脚本检测](#恶意脚本检测)
 - [中间件漏洞评估](#中间件漏洞评估)
-- [特定目标扫描](#特殊目标扫描)
+- [特定Web漏洞类型扫描](#特定Web漏洞类型扫描)
 - [动态或静态代码审计](#动态或静态代码审计)
 - [模块化设计扫描器或漏洞评估框架](#模块化设计扫描器或漏洞评估框架)
 - [定向APT攻击检测](#定向APT攻击检测)
@@ -252,6 +252,10 @@
 - https://github.com/Cyber-Buddy/APKHunt - **基于OWASP MASVS框架的Android应用静态代码分析工具**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Cyber-Buddy/APKHunt?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/Cyber-Buddy/APKHunt?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/Cyber-Buddy/APKHunt?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/Cyber-Buddy/APKHunt?style=flat-square&label=开源协议)
+
+- https://github.com/cryptax/droidlysis - **Android 应用程序的预分析工具：用于通常在逆向工程开始时执行的重复且无聊的任务**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cryptax/droidlysis?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/cryptax/droidlysis?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/cryptax/droidlysis?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/cryptax/droidlysis?style=flat-square&label=开源协议)
 
 
 ### 二进制可执行文件分析
@@ -533,7 +537,7 @@
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/TideSec/web_pwd_common_crack?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/TideSec/web_pwd_common_crack?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/TideSec/web_pwd_common_crack?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/TideSec/web_pwd_common_crack?style=flat-square&label=开源协议)
 
 
-### 物联网设备认证爆破或漏洞评估
+### IoT设备审计
 
 - https://github.com/rapid7/IoTSeeker - **物联网设备默认密码扫描检测工具**
 
@@ -566,6 +570,18 @@
 - https://github.com/firmianay/firmeye - **IDA 插件，基于敏感函数参数回溯来辅助漏洞挖掘**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/firmianay/firmeye?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/firmianay/firmeye?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/firmianay/firmeye?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/firmianay/firmeye?style=flat-square&label=开源协议)
+
+- https://github.com/bahaabdelwahed/st - **用于审查和检测 IoT（物联网）设备使用的复杂协议中的威胁**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/bahaabdelwahed/st?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/bahaabdelwahed/st?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/bahaabdelwahed/st?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/bahaabdelwahed/st?style=flat-square&label=开源协议)
+
+- https://github.com/vulmon/Vulmap - **Linux以及Windows服务器本地漏洞扫描**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-PowerShell-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vulmon/Vulmap?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/vulmon/Vulmap?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/vulmon/Vulmap?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/vulmon/Vulmap?style=flat-square&label=开源协议)
+
+- https://github.com/0x4D31/salt-scanner - **基于Salt Open以及Vulners Linux Audit API的linux漏洞扫描器，支持与JIRA、slack平台结合使用**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/0x4D31/salt-scanner?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/0x4D31/salt-scanner?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/0x4D31/salt-scanner?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/0x4D31/salt-scanner?style=flat-square&label=开源协议)
 
 
 ### 多类型跨站脚本漏洞检测
@@ -963,7 +979,7 @@
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/OJ/gobuster?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/OJ/gobuster?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/OJ/gobuster?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/OJ/gobuster?style=flat-square&label=开源协议)
 
 
-### 特殊组件或漏洞类型扫描
+### 特定Web漏洞类型扫描
 
 - https://github.com/1N3/XSSTracer  - **用于检测跨站跟踪, 点击劫持等问题的工具**
 
@@ -1020,10 +1036,6 @@
 - https://github.com/D35m0nd142/LFISuite - **本地文件包含漏洞利用及扫描工具，支持反弹shell**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/D35m0nd142/LFISuite?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/D35m0nd142/LFISuite?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/D35m0nd142/LFISuite?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/D35m0nd142/LFISuite?style=flat-square&label=开源协议)
-
-- https://github.com/0x4D31/salt-scanner - **基于Salt Open以及Vulners Linux Audit API的linux漏洞扫描器，支持与JIRA、slack平台结合使用**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/0x4D31/salt-scanner?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/0x4D31/salt-scanner?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/0x4D31/salt-scanner?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/0x4D31/salt-scanner?style=flat-square&label=开源协议)
 
 - https://github.com/tijme/angularjs-csti-scanner - **自动化探测客户端AngularJS模板注入漏洞工具**
 
@@ -1132,10 +1144,6 @@
 - https://github.com/6IX7ine/djangohunter - **用于检测因错误配置导致敏感信息暴露的Django应用程序**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/6IX7ine/djangohunter?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/6IX7ine/djangohunter?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/6IX7ine/djangohunter?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/6IX7ine/djangohunter?style=flat-square&label=开源协议)
-
-- https://github.com/vulmon/Vulmap - **Linux以及Windows服务器本地漏洞扫描**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-PowerShell-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vulmon/Vulmap?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/vulmon/Vulmap?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/vulmon/Vulmap?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/vulmon/Vulmap?style=flat-square&label=开源协议)
 
 - https://github.com/seungsoo-lee/DELTA - **SDN网络安全评估及利用框架**
 
@@ -1502,4 +1510,4 @@
 
 [![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2022
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2024
