@@ -1,5 +1,5 @@
 English | [简体中文](./README_CN.md)
- 
+
 <p align="center">
 <img src="./logo.png" width="300px">
  </p>
@@ -1244,6 +1244,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/infobyte/faraday - **Collaborative penetration test and vulnerability management platform**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/infobyte/faraday?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/infobyte/faraday?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/infobyte/faraday?style=flat-square)  ![GitHub](https://img.shields.io/github/license/infobyte/faraday?style=flat-square)
+
+- https://github.com/TideSec/TscanPlus - **Comprehensive penetest tool for rapid asset discovery, identification, and detection**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/TideSec/TscanPlus?style=flat-square)    ![GitHub last commit](https://img.shields.io/github/last-commit/TideSec/TscanPlus?style=flat-square)    ![GitHub stars](https://img.shields.io/github/stars/TideSec/TscanPlus?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/TideSec/TscanPlus?style=flat-square)
 
 - https://github.com/az0ne/AZScanner - **Automatic all-around scanner**
 
