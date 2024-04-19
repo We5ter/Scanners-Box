@@ -1235,6 +1235,10 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/infobyte/faraday?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/infobyte/faraday?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/infobyte/faraday?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/infobyte/faraday?style=flat-square&label=开源协议)
 
+- https://github.com/TideSec/TscanPlus - **一键式综合性渗透测试工具，快速资产发现、识别、检测**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/TideSec/TscanPlus?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/TideSec/TscanPlus?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/TideSec/TscanPlus?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/TideSec/TscanPlus?style=flat-square&label=开源协议)
+
 - https://github.com/az0ne/AZScanner - **自动漏洞扫描器，子域名爆破，端口扫描，目录爆破，常用框架漏洞检测**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/az0ne/AZScanner?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/az0ne/AZScanner?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/az0ne/AZScanner?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/az0ne/AZScanner?style=flat-square&label=开源协议)
