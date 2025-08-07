@@ -5,7 +5,7 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-2024.11-blue.svg" alt="202310">
+  <img src="https://img.shields.io/badge/版本-2025.08-blue.svg" alt="202508">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
  <img src="https://img.shields.io/badge/扫描器/总数-332-blue.svg" alt="number">
 </p>
@@ -442,9 +442,9 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cramppet/regulator?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/cramppet/regulator?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/cramppet/regulator?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/cramppet/regulator?style=flat-square&label=开源协议)
 
-- https://github.com/D3Ext/AORT - **子域名信息收集工具**
+- https://github.com/hadriansecurity/subwiz - **轻量级 GPT 模型,用于发现子域名**
 
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/D3Ext/AORT?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/D3Ext/AORT?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/D3Ext/AORT?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/D3Ext/AORT?style=flat-square&label=开源协议)
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/hadriansecurity/subwiz?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/hadriansecurity/subwiz?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/hadriansecurity/subwiz?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/hadriansecurity/subwiz?style=flat-square&label=开源协议)
 
 
 ### 数据库注入漏洞或认证爆破
@@ -1514,4 +1514,4 @@
 
 [![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2024
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2025
