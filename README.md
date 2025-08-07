@@ -5,7 +5,7 @@ English | [简体中文](./README_CN.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2024.11-blue.svg" alt="202301">
+  <img src="https://img.shields.io/badge/version-2025.08-blue.svg" alt="202508">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
  <img src="https://img.shields.io/badge/Scanners/Number-332-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
@@ -15,7 +15,6 @@ English | [简体中文](./README_CN.md)
 ## Donate with PayPal or Buy me a coffee
 
 <a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="240"></a>
-<a href="https://www.buymeacoffee.com/we5ter"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=we5ter&button_colour=019cdf&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 ## Sponsors
 <div class="sponsor">
@@ -454,9 +453,9 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cramppet/regulator?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/cramppet/regulator?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/cramppet/regulator?style=flat-square)  ![GitHub](https://img.shields.io/github/license/cramppet/regulator?style=flat-square)
 
-- https://github.com/D3Ext/AORT - **All in One Recon Tool for domains**
+- https://github.com/hadriansecurity/subwiz - **A lightweight GPT model, trained to discover subdomains.**
 
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/D3Ext/AORT?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/D3Ext/AORT?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/D3Ext/AORT?style=flat-square)  ![GitHub](https://img.shields.io/github/license/D3Ext/AORT?style=flat-square)
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/hadriansecurity/subwiz?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/hadriansecurity/subwiz?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/hadriansecurity/subwiz?style=flat-square)  ![GitHub](https://img.shields.io/github/license/hadriansecurity/subwiz?style=flat-square)
 
 
 ### Database SQL Injection Vulnerability or Brute Force
@@ -1521,4 +1520,4 @@ We would like to thanks the following security researchers for their valuable fe
 
 [![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2024
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2025
