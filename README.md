@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/we5ter-scanners-box-badge.png)](https://mseep.ai/app/we5ter-scanners-box)
+
 English | [简体中文](./README_CN.md)
  
 <p align="center">
