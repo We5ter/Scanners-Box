@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2025.08-blue.svg" alt="202508">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-332-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-333-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
  </p>
 <br/>
@@ -30,7 +30,7 @@ English | [简体中文](./README_CN.md)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Large Language Model Security](#large-language-model-security)
+- [AIGC Security](#aigc-security)
 - [Smart Contracts Security](#smart-contracts-security)
 - [Red Team vs Blue Team](#red-team-vs-blue-team)
 - [Mobile App Packages Analysis](#mobile-apps-packages-analysis)
@@ -54,7 +54,7 @@ English | [简体中文](./README_CN.md)
 
 ***
 
-### Large Language Model Security
+### AIGC Security
 
 - https://github.com/leondz/garak - **LLM vulnerability scanner for hallucination, data leakage, promp injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses**
 
@@ -67,6 +67,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/mnns/LLMFuzzer - **Fuzzing Framework for Large Language Models**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/mnns/LLMFuzzer?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/mnns/LLMFuzzer?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/mnns/LLMFuzzer.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/mnns/LLMFuzzer?style=flat-square)
+
+- https://github.com/Tencent/AI-Infra-Guard - **A.I.G (AI-Infra-Guard) integrates capabilities such as AI infrastructure vulnerability scanning, MCP Server risk detection, and LLM security assessments**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tencent/AI-Infra-Guard?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AI-Infra-Guard?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Tencent/AI-Infra-Guard?style=flat-square)
 
 
 ### Smart Contracts Security
