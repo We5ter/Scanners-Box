@@ -5,9 +5,9 @@ English | [简体中文](./README_CN.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2025.08-blue.svg" alt="202508">
+  <img src="https://img.shields.io/badge/version-2025.10-blue.svg" alt="202508">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-333-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-334-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
  </p>
 <br/>
@@ -1443,6 +1443,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/bigblackhat/oFx - **Vulnerability verification framework, corporate assets analysis and rapid scanner for 1day vulnerability**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/bigblackhat/oFx?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/bigblackhat/oFx?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/bigblackhat/oFx?style=flat-square)  ![GitHub](https://img.shields.io/github/license/bigblackhat/oFx?style=flat-square)
+
+- https://github.com/JiuZero/z0scan - **Security tools for web vulnerability detection(GUI version: https://github.com/JiuZero/Ling)**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/JiuZero/z0scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/JiuZero/z0scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/JiuZero/z0scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/JiuZero/z0scan?style=flat-square)
 
 
 ### Advanced Persistent Threat Detect
