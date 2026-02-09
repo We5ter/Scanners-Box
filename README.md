@@ -237,6 +237,10 @@ English | [简体中文](./README_CN.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/pinecone-wifi/pinecone?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/pinecone-wifi/pinecone?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/pinecone-wifi/pinecone?style=flat-square)  ![GitHub](https://img.shields.io/github/license/pinecone-wifi/pinecone?style=flat-square)
 
+- https://github.com/bad-antics/hak5-pineapple - **56+ WiFi Pineapple payload suite for wireless auditing, deauth, recon, evil twin, handshake capture and more**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Bash-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/bad-antics/hak5-pineapple?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/bad-antics/hak5-pineapple?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/bad-antics/hak5-pineapple?style=flat-square)  ![GitHub](https://img.shields.io/github/license/bad-antics/hak5-pineapple?style=flat-square)
+
 
 ### Mobile Apps Packages Analysis
 
