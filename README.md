@@ -5,9 +5,9 @@ English | [简体中文](./README_CN.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2025.10-blue.svg" alt="202508">
+  <img src="https://img.shields.io/badge/version-2026.03-blue.svg" alt="202508">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-334-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-335-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
  </p>
 <br/>
@@ -30,8 +30,9 @@ English | [简体中文](./README_CN.md)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [AIGC Security](#aigc-security)
-- [Smart Contracts Security](#smart-contracts-security)
+- [AI model-Powered autonomous scanners](#ai-model-powered-scanners)
+- [Scanners for AI Apps](#scanners-for-ai-apps)
+- [Scanners for Smart Contracts](#scanners-for-smart-contracts)
 - [Red Team vs Blue Team](#red-team-vs-blue-team)
 - [Mobile App Packages Analysis](#mobile-apps-packages-analysis)
 - [Binary Executables Analysis](#binary-executables-analysis)
@@ -44,7 +45,7 @@ English | [简体中文](./README_CN.md)
 - [Enterprise sensitive information Leak Scan](#enterprise-sensitive-information-leak-scan)
 - [Malicious Scripts Detection](#malicious-scripts-detection)
 - [Vulnerability Assessment for Middleware](#vulnerability-assessment-for-middleware)
-- [Special Vulnerability Categories Scan for Web](#special-vulnerability-categories-scan-for-web)
+- [Special Vulnerability Categories Scannners for Web](#special-vulnerability-categories-scanners-for-web)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
 - [Advanced Persistent Threat Detect](#advanced-persistent-threat-detect)
@@ -54,7 +55,14 @@ English | [简体中文](./README_CN.md)
 
 ***
 
-### AIGC Security
+### AI model-Powered autonomous scanners
+
+- https://github.com/KeygraphHQ/shannon - **Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square)
+
+
+### Scanners for AI Apps
 
 - https://github.com/leondz/garak - **LLM vulnerability scanner for hallucination, data leakage, promp injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses**
 
@@ -73,7 +81,7 @@ English | [简体中文](./README_CN.md)
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tencent/AI-Infra-Guard?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AI-Infra-Guard?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Tencent/AI-Infra-Guard?style=flat-square)
 
 
-### Smart Contracts Security
+### Scanners for Smart Contracts
 
 - https://github.com/ConsenSys/mythril - **Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera etc.**
 
@@ -995,7 +1003,7 @@ English | [简体中文](./README_CN.md)
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/OJ/gobuster?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/OJ/gobuster?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/OJ/gobuster?style=flat-square)  ![GitHub](https://img.shields.io/github/license/OJ/gobuster?style=flat-square)
 
 
-### Special Vulnerability Categories Scan for Web
+### Special Vulnerability Categories Scanners for Web
 
 - https://github.com/1N3/XSSTracer  - **A small python script to check for cross-Site tracing, Clickjacking etc**
 
