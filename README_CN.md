@@ -5,9 +5,9 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-2025.10-blue.svg" alt="202508">
+  <img src="https://img.shields.io/badge/版本-2026.03-blue.svg" alt="202508">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-334-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-335-blue.svg" alt="number">
 </p>
 
 
@@ -19,8 +19,9 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [泛AIGC安全](#泛AIGC安全)
-- [智能合约安全](#智能合约安全)
+- [AI大模型驱动的"自主"扫描器](#AI大模型驱动的"自主"扫描器)
+- [AI应用漏洞扫描器](#AI应用漏洞扫描器)
+- [智能合约漏洞扫描器](#智能合约漏洞扫描器)
 - [红蓝对抗](#红蓝对抗)
 - [移动应用包文件分析](#移动应用包文件分析)
 - [二进制可执行文件分析](#二进制可执行文件分析)
@@ -33,7 +34,7 @@
 - [企业敏感信息泄露检测](#企业敏感信息泄露检测)
 - [恶意脚本检测](#恶意脚本检测)
 - [中间件漏洞评估](#中间件漏洞评估)
-- [特定Web漏洞类型扫描](#特定Web漏洞类型扫描)
+- [特定Web漏洞类型扫描器](#特定Web漏洞类型扫描器)
 - [动态或静态代码审计](#动态或静态代码审计)
 - [模块化设计扫描器或漏洞评估框架](#模块化设计扫描器或漏洞评估框架)
 - [定向APT攻击检测](#定向APT攻击检测)
@@ -42,7 +43,13 @@
 
 ***
 
-### 泛AIGC安全
+### AI大模型驱动的"自主"扫描器
+
+- https://github.com/KeygraphHQ/shannon - **Shannon Lite 是一款基于大模型的自主运行的白盒扫描器，适用于 Web 应用程序和 API。它可以自主分析源代码，自主识别攻击面，并执行真实的EXP，从而在漏洞进入生产环境之前验证其有效性**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square&label=开源协议)
+
+### AI应用漏洞扫描器
 
 - https://github.com/leondz/garak - **用于监测大模型数据泄露、提示注入、错误信息、投毒、越狱和许多其他风险的扫描工具**
 
@@ -61,7 +68,7 @@
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tencent/AI-Infra-Guard?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AI-Infra-Guard?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/Tencent/AI-Infra-Guard?style=flat-square&label=开源协议)
 
 
-### 智能合约安全
+### 智能合约漏洞扫描器
 
 - https://github.com/ConsenSys/mythril - **EVM字节码审计工具，使用符号执行、污点分析来检测以太坊、Hedera等区块链的安全漏洞**
 
@@ -987,7 +994,7 @@
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/OJ/gobuster?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/OJ/gobuster?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/OJ/gobuster?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/OJ/gobuster?style=flat-square&label=开源协议)
 
 
-### 特定Web漏洞类型扫描
+### 特定Web漏洞类型扫描器
 
 - https://github.com/1N3/XSSTracer  - **用于检测跨站跟踪, 点击劫持等问题的工具**
 
