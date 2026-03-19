@@ -5,7 +5,7 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-2026.03-blue.svg" alt="202508">
+  <img src="https://img.shields.io/badge/版本-2026.03-blue.svg" alt="202603">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
  <img src="https://img.shields.io/badge/扫描器/总数-335-blue.svg" alt="number">
 </p>
@@ -32,7 +32,7 @@
 - [IoT设备审计](#IoT设备审计)
 - [多类型跨站脚本漏洞检测](#多类型跨站脚本漏洞检测)
 - [企业敏感信息泄露检测](#企业敏感信息泄露检测)
-- [恶意脚本检测](#恶意脚本检测)
+- [木马检测](#木马检测)
 - [中间件漏洞评估](#中间件漏洞评估)
 - [特定Web漏洞类型扫描器](#特定Web漏洞类型扫描器)
 - [动态或静态代码审计](#动态或静态代码审计)
@@ -711,7 +711,7 @@
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/sdushantha/dora?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/sdushantha/dora?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/sdushantha/dora?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/sdushantha/dora?style=flat-square&label=开源协议)
 
 
-### 恶意脚本检测
+### 木马检测
 
 - https://github.com/he1m4n6a/findWebshell  - **一款简单的webshell检测工具**
 
@@ -1529,4 +1529,4 @@
 
 [![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2025
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2017-2026
