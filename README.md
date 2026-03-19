@@ -5,7 +5,7 @@ English | [简体中文](./README_CN.md) ｜ [日本語](./README_JP.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2026.03-blue.svg" alt="202508">
+  <img src="https://img.shields.io/badge/version-2026.03-blue.svg" alt="202603">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
  <img src="https://img.shields.io/badge/Scanners/Number-335-blue.svg" alt="number">
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"></a>
@@ -43,7 +43,7 @@ English | [简体中文](./README_CN.md) ｜ [日本語](./README_JP.md)
 - [IoT Hardware Automated Audit](#iot-hardware-automated-audit)
 - [Mutiple types of Cross-site scripting Detection](#mutiple-types-of-cross-site-scripting-detection)
 - [Enterprise sensitive information Leak Scan](#enterprise-sensitive-information-leak-scan)
-- [Malicious Scripts Detection](#malicious-scripts-detection)
+- [Malware Detection](#malware-detection)
 - [Vulnerability Assessment for Middleware](#vulnerability-assessment-for-middleware)
 - [Special Vulnerability Categories Scannners for Web](#special-vulnerability-categories-scanners-for-web)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
@@ -721,7 +721,7 @@ English | [简体中文](./README_CN.md) ｜ [日本語](./README_JP.md)
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/sdushantha/dora?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/sdushantha/dora?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/sdushantha/dora?style=flat-square)  ![GitHub](https://img.shields.io/github/license/sdushantha/dora?style=flat-square)
 
 
-### Malicious Scripts Detection
+### Malware Detection
 
 - https://github.com/he1m4n6a/findWebshell  - **Simple webshell detector**
 
