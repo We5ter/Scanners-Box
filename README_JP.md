@@ -99,13 +99,13 @@
 
 ### レッドチーム vs ブルーチーム
 
-#### Supply Chain Analysis(SCA)
+#### ソフトウェアサプライチェーン分析(SCA)
 
 - https://github.com/murphysecurity/murphysec - **ソフトウェアサプライチェーンのセキュリティ解析を行うオープンソースツールです。**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/murphysecurity/murphysec?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/murphysecurity/murphysec?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/murphysecurity/murphysec.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/murphysecurity/murphysec?style=flat-square)
 
-#### Container and Cluster
+#### コンテナとクラスタ
 
 - https://github.com/cdk-team/CDK - **コンテナやクラスタ内部の情報収集や悪用を支援するツールです。**
 
@@ -143,7 +143,7 @@
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anchore/grype?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/anchore/grype?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/anchore/grype?style=flat-square)  ![GitHub](https://img.shields.io/github/license/anchore/grype?style=flat-square)
 
-#### Services fingerprint detection
+#### サービスのフィンガープリント検出
 
 - https://github.com/EdgeSecurityTeam/EHole - **レッドチーム向けのコアシステム指紋検出ツールです。**
 
@@ -153,13 +153,13 @@
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/opabravo/mass-bruter?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/opabravo/mass-bruter?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/opabravo/mass-bruter.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/opabravo/mass-bruter?style=flat-square)
 
-#### Man-In-The-Middle
+#### マンインテhemiddle攻撃
 
 - https://github.com/niloofarkheirkhah/nili - **ネットワークスキャン、中間者攻撃、プロトコルリバースエンジニア��ング、ファジングのためのツールです。**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/niloofarkheirkhah/nili?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/niloofarkheirkhah/nili?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/niloofarkheirkhah/nili.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/niloofarkheirkhah/nili?style=flat-square)
 
-#### The framework
+#### フレームワーク
 
 - https://github.com/m4n3dw0lf/PytheM - **多目的ネットワークペネトレーションテストフレームワークです。**
 
@@ -205,7 +205,7 @@
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/freelabz/secator?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/freelabz/secator?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/freelabz/secator?style=flat-square)  ![GitHub](https://img.shields.io/github/license/freelabz/secator?style=flat-square)
 
-#### Wireless Pentest
+#### ワイヤレスペネトレーションテスト
 
 - https://github.com/savio-code/fern-wifi-cracker - **自身のネットワークの脆弱性をテスト・検出する無線監査ツールです。**
 
@@ -1484,14 +1484,32 @@
 
 以下のセキュリティ研究者の皆様に感謝します。
 
-- **@0c0c0f**
+- **@0c0c0f**     
 - **@藏形匿影**
-- **@Mottoin team**
+- **@Mottoin团队**
 - **@BlackHole**
-- （以下略）
+- **@CodeColorist**
+- **@3xp10it**
+- **@re4lity**
+- **@s0md3v**
+- **@boy-hack**
+- **@marsII**
+- **@tom0li**
+- **@hksanduo**
+- **@alexlauerman**
+- **@MedivhMT**
+- **@TideSec**
+- **@0xHJK**
+- **@j3ssie**
+- **@Luci-d**
+- **@cnlnn**
+- **@yunxu1**
+- **@saeeddhqan**
+- **@Sofiane Lounici**
+- **Owen Garrett@deepfence**
 
 ## Stargazers
 
 [![Stargazers over time](https://starchart.cc/We5ter/Scanners-Box.svg)](https://starchart.cc/We5ter/Scanners-Box)
 
-&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2025
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2027-2026
