@@ -5,11 +5,20 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-2026.03-blue.svg" alt="202603">
+  <img src="https://img.shields.io/badge/版本-2026.04-blue.svg" alt="202604">
   <img src="http://img.shields.io/badge/知识共享协议-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="知识共享协议">
- <img src="https://img.shields.io/badge/扫描器/总数-335-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/扫描器/总数-336-blue.svg" alt="number">
 </p>
 
+## 捐赠
+
+<a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="240"></a>
+
+## 支持者
+<div class="sponsor">
+<img class="avatar avatar-user" src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="50" height="50">
+<b>Albert</b>
+</div>
 
 ## 简介
 
@@ -48,6 +57,11 @@
 - https://github.com/KeygraphHQ/shannon - **Shannon Lite 是一款基于大模型的自主运行的白盒扫描器，适用于 Web 应用程序和 API。它可以自主分析源代码，自主识别攻击面，并执行真实的EXP，从而在漏洞进入生产环境之前验证其有效性**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square&label=开源协议)
+
+- https://github.com/weareaisle/nano-analyzer - **AISLE 开发的基于LLM的极简0day漏洞扫描器**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/weareaisle/nano-analyzer?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/weareaisle/nano-analyzer?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/weareaisle/nano-analyzer.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/weareaisle/nano-analyzer?style=flat-square&label=开源协议)
+
 
 ### AI应用漏洞扫描器
 
