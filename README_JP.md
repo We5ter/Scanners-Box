@@ -5,9 +5,9 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2026.03-blue.svg" alt="202603">
+  <img src="https://img.shields.io/badge/version-2026.04-blue.svg" alt="202604">
   <img src="http://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-335-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-336-blue.svg" alt="number">
  </p>
 <br/>
 
@@ -56,6 +56,11 @@
 - https://github.com/KeygraphHQ/shannon - **Shannon Liteは、WebアプリケーションとAPIに対して自律的に動作するホワイトボックスAIペネトレーションテスターです。ソースコードを解析し、攻撃ベクトルを特定し、本番環境に到達する前に実際のエクスプロイトを実行して脆弱性を証明します。**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square)
+
+- https://github.com/weareaisle/nano-analyzer - **AISLE社による、LLM を活用した最小限のゼロデイ脆弱性スキャナー。**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/weareaisle/nano-analyzer?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/weareaisle/nano-analyzer?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/weareaisle/nano-analyzer.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/weareaisle/nano-analyzer?style=flat-square)
+
 
 ### AIアプリ向けスキャナー
 
