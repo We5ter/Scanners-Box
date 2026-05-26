@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./A3C.png" alt="A³C — AI Autonomous Cybersecurity Agent Collection" width="600px">
+<img src="https://github.com/We5ter/Project-A3C/raw/main/A3C.png" alt="A³C — AI Autonomous Cybersecurity Agent Collection" width="600px">
 
 # A³C — AI Autonomous Cybersecurity Agent
 
 *The Curated Collection of AI Autonomous Cybersecurity Agent*
 
 [![Status: Active](https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
-[![License: MIT](https://img.shields.io/badge/License-MIT-6366f1?style=flat-square)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-6366f1?style=flat-square)](https://github.com/We5ter/Project-A3C/blob/main/LICENSE)
 [![Type: Collection](https://img.shields.io/badge/Type-Collection-6366f1?style=flat-square)](https://github.com/We5ter/Project-A3C)
 
 </div>
@@ -67,7 +67,7 @@ A³C serves as the **official index & authentication hub** for AI-driven autonom
 
 > Coming soon — AI agents for automated defense, detection, and response
 
-_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
+_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Scanners-Box/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
 
 ---
 
@@ -75,7 +75,7 @@ _🚧 This category is under curation. [Submit a project](https://github.com/We5
 
 > Coming soon — AI-driven Security Operations Center agents
 
-_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
+_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Scanners-Box/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
 
 ---
 
@@ -83,7 +83,7 @@ _🚧 This category is under curation. [Submit a project](https://github.com/We5
 
 > Coming soon — AI-powered security operations assistants
 
-_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
+_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Scanners-Box/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
 
 ---
 
@@ -91,7 +91,7 @@ _🚧 This category is under curation. [Submit a project](https://github.com/We5
 
 > Coming soon — AI-driven threat attribution tools
 
-_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
+_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Scanners-Box/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
 
 ---
 
@@ -99,7 +99,7 @@ _🚧 This category is under curation. [Submit a project](https://github.com/We5
 
 > Coming soon — AI agents for enterprise office network security
 
-_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
+_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Scanners-Box/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
 
 ---
 
@@ -147,7 +147,7 @@ A³C is part of the **[Scanners Box](https://github.com/We5ter/Scanners-Box)** e
 Have an AI autonomous cybersecurity agent to add?
 
 <p align="center">
-  <sub>📌 <a href="https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name]"><b>Submit your project</b></a> · Star this repo · <a href="https://github.com/We5ter/Scanners-Box"><b>Visit Scanners Box</b></a></sub>
+  <sub>📌 <a href="https://github.com/We5ter/Scanners-Box/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name]"><b>Submit your project</b></a> · Star this repo · <a href="https://github.com/We5ter/Scanners-Box"><b>Visit Scanners Box</b></a></sub>
 </p>
 
 ---
@@ -156,6 +156,6 @@ Have an AI autonomous cybersecurity agent to add?
 
 **A Curated Collection by [Scanners Box](https://github.com/We5ter/Scanners-Box) · Open Source Forever**
 
-[⭐ Star Scanners Box](https://github.com/We5ter/Scanners-Box) · [🍴 Fork](https://github.com/We5ter/Project-A3C/fork) · [📡 Follow](https://github.com/We5ter)
+[⭐ Star Scanners Box](https://github.com/We5ter/Scanners-Box) · [🍴 Fork](https://github.com/We5ter/Scanners-Box/fork) · [📡 Follow](https://github.com/We5ter)
 
 </div>

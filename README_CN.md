@@ -53,7 +53,7 @@
 | 💼 **AI 办公网络安全** | AI Agent 保障企业办公网络安全，数据防泄漏与内部威胁防护 |
 
 <p align="center">
-  <sub>📌 关注 <a href="./Project-A3C.md"><b>Project A³C</b></a> 获取最新动态 · <a href="https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20%E5%90%88%E4%BD%9C"><b>加入我们</b></a></sub>
+  <sub>📌 关注 <a href="./Project-A3C.md"><b>Project A³C</b></a> 获取最新动态 · <a href="./Project-A3C.md"><b>加入我们</b></a></sub>
 </p>
 
 ## 目录
