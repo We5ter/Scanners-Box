@@ -116,7 +116,7 @@ Projects that meet A³C standards may display the **authenticated badge** in the
 ### Option 2 — Markdown image with link
 
 ```markdown
-<a href="https://github.com/We5ter/Project-A3C">
+<a href="https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md">
   <img src="https://github.com/We5ter/Project-A3C/raw/main/A3C.png" alt="A³C Authenticated" width="280px">
 </a>
 ```
@@ -124,7 +124,7 @@ Projects that meet A³C standards may display the **authenticated badge** in the
 ### Option 3 — Shields.io dynamic badge
 
 ```markdown
-[![A³C Authenticated](https://img.shields.io/badge/A%C2%B3C-Authenticated-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Project-A3C)
+[![A³C Authenticated](https://img.shields.io/badge/A%C2%B3C-Authenticated-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)
 ```
 
 The badge signifies that the project has been:
