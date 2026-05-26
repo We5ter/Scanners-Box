@@ -35,8 +35,8 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 *The next generation of AI-powered offensive & defensive security agents*
 
-[![Status: Active](https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
-[![Type: Open Source](https://img.shields.io/badge/Type-Open_Source-6366f1?style=flat-square&logo=opensourceinitiative)](https://github.com/We5ter/Project-A3C)
+[![Status: Active](https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github)](./Project-A3C.md)
+[![Type: Open Source](https://img.shields.io/badge/Type-Open_Source-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box Authenticated">
 

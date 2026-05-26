@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://github.com/We5ter/Project-A3C/raw/main/A3C.png" alt="A³C — AI Autonomous Cybersecurity Agent Collection" width="600px">
+<img src="https://github.com/We5ter/Scanners-Box/raw/master/badges/A3C.png" alt="A³C — AI Autonomous Cybersecurity Agent Collection" width="600px">
 
 # A³C — AI Autonomous Cybersecurity Agent
 
 *The Curated Collection of AI Autonomous Cybersecurity Agent*
 
-[![Status: Active](https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
-[![License: MIT](https://img.shields.io/badge/License-MIT-6366f1?style=flat-square)](https://github.com/We5ter/Project-A3C/blob/main/LICENSE)
-[![Type: Collection](https://img.shields.io/badge/Type-Collection-6366f1?style=flat-square)](https://github.com/We5ter/Project-A3C)
+[![Status: Active](https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-6366f1?style=flat-square)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)
+[![Type: Collection](https://img.shields.io/badge/Type-Collection-6366f1?style=flat-square)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)
 
 </div>
 
@@ -110,14 +110,14 @@ Projects that meet A³C standards may display the **authenticated badge** in the
 ### Option 1 — Image (recommended for project header)
 
 ```markdown
-<img src="https://github.com/We5ter/Project-A3C/raw/main/A3C.png" alt="A³C Authenticated" width="280px">
+<img src="https://github.com/We5ter/Scanners-Box/raw/master/badges/A3C.png" alt="A³C Authenticated" width="280px">
 ```
 
 ### Option 2 — Markdown image with link
 
 ```markdown
 <a href="https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md">
-  <img src="https://github.com/We5ter/Project-A3C/raw/main/A3C.png" alt="A³C Authenticated" width="280px">
+  <img src="https://github.com/We5ter/Scanners-Box/raw/master/badges/A3C.png" alt="A³C Authenticated" width="280px">
 </a>
 ```
 

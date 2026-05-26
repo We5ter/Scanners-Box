@@ -33,8 +33,8 @@
 
 *La nueva generación de agentes de seguridad ofensiva y defensiva impulsados por IA*
 
-[![Estado: Activo](https://img.shields.io/badge/Estado-Activo-success?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
-[![Tipo: Código Abierto](https://img.shields.io/badge/Tipo-Codigo_Abierto-6366f1?style=flat-square&logo=opensourceinitiative)](https://github.com/We5ter/Project-A3C)
+[![Estado: Activo](https://img.shields.io/badge/Estado-Activo-success?style=flat-square&logo=github)](./Project-A3C.md)
+[![Tipo: Código Abierto](https://img.shields.io/badge/Tipo-Codigo_Abierto-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box Autenticado">
 

@@ -32,8 +32,8 @@
 
 *新一代 AI 驱动的自主攻防安全智能体*
 
-[![状态: 活跃](https://img.shields.io/badge/状态-活跃-success?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
-[![类型: 开源项目](https://img.shields.io/badge/类型-开源项目-6366f1?style=flat-square&logo=opensourceinitiative)](https://github.com/We5ter/Project-A3C)
+[![状态: 活跃](https://img.shields.io/badge/状态-活跃-success?style=flat-square&logo=github)](./Project-A3C.md)
+[![类型: 开源项目](https://img.shields.io/badge/类型-开源项目-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box 认证">
 
