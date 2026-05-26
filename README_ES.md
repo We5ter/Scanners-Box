@@ -33,8 +33,8 @@
 
 *La nueva generación de agentes de seguridad ofensiva y defensiva impulsados por IA*
 
-[![Estado: Planificación](https://img.shields.io/badge/Estado-Planificación-indigo?style=flat-square&logo=github)](https://github.com/A3C-Security)
-[![Tipo: Código Abierto](https://img.shields.io/badge/Tipo-Codigo_Abierto-6366f1?style=flat-square&logo=opensourceinitiative)](https://github.com/A3C-Security)
+[![Estado: Activo](https://img.shields.io/badge/Estado-Activo-success?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
+[![Tipo: Código Abierto](https://img.shields.io/badge/Tipo-Codigo_Abierto-6366f1?style=flat-square&logo=opensourceinitiative)](https://github.com/We5ter/Project-A3C)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box Autenticado">
 
@@ -42,7 +42,7 @@
 
 </div>
 
-> 🚀 **Próximamente** — A³C es una **colección curada** de proyectos de código abierto que construyen **agentes de ciberseguridad con IA totalmente autónomos**. Es el índice oficial y centro de autenticación para herramientas de seguridad autónomas impulsadas por IA. [Visitar Project A³C →](https://github.com/We5ter/Project-A3C)
+> 🚀 **Ya disponible** — A³C es una **colección curada** de proyectos de código abierto que construyen **agentes de ciberseguridad con IA totalmente autónomos**. Es el índice oficial y centro de autenticación para herramientas de seguridad autónomas impulsadas por IA. [Visitar Project A³C →](./Project-A3C.md)
 
 | Capacidad | Descripción |
 |:----------|:------------|
@@ -54,7 +54,7 @@
 | 💼 **Seguridad de Red Oficinal con IA** | Agentes de IA para la seguridad de red empresarial, prevención de pérdida de datos y amenazas internas |
 
 <p align="center">
-  <sub>📌 Sigue a <a href="https://github.com/We5ter/Project-A3C"><b>Project A³C</b></a> para actualizaciones · <a href="https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Colaboraci%C3%B3n"><b>Colabora con nosotros</b></a></sub>
+  <sub>📌 Sigue a <a href="./Project-A3C.md"><b>Project A³C</b></a> para actualizaciones · <a href="https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Colaboraci%C3%B3n"><b>Colabora con nosotros</b></a></sub>
 </p>
 
 ## Tabla de contenidos

@@ -32,8 +32,8 @@
 
 *新一代 AI 驱动的自主攻防安全智能体*
 
-[![状态: 规划中](https://img.shields.io/badge/状态-规划中-indigo?style=flat-square&logo=github)](https://github.com/A3C-Security)
-[![类型: 开源项目](https://img.shields.io/badge/类型-开源项目-6366f1?style=flat-square&logo=opensourceinitiative)](https://github.com/A3C-Security)
+[![状态: 活跃](https://img.shields.io/badge/状态-活跃-success?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
+[![类型: 开源项目](https://img.shields.io/badge/类型-开源项目-6366f1?style=flat-square&logo=opensourceinitiative)](https://github.com/We5ter/Project-A3C)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box 认证">
 
@@ -41,7 +41,7 @@
 
 </div>
 
-> 🚀 **敬请关注** — A³C 是一个**精选集合项目**，致力于收录构建**完全自主 AI 网络安全 Agent** 的开源项目。它是 AI 驱动自主安全工具的**官方索引与认证中心**。[访问 Project A³C →](https://github.com/We5ter/Project-A3C)
+> 🚀 **正式上线** — A³C 是一个**精选集合项目**，致力于收录构建**完全自主 AI 网络安全 Agent** 的开源项目。它是 AI 驱动自主安全工具的**官方索引与认证中心**。[访问 Project A³C →](./Project-A3C.md)
 
 | 能力 | 说明 |
 |:-----|:-----|
@@ -53,7 +53,7 @@
 | 💼 **AI 办公网络安全** | AI Agent 保障企业办公网络安全，数据防泄漏与内部威胁防护 |
 
 <p align="center">
-  <sub>📌 关注 <a href="https://github.com/We5ter/Project-A3C"><b>Project A³C</b></a> 获取最新动态 · <a href="https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20%E5%90%88%E4%BD%9C"><b>加入我们</b></a></sub>
+  <sub>📌 关注 <a href="./Project-A3C.md"><b>Project A³C</b></a> 获取最新动态 · <a href="https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20%E5%90%88%E4%BD%9C"><b>加入我们</b></a></sub>
 </p>
 
 ## 目录

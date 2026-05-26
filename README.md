@@ -35,7 +35,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 *The next generation of AI-powered offensive & defensive security agents*
 
-[![Status: Planning](https://img.shields.io/badge/Status-Planning-indigo?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
+[![Status: Active](https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
 [![Type: Open Source](https://img.shields.io/badge/Type-Open_Source-6366f1?style=flat-square&logo=opensourceinitiative)](https://github.com/We5ter/Project-A3C)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box Authenticated">
@@ -44,7 +44,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 </div>
 
-> 🚀 **Coming Soon** — A³C is a **curated collection** of open-source projects that build **fully autonomous AI cybersecurity agents**. It serves as the official index & authentication hub for AI-driven autonomous security tools. [Visit Project A³C →](https://github.com/We5ter/Project-A3C)
+> 🚀 **Now Live** — A³C is a **curated collection** of open-source projects that build **fully autonomous AI cybersecurity agents**. It serves as the official index & authentication hub for AI-driven autonomous security tools. [Visit Project A³C →](./Project-A3C.md)
 
 | Capability | Description |
 |:-----------|:------------|
@@ -56,7 +56,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 | 💼 **AI Office Network Security** | AI agents for enterprise office network security, DLP & insider threat prevention |
 
 <p align="center">
-  <sub>📌 Follow the <a href="https://github.com/We5ter/Project-A3C"><b>Project A³C</b></a> for updates · <a href="https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Collaboration"><b>Collaborate with us</b></a></sub>
+  <sub>📌 Follow the <a href="./Project-A3C.md"><b>Project A³C</b></a> for updates · <a href="https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Collaboration"><b>Collaborate with us</b></a></sub>
 </p>
 
 ## Contents
