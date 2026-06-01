@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="20" viewBox="0 0 180 20">
+  <defs>
+    <clipPath id="c"><rect width="180" height="20" rx="3"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4338ca"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#c)">
+    <rect width="180" height="20" fill="url(#bg)"/>
+  </g>
+
+  <!-- Shield icon -->
+  <g transform="translate(5,4.5) scale(0.458)">
+    <path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4z"
+          fill="rgba(255,255,255,0.85)"/>
+  </g>
+
+  <rect x="22" y="5" width="1" height="10" fill="rgba(255,255,255,0.3)" rx="0.5"/>
+
+  <text x="28" y="14" font-family="DejaVu Sans,Verdana,Geneva,sans-serif"
+        font-size="10" fill="rgba(255,255,255,0.85)">license</text>
+
+  <rect x="76" y="5" width="1" height="10" fill="rgba(255,255,255,0.25)" rx="0.5"/>
+
+  <text x="129" y="14" text-anchor="middle"
+        font-family="DejaVu Sans,Verdana,Geneva,sans-serif"
+        font-size="10" fill="white" font-weight="700">CC-BY-NC-ND-4.0</text>
+</svg>

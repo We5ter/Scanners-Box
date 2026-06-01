@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="20" viewBox="0 0 90 20">
+  <defs>
+    <clipPath id="c"><rect width="90" height="20" rx="3"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#c)">
+    <rect width="90" height="20" fill="#111827"/>
+  </g>
+  <rect width="90" height="20" rx="3" fill="none"
+        stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- X logo (official brand path, 24×24 viewBox, scaled to ~11px) -->
+  <g transform="translate(5,4.5) scale(0.458)">
+    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.73-8.835L1.254 2.25H8.08l4.713 6.148zm-1.161 17.52h1.833L7.084 4.126H5.117z"
+          fill="white"/>
+  </g>
+
+  <!-- "Share on X" -->
+  <text x="22" y="14" font-family="DejaVu Sans,Verdana,Geneva,sans-serif"
+        font-size="10" fill="rgba(255,255,255,0.9)">Share on X</text>
+</svg>

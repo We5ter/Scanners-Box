@@ -5,21 +5,11 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2026.04-6366f1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==" alt="version">
-  <img src="https://img.shields.io/badge/license-CC--BY--NC--ND--4.0-8b5cf6?style=flat-square" alt="license">
- <img src="https://img.shields.io/badge/scanners-336-a78bfa?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxbC05IDV2OWw5IDUgOS01di05bC05LTV6Ii8+PC9zdmc+" alt="number">
+  <img src="./badges/version.svg" alt="version">
+  <img src="./badges/license.svg" alt="license">
+ <img src="./badges/scanners-count.svg" alt="scanners">
+ <a href="https://github.com/We5ter/ScanCodex"><img src="./badges/scancodex.svg" alt="ScanCodex MCP Server"></a>
  </p>
-<br/>
-
-## Donación (PayPal o Buy me a coffee)
-
-<a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="240"></a>
-
-## Patrocinadores
-<div class="sponsor">
-<img class="avatar avatar-user" src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="50" height="50">
-<b>Albert</b>
-</div>
 
 ## Introducción
 
@@ -29,33 +19,20 @@
 
 <div align="center">
 
-**A³C — Agente Autónomo de Ciberseguridad con IA**
-
-*La nueva generación de agentes de seguridad ofensiva y defensiva impulsados por IA*
+**A³C — Colección Curada de AI Autonomous Cybersecurity Agent**
 
 [![Estado: Activo](https://img.shields.io/badge/Estado-Activo-success?style=flat-square&logo=github)](./Project-A3C.md)
 [![Tipo: Código Abierto](https://img.shields.io/badge/Tipo-Codigo_Abierto-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box Autenticado">
 
-*Los proyectos que muestran la **insignia A³C** anterior están **oficialmente recomendados y autenticados** por Scanners Box como herramientas de ciberseguridad con IA confiables.*
+*Los proyectos que muestran la **insignia A³C** están **oficialmente recomendados y autenticados** por Scanners Box.*
 
 </div>
 
-> 🚀 **Ya disponible** — A³C es una **colección curada** de proyectos de código abierto que construyen **agentes de ciberseguridad con IA totalmente autónomos**. Es el índice oficial y centro de autenticación para herramientas de seguridad autónomas impulsadas por IA. [Visitar Project A³C →](./Project-A3C.md)
+> A³C es una colección curada de proyectos open-source de **agentes de ciberseguridad autónomos con IA** — cubriendo Red Team, Blue Team, SOC, DevSecOps, atribución de amenazas y seguridad empresarial.
 
-| Capacidad | Descripción |
-|:----------|:------------|
-| 🔴 **Equipo Rojo Autónomo con IA** | Agentes de IA que planifican y ejecutan cadenas de ataque de forma autónoma |
-| 🔵 **Equipo Azul Autónomo con IA** | Agentes de IA para defensa, detección y respuesta automatizadas |
-| 🛡️ **Agentes de IA SOC** | Centro de Operaciones de Seguridad impulsado por IA para monitoreo, alertas y respuesta a incidentes automatizados |
-| 🎧 **Asistente de DevSecOps con IA** | Asistente de operaciones de seguridad con IA para preguntas inteligentes, triaje y orientación |
-| 🔍 **Atribución de Ciberataques con IA** | Forense de intrusiones y atribución de amenazas impulsados por IA para análisis rápido de incidentes |
-| 💼 **Seguridad de Red Oficinal con IA** | Agentes de IA para la seguridad de red empresarial, prevención de pérdida de datos y amenazas internas |
-
-<p align="center">
-  <sub>📌 Sigue a <a href="./Project-A3C.md"><b>Project A³C</b></a> para actualizaciones · <a href="./Project-A3C.md"><b>Colabora con nosotros</b></a></sub>
-</p>
+<p align="center"><a href="./Project-A3C.md"><img src="./badges/a3c-cta.svg" alt="Visit Project A³C"></a></p>
 
 ## Tabla de contenidos
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -1509,6 +1486,29 @@ El contenido de este repositorio se publica bajo los términos de [CC BY-NC-ND 4
 
 Nos complace que este repositorio sea ampliamente compartido en la comunidad de seguridad informática. Al republicar, por favor cite la fuente (https://github.com/We5ter/Scanners-Box).
 
+## Patrocinadores
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="60" height="60"><br>
+      <sub><b>Albert</b></sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.paypal.com/paypalme/zhiyangzeng">
+        <img src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="60" height="60" style="opacity:0.25; filter:grayscale(1)"><br>
+        <sub>Tu nombre aquí</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="200"></a>
+  &nbsp;
+  <a href="https://www.buymeacoffee.com/we5ter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee"></a>
+</p>
+
 ## Agradecimientos
 
 Agradecemos a los siguientes investigadores de seguridad:
@@ -1546,5 +1546,7 @@ Agradecemos a los siguientes investigadores de seguridad:
   <br/><br/>
   <img src="https://api.star-history.com/svg?repos=We5ter/Scanners-Box&type=Date&theme=dark" alt="Star History Chart">
 </p>
+
+
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2027-2026

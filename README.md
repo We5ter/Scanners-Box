@@ -5,23 +5,13 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2026.05-6366f1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==" alt="version">
-  <img src="https://img.shields.io/badge/license-CC--BY--NC--ND--4.0-8b5cf6?style=flat-square" alt="license">
- <img src="https://img.shields.io/badge/scanners-338-a78bfa?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxbC05IDV2OWw5IDUgOS01di05bC05LTV6Ii8+PC9zdmc+" alt="number">
- <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box&logoColor=%23a78bfa"></a>
+  <img src="./badges/version.svg" alt="version">
+  <img src="./badges/license.svg" alt="license">
+ <img src="./badges/scanners-count.svg" alt="scanners">
+ <a href="https://github.com/We5ter/ScanCodex"><img src="./badges/scancodex.svg" alt="ScanCodex MCP Server"></a>
+ <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img src="./badges/x-share.svg" alt="Share on X"></a>
  </p>
  </p>
-<br/>
-
-## Donate with PayPal
-
-<a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="240"></a>
-
-## Sponsors
-<div class="sponsor">
-<img class="avatar avatar-user" src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="50" height="50">
-<b>Albert</b>
-</div>
 
 ## Introduction
 
@@ -31,33 +21,20 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 <div align="center">
 
-**A³C — AI Autonomous Cybersecurity Agent**
-
-*The next generation of AI-powered offensive & defensive security agents*
+**A³C — AI Autonomous Cybersecurity Agent Curated Collection**
 
 [![Status: Active](https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github)](./Project-A3C.md)
 [![Type: Open Source](https://img.shields.io/badge/Type-Open_Source-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box Authenticated">
 
-*Projects displaying the **A³C badge above** are **officially recommended & authenticated** by Scanners Box as trusted AI cybersecurity tools.*
+*Projects displaying the **A³C badge** are **officially recommended & authenticated** by Scanners Box.*
 
 </div>
 
-> 🚀 **Now Live** — A³C is a **curated collection** of open-source projects that build **fully autonomous AI cybersecurity agents**. It serves as the official index & authentication hub for AI-driven autonomous security tools. [Visit Project A³C →](./Project-A3C.md)
+> A³C is a curated collection of open-source **AI autonomous cybersecurity agent** projects — covering Red Team, Blue Team, SOC, DevSecOps, threat attribution, and enterprise security.
 
-| Capability | Description |
-|:-----------|:------------|
-| 🔴 **AI Autonomous Red Team** | AI agents that autonomously plan and execute attack chains |
-| 🔵 **AI Autonomous Blue Team** | AI agents for automated defense, detection, and response |
-| 🛡️ **AI SOC Agents** | AI-driven Security Operations Center for automated monitoring, alerting & incident response |
-| 🎧 **AI DevSecOps Assistant** | AI-powered security operations assistant for intelligent Q&A, triage & guidance |
-| 🔍 **AI Cyber Attacks Attribution** | AI-driven intrusion forensics and threat attribution for rapid incident analysis |
-| 💼 **AI Office Network Security** | AI agents for enterprise office network security, DLP & insider threat prevention |
-
-<p align="center">
-  <sub>📌 Follow the <a href="./Project-A3C.md"><b>Project A³C</b></a> for updates · <a href="./Project-A3C.md"><b>Collaborate with us</b></a></sub>
-</p>
+<p align="center"><a href="./Project-A3C.md"><img src="./badges/a3c-cta.svg" alt="Visit Project A³C"></a></p>
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -1539,6 +1516,29 @@ The content of this Repository is released under the [<CC BY-NC-ND 4.0>](https:/
 ## Copyright
 
 It's happy to see that this repository has been widely spreaded in information security community, but I hope everyone could at all times respect knowledge and our efforts, so please specify reproduced from https://github.com/We5ter/Scanners-Box in your articles, and please do not republish this article for profit.
+
+## Sponsors
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="60" height="60"><br>
+      <sub><b>Albert</b></sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.paypal.com/paypalme/zhiyangzeng">
+        <img src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="60" height="60" style="opacity:0.25; filter:grayscale(1)"><br>
+        <sub>Your name here</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="200"></a>
+  &nbsp;
+  <a href="https://www.buymeacoffee.com/we5ter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee"></a>
+</p>
 
 ## Acknowledgments
 

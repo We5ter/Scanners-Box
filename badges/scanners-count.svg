@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="20" viewBox="0 0 108 20">
+  <defs>
+    <clipPath id="c"><rect width="108" height="20" rx="3"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4338ca"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#c)">
+    <rect width="108" height="20" fill="url(#bg)"/>
+  </g>
+
+  <!-- Cube icon (same as original badge, 24×24 path scaled to 11px) -->
+  <g transform="translate(5,4.5) scale(0.458)">
+    <path d="M12 1l-9 5v9l9 5 9-5v-9l-9-5z" fill="rgba(255,255,255,0.85)"/>
+  </g>
+
+  <!-- Divider -->
+  <rect x="22" y="5" width="1" height="10" fill="rgba(255,255,255,0.3)" rx="0.5"/>
+
+  <!-- "scanners" label -->
+  <text x="28" y="14" font-family="DejaVu Sans,Verdana,Geneva,sans-serif"
+        font-size="10" fill="rgba(255,255,255,0.85)">scanners</text>
+
+  <!-- Right divider -->
+  <rect x="82" y="5" width="1" height="10" fill="rgba(255,255,255,0.25)" rx="0.5"/>
+
+  <!-- Count "338" -->
+  <text x="95" y="14" text-anchor="middle"
+        font-family="DejaVu Sans,Verdana,Geneva,sans-serif"
+        font-size="11" fill="white" font-weight="700">338</text>
+</svg>

@@ -5,20 +5,11 @@
  </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2026.05-6366f1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==" alt="version">
-  <img src="https://img.shields.io/badge/license-CC--BY--NC--ND--4.0-8b5cf6?style=flat-square" alt="license">
- <img src="https://img.shields.io/badge/scanners-338-a78bfa?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxbC05IDV2OWw5IDUgOS01di05bC05LTV6Ii8+PC9zdmc+" alt="number">
+  <img src="./badges/version.svg" alt="version">
+  <img src="./badges/license.svg" alt="license">
+ <img src="./badges/scanners-count.svg" alt="scanners">
+ <a href="https://github.com/We5ter/ScanCodex"><img src="./badges/scancodex.svg" alt="ScanCodex MCP Server"></a>
 </p>
-
-## 捐赠
-
-<a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="240"></a>
-
-## 支持者
-<div class="sponsor">
-<img class="avatar avatar-user" src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="50" height="50">
-<b>Albert</b>
-</div>
 
 ## 简介
 
@@ -28,33 +19,20 @@
 
 <div align="center">
 
-**A³C — AI 自主网络安全 Agent**
-
-*新一代 AI 驱动的自主攻防安全智能体*
+**A³C — AI 自主网络安全 Agent 精选集合**
 
 [![状态: 活跃](https://img.shields.io/badge/状态-活跃-success?style=flat-square&logo=github)](./Project-A3C.md)
 [![类型: 开源项目](https://img.shields.io/badge/类型-开源项目-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box 认证">
 
-*展示上方 **A³C 徽章** 的项目，即代表已被 Scanners Box **官方推荐与认证**，为可信赖的 AI 网络安全工具。*
+*展示 **A³C 徽章** 的项目，即代表已被 Scanners Box **官方推荐与认证**。*
 
 </div>
 
-> 🚀 **正式上线** — A³C 是一个**精选集合项目**，致力于收录构建**完全自主 AI 网络安全 Agent** 的开源项目。它是 AI 驱动自主安全工具的**官方索引与认证中心**。[访问 Project A³C →](./Project-A3C.md)
+> A³C 是一个**开源 AI 自主网络安全 Agent 精选集合**，涵盖红队、蓝队、SOC、DevSecOps、威胁溯源与企业安全等方向。
 
-| 能力 | 说明 |
-|:-----|:-----|
-| 🔴 **AI 自主红队** | AI Agent 自主规划并执行攻击链路 |
-| 🔵 **AI 自主蓝队** | AI Agent 自动化防御、检测与响应 |
-| 🛡️ **AI SOC 智能体** | AI 驱动的安全运营中心，自动化监控、告警与事件响应 |
-| 🎧 **AI 安全运营助手** | AI 驱动的安全运营智能问答、研判与指导助手 |
-| 🔍 **AI 反入侵溯源** | AI 驱动的入侵取证与威胁归因，快速定位攻击源头 |
-| 💼 **AI 办公网络安全** | AI Agent 保障企业办公网络安全，数据防泄漏与内部威胁防护 |
-
-<p align="center">
-  <sub>📌 关注 <a href="./Project-A3C.md"><b>Project A³C</b></a> 获取最新动态 · <a href="./Project-A3C.md"><b>加入我们</b></a></sub>
-</p>
+<p align="center"><a href="./Project-A3C.md"><img src="./badges/a3c-cta.svg" alt="Visit Project A³C"></a></p>
 
 ## 目录
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -1541,6 +1519,29 @@
 
 非常开心能够看到这个仓库在安全社区如此广泛的传播，但我也希望大家能够尊重知识，尊重劳动，因此转载的时候请在您的文章里注明来自https://github.com/We5ter/Scanners-Box ,同时也请不要通过二次发表此文章谋取不正当的利益（如原创投稿）
 
+## 支持者
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="60" height="60"><br>
+      <sub><b>Albert</b></sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.paypal.com/paypalme/zhiyangzeng">
+        <img src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="60" height="60" style="opacity:0.25; filter:grayscale(1)"><br>
+        <sub>在此留名</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="200"></a>
+  &nbsp;
+  <a href="https://www.buymeacoffee.com/we5ter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee"></a>
+</p>
+
 ## 致谢
 
 非常感谢下面这些安全研究员为我们提供的宝贵建议和反馈
@@ -1579,5 +1580,7 @@
   <br/><br/>
   <img src="https://api.star-history.com/svg?repos=We5ter/Scanners-Box&type=Date&theme=dark" alt="Star History Chart">
 </p>
+
+
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2017-2026

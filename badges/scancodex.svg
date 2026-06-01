@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="20" viewBox="0 0 162 20">
+  <defs>
+    <clipPath id="r">
+      <rect width="162" height="20" rx="3"/>
+    </clipPath>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4338ca"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#r)">
+    <rect width="162" height="20" fill="url(#grad)"/>
+  </g>
+
+  <!-- Broadcast ripple rings -->
+  <circle cx="12" cy="10" r="3.5" fill="#a5f3fc"/>
+  <circle cx="12" cy="10" r="3.5" fill="none" stroke="#a5f3fc" stroke-width="1.5">
+    <animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="12" cy="10" r="3.5" fill="none" stroke="#a5f3fc" stroke-width="1">
+    <animate attributeName="r" values="4;10;4" dur="2s" begin="0.65s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="2s" begin="0.65s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Divider -->
+  <rect x="23" y="5" width="1" height="10" fill="rgba(255,255,255,0.3)" rx="0.5"/>
+
+  <!-- ScanCodex label -->
+  <text x="29" y="14" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="10.5" fill="white" font-weight="700" letter-spacing="0.1">ScanCodex</text>
+
+  <!-- MCP Server sublabel -->
+  <text x="103" y="13.5" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="9" fill="rgba(255,255,255,0.75)">MCP Server</text>
+</svg>
