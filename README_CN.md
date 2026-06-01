@@ -19,18 +19,18 @@
 
 <div align="center">
 
-**A³C — AI 自主网络安全 Agent 精选集合**
+**A³C — AI 自主网络安全 Agent 认证计划**
 
 [![状态: 活跃](https://img.shields.io/badge/状态-活跃-success?style=flat-square&logo=github)](./Project-A3C.md)
 [![类型: 开源项目](https://img.shields.io/badge/类型-开源项目-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box 认证">
 
-*展示 **A³C 徽章** 的项目，即代表已被 Scanners Box **官方推荐与认证**。*
+*展示 **A³C 徽章** 的项目，即代表已通过 Scanners Box **官方认证**，为活跃可信的 AI 自主网络安全 Agent 项目。*
 
 </div>
 
-> A³C 是一个**开源 AI 自主网络安全 Agent 精选集合**，涵盖红队、蓝队、SOC、DevSecOps、威胁溯源与企业安全等方向。
+> **A³C 徽章** 是 Scanners Box 对开源 AI 自主网络安全 Agent 项目的官方认证——经审核的活跃可信前沿工具。
 
 <p align="center"><a href="./Project-A3C.md"><img src="./badges/a3c-cta.svg" alt="Visit Project A³C"></a></p>
 
@@ -39,6 +39,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [AI大模型驱动的扫描器](#AI大模型驱动的扫描器)
+- [AI自主网络安全Agent](#AI自主网络安全Agent)
 - [AI应用漏洞扫描器](#AI应用漏洞扫描器)
 - [智能合约漏洞扫描器](#智能合约漏洞扫描器)
 - [红蓝对抗](#红蓝对抗)
@@ -67,6 +68,21 @@
 - https://github.com/weareaisle/nano-analyzer - **AISLE 开发的基于LLM的极简0day漏洞扫描器**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/weareaisle/nano-analyzer?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/weareaisle/nano-analyzer?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/weareaisle/nano-analyzer.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/weareaisle/nano-analyzer?style=flat-square&label=开源协议)
+
+
+### AI自主网络安全Agent
+
+- https://github.com/oritera/Cairn - **通用状态空间搜索引擎，率先在自主渗透测试上验证——无角色限制，无工作流约束，给定起终点后自主寻路**
+
+> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=flat-square)](./Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square&label=开源协议)
+
+- https://github.com/KeygraphHQ/shannon - **面向 Web 应用与 API 的自主白盒 AI 渗透测试工具，分析源代码、识别攻击向量并自动执行真实漏洞利用**
+
+> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=flat-square)](./Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square&label=开源协议)
+
+- https://github.com/SickHackPark/SickHackShark - **AI 多智能体 CTF 全流程自动化平台，覆盖信息收集、扫描、漏洞利用与 flag 获取**
+
+> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=flat-square)](./Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square&label=开源协议)
 
 
 ### AI应用漏洞扫描器
