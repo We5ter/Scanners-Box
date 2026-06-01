@@ -38,8 +38,8 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Escáneres autónomos impulsados por modelos de IA](#escáneres-autónomos-impulsados-por-modelos-de-ia)
 - [Agentes de Ciberseguridad Autónomos con IA](#agentes-de-ciberseguridad-autónomos-con-ia)
+- [Escáneres tradicionales impulsados por LLM](#escáneres-tradicionales-impulsados-por-llm)
 - [Escáneres para aplicaciones de IA](#escáneres-para-aplicaciones-de-ia)
 - [Escáneres de contratos inteligentes](#escáneres-de-contratos-inteligentes)
 - [Equipo Rojo vs Equipo Azul](#equipo-rojo-vs-equipo-azul)
@@ -65,15 +65,15 @@
 
 - https://github.com/oritera/Cairn - **Motor de búsqueda de espacio de estados validado en pentesting autónomo — sin roles ni flujos predefinidos, búsqueda puramente orientada a objetivos**
 
-> [![A³C Certificado](https://img.shields.io/badge/A%C2%B3C-Certificado-6366f1?style=flat-square)](./Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square)
+> [![A³C Certificado](https://img.shields.io/badge/A%C2%B3C-Certificado-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square)
 
 - https://github.com/KeygraphHQ/shannon - **Pentester autónomo de caja blanca con IA para apps web y APIs — analiza código fuente, identifica vectores de ataque y ejecuta exploits reales pre-producción**
 
-> [![A³C Certificado](https://img.shields.io/badge/A%C2%B3C-Certificado-6366f1?style=flat-square)](./Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square)
+> [![A³C Certificado](https://img.shields.io/badge/A%C2%B3C-Certificado-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square)
 
 - https://github.com/SickHackPark/SickHackShark - **Plataforma multiagente con IA para automatización de CTF — cubre reconocimiento, escaneo, explotación y captura de flags de extremo a extremo**
 
-> [![A³C Certificado](https://img.shields.io/badge/A%C2%B3C-Certificado-6366f1?style=flat-square)](./Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square)
+> [![A³C Certificado](https://img.shields.io/badge/A%C2%B3C-Certificado-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square)
 
 
 ### Escáneres para aplicaciones de IA

@@ -38,8 +38,8 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [AI大模型驱动的扫描器](#AI大模型驱动的扫描器)
 - [AI自主网络安全Agent](#AI自主网络安全Agent)
+- [LLM驱动的传统扫描器](#LLM驱动的传统扫描器)
 - [AI应用漏洞扫描器](#AI应用漏洞扫描器)
 - [智能合约漏洞扫描器](#智能合约漏洞扫描器)
 - [红蓝对抗](#红蓝对抗)
@@ -63,26 +63,26 @@
 
 ***
 
-### AI大模型驱动的扫描器
-
-- https://github.com/weareaisle/nano-analyzer - **AISLE 开发的基于LLM的极简0day漏洞扫描器**
-
-> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/weareaisle/nano-analyzer?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/weareaisle/nano-analyzer?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/weareaisle/nano-analyzer.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/weareaisle/nano-analyzer?style=flat-square&label=开源协议)
-
-
 ### AI自主网络安全Agent
 
 - https://github.com/oritera/Cairn - **通用状态空间搜索引擎，率先在自主渗透测试上验证——无角色限制，无工作流约束，给定起终点后自主寻路**
 
-> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=flat-square)](./Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square&label=开源协议)
+> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square&label=开源协议)
 
 - https://github.com/KeygraphHQ/shannon - **面向 Web 应用与 API 的自主白盒 AI 渗透测试工具，分析源代码、识别攻击向量并自动执行真实漏洞利用**
 
-> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=flat-square)](./Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square&label=开源协议)
+> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square&label=开源协议)
 
 - https://github.com/SickHackPark/SickHackShark - **AI 多智能体 CTF 全流程自动化平台，覆盖信息收集、扫描、漏洞利用与 flag 获取**
 
-> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=flat-square)](./Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square&label=开源协议)
+> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square&label=开源协议)
+
+
+### LLM驱动的传统扫描器
+
+- https://github.com/weareaisle/nano-analyzer - **AISLE 开发的基于LLM的极简0day漏洞扫描器**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/weareaisle/nano-analyzer?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/weareaisle/nano-analyzer?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/weareaisle/nano-analyzer.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/weareaisle/nano-analyzer?style=flat-square&label=开源协议)
 
 
 ### AI应用漏洞扫描器

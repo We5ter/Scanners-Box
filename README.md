@@ -40,8 +40,8 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [AI Model-Powered Scanners](#ai-model-powered-scanners)
 - [AI Autonomous Cybersecurity Agents](#ai-autonomous-cybersecurity-agents)
+- [LLM-Powered Traditional Scanners](#llm-powered-traditional-scanners)
 - [Scanners for AI Apps](#scanners-for-ai-apps)
 - [Scanners for Smart Contracts](#scanners-for-smart-contracts)
 - [Red Team vs Blue Team](#red-team-vs-blue-team)
@@ -66,26 +66,26 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 ***
 
-### AI Model-Powered Scanners
-
-- https://github.com/weareaisle/nano-analyzer - **A minimal LLM-powered zero-day vulnerability scanner by AISLE**
-
-> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/weareaisle/nano-analyzer?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/weareaisle/nano-analyzer?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/weareaisle/nano-analyzer.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/weareaisle/nano-analyzer?style=flat-square)
-
-
 ### AI Autonomous Cybersecurity Agents
 
 - https://github.com/oritera/Cairn - **A general-purpose state-space search engine validated on autonomous penetration testing — no predefined roles or workflows, purely goal-driven pathfinding**
 
-> [![A³C Certified](https://img.shields.io/badge/A%C2%B3C-Certified-6366f1?style=flat-square)](./Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square)
+> [![A³C Certified](https://img.shields.io/badge/A%C2%B3C-Certified-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square)
 
 - https://github.com/KeygraphHQ/shannon - **Autonomous white-box AI pentester for web apps & APIs — analyzes source code, identifies attack vectors, and executes real exploits pre-production**
 
-> [![A³C Certified](https://img.shields.io/badge/A%C2%B3C-Certified-6366f1?style=flat-square)](./Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square)
+> [![A³C Certified](https://img.shields.io/badge/A%C2%B3C-Certified-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square)
 
 - https://github.com/SickHackPark/SickHackShark - **Multi-agent AI platform for CTF automation — covers recon, scanning, exploitation, and flag capture end-to-end**
 
-> [![A³C Certified](https://img.shields.io/badge/A%C2%B3C-Certified-6366f1?style=flat-square)](./Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square)
+> [![A³C Certified](https://img.shields.io/badge/A%C2%B3C-Certified-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square)
+
+
+### LLM-Powered Traditional Scanners
+
+- https://github.com/weareaisle/nano-analyzer - **A minimal LLM-powered zero-day vulnerability scanner by AISLE**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/weareaisle/nano-analyzer?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/weareaisle/nano-analyzer?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/weareaisle/nano-analyzer.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/weareaisle/nano-analyzer?style=flat-square)
 
 
 ### Scanners for AI Apps
