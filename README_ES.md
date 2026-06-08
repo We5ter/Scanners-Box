@@ -40,7 +40,8 @@
 
 - [Agentes de Ciberseguridad Autónomos con IA](#agentes-de-ciberseguridad-autónomos-con-ia)
 - [Escáneres tradicionales impulsados por LLM](#escáneres-tradicionales-impulsados-por-llm)
-- [Escáneres para aplicaciones de IA](#escáneres-para-aplicaciones-de-ia)
+- [Auditoría de seguridad para aplicaciones de IA](#auditoría-de-seguridad-para-aplicaciones-de-ia)
+- [Controles de ejecución para AI Agents](#controles-de-ejecución-para-ai-agents)
 - [Escáneres de contratos inteligentes](#escáneres-de-contratos-inteligentes)
 - [Equipo Rojo vs Equipo Azul](#equipo-rojo-vs-equipo-azul)
 - [Análisis de paquetes de aplicaciones móviles](#análisis-de-paquetes-de-aplicaciones-móviles)
@@ -76,7 +77,7 @@
 > [![A³C Certificado](https://img.shields.io/badge/A%C2%B3C-Certificado-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square)
 
 
-### Escáneres para aplicaciones de IA
+### Auditoría de seguridad para aplicaciones de IA
 
 - https://github.com/leondz/garak - **Un escáner de vulnerabilidades para LLM (Grandes Modelos de Lenguaje) que detecta múltiples debilidades como alucinaciones, fugas de datos, inyección de prompts, desinformación, generación de contenido tóxico y jailbreaks.**
 
@@ -93,6 +94,12 @@
 - https://github.com/Tencent/AI-Infra-Guard - **A.I.G (AI-Infra-Guard) es una plataforma integrada que incluye escaneo de vulnerabilidades de infraestructura de IA, detección de riesgos en servidores MCP y evaluación de seguridad de LLM.**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tencent/AI-Infra-Guard?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AI-Infra-Guard?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Tencent/AI-Infra-Guard?style=flat-square)
+
+### Controles de ejecución para AI Agents
+
+- https://github.com/agentkitai/agentgate - **Motor de flujo de aprobación para AI agents — define políticas para aprobar automáticamente acciones seguras, denegar las peligrosas y redirigir el resto a un humano vía dashboard, Slack, Discord o email**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/agentkitai/agentgate?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=flat-square)
 
 ### Escáneres de contratos inteligentes
 

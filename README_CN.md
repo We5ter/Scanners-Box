@@ -40,7 +40,8 @@
 
 - [AI自主网络安全Agent](#AI自主网络安全Agent)
 - [LLM驱动的传统扫描器](#LLM驱动的传统扫描器)
-- [AI应用漏洞扫描器](#AI应用漏洞扫描器)
+- [AI应用安全审计](#AI应用安全审计)
+- [AI Agent运行时管控](#AI-Agent运行时管控)
 - [智能合约漏洞扫描器](#智能合约漏洞扫描器)
 - [红蓝对抗](#红蓝对抗)
 - [移动应用包文件分析](#移动应用包文件分析)
@@ -85,7 +86,7 @@
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/weareaisle/nano-analyzer?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/weareaisle/nano-analyzer?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/weareaisle/nano-analyzer.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/weareaisle/nano-analyzer?style=flat-square&label=开源协议)
 
 
-### AI应用漏洞扫描器
+### AI应用安全审计
 
 - https://github.com/leondz/garak - **用于监测大模型数据泄露、提示注入、错误信息、投毒、越狱和许多其他风险的扫描工具**
 
@@ -102,6 +103,13 @@
 - https://github.com/Tencent/AI-Infra-Guard - **AI红队平台，集成了AI基础设施漏洞扫描、MCP Server风险检测、LLM安全评估等功能**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tencent/AI-Infra-Guard?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AI-Infra-Guard?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/Tencent/AI-Infra-Guard?style=flat-square&label=开源协议)
+
+
+### AI Agent运行时管控
+
+- https://github.com/agentkitai/agentgate - **AI Agent 行为审批工作流引擎——通过策略自动放行安全操作、拦截危险操作，其余路由给人工通过 Dashboard、Slack、Discord 或 Email 审批**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/agentkitai/agentgate?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=flat-square&label=star数量)    ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=flat-square&label=开源协议)
 
 
 ### 智能合约漏洞扫描器

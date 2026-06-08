@@ -42,7 +42,8 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 - [AI Autonomous Cybersecurity Agents](#ai-autonomous-cybersecurity-agents)
 - [LLM-Powered Traditional Scanners](#llm-powered-traditional-scanners)
-- [Scanners for AI Apps](#scanners-for-ai-apps)
+- [Security Auditing for AI Apps](#security-auditing-for-ai-apps)
+- [AI Agent Runtime Controls](#ai-agent-runtime-controls)
 - [Scanners for Smart Contracts](#scanners-for-smart-contracts)
 - [Red Team vs Blue Team](#red-team-vs-blue-team)
 - [Mobile App Packages Analysis](#mobile-apps-packages-analysis)
@@ -88,7 +89,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/weareaisle/nano-analyzer?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/weareaisle/nano-analyzer?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/weareaisle/nano-analyzer.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/weareaisle/nano-analyzer?style=flat-square)
 
 
-### Scanners for AI Apps
+### Security Auditing for AI Apps
 
 - https://github.com/leondz/garak - **LLM vulnerability scanner for hallucination, data leakage, promp injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses**
 
@@ -105,6 +106,13 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 - https://github.com/Tencent/AI-Infra-Guard - **A.I.G (AI-Infra-Guard) integrates capabilities such as AI infrastructure vulnerability scanning, MCP Server risk detection, and LLM security assessments**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Tencent/AI-Infra-Guard?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AI-Infra-Guard?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Tencent/AI-Infra-Guard?style=flat-square)
+
+
+### AI Agent Runtime Controls
+
+- https://github.com/agentkitai/agentgate - **Approval workflow engine for AI agents — define policies to auto-approve safe actions, auto-deny dangerous ones, and route the rest to a human via dashboard, Slack, Discord, or email**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/agentkitai/agentgate?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=flat-square)
 
 
 ### Scanners for Smart Contracts
