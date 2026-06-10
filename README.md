@@ -41,9 +41,11 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [AI Autonomous Cybersecurity Agents](#ai-autonomous-cybersecurity-agents)
-- [LLM-Powered Traditional Scanners](#llm-powered-traditional-scanners)
+- [LLM-Powered Vulnerability Scanners](#llm-powered-vulnerability-scanners)
 - [Security Auditing for AI Apps](#security-auditing-for-ai-apps)
 - [AI Agent Runtime Controls](#ai-agent-runtime-controls)
+- [Security Auditing for Agent Skills](#security-auditing-for-agent-skills)
+- [Autonomous Vulnerability Discovery and Remediation Skills](#autonomous-vulnerability-discovery-and-remediation-skills)
 - [Scanners for Smart Contracts](#scanners-for-smart-contracts)
 - [Red Team vs Blue Team](#red-team-vs-blue-team)
 - [Mobile App Packages Analysis](#mobile-apps-packages-analysis)
@@ -81,12 +83,24 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 > [![A³C Certified](https://img.shields.io/badge/A%C2%B3C-Certified-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square)
 
+- https://github.com/SanMuzZzZz/LuaN1aoAgent - **LuaN1ao (鸾鸟) - A next-generation Autonomous Penetration Testing Agent powered by LLMs, integrating P-E-R Agent Collaboration with Causal Graph Reasoning to simulate security expert thinking patterns**
 
-### LLM-Powered Traditional Scanners
+> [![A³C Certified](https://img.shields.io/badge/A%C2%B3C-Certified-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SanMuzZzZz/LuaN1aoAgent?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/SanMuzZzZz/LuaN1aoAgent?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/SanMuzZzZz/LuaN1aoAgent.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/SanMuzZzZz/LuaN1aoAgent?style=flat-square)
+
+- https://github.com/Ed1s0nZ/CyberStrikeAI - **An AI-native security testing platform in Go, integrating 100+ tools, intelligent orchestration, role-based testing, skills system, full lifecycle management, and a built-in lightweight C2 framework for authorized engagements**
+
+> [![A³C Certified](https://img.shields.io/badge/A%C2%B3C-Certified-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Ed1s0nZ/CyberStrikeAI?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/Ed1s0nZ/CyberStrikeAI?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/Ed1s0nZ/CyberStrikeAI.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/Ed1s0nZ/CyberStrikeAI?style=flat-square)
+
+
+### LLM-Powered Vulnerability Scanners
 
 - https://github.com/weareaisle/nano-analyzer - **A minimal LLM-powered zero-day vulnerability scanner by AISLE**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/weareaisle/nano-analyzer?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/weareaisle/nano-analyzer?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/weareaisle/nano-analyzer.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/weareaisle/nano-analyzer?style=flat-square)
+
+- https://github.com/vercel-labs/deepsec - **An agent-powered vulnerability scanner for on-demand review of all code in existing large-scale repos, surfacing hard-to-find issues that have been lurking in applications for a long time**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vercel-labs/deepsec?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/vercel-labs/deepsec?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/vercel-labs/deepsec.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/vercel-labs/deepsec?style=flat-square)
 
 
 ### Security Auditing for AI Apps
@@ -113,6 +127,20 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 - https://github.com/agentkitai/agentgate - **Approval workflow engine for AI agents — define policies to auto-approve safe actions, auto-deny dangerous ones, and route the rest to a human via dashboard, Slack, Discord, or email**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/agentkitai/agentgate?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=flat-square)
+
+
+### Security Auditing for Agent Skills
+
+- https://github.com/NVIDIA/SkillSpector - **Security scanner for AI agent skills — detect vulnerabilities, malicious patterns, and security risks before installing agent skills (Claude Code, Codex CLI, Gemini CLI, etc.)**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/NVIDIA/SkillSpector?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/SkillSpector?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/NVIDIA/SkillSpector?style=flat-square)
+
+
+### Autonomous Vulnerability Discovery and Remediation Skills
+
+- https://github.com/anthropics/defending-code-reference-harness - **Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can customize for end-to-end vulnerability management**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anthropics/defending-code-reference-harness?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/defending-code-reference-harness?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/anthropics/defending-code-reference-harness.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/anthropics/defending-code-reference-harness?style=flat-square)
 
 
 ### Scanners for Smart Contracts

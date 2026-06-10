@@ -39,9 +39,11 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [AI自主网络安全Agent](#AI自主网络安全Agent)
-- [LLM驱动的传统扫描器](#LLM驱动的传统扫描器)
+- [LLM驱动的漏洞扫描器](#LLM驱动的漏洞扫描器)
 - [AI应用安全审计](#AI应用安全审计)
 - [AI Agent运行时管控](#AI-Agent运行时管控)
+- [Agent技能安全审计](#Agent技能安全审计)
+- [自主漏洞发现与修复技能](#自主漏洞发现与修复技能)
 - [智能合约漏洞扫描器](#智能合约漏洞扫描器)
 - [红蓝对抗](#红蓝对抗)
 - [移动应用包文件分析](#移动应用包文件分析)
@@ -78,12 +80,24 @@
 
 > [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square&label=开源协议)
 
+- https://github.com/SanMuzZzZz/LuaN1aoAgent - **LuaN1ao（鸾鸟）—— 新一代基于 LLM 的自主渗透测试 Agent，创新融合 P-E-R Agent 协作框架与因果图推理，模拟安全专家攻防思维**
 
-### LLM驱动的传统扫描器
+> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SanMuzZzZz/LuaN1aoAgent?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/SanMuzZzZz/LuaN1aoAgent?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/SanMuzZzZz/LuaN1aoAgent.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/SanMuzZzZz/LuaN1aoAgent?style=flat-square&label=开源协议)
+
+- https://github.com/Ed1s0nZ/CyberStrikeAI - **AI 原生安全测试平台（Go 实现），集成 100+ 安全工具、智能编排引擎、角色化测试、技能系统与全生命周期管理，内置轻量级 C2 框架，通过 MCP 协议与 AI Agent 实现端到端自动化安全测试**
+
+> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Ed1s0nZ/CyberStrikeAI?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/Ed1s0nZ/CyberStrikeAI?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/Ed1s0nZ/CyberStrikeAI.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/Ed1s0nZ/CyberStrikeAI?style=flat-square&label=开源协议)
+
+
+### LLM驱动的漏洞扫描器
 
 - https://github.com/weareaisle/nano-analyzer - **AISLE 开发的基于LLM的极简0day漏洞扫描器**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/weareaisle/nano-analyzer?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/weareaisle/nano-analyzer?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/weareaisle/nano-analyzer.svg?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/weareaisle/nano-analyzer?style=flat-square&label=开源协议)
+
+- https://github.com/vercel-labs/deepsec - **基于 Agent 的漏洞扫描器，针对大规模代码仓库进行按需审查，发现长期潜伏在应用中的深层次安全问题**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vercel-labs/deepsec?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/vercel-labs/deepsec?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/vercel-labs/deepsec.svg?style=flat-square&label=start数量)  ![GitHub](https://img.shields.io/github/license/vercel-labs/deepsec?style=flat-square&label=开源协议)
 
 
 ### AI应用安全审计
@@ -110,6 +124,20 @@
 - https://github.com/agentkitai/agentgate - **AI Agent 行为审批工作流引擎——通过策略自动放行安全操作、拦截危险操作，其余路由给人工通过 Dashboard、Slack、Discord 或 Email 审批**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/agentkitai/agentgate?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=flat-square&label=star数量)    ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=flat-square&label=开源协议)
+
+
+### Agent技能安全审计
+
+- https://github.com/NVIDIA/SkillSpector - **AI Agent 技能安全扫描器——在安装 Agent 技能（Claude Code、Codex CLI、Gemini CLI 等）之前检测漏洞、恶意模式与安全风险**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/NVIDIA/SkillSpector?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/SkillSpector?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/NVIDIA/SkillSpector?style=flat-square&label=开源协议)
+
+
+### 自主漏洞发现与修复技能
+
+- https://github.com/anthropics/defending-code-reference-harness - **威胁建模、扫描、分类、修复一体化技能集，提供可自定义的自主扫描框架，实现端到端漏洞生命周期管理**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/anthropics/defending-code-reference-harness?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/defending-code-reference-harness?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/anthropics/defending-code-reference-harness.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/anthropics/defending-code-reference-harness?style=flat-square&label=开源协议)
 
 
 ### 智能合约漏洞扫描器
