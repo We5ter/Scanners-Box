@@ -40,18 +40,15 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-<div style="border-left: 4px solid #6366f1; padding: 10px 18px; margin: 16px 0; background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(124,58,237,0.04) 100%); border-radius: 0 6px 6px 0;">
-
-<strong>❋⚛🐋 For AI</strong>
-
-- [AI Autonomous Cybersecurity Agents](#ai-autonomous-cybersecurity-agents)
-- [LLM-Powered Vulnerability Scanners](#llm-powered-vulnerability-scanners)
-- [Security Auditing for AI Apps](#security-auditing-for-ai-apps)
-- [AI Agent Runtime Controls](#ai-agent-runtime-controls)
-- [Security Auditing for Agent Skills](#security-auditing-for-agent-skills)
-- [Autonomous Vulnerability Discovery and Remediation Skills](#autonomous-vulnerability-discovery-and-remediation-skills)
-
-</div>
+> [!IMPORTANT]
+> **❋⚛🐋 For AI**
+>
+> - [AI Autonomous Cybersecurity Agents](#ai-autonomous-cybersecurity-agents)
+> - [LLM-Powered Vulnerability Scanners](#llm-powered-vulnerability-scanners)
+> - [Security Auditing for AI Apps](#security-auditing-for-ai-apps)
+> - [AI Agent Runtime Controls](#ai-agent-runtime-controls)
+> - [Security Auditing for Agent Skills](#security-auditing-for-agent-skills)
+> - [Autonomous Vulnerability Discovery and Remediation Skills](#autonomous-vulnerability-discovery-and-remediation-skills)
 
 - [Scanners for Smart Contracts](#scanners-for-smart-contracts)
 - [Red Team vs Blue Team](#red-team-vs-blue-team)

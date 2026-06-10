@@ -38,18 +38,15 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-<div style="border-left: 4px solid #6366f1; padding: 10px 18px; margin: 16px 0; background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(124,58,237,0.04) 100%); border-radius: 0 6px 6px 0;">
-
-<strong>❋⚛🐋 For AI</strong>
-
-- [Agentes de Ciberseguridad Autónomos con IA](#agentes-de-ciberseguridad-autónomos-con-ia)
-- [Escáneres de vulnerabilidades impulsados por LLM](#escáneres-de-vulnerabilidades-impulsados-por-llm)
-- [Auditoría de seguridad para aplicaciones de IA](#auditoría-de-seguridad-para-aplicaciones-de-ia)
-- [Controles de ejecución para AI Agents](#controles-de-ejecución-para-ai-agents)
-- [Auditoría de seguridad para habilidades de agentes](#auditoría-de-seguridad-para-habilidades-de-agentes)
-- [Habilidades autónomas de descubrimiento y remediación de vulnerabilidades](#habilidades-autónomas-de-descubrimiento-y-remediación-de-vulnerabilidades)
-
-</div>
+> [!IMPORTANT]
+> **❋⚛🐋 For AI**
+>
+> - [Agentes de Ciberseguridad Autónomos con IA](#agentes-de-ciberseguridad-autónomos-con-ia)
+> - [Escáneres de vulnerabilidades impulsados por LLM](#escáneres-de-vulnerabilidades-impulsados-por-llm)
+> - [Auditoría de seguridad para aplicaciones de IA](#auditoría-de-seguridad-para-aplicaciones-de-ia)
+> - [Controles de ejecución para AI Agents](#controles-de-ejecución-para-ai-agents)
+> - [Auditoría de seguridad para habilidades de agentes](#auditoría-de-seguridad-para-habilidades-de-agentes)
+> - [Habilidades autónomas de descubrimiento y remediación de vulnerabilidades](#habilidades-autónomas-de-descubrimiento-y-remediación-de-vulnerabilidades)
 
 - [Escáneres de contratos inteligentes](#escáneres-de-contratos-inteligentes)
 - [Equipo Rojo vs Equipo Azul](#equipo-rojo-vs-equipo-azul)

@@ -38,18 +38,15 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-<div style="border-left: 4px solid #6366f1; padding: 10px 18px; margin: 16px 0; background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(124,58,237,0.04) 100%); border-radius: 0 6px 6px 0;">
-
-<strong>❋⚛🐋 For AI</strong>
-
-- [AI自主网络安全Agent](#AI自主网络安全Agent)
-- [LLM驱动的漏洞扫描器](#LLM驱动的漏洞扫描器)
-- [AI应用安全审计](#AI应用安全审计)
-- [AI Agent运行时管控](#AI-Agent运行时管控)
-- [Agent技能安全审计](#Agent技能安全审计)
-- [自主漏洞发现与修复技能](#自主漏洞发现与修复技能)
-
-</div>
+> [!IMPORTANT]
+> **❋⚛🐋 For AI**
+>
+> - [AI自主网络安全Agent](#AI自主网络安全Agent)
+> - [LLM驱动的漏洞扫描器](#LLM驱动的漏洞扫描器)
+> - [AI应用安全审计](#AI应用安全审计)
+> - [AI Agent运行时管控](#AI-Agent运行时管控)
+> - [Agent技能安全审计](#Agent技能安全审计)
+> - [自主漏洞发现与修复技能](#自主漏洞发现与修复技能)
 
 - [智能合约漏洞扫描器](#智能合约漏洞扫描器)
 - [红蓝对抗](#红蓝对抗)
