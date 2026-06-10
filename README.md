@@ -21,18 +21,18 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 <div align="center">
 
-**A³C — AI Autonomous Cybersecurity Agent Certification**
+**A³C — Autonomous AI Certification**
 
 [![Status: Active](https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github)](./Project-A3C.md)
 [![Type: Open Source](https://img.shields.io/badge/Type-Open_Source-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box Authenticated">
 
-*Projects displaying the **A³C badge** are **officially certified** by Scanners Box as trusted, active AI autonomous cybersecurity agent projects.*
+*Projects displaying the **A³C badge** are **officially certified** by Scanners Box as trusted, active AI-powered autonomous projects.*
 
 </div>
 
-> The **A³C badge** is Scanners Box's official certification for open-source AI autonomous cybersecurity agent projects — verified, active, and trusted tools in this emerging field.
+> The **A³C badge** is Scanners Box's official certification for open-source AI-powered autonomous projects — verified, active, and trusted tools powered by artificial intelligence.
 
 <p align="center"><a href="./Project-A3C.md"><img src="./badges/a3c-cta.svg" alt="Visit Project A³C"></a></p>
 
@@ -40,12 +40,19 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+<div style="border-left: 4px solid #6366f1; padding: 10px 18px; margin: 16px 0; background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(124,58,237,0.04) 100%); border-radius: 0 6px 6px 0;">
+
+<strong>❋⚛🐋 For AI</strong>
+
 - [AI Autonomous Cybersecurity Agents](#ai-autonomous-cybersecurity-agents)
 - [LLM-Powered Vulnerability Scanners](#llm-powered-vulnerability-scanners)
 - [Security Auditing for AI Apps](#security-auditing-for-ai-apps)
 - [AI Agent Runtime Controls](#ai-agent-runtime-controls)
 - [Security Auditing for Agent Skills](#security-auditing-for-agent-skills)
 - [Autonomous Vulnerability Discovery and Remediation Skills](#autonomous-vulnerability-discovery-and-remediation-skills)
+
+</div>
+
 - [Scanners for Smart Contracts](#scanners-for-smart-contracts)
 - [Red Team vs Blue Team](#red-team-vs-blue-team)
 - [Mobile App Packages Analysis](#mobile-apps-packages-analysis)
@@ -134,6 +141,10 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 - https://github.com/NVIDIA/SkillSpector - **Security scanner for AI agent skills — detect vulnerabilities, malicious patterns, and security risks before installing agent skills (Claude Code, Codex CLI, Gemini CLI, etc.)**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/NVIDIA/SkillSpector?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/SkillSpector?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/NVIDIA/SkillSpector?style=flat-square)
+
+- https://github.com/cisco-ai-defense/skill-scanner - **A best-effort security scanner for AI Agent Skills — detects prompt injection, data exfiltration, and malicious code patterns via pattern-based detection (YAML+YARA), LLM-as-a-judge, and behavioral dataflow analysis. Supports OpenAI Codex Skills, Cursor Agent Skills, and Claude Code commands.**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cisco-ai-defense/skill-scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/cisco-ai-defense/skill-scanner?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/cisco-ai-defense/skill-scanner.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/cisco-ai-defense/skill-scanner?style=flat-square)
 
 
 ### Autonomous Vulnerability Discovery and Remediation Skills

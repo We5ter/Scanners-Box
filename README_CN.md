@@ -19,18 +19,18 @@
 
 <div align="center">
 
-**A³C — AI 自主网络安全 Agent 认证计划**
+**A³C — 自主 AI 认证计划**
 
 [![状态: 活跃](https://img.shields.io/badge/状态-活跃-success?style=flat-square&logo=github)](./Project-A3C.md)
 [![类型: 开源项目](https://img.shields.io/badge/类型-开源项目-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
 
 <img src="./badges/A3C.png" alt="A³C Scanner-Box 认证">
 
-*展示 **A³C 徽章** 的项目，即代表已通过 Scanners Box **官方认证**，为活跃可信的 AI 自主网络安全 Agent 项目。*
+*展示 **A³C 徽章** 的项目，即代表已通过 Scanners Box **官方认证**，为活跃可信的 AI 驱动的自主项目。*
 
 </div>
 
-> **A³C 徽章** 是 Scanners Box 对开源 AI 自主网络安全 Agent 项目的官方认证——经审核的活跃可信前沿工具。
+> **A³C 徽章** 是 Scanners Box 对开源 AI 驱动的自主项目的官方认证——经审核的活跃可信前沿工具。
 
 <p align="center"><a href="./Project-A3C.md"><img src="./badges/a3c-cta.svg" alt="Visit Project A³C"></a></p>
 
@@ -38,12 +38,19 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+<div style="border-left: 4px solid #6366f1; padding: 10px 18px; margin: 16px 0; background: linear-gradient(135deg, rgba(99,102,241,0.06) 0%, rgba(124,58,237,0.04) 100%); border-radius: 0 6px 6px 0;">
+
+<strong>❋⚛🐋 For AI</strong>
+
 - [AI自主网络安全Agent](#AI自主网络安全Agent)
 - [LLM驱动的漏洞扫描器](#LLM驱动的漏洞扫描器)
 - [AI应用安全审计](#AI应用安全审计)
 - [AI Agent运行时管控](#AI-Agent运行时管控)
 - [Agent技能安全审计](#Agent技能安全审计)
 - [自主漏洞发现与修复技能](#自主漏洞发现与修复技能)
+
+</div>
+
 - [智能合约漏洞扫描器](#智能合约漏洞扫描器)
 - [红蓝对抗](#红蓝对抗)
 - [移动应用包文件分析](#移动应用包文件分析)
@@ -131,6 +138,10 @@
 - https://github.com/NVIDIA/SkillSpector - **AI Agent 技能安全扫描器——在安装 Agent 技能（Claude Code、Codex CLI、Gemini CLI 等）之前检测漏洞、恶意模式与安全风险**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/NVIDIA/SkillSpector?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/SkillSpector?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/NVIDIA/SkillSpector?style=flat-square&label=开源协议)
+
+- https://github.com/cisco-ai-defense/skill-scanner - **AI Agent 技能安全扫描器（尽力而为）——检测提示注入、数据泄露和恶意代码模式，结合模式匹配（YAML+YARA）、LLM 评审与行为数据流分析。支持 OpenAI Codex Skills、Cursor Agent Skills 及 Claude Code 命令格式。**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/cisco-ai-defense/skill-scanner?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/cisco-ai-defense/skill-scanner?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/cisco-ai-defense/skill-scanner.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/cisco-ai-defense/skill-scanner?style=flat-square&label=开源协议)
 
 
 ### 自主漏洞发现与修复技能

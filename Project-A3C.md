@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/We5ter/Scanners-Box/raw/master/badges/A3C.png" alt="A³C — AI Autonomous Cybersecurity Agent Certification" width="560px">
+<img src="https://github.com/We5ter/Scanners-Box/raw/master/badges/A3C.png" alt="A³C — Autonomous AI Certification" width="560px">
 
 # A³C Certification Program
 
-*Official certification by [Scanners Box](https://github.com/We5ter/Scanners-Box) for AI Autonomous Cybersecurity Agent projects*
+*Official certification by [Scanners Box](https://github.com/We5ter/Scanners-Box) for AI-powered autonomous projects*
 
 </div>
 
@@ -12,16 +12,16 @@
 
 ## What is A³C?
 
-**A³C** is the official certification badge issued by [Scanners Box](https://github.com/We5ter/Scanners-Box) for open-source **AI autonomous cybersecurity agent** projects.
+**A³C** is the official certification badge issued by [Scanners Box](https://github.com/We5ter/Scanners-Box) for open-source **AI-powered autonomous** projects.
 
 Projects displaying the A³C badge have been reviewed and confirmed as:
 
 - ✅ Fully **open-source** with publicly available source code
-- ✅ Demonstrating **autonomous** AI-driven security capabilities
+- ✅ Demonstrating **autonomous** AI-driven capabilities
 - ✅ Actively **maintained** with recent development activity
-- ✅ Targeting a recognized cybersecurity domain (Red Team, Blue Team, SOC, DevSecOps, etc.)
+- ✅ Targeting a recognized application domain (Security, Development, Operations, Analytics, etc.)
 
-Certified projects are listed in the **[AI Autonomous Cybersecurity Agents](https://github.com/We5ter/Scanners-Box#ai-autonomous-cybersecurity-agents)** section of Scanners Box.
+Certified projects are listed in the **[AI Autonomous Cybersecurity Agents](https://github.com/We5ter/Scanners-Box#ai-autonomous-cybersecurity-agents)** and other AI-related sections of Scanners Box.
 
 ---
 
