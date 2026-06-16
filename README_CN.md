@@ -1466,6 +1466,10 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/j3ssie/Osmedeus?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/j3ssie/Osmedeus?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/j3ssie/Osmedeus?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/j3ssie/Osmedeus?style=flat-square&label=开源协议)
 
+- https://github.com/vigolium/vigolium - **融合智能体 AI 与原生速度、模块化和高精度的高保真漏洞扫描器**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vigolium/vigolium?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/vigolium/vigolium?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/vigolium/vigolium?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/vigolium/vigolium?style=flat-square&label=开源协议)
+
 - https://github.com/jeffzh3ng/Fuxi-Scanner - **支持资产探测与管理的一款开源的网络安全检测工具**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/jeffzh3ng/Fuxi-Scanner?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/jeffzh3ng/Fuxi-Scanner?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/jeffzh3ng/Fuxi-Scanner?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/jeffzh3ng/Fuxi-Scanner?style=flat-square&label=开源协议)

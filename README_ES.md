@@ -1442,6 +1442,10 @@
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/j3ssie/Osmedeus?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/j3ssie/Osmedeus?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/j3ssie/Osmedeus?style=flat-square)  ![GitHub](https://img.shields.io/github/license/j3ssie/Osmedeus?style=flat-square)
 
+- https://github.com/vigolium/vigolium - **Escáner de vulnerabilidades de alta fidelidad que fusiona IA agéntica con velocidad nativa, modularidad y precisión**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vigolium/vigolium?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/vigolium/vigolium?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/vigolium/vigolium?style=flat-square)  ![GitHub](https://img.shields.io/github/license/vigolium/vigolium?style=flat-square)
+
 - https://github.com/jeffzh3ng/Fuxi-Scanner - **Escáner de vulnerabilidades de seguridad de red de código abierto con funciones de descubrimiento y gestión de activos**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/jeffzh3ng/Fuxi-Scanner?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/jeffzh3ng/Fuxi-Scanner?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/jeffzh3ng/Fuxi-Scanner?style=flat-square)  ![GitHub](https://img.shields.io/github/license/jeffzh3ng/Fuxi-Scanner?style=flat-square)
