@@ -103,6 +103,10 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vercel-labs/deepsec?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/vercel-labs/deepsec?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/vercel-labs/deepsec.svg?style=flat-square&label=start数量)  ![GitHub](https://img.shields.io/github/license/vercel-labs/deepsec?style=flat-square&label=开源协议)
 
+- https://github.com/vigolium/vigolium - **融合 Agentic AI 与原生速度、模块化和精准度的高保真漏洞扫描器**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vigolium/vigolium?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/vigolium/vigolium?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/vigolium/vigolium.svg?style=flat-square&label=start数量)  ![GitHub](https://img.shields.io/github/license/vigolium/vigolium?style=flat-square&label=开源协议)
+
 
 ### AI应用安全审计
 

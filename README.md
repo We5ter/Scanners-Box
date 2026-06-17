@@ -106,6 +106,10 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Node.js-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vercel-labs/deepsec?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/vercel-labs/deepsec?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/vercel-labs/deepsec.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/vercel-labs/deepsec?style=flat-square)
 
+- https://github.com/vigolium/vigolium - **High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vigolium/vigolium?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/vigolium/vigolium?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/vigolium/vigolium.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/vigolium/vigolium?style=flat-square)
+
 
 ### Security Auditing for AI Apps
 
