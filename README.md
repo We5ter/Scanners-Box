@@ -1264,6 +1264,9 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/MrEmpy/Mantra?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/MrEmpy/Mantra?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/MrEmpy/Mantra?style=flat-square)  ![GitHub](https://img.shields.io/github/license/MrEmpy/Mantra?style=flat-square)
 
+- https://github.com/xiabai2008/ruoyi-scan - **RuoYi (若依) framework dedicated vulnerability scanner - plugin architecture, three-state verdict, WAF bypass, exploit chains, AI POC generation**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/xiabai2008/ruoyi-scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/xiabai2008/ruoyi-scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/xiabai2008/ruoyi-scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/xiabai2008/ruoyi-scan?style=flat-square)
 
 ### Dynamic or Static Code Analysis
 
