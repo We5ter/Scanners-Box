@@ -1514,6 +1514,10 @@
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/JiuZero/z0scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/JiuZero/z0scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/JiuZero/z0scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/JiuZero/z0scan?style=flat-square)
 
+- https://github.com/xiabai2008/ruoyi-scan - **Escáner de vulnerabilidades específico para RuoYi (若依): arquitectura de plugins, veredicto de tres estados, evasión de WAF, cadenas de explotación, generación de POC con IA, compatible con nuclei**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/xiabai2008/ruoyi-scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/xiabai2008/ruoyi-scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/xiabai2008/ruoyi-scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/xiabai2008/ruoyi-scan?style=flat-square)
+
 ### Detección de Amenazas Persistentes Avanzadas (APT)
 
 - https://github.com/Neo23x0/Loki - **Escáner simple de IOC y respuesta a incidentes**

@@ -1539,6 +1539,10 @@
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/JiuZero/z0scan?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/JiuZero/z0scan?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/JiuZero/z0scan?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/JiuZero/z0scan?style=flat-square&label=开源协议)
 
+- https://github.com/xiabai2008/ruoyi-scan - **若依（RuoYi）专项漏洞扫描器：插件化架构、三态判定、WAF 绕过、漏洞利用链、AI POC 生成，兼容 nuclei**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/xiabai2008/ruoyi-scan?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/xiabai2008/ruoyi-scan?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/xiabai2008/ruoyi-scan?style=flat-square&label=start数量)    ![GitHub](https://img.shields.io/github/license/xiabai2008/ruoyi-scan?style=flat-square&label=开源协议)
+
 
 ### 定向APT攻击检测
 

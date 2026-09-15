@@ -1538,6 +1538,10 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/JiuZero/z0scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/JiuZero/z0scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/JiuZero/z0scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/JiuZero/z0scan?style=flat-square)
 
+- https://github.com/xiabai2008/ruoyi-scan - **RuoYi (若依) dedicated vulnerability scanner: plugin architecture, three-state verdict, WAF bypass, exploit chains, AI POC generation, nuclei compatible**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/xiabai2008/ruoyi-scan?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/xiabai2008/ruoyi-scan?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/xiabai2008/ruoyi-scan?style=flat-square)  ![GitHub](https://img.shields.io/github/license/xiabai2008/ruoyi-scan?style=flat-square)
+
 
 ### Advanced Persistent Threat Detect
 
