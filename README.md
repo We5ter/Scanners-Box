@@ -164,6 +164,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 
 ### Scanners for Smart Contracts
+* [HostDeFi Token Safety Scanner](https://hostdefi.com/safety) - Free keyless web scanner + REST API grading tokens A+-F from on-chain risk signals across Solana + 7 EVM chains
 
 - https://github.com/ConsenSys/mythril - **Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera etc.**
 
