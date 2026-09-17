@@ -15,25 +15,6 @@
 
 **Scanners Box** 是一个精心策划的 **9000+ ⭐ 开源网络安全百宝箱**——**重点关注 AI 自动化安全 Agent 与红蓝队对抗工具**。所有工具**全部源代码开放**，涵盖 10+ 个类别：子域名枚举、IoT 审计、移动端分析、智能合约扫描、云端安全等。
 
-## Project A³C
-
-<div align="center">
-
-**A³C — 自主 AI Agent 认证计划**
-
-[![状态: 活跃](https://img.shields.io/badge/状态-活跃-success?style=flat-square&logo=github)](./Project-A3C.md)
-[![类型: 开源项目](https://img.shields.io/badge/类型-开源项目-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
-
-<img src="./badges/A3C.png" alt="A³C Scanner-Box 认证">
-
-*展示 **A³C 徽章** 的项目，即代表已通过 Scanners Box **官方认证**，为活跃可信的 AI 驱动的自主项目。*
-
-</div>
-
-> **A³C 徽章** 是 Scanners Box 对开源 AI 驱动的自主项目的官方认证——经审核的活跃可信前沿工具。
-
-<p align="center"><a href="./Project-A3C.md"><img src="./badges/a3c-cta.svg" alt="Visit Project A³C"></a></p>
-
 ## 目录
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -76,23 +57,23 @@
 
 - https://github.com/oritera/Cairn - **通用状态空间搜索引擎，率先在自主渗透测试上验证——无角色限制，无工作流约束，给定起终点后自主寻路**
 
-> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square&label=开源协议)
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square&label=开源协议)
 
 - https://github.com/KeygraphHQ/shannon - **面向 Web 应用与 API 的自主白盒 AI 渗透测试工具，分析源代码、识别攻击向量并自动执行真实漏洞利用**
 
-> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square&label=开源协议)
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/KeygraphHQ/shannon?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/KeygraphHQ/shannon?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/KeygraphHQ/shannon?style=flat-square&label=开源协议)
 
 - https://github.com/SickHackPark/SickHackShark - **AI 多智能体 CTF 全流程自动化平台，覆盖信息收集、扫描、漏洞利用与 flag 获取**
 
-> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square&label=开源协议)
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SickHackPark/SickHackShark?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/SickHackPark/SickHackShark?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/SickHackPark/SickHackShark.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/SickHackPark/SickHackShark?style=flat-square&label=开源协议)
 
 - https://github.com/SanMuzZzZz/LuaN1aoAgent - **LuaN1ao（鸾鸟）—— 新一代基于 LLM 的自主渗透测试 Agent，创新融合 P-E-R Agent 协作框架与因果图推理，模拟安全专家攻防思维**
 
-> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SanMuzZzZz/LuaN1aoAgent?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/SanMuzZzZz/LuaN1aoAgent?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/SanMuzZzZz/LuaN1aoAgent.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/SanMuzZzZz/LuaN1aoAgent?style=flat-square&label=开源协议)
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/SanMuzZzZz/LuaN1aoAgent?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/SanMuzZzZz/LuaN1aoAgent?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/SanMuzZzZz/LuaN1aoAgent.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/SanMuzZzZz/LuaN1aoAgent?style=flat-square&label=开源协议)
 
 - https://github.com/Ed1s0nZ/CyberStrikeAI - **AI 原生安全测试平台（Go 实现），集成 100+ 安全工具、智能编排引擎、角色化测试、技能系统与全生命周期管理，内置轻量级 C2 框架，通过 MCP 协议与 AI Agent 实现端到端自动化安全测试**
 
-> [![A³C 认证](https://img.shields.io/badge/A%C2%B3C-%E8%AE%A4%E8%AF%81-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Scanners-Box/blob/master/Project-A3C.md)  ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Ed1s0nZ/CyberStrikeAI?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/Ed1s0nZ/CyberStrikeAI?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/Ed1s0nZ/CyberStrikeAI.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/Ed1s0nZ/CyberStrikeAI?style=flat-square&label=开源协议)
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/Ed1s0nZ/CyberStrikeAI?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/Ed1s0nZ/CyberStrikeAI?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/Ed1s0nZ/CyberStrikeAI.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/Ed1s0nZ/CyberStrikeAI?style=flat-square&label=开源协议)
 
 - https://github.com/ASCIT31/Dark-Moon - **自主 AI 渗透测试引擎，持续对 Web、云、AD 和 Kubernetes 执行攻击面安全测试，运用智能体推理、真实漏洞利用执行和攻击路径分析提供基于证据的漏洞发现**
 
