@@ -19,7 +19,7 @@
 
 <div align="center">
 
-**A³C — 自主 AI 认证计划**
+**A³C — 自主 AI Agent 认证计划**
 
 [![状态: 活跃](https://img.shields.io/badge/状态-活跃-success?style=flat-square&logo=github)](./Project-A3C.md)
 [![类型: 开源项目](https://img.shields.io/badge/类型-开源项目-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
@@ -39,7 +39,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 > [!IMPORTANT]
-> **❋⚛🐋 For AI**
+> **🤖 AI 与自主安全 Agent**
+>
+> *Scanners Box 重点分区 —— AI 驱动的自主安全工具合集。*
 >
 > - [AI自主网络安全Agent](#AI自主网络安全Agent)
 > - [LLM驱动的漏洞扫描器](#LLM驱动的漏洞扫描器)

@@ -19,7 +19,7 @@
 
 <div align="center">
 
-**A³C — Certificación de IA Autónoma**
+**A³C — Certificación de Agentes de IA Autónomos**
 
 [![Estado: Activo](https://img.shields.io/badge/Estado-Activo-success?style=flat-square&logo=github)](./Project-A3C.md)
 [![Tipo: Código Abierto](https://img.shields.io/badge/Tipo-Codigo_Abierto-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
@@ -39,7 +39,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 > [!IMPORTANT]
-> **❋⚛🐋 For AI**
+> **🤖 IA y Agentes Autónomos**
+>
+> *La zona destacada de Scanners Box — herramientas de seguridad autónomas impulsadas por IA.*
 >
 > - [Agentes de Ciberseguridad Autónomos con IA](#agentes-de-ciberseguridad-autónomos-con-ia)
 > - [Escáneres de vulnerabilidades impulsados por LLM](#escáneres-de-vulnerabilidades-impulsados-por-llm)

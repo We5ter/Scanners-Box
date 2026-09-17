@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/We5ter/Scanners-Box/raw/master/badges/A3C.png" alt="A³C — Autonomous AI Certification" width="560px">
+<img src="https://github.com/We5ter/Scanners-Box/raw/master/badges/A3C.png" alt="A³C — Autonomous AI Agent Certification" width="560px">
 
 # A³C Certification Program
 

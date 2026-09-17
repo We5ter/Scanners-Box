@@ -11,7 +11,6 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
  <a href="https://github.com/We5ter/ScanCodex"><img src="./badges/scancodex.svg" alt="ScanCodex MCP Server"></a>
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img src="./badges/x-share.svg" alt="Share on X"></a>
  </p>
- </p>
 
 ## Introduction
 
@@ -21,7 +20,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 <div align="center">
 
-**A³C — Autonomous AI Certification**
+**A³C — Autonomous AI Agent Certification**
 
 [![Status: Active](https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github)](./Project-A3C.md)
 [![Type: Open Source](https://img.shields.io/badge/Type-Open_Source-6366f1?style=flat-square&logo=opensourceinitiative)](./Project-A3C.md)
@@ -41,7 +40,9 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 > [!IMPORTANT]
-> **❋⚛🐋 For AI**
+> **🤖 AI & Autonomous Agents**
+>
+> *The focus zone of Scanners Box — AI-driven autonomous security tooling.*
 >
 > - [AI Autonomous Cybersecurity Agents](#ai-autonomous-cybersecurity-agents)
 > - [LLM-Powered Vulnerability Scanners](#llm-powered-vulnerability-scanners)
