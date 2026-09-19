@@ -8,12 +8,18 @@
   <img src="./badges/version.svg" alt="version">
   <img src="./badges/license.svg" alt="license">
  <img src="./badges/scanners-count.svg" alt="scanners">
+ <a href="https://we5ter.github.io/ai-tools/"><img src="./badges/daily-ai-picks.svg" alt="每日 AI 工具推荐"></a>
  <a href="https://github.com/We5ter/ScanCodex"><img src="./badges/scancodex.svg" alt="ScanCodex MCP Server"></a>
 </p>
 
 ## 简介
 
 **Scanners Box** 是一个精心策划的 **9000+ ⭐ 开源网络安全百宝箱**——**重点关注 AI 自动化安全 Agent 与红蓝队对抗工具**。所有工具**全部源代码开放**，涵盖 10+ 个类别：子域名枚举、IoT 审计、移动端分析、智能合约扫描、云端安全等。
+
+> [!TIP]
+> **📅 不想满世界找 AI Agent 工具？→ [Scanners-Box 每日 AI 工具推荐](https://we5ter.github.io/ai-tools/)**
+>
+> 每天挑一个值得关注的 AI 安全工具，配一篇实打实的长文拆解：它到底能干什么、边界和风险在哪、适合谁、值不值得花时间。最近两期：**Shannon**（48k★，只把跑通 PoC 的漏洞写进报告的 AI 渗透 Agent）、**CyberStrikeAI**（AI 原生安全执行中枢）。
 
 ## 目录
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

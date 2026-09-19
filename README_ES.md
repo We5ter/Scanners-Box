@@ -8,12 +8,18 @@
   <img src="./badges/version.svg" alt="version">
   <img src="./badges/license.svg" alt="license">
  <img src="./badges/scanners-count.svg" alt="scanners">
+ <a href="https://we5ter.github.io/ai-tools/"><img src="./badges/daily-ai-picks.svg" alt="Daily AI Tool Picks"></a>
  <a href="https://github.com/We5ter/ScanCodex"><img src="./badges/scancodex.svg" alt="ScanCodex MCP Server"></a>
  </p>
 
 ## Introducción
 
 **Scanners Box** es un **tesoro curado de más de 9.000 ⭐ joyas de ciberseguridad de código abierto** — con un enfoque especial en **agentes de seguridad automatizados por IA** y herramientas de **Equipo Rojo vs Equipo Azul**. Todas las herramientas cuentan con **código fuente disponible**, abarcando más de 10 categorías: enumeración de subdominios, auditoría IoT, análisis móvil, escaneo de contratos inteligentes y seguridad en la nube.
+
+> [!TIP]
+> **📅 ¿Cansado de buscar por todas partes herramientas de agentes IA? → [Scanners-Box Daily AI Tool Picks](https://we5ter.github.io/ai-tools/)**
+>
+> Una herramienta de seguridad con IA al día, con un análisis a fondo: qué hace realmente, dónde están sus límites, para quién es y si merece tu tiempo.
 
 ## Tabla de contenidos
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

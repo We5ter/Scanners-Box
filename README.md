@@ -8,6 +8,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
   <img src="./badges/version.svg" alt="version">
   <img src="./badges/license.svg" alt="license">
  <img src="./badges/scanners-count.svg" alt="scanners">
+ <a href="https://we5ter.github.io/ai-tools/"><img src="./badges/daily-ai-picks.svg" alt="Daily AI Tool Picks"></a>
  <a href="https://github.com/We5ter/ScanCodex"><img src="./badges/scancodex.svg" alt="ScanCodex MCP Server"></a>
  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FWe5ter%2FScanners-Box"><img src="./badges/x-share.svg" alt="Share on X"></a>
  </p>
@@ -15,6 +16,11 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 ## Introduction
 
 **Scanners Box** is a curated **arsenal of 9,000+ ⭐ open-source cybersecurity treasures** — with a special focus on **AI-driven automated security agents** and **Red Team / Blue Team** tooling. All tools feature **source code available**, covering 10+ categories from subdomain enumeration to IoT auditing, mobile analysis, smart contract scanning, and cloud security.
+
+> [!TIP]
+> **📅 Tired of hunting all over the place for AI agent tools? → [Scanners-Box Daily AI Tool Picks](https://we5ter.github.io/ai-tools/)**
+>
+> One AI security tool per day, each with a hands-on deep dive: what it really does, where it breaks, who it's for, and whether it's worth your time. Recent picks: **Shannon** (48k★ AI pentester that proves every finding with a real exploit) and **CyberStrikeAI** (AI-native security execution hub).
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
