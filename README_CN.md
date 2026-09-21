@@ -19,7 +19,7 @@
 > [!TIP]
 > **📅 不想满世界找 AI Agent 工具？→ [Scanners-Box 每日 AI 工具推荐](https://we5ter.github.io/ai-tools/)**
 >
-> 每天挑一个值得关注的 AI 安全工具，配一篇实打实的长文拆解：它到底能干什么、边界和风险在哪、适合谁、值不值得花时间。最近两期：**Shannon**（48k★，只把跑通 PoC 的漏洞写进报告的 AI 渗透 Agent）、**CyberStrikeAI**（AI 原生安全执行中枢）。
+> 每天挑一个值得关注的 AI 安全工具，配一篇实打实的长文拆解：它到底能干什么、边界和风险在哪、适合谁、值不值得花时间。最新一期：**Cairn**（通用状态空间搜索引擎，不定义角色、不写工作流，腾讯云黑客松 610 支队伍里唯一 AK）。此前：**Shannon**（48k★，只把跑通 PoC 的漏洞写进报告的 AI 渗透 Agent）、**CyberStrikeAI**（AI 原生安全执行中枢）。
 
 ## 目录
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
