@@ -61,6 +61,10 @@
 
 ### AI自主网络安全Agent
 
+- https://github.com/vxcontrol/pentagi - **Go 编写的全自主多智能体渗透测试系统——任务在隔离 Docker 沙箱内端到端执行，内置 nmap、metasploit、sqlmap 等 20+ 专业工具，配长期记忆、可选 Neo4j 知识图谱与可视化 Web 控制台，支持人工介入监控**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vxcontrol/pentagi?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/vxcontrol/pentagi?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/vxcontrol/pentagi.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/vxcontrol/pentagi?style=flat-square&label=开源协议)
+
 - https://github.com/oritera/Cairn - **通用状态空间搜索引擎，率先在自主渗透测试上验证——无角色限制，无工作流约束，给定起终点后自主寻路**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square&label=语言数量)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square&label=star数量)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square&label=开源协议)

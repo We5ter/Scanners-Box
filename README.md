@@ -63,6 +63,10 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 ### AI Autonomous Cybersecurity Agents
 
+- https://github.com/vxcontrol/pentagi - **Fully autonomous multi-agent pentesting system in Go — runs whole engagements inside an isolated Docker sandbox with 20+ built-in tools (nmap, metasploit, sqlmap), long-term memory, optional Neo4j knowledge graph, and a web console for human-in-the-loop monitoring**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/vxcontrol/pentagi?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/vxcontrol/pentagi?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/vxcontrol/pentagi.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/vxcontrol/pentagi?style=flat-square)
+
 - https://github.com/oritera/Cairn - **A general-purpose state-space search engine validated on autonomous penetration testing — no predefined roles or workflows, purely goal-driven pathfinding**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/oritera/Cairn?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/oritera/Cairn?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/oritera/Cairn.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/oritera/Cairn?style=flat-square)
