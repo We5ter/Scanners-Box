@@ -20,7 +20,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 > [!TIP]
 > **📅 Tired of hunting all over the place for AI agent tools? → [Scanners-Box Daily AI Tool Picks](https://we5ter.github.io/ai-tools/)**
 >
-> One AI security tool per day, each with a hands-on deep dive: what it really does, where it breaks, who it's for, and whether it's worth your time. Latest: **Cairn** (a general-purpose state-space search engine — no roles, no workflows, the only team to full-clear 54/54 at the Tencent Cloud Hackathon). Previously: **Shannon** (48k★ AI pentester that proves every finding with a real exploit) and **CyberStrikeAI** (AI-native security execution hub).
+> One AI security tool per day, each with a hands-on deep dive: what it really does, where it breaks, who it's for, and whether it's worth your time. Latest: **PentAGI** (a fully autonomous multi-agent pentesting system in Go — whole engagements run end-to-end inside an isolated Docker sandbox with 20+ built-in tools). Previously: **Cairn** (a general-purpose state-space search engine — no roles, no workflows, the only team to full-clear 54/54 at the Tencent Cloud Hackathon) and **Shannon** (48k★ AI pentester that proves every finding with a real exploit).
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

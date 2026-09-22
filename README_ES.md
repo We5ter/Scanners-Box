@@ -19,7 +19,7 @@
 > [!TIP]
 > **📅 ¿Cansado de buscar por todas partes herramientas de agentes IA? → [Scanners-Box Daily AI Tool Picks](https://we5ter.github.io/ai-tools/)**
 >
-> Una herramienta de seguridad con IA al día, con un análisis a fondo: qué hace realmente, dónde están sus límites, para quién es y si merece tu tiempo. Última entrega: **Cairn** (motor de búsqueda de espacio de estados — sin roles ni flujos de trabajo, el único equipo que resolvió 54/54 en el Tencent Cloud Hackathon). Anteriores: **Shannon** (pentester IA de 48k★ que demuestra cada hallazgo con un exploit real) y **CyberStrikeAI** (hub de ejecución de seguridad nativo de IA).
+> Una herramienta de seguridad con IA al día, con un análisis a fondo: qué hace realmente, dónde están sus límites, para quién es y si merece tu tiempo. Última entrega: **PentAGI** (sistema de pentesting multiagente totalmente autónomo en Go — campañas completas ejecutadas de extremo a extremo dentro de un sandbox Docker aislado con más de 20 herramientas integradas). Anteriores: **Cairn** (motor de búsqueda de espacio de estados — sin roles ni flujos de trabajo, el único equipo que resolvió 54/54 en el Tencent Cloud Hackathon) y **Shannon** (pentester IA de 48k★ que demuestra cada hallazgo con un exploit real).
 
 ## Tabla de contenidos
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
