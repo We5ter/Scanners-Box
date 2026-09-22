@@ -128,6 +128,10 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 ### AI Agent Runtime Controls
 
+- https://github.com/NVIDIA/OpenShell - **Sandboxed runtime for autonomous AI agents — declarative YAML policies enforce boundaries across filesystem, network, process and provider access, block data exfiltration and unauthorized egress, and inject credentials only into policy-admitted endpoints; runs Claude Code, Codex, OpenCode and Copilot CLI in isolated containers on Docker, Podman, MicroVM or Kubernetes**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Rust-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/NVIDIA/OpenShell?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/OpenShell?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/OpenShell.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/NVIDIA/OpenShell?style=flat-square)
+
 - https://github.com/agentkitai/agentgate - **Approval workflow engine for AI agents — define policies to auto-approve safe actions, auto-deny dangerous ones, and route the rest to a human via dashboard, Slack, Discord, or email**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/agentkitai/agentgate?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=flat-square)

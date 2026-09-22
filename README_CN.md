@@ -126,6 +126,10 @@
 
 ### AI Agent运行时管控
 
+- https://github.com/NVIDIA/OpenShell - **面向自主 AI Agent 的安全私有运行时——用声明式 YAML 策略在文件系统、网络、进程与凭证四个维度设界，阻断数据外泄与越权出站，凭证只在策略放行后按授权端点注入，可在 Docker、Podman、MicroVM、Kubernetes 上为 Claude Code、Codex、OpenCode、Copilot CLI 等 Agent 提供隔离容器**
+
+> ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-Rust-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/NVIDIA/OpenShell?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/OpenShell?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/OpenShell.svg?style=flat-square&label=star数量)    ![GitHub](https://img.shields.io/github/license/NVIDIA/OpenShell?style=flat-square&label=开源协议)
+
 - https://github.com/agentkitai/agentgate - **AI Agent 行为审批工作流引擎——通过策略自动放行安全操作、拦截危险操作，其余路由给人工通过 Dashboard、Slack、Discord 或 Email 审批**
 
 > ![](https://img.shields.io/badge/评分-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/主语言-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/agentkitai/agentgate?style=flat-square&label=语言数量)    ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=flat-square&label=上次提交)    ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=flat-square&label=star数量)    ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=flat-square&label=开源协议)

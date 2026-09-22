@@ -123,6 +123,10 @@
 
 ### Controles de ejecución para AI Agents
 
+- https://github.com/NVIDIA/OpenShell - **Entorno de ejecución seguro y privado para agentes de IA autónomos — políticas YAML declarativas que aplican límites en sistema de archivos, red, procesos y credenciales, bloquean la exfiltración de datos y la salida no autorizada, e inyectan credenciales solo en endpoints admitidos por política; ejecuta Claude Code, Codex, OpenCode y Copilot CLI en contenedores aislados sobre Docker, Podman, MicroVM o Kubernetes**
+
+> ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-Rust-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/NVIDIA/OpenShell?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/OpenShell?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/OpenShell.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/NVIDIA/OpenShell?style=flat-square)
+
 - https://github.com/agentkitai/agentgate - **Motor de flujo de aprobación para AI agents — define políticas para aprobar automáticamente acciones seguras, denegar las peligrosas y redirigir el resto a un humano vía dashboard, Slack, Discord o email**
 
 > ![](https://img.shields.io/badge/Score-%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow?style=flat-square)  ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=flat-square)  ![GitHub language count](https://img.shields.io/github/languages/count/agentkitai/agentgate?style=flat-square)  ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=flat-square)  ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=flat-square)  ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=flat-square)
