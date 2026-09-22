@@ -14,12 +14,10 @@
 
 ## 简介
 
-**Scanners Box** 是一个精心策划的 **9000+ ⭐ 开源网络安全百宝箱**——**重点关注 AI 自动化安全 Agent 与红蓝队对抗工具**。所有工具**全部源代码开放**，涵盖 10+ 个类别：子域名枚举、IoT 审计、移动端分析、智能合约扫描、云端安全等。
+The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agents——面向极客、企业与 AI 智能体的全域开源网络安全工具矩阵
 
 > [!TIP]
 > **📅 不想满世界找 AI Agent 工具？→ [Scanners-Box 每日 AI 工具推荐](https://we5ter.github.io/ai-tools/)**
->
-> 每天挑一个值得关注的 AI 安全工具，配一篇实打实的长文拆解：它到底能干什么、边界和风险在哪、适合谁、值不值得花时间。最新一期：**PentAGI**（Go 编写的全自主多智能体渗透测试系统，任务在隔离 Docker 沙箱内端到端执行，内置 20+ 专业工具）。此前：**Cairn**（通用状态空间搜索引擎，不定义角色、不写工作流，腾讯云黑客松 610 支队伍里唯一 AK）、**Shannon**（48k★，只把跑通 PoC 的漏洞写进报告的 AI 渗透 Agent）。
 
 ## 目录
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

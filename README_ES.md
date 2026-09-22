@@ -14,12 +14,10 @@
 
 ## Introducción
 
-**Scanners Box** es un **tesoro curado de más de 9.000 ⭐ joyas de ciberseguridad de código abierto** — con un enfoque especial en **agentes de seguridad automatizados por IA** y herramientas de **Equipo Rojo vs Equipo Azul**. Todas las herramientas cuentan con **código fuente disponible**, abarcando más de 10 categorías: enumeración de subdominios, auditoría IoT, análisis móvil, escaneo de contratos inteligentes y seguridad en la nube.
+The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agents——面向极客、企业与 AI 智能体的全域开源网络安全工具矩阵
 
 > [!TIP]
 > **📅 ¿Cansado de buscar por todas partes herramientas de agentes IA? → [Scanners-Box Daily AI Tool Picks](https://we5ter.github.io/ai-tools/)**
->
-> Una herramienta de seguridad con IA al día, con un análisis a fondo: qué hace realmente, dónde están sus límites, para quién es y si merece tu tiempo. Última entrega: **PentAGI** (sistema de pentesting multiagente totalmente autónomo en Go — campañas completas ejecutadas de extremo a extremo dentro de un sandbox Docker aislado con más de 20 herramientas integradas). Anteriores: **Cairn** (motor de búsqueda de espacio de estados — sin roles ni flujos de trabajo, el único equipo que resolvió 54/54 en el Tencent Cloud Hackathon) y **Shannon** (pentester IA de 48k★ que demuestra cada hallazgo con un exploit real).
 
 ## Tabla de contenidos
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
