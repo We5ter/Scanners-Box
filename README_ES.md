@@ -79,7 +79,7 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 
 - https://github.com/Ed1s0nZ/CyberStrikeAI - **Plataforma de pruebas de seguridad nativa de IA en Go, que integra más de 100 herramientas, orquestación inteligente, pruebas basadas en roles, sistema de habilidades, gestión completa del ciclo de vida y un framework C2 ligero integrado para operaciones autorizadas**
 
-> ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=for-the-badge)  ![GitHub last commit](https://img.githubuserlast-commit/Ed1s0nZ/CyberStrikeAI?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/Ed1s0nZ/CyberStrikeAI.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/Ed1s0nZ/CyberStrikeAI?style=for-the-badge)
+> ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/Ed1s0nZ/CyberStrikeAI?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/Ed1s0nZ/CyberStrikeAI.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/Ed1s0nZ/CyberStrikeAI?style=for-the-badge)
 
 - https://github.com/ASCIT31/Dark-Moon - **Motor de pentesting autónomo con IA que realiza seguridad ofensiva continua en web, cloud, AD y Kubernetes. Utiliza razonamiento agéntico, ejecución real de exploits y análisis de rutas de ataque para entregar vulnerabilidades con pruebas verificables.**
 
