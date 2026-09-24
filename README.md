@@ -31,7 +31,7 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 >
 > - [AI Autonomous Cybersecurity Agents](#ai-autonomous-cybersecurity-agents)
 > - [LLM-Powered Vulnerability Scanners](#llm-powered-vulnerability-scanners)
-> - [Security Auditing for AI Apps](#security-auditing-for-ai-apps)
+> - [Security Auditing for AI Agents & Apps](#security-auditing-for-ai-agents--apps)
 > - [AI Agent Runtime Controls](#ai-agent-runtime-controls)
 > - [Security Auditing for Agent Skills](#security-auditing-for-agent-skills)
 > - [Autonomous Vulnerability Discovery and Remediation Skills](#autonomous-vulnerability-discovery-and-remediation-skills)
@@ -105,7 +105,7 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 > ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/vigolium/vigolium?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/vigolium/vigolium.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/vigolium/vigolium?style=for-the-badge)
 
 
-### Security Auditing for AI Apps
+### Security Auditing for AI Agents & Apps
 
 - https://github.com/leondz/garak - **LLM vulnerability scanner for hallucination, data leakage, promp injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses**
 
@@ -122,6 +122,10 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 - https://github.com/Tencent/AI-Infra-Guard - **A.I.G (AI-Infra-Guard) integrates capabilities such as AI infrastructure vulnerability scanning, MCP Server risk detection, and LLM security assessments**
 
 > ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AI-Infra-Guard?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/Tencent/AI-Infra-Guard?style=for-the-badge)
+
+- https://github.com/affaan-m/agentshield - **Security auditor for AI agent configurations — scans Claude Code setups for hardcoded secrets, permission misconfigs, hook injection, MCP server risks and prompt injection vectors; 268 rules across 15 modules, scored 0-100, with auto-fix, CI gating and compliance mapping (SOC 2 / PCI DSS / ISO 27001)**
+
+> ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/affaan-m/agentshield?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/affaan-m/agentshield.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/affaan-m/agentshield?style=for-the-badge)
 
 
 ### AI Agent Runtime Controls

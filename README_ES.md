@@ -30,7 +30,7 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 >
 > - [Agentes de Ciberseguridad Autónomos con IA](#agentes-de-ciberseguridad-autónomos-con-ia)
 > - [Escáneres de vulnerabilidades impulsados por LLM](#escáneres-de-vulnerabilidades-impulsados-por-llm)
-> - [Auditoría de seguridad para aplicaciones de IA](#auditoría-de-seguridad-para-aplicaciones-de-ia)
+> - [Auditoría de seguridad para AI Agents y aplicaciones](#auditoría-de-seguridad-para-ai-agents-y-aplicaciones)
 > - [Controles de ejecución para AI Agents](#controles-de-ejecución-para-ai-agents)
 > - [Auditoría de seguridad para habilidades de agentes](#auditoría-de-seguridad-para-habilidades-de-agentes)
 > - [Habilidades autónomas de descubrimiento y remediación de vulnerabilidades](#habilidades-autónomas-de-descubrimiento-y-remediación-de-vulnerabilidades)
@@ -101,7 +101,7 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 > ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/vigolium/vigolium?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/vigolium/vigolium.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/vigolium/vigolium?style=for-the-badge)
 
 
-### Auditoría de seguridad para aplicaciones de IA
+### Auditoría de seguridad para AI Agents y aplicaciones
 
 - https://github.com/leondz/garak - **Un escáner de vulnerabilidades para LLM (Grandes Modelos de Lenguaje) que detecta múltiples debilidades como alucinaciones, fugas de datos, inyección de prompts, desinformación, generación de contenido tóxico y jailbreaks.**
 
@@ -118,6 +118,10 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 - https://github.com/Tencent/AI-Infra-Guard - **A.I.G (AI-Infra-Guard) es una plataforma integrada que incluye escaneo de vulnerabilidades de infraestructura de IA, detección de riesgos en servidores MCP y evaluación de seguridad de LLM.**
 
 > ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AI-Infra-Guard?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/Tencent/AI-Infra-Guard?style=for-the-badge)
+
+- https://github.com/affaan-m/agentshield - **Auditor de seguridad para configuraciones de AI agents — escanea instalaciones de Claude Code en busca de secretos codificados, configuraciones incorrectas de permisos, inyección en hooks, riesgos en servidores MCP y vectores de inyección de prompts; 268 reglas en 15 módulos, puntuación 0-100, con auto-reparación, control en CI y mapeo de cumplimiento (SOC 2 / PCI DSS / ISO 27001)**
+
+> ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/affaan-m/agentshield?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/affaan-m/agentshield.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/affaan-m/agentshield?style=for-the-badge)
 
 ### Controles de ejecución para AI Agents
 
