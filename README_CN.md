@@ -132,6 +132,10 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 
 > ![](https://img.shields.io/badge/主语言-Rust-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/OpenShell?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/OpenShell.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/NVIDIA/OpenShell?style=for-the-badge&label=开源协议)
 
+- https://github.com/microsoft/agent-governance-toolkit - **微软出品的自主 AI Agent 治理工具包——策略引擎负责工具与动作的授权，零信任身份配发短期受限凭证，OS 级执行沙箱做隔离，另有可靠性工程（熔断、预算上限、审计留痕）；自带映射到 OWASP Agentic Top 10 全部 10 个类别的参考策略集**
+
+> ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/agent-governance-toolkit?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/microsoft/agent-governance-toolkit.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/microsoft/agent-governance-toolkit?style=for-the-badge&label=开源协议)
+
 - https://github.com/agentkitai/agentgate - **AI Agent 行为审批工作流引擎——通过策略自动放行安全操作、拦截危险操作，其余路由给人工通过 Dashboard、Slack、Discord 或 Email 审批**
 
 > ![](https://img.shields.io/badge/主语言-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=for-the-badge&label=开源协议)

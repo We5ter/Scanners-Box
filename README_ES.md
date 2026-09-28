@@ -129,6 +129,10 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 
 > ![](https://img.shields.io/badge/MainLanguage-Rust-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/OpenShell?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/OpenShell.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/NVIDIA/OpenShell?style=for-the-badge)
 
+- https://github.com/microsoft/agent-governance-toolkit - **Kit de gobernanza de Microsoft para agentes de IA autónomos — motor de políticas que autoriza herramientas y acciones, identidad zero-trust con credenciales limitadas de corta duración, sandboxing de ejecución a nivel de sistema operativo e ingeniería de fiabilidad (circuit breakers, límites de presupuesto, registros de auditoría); incluye paquetes de políticas de referencia mapeados a las 10 categorías de OWASP Agentic Top 10**
+
+> ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/agent-governance-toolkit?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/microsoft/agent-governance-toolkit.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/microsoft/agent-governance-toolkit?style=for-the-badge)
+
 - https://github.com/agentkitai/agentgate - **Motor de flujo de aprobación para AI agents — define políticas para aprobar automáticamente acciones seguras, denegar las peligrosas y redirigir el resto a un humano vía dashboard, Slack, Discord o email**
 
 > ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=for-the-badge)
