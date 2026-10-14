@@ -34,6 +34,7 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 > - [AI Agent运行时管控](#AI-Agent运行时管控)
 > - [Agent技能安全审计](#Agent技能安全审计)
 > - [自主漏洞发现与修复技能](#自主漏洞发现与修复技能)
+> - [面向 Agentic 工作流的安全工具集](#面向-agentic-工作流的安全工具集)
 
 - [智能合约漏洞扫描器](#智能合约漏洞扫描器)
 - [红蓝对抗](#红蓝对抗)
@@ -161,6 +162,13 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 - https://github.com/cloudflare/security-audit-skill - **多阶段安全审计的编码 Agent 技能——侦察、狩猎、对抗性验证、报告生成、结构化输出与独立验证，产出机器可读的发现报告**
 
 > ![](https://img.shields.io/badge/主语言-Markdown-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/security-audit-skill?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/cloudflare/security-audit-skill.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/cloudflare/security-audit-skill?style=for-the-badge&label=开源协议)
+
+
+### 面向 Agentic 工作流的安全工具集
+
+- https://github.com/h5i-dev/h5i - **面向 Agent 的原生 Web 安全工作台——给 AI Agent 一套统一工具（浏览器自动化、HTTP 流量抓取/改包/重放、侦察爬取）在可配置沙箱里对 Web 应用做红队测试，已确认的攻击流可回放到 CI/CD 做安全回归，还能把 Rust 业务逻辑翻译成 Lean 4 做形式化验证**
+
+> ![](https://img.shields.io/badge/主语言-Rust-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/h5i-dev/h5i?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/h5i-dev/h5i.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/h5i-dev/h5i?style=for-the-badge&label=开源协议)
 
 
 ### 智能合约漏洞扫描器

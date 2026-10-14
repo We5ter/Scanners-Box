@@ -35,6 +35,7 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 > - [AI Agent Runtime Controls](#ai-agent-runtime-controls)
 > - [Security Auditing for Agent Skills](#security-auditing-for-agent-skills)
 > - [Autonomous Vulnerability Discovery and Remediation Skills](#autonomous-vulnerability-discovery-and-remediation-skills)
+> - [Security Toolkits for Agentic Workflows](#security-toolkits-for-agentic-workflows)
 
 - [Scanners for Smart Contracts](#scanners-for-smart-contracts)
 - [Red Team vs Blue Team](#red-team-vs-blue-team)
@@ -163,6 +164,13 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 - https://github.com/cloudflare/security-audit-skill - **A coding-agent skill for multi-phase security audits — recon, hunting, adversarial validation, reporting, structured output, and independent verification — with machine-readable findings**
 
 > ![](https://img.shields.io/badge/MainLanguage-Markdown-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/security-audit-skill?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/cloudflare/security-audit-skill.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/cloudflare/security-audit-skill?style=for-the-badge)
+
+
+### Security Toolkits for Agentic Workflows
+
+- https://github.com/h5i-dev/h5i - **Agent-native web security workspace — hands AI agents a unified toolkit (browser automation, HTTP traffic capture / tamper / replay, recon crawling) to red-team web apps inside a configurable sandbox, replays confirmed attack flows in CI/CD as security regression checks, and formally verifies Rust application logic against Lean 4**
+
+> ![](https://img.shields.io/badge/MainLanguage-Rust-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/h5i-dev/h5i?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/h5i-dev/h5i.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/h5i-dev/h5i?style=for-the-badge)
 
 
 ### Scanners for Smart Contracts

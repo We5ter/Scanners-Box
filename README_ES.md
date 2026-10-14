@@ -34,6 +34,7 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 > - [Controles de ejecución para AI Agents](#controles-de-ejecución-para-ai-agents)
 > - [Auditoría de seguridad para habilidades de agentes](#auditoría-de-seguridad-para-habilidades-de-agentes)
 > - [Habilidades autónomas de descubrimiento y remediación de vulnerabilidades](#habilidades-autónomas-de-descubrimiento-y-remediación-de-vulnerabilidades)
+> - [Kits de seguridad para flujos de trabajo de agentes](#kits-de-seguridad-para-flujos-de-trabajo-de-agentes)
 
 - [Escáneres de contratos inteligentes](#escáneres-de-contratos-inteligentes)
 - [Equipo Rojo vs Equipo Azul](#equipo-rojo-vs-equipo-azul)
@@ -156,6 +157,12 @@ The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agent
 - https://github.com/cloudflare/security-audit-skill - **Una habilidad de agente de codificación para auditorías de seguridad multifase — reconocimiento, caza, validación adversarial, informes, salida estructurada y verificación independiente — con hallazgos legibles por máquinas**
 
 > ![](https://img.shields.io/badge/MainLanguage-Markdown-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/security-audit-skill?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/cloudflare/security-audit-skill.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/cloudflare/security-audit-skill?style=for-the-badge)
+
+### Kits de seguridad para flujos de trabajo de agentes
+
+- https://github.com/h5i-dev/h5i - **Espacio de trabajo de seguridad web nativo para agentes — entrega a los agentes de IA un kit unificado (automatización de navegador, captura / modificación / repetición de tráfico HTTP, rastreo de reconocimiento) para hacer red-teaming de aplicaciones web dentro de un sandbox configurable, reproduce flujos de ataque confirmados en CI/CD como pruebas de regresión de seguridad y verifica formalmente la lógica de aplicaciones Rust contra Lean 4**
+
+> ![](https://img.shields.io/badge/MainLanguage-Rust-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/h5i-dev/h5i?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/h5i-dev/h5i.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/h5i-dev/h5i?style=for-the-badge)
 
 ### Escáneres de contratos inteligentes
 
