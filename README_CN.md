@@ -21,9 +21,19 @@
 > [!TIP]
 > **📅 不想满世界找 AI Agent 工具？→ [Scanners-Box 每日 AI 工具推荐](https://we5ter.github.io/ai-tools/)**
 
+## 支持者
+
+| 赞助商 | 介绍 |
+|:---:|---|
+| <a href="https://www.aiwts.com/" target="_blank"><img src="https://www.aiwts.com/vitas/vitas-logo-transparent.webp" alt="维塔斯AI聚合"></a> | <a href="https://www.aiwts.com/" target="_blank"><b>维塔斯AI聚合</b></a> 是企业级 AI 大模型 API 聚合服务：开发者只需一个 Key，即可统一调用 GPT、Claude、DeepSeek、Gemini 等 200+ 模型（文本/生图/视频），完全兼容 OpenAI 协议，无需海外账号与信用卡 [https://www.aiwts.com/](https://www.aiwts.com/) |
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="200" alt="通过 PayPal 赞助"></a>
+  <br><br>
+  <img src="badges/wechat-donate.jpg" width="200" alt="微信赞赏码">
+</p>
+
 ## 目录
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 > [!IMPORTANT]
 > **🤖 AI 与自主安全 Agent**
@@ -55,8 +65,6 @@
 - [动态或静态代码审计](#动态或静态代码审计)
 - [模块化设计扫描器或漏洞评估框架](#模块化设计扫描器或漏洞评估框架)
 - [定向APT攻击检测](#定向APT攻击检测)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ***
 
@@ -1607,29 +1615,6 @@
 ## 版权
 
 非常开心能够看到这个仓库在安全社区如此广泛的传播，但我也希望大家能够尊重知识，尊重劳动，因此转载的时候请在您的文章里注明来自https://github.com/We5ter/Scanners-Box ,同时也请不要通过二次发表此文章谋取不正当的利益（如原创投稿）
-
-## 支持者
-
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="60" height="60"><br>
-      <sub><b>Albert</b></sub>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.paypal.com/paypalme/zhiyangzeng">
-        <img src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="60" height="60" style="opacity:0.25; filter:grayscale(1)"><br>
-        <sub>在此留名</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="200"></a>
-  &nbsp;
-  <a href="https://www.buymeacoffee.com/we5ter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee"></a>
-</p>
 
 ## 致谢
 

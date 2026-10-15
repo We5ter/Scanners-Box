@@ -1,5 +1,5 @@
 English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
- 
+
 <p align="center">
 <img src="./logo.png" width="300px">
  </p>
@@ -22,9 +22,19 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 > [!TIP]
 > **📅 Tired of hunting all over the place for AI agent tools? → [Scanners-Box Daily AI Tool Picks](https://we5ter.github.io/ai-tools/)**
 
+## Sponsors
+
+| Sponsor | About |
+|:---:|---|
+| <a href="https://www.aiwts.com/" target="_blank"><img src="https://www.aiwts.com/vitas/vitas-logo-transparent.webp" alt="维塔斯AI聚合"></a> | <a href="https://www.aiwts.com/" target="_blank"><b>维塔斯AI聚合</b></a> 是企业级 AI 大模型 API 聚合服务：开发者只需一个 Key，即可统一调用 GPT、Claude、DeepSeek、Gemini 等 200+ 模型（文本/生图/视频），完全兼容 OpenAI 协议，无需海外账号与信用卡 [https://www.aiwts.com/](https://www.aiwts.com/) |
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="200" alt="Donate with PayPal"></a>
+  <br><br>
+  <img src="badges/wechat-donate.jpg" width="200" alt="WeChat reward code">
+</p>
+
 ## Contents
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 > [!IMPORTANT]
 > **🤖 AI & Autonomous Agents**
@@ -56,9 +66,6 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 - [Dynamic or Static Code Analysis](#dynamic-or-static-code-analysis)
 - [Modular Design Scanners or Vulnerability Detecting Framework](#modular-design-scanners-or-vulnerability-detecting-framework)
 - [Advanced Persistent Threat Detect](#advanced-persistent-threat-detect)
-
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ***
 
@@ -1604,29 +1611,6 @@ The content of this Repository is released under the [<CC BY-NC-ND 4.0>](https:/
 ## Copyright
 
 It's happy to see that this repository has been widely spreaded in information security community, but I hope everyone could at all times respect knowledge and our efforts, so please specify reproduced from https://github.com/We5ter/Scanners-Box in your articles, and please do not republish this article for profit.
-
-## Sponsors
-
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="60" height="60"><br>
-      <sub><b>Albert</b></sub>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.paypal.com/paypalme/zhiyangzeng">
-        <img src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="60" height="60" style="opacity:0.25; filter:grayscale(1)"><br>
-        <sub>Your name here</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="200"></a>
-  &nbsp;
-  <a href="https://www.buymeacoffee.com/we5ter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee"></a>
-</p>
 
 ## Acknowledgments
 

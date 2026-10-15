@@ -21,9 +21,19 @@
 > [!TIP]
 > **📅 ¿Cansado de buscar por todas partes herramientas de agentes IA? → [Scanners-Box Daily AI Tool Picks](https://we5ter.github.io/ai-tools/)**
 
+## Patrocinadores
+
+| Patrocinador | Presentación |
+|:---:|---|
+| <a href="https://www.aiwts.com/" target="_blank"><img src="https://www.aiwts.com/vitas/vitas-logo-transparent.webp" alt="维塔斯AI聚合"></a> | <a href="https://www.aiwts.com/" target="_blank"><b>维塔斯AI聚合</b></a> 是企业级 AI 大模型 API 聚合服务：开发者只需一个 Key，即可统一调用 GPT、Claude、DeepSeek、Gemini 等 200+ 模型（文本/生图/视频），完全兼容 OpenAI 协议，无需海外账号与信用卡 [https://www.aiwts.com/](https://www.aiwts.com/) |
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="200" alt="Donar con PayPal"></a>
+  <br><br>
+  <img src="badges/wechat-donate.jpg" width="200" alt="Código de recompensas de WeChat">
+</p>
+
 ## Tabla de contenidos
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 > [!IMPORTANT]
 > **🤖 IA y Agentes Autónomos**
@@ -55,8 +65,6 @@
 - [Análisis de código dinámico/estático](#análisis-de-código-dinámicoestático)
 - [Escáneres de diseño modular / Marcos de detección de vulnerabilidades](#escáneres-de-diseño-modular--marcos-de-detección-de-vulnerabilidades)
 - [Detección de Amenazas Persistentes Avanzadas (APT)](#detección-de-amenazas-persistentes-avanzadas-apt)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### Agentes de Ciberseguridad Autónomos con IA
 
@@ -1577,29 +1585,6 @@ El contenido de este repositorio se publica bajo los términos de [CC BY-NC-ND 4
 ## Derechos de autor
 
 Nos complace que este repositorio sea ampliamente compartido en la comunidad de seguridad informática. Al republicar, por favor cite la fuente (https://github.com/We5ter/Scanners-Box).
-
-## Patrocinadores
-
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="60" height="60"><br>
-      <sub><b>Albert</b></sub>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.paypal.com/paypalme/zhiyangzeng">
-        <img src="https://cdn-icons-png.flaticon.com/128/6997/6997649.png" width="60" height="60" style="opacity:0.25; filter:grayscale(1)"><br>
-        <sub>Tu nombre aquí</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="200"></a>
-  &nbsp;
-  <a href="https://www.buymeacoffee.com/we5ter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee"></a>
-</p>
 
 ## Agradecimientos
 
