@@ -14,7 +14,9 @@
 
 ## 简介
 
-The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agents——面向极客、企业与 AI 智能体的全域开源网络安全工具矩阵
+- **EN** The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agents
+- **中文** 面向极客、企业与 AI 智能体的全域开源网络安全工具矩阵
+- **ES** El arsenal definitivo de seguridad de código abierto para hackers, empresas y agentes de IA
 
 > [!TIP]
 > **📅 不想满世界找 AI Agent 工具？→ [Scanners-Box 每日 AI 工具推荐](https://we5ter.github.io/ai-tools/)**

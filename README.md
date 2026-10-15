@@ -15,7 +15,9 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 ## Introduction
 
-The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agents——面向极客、企业与 AI 智能体的全域开源网络安全工具矩阵
+- **EN** The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agents
+- **中文** 面向极客、企业与 AI 智能体的全域开源网络安全工具矩阵
+- **ES** El arsenal definitivo de seguridad de código abierto para hackers, empresas y agentes de IA
 
 > [!TIP]
 > **📅 Tired of hunting all over the place for AI agent tools? → [Scanners-Box Daily AI Tool Picks](https://we5ter.github.io/ai-tools/)**
