@@ -45,7 +45,7 @@
 > - [Auditoría de seguridad para AI Agents y aplicaciones](#auditoría-de-seguridad-para-ai-agents-y-aplicaciones)
 > - [Controles de ejecución para AI Agents](#controles-de-ejecución-para-ai-agents)
 > - [Auditoría de seguridad para habilidades de agentes](#auditoría-de-seguridad-para-habilidades-de-agentes)
-> - [Habilidades autónomas de descubrimiento y remediación de vulnerabilidades](#habilidades-autónomas-de-descubrimiento-y-remediación-de-vulnerabilidades)
+> - [Skills para descubrir y remediar vulnerabilidades de forma autónoma](#skills-para-descubrir-y-remediar-vulnerabilidades-de-forma-autónoma)
 > - [Kits de seguridad para flujos de trabajo de agentes](#kits-de-seguridad-para-flujos-de-trabajo-de-agentes)
 
 - [Escáneres de contratos inteligentes](#escáneres-de-contratos-inteligentes)
@@ -166,7 +166,7 @@
 
 > ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cisco-ai-defense/skill-scanner?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/cisco-ai-defense/skill-scanner.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/cisco-ai-defense/skill-scanner?style=for-the-badge)
 
-### Habilidades autónomas de descubrimiento y remediación de vulnerabilidades
+### Skills para descubrir y remediar vulnerabilidades de forma autónoma
 
 - https://github.com/anthropics/defending-code-reference-harness - **Conjunto de habilidades para modelado de amenazas, escaneo, clasificación y parcheo, con un framework de escaneo autónomo personalizable para la gestión completa del ciclo de vida de vulnerabilidades**
 

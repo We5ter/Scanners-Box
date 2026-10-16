@@ -45,7 +45,7 @@
 > - [AI Agent 与应用安全审计](#ai-agent-与应用安全审计)
 > - [AI Agent运行时管控](#AI-Agent运行时管控)
 > - [Agent技能安全审计](#Agent技能安全审计)
-> - [自主漏洞发现与修复技能](#自主漏洞发现与修复技能)
+> - [自主漏洞发现与修复 Skills](#自主漏洞发现与修复-skills)
 > - [面向 Agentic 工作流的安全工具集](#面向-agentic-工作流的安全工具集)
 
 - [智能合约漏洞扫描器](#智能合约漏洞扫描器)
@@ -171,7 +171,7 @@
 > ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cisco-ai-defense/skill-scanner?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/cisco-ai-defense/skill-scanner.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/cisco-ai-defense/skill-scanner?style=for-the-badge&label=开源协议)
 
 
-### 自主漏洞发现与修复技能
+### 自主漏洞发现与修复 Skills
 
 - https://github.com/anthropics/defending-code-reference-harness - **威胁建模、扫描、分类、修复一体化技能集，提供可自定义的自主扫描框架，实现端到端漏洞生命周期管理**
 
