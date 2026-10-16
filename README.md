@@ -137,6 +137,10 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 > ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/affaan-m/agentshield?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/affaan-m/agentshield.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/affaan-m/agentshield?style=for-the-badge)
 
+- https://github.com/cisco-ai-defense/mcp-scanner - **Security scanner for Model Context Protocol (MCP) servers — combines YARA rules, LLM-based analysis and Cisco AI Defense detections to flag malicious MCP tools, tool poisoning, prompt injection and other threats across the MCP ecosystem**
+
+> ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cisco-ai-defense/mcp-scanner?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/cisco-ai-defense/mcp-scanner.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/cisco-ai-defense/mcp-scanner?style=for-the-badge)
+
 
 ### AI Agent Runtime Controls
 
@@ -151,6 +155,10 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 - https://github.com/agentkitai/agentgate - **Approval workflow engine for AI agents — define policies to auto-approve safe actions, auto-deny dangerous ones, and route the rest to a human via dashboard, Slack, Discord, or email**
 
 > ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=for-the-badge)
+
+- https://github.com/kubernetes-sigs/agent-sandbox - **Kubernetes-native sandbox for AI agent workloads — the Sandbox CRD manages isolated, stateful, singleton pods with stable identity and persistent storage, supports gVisor/Kata secure runtimes, deep hibernation and auto-resume, plus SandboxTemplate/SandboxClaim/SandboxWarmPool extensions and Go/Python SDKs**
+
+> ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes-sigs/agent-sandbox?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/kubernetes-sigs/agent-sandbox.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/kubernetes-sigs/agent-sandbox?style=for-the-badge)
 
 
 ### Security Auditing for Agent Skills

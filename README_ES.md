@@ -134,6 +134,10 @@
 
 > ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/affaan-m/agentshield?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/affaan-m/agentshield.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/affaan-m/agentshield?style=for-the-badge)
 
+- https://github.com/cisco-ai-defense/mcp-scanner - **Escáner de seguridad para servidores MCP (Model Context Protocol) — combina reglas YARA, análisis basado en LLM y detecciones de Cisco AI Defense para identificar herramientas MCP maliciosas, envenenamiento de herramientas, inyección de prompts y otras amenazas del ecosistema MCP**
+
+> ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cisco-ai-defense/mcp-scanner?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/cisco-ai-defense/mcp-scanner.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/cisco-ai-defense/mcp-scanner?style=for-the-badge)
+
 ### Controles de ejecución para AI Agents
 
 - https://github.com/NVIDIA/OpenShell - **Entorno de ejecución seguro y privado para agentes de IA autónomos — políticas YAML declarativas que aplican límites en sistema de archivos, red, procesos y credenciales, bloquean la exfiltración de datos y la salida no autorizada, e inyectan credenciales solo en endpoints admitidos por política; ejecuta Claude Code, Codex, OpenCode y Copilot CLI en contenedores aislados sobre Docker, Podman, MicroVM o Kubernetes**
@@ -147,6 +151,10 @@
 - https://github.com/agentkitai/agentgate - **Motor de flujo de aprobación para AI agents — define políticas para aprobar automáticamente acciones seguras, denegar las peligrosas y redirigir el resto a un humano vía dashboard, Slack, Discord o email**
 
 > ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=for-the-badge)
+
+- https://github.com/kubernetes-sigs/agent-sandbox - **Sandbox nativo de Kubernetes para cargas de trabajo de AI agents — el CRD Sandbox gestiona pods aislados, stateful y singleton con identidad estable y almacenamiento persistente, soporta runtimes seguros gVisor/Kata, hibernación profunda y reanudación automática, además de extensiones SandboxTemplate/SandboxClaim/SandboxWarmPool y SDKs de Go/Python**
+
+> ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes-sigs/agent-sandbox?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/kubernetes-sigs/agent-sandbox.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/kubernetes-sigs/agent-sandbox?style=for-the-badge)
 
 ### Auditoría de seguridad para habilidades de agentes
 

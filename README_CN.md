@@ -136,6 +136,10 @@
 
 > ![](https://img.shields.io/badge/主语言-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/affaan-m/agentshield?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/affaan-m/agentshield.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/affaan-m/agentshield?style=for-the-badge&label=开源协议)
 
+- https://github.com/cisco-ai-defense/mcp-scanner - **MCP（Model Context Protocol）服务器安全扫描器——结合 YARA 规则、LLM 分析与 Cisco AI Defense 检测能力，识别恶意 MCP 工具、工具投毒、提示注入等 MCP 生态安全威胁**
+
+> ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cisco-ai-defense/mcp-scanner?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/cisco-ai-defense/mcp-scanner.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/cisco-ai-defense/mcp-scanner?style=for-the-badge&label=开源协议)
+
 
 ### AI Agent运行时管控
 
@@ -150,6 +154,10 @@
 - https://github.com/agentkitai/agentgate - **AI Agent 行为审批工作流引擎——通过策略自动放行安全操作、拦截危险操作，其余路由给人工通过 Dashboard、Slack、Discord 或 Email 审批**
 
 > ![](https://img.shields.io/badge/主语言-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/agentkitai/agentgate?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/agentkitai/agentgate.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/agentkitai/agentgate?style=for-the-badge&label=开源协议)
+
+- https://github.com/kubernetes-sigs/agent-sandbox - **Kubernetes 原生 AI Agent 沙箱——Sandbox CRD 管理隔离、有状态、单实例的 Pod，提供稳定身份与持久化存储，支持 gVisor/Kata 安全运行时、深度休眠与自动恢复，附带 SandboxTemplate/SandboxClaim/SandboxWarmPool 扩展及 Go/Python SDK**
+
+> ![](https://img.shields.io/badge/主语言-Go-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes-sigs/agent-sandbox?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/kubernetes-sigs/agent-sandbox.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/kubernetes-sigs/agent-sandbox?style=for-the-badge&label=开源协议)
 
 
 ### Agent技能安全审计
