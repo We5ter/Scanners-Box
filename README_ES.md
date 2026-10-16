@@ -27,6 +27,9 @@
 |:---:|---|
 | <a href="https://www.aiwts.com/" target="_blank"><img src="https://www.aiwts.com/vitas/vitas-logo-transparent.webp" alt="维塔斯AI聚合"></a> | <a href="https://www.aiwts.com/" target="_blank"><b>维塔斯AI聚合</b></a> 是企业级 AI 大模型 API 聚合服务：开发者只需一个 Key，即可统一调用 GPT、Claude、DeepSeek、Gemini 等 200+ 模型（文本/生图/视频），完全兼容 OpenAI 协议，无需海外账号与信用卡 [https://www.aiwts.com/](https://www.aiwts.com/) |
 
+> [!NOTE]
+> **¿Quieres ser el próximo patrocinador?** Abre un [issue en GitHub](https://github.com/We5ter/Scanners-Box/issues) o escribe a [wester0x01@qq.com](mailto:wester0x01@qq.com). Las aportaciones individuales también son bienvenidas.
+
 <p align="center">
   <a href="https://www.paypal.com/paypalme/zhiyangzeng" target="_blank"><img src="badges/blue.svg" width="200" alt="Donar con PayPal"></a>
   <br><br>
