@@ -43,13 +43,14 @@
 >
 > *La zona destacada de Scanners Box — herramientas de seguridad autónomas impulsadas por IA.*
 >
-> - [Agentes de Ciberseguridad Autónomos con IA](#agentes-de-ciberseguridad-autónomos-con-ia)
+> - [Frameworks de Red Teaming de IA y Agentes](#frameworks-de-red-teaming-de-ia-y-agentes)
 > - [Escáneres de vulnerabilidades impulsados por LLM](#escáneres-de-vulnerabilidades-impulsados-por-llm)
 > - [Auditoría de seguridad para AI Agents y aplicaciones](#auditoría-de-seguridad-para-ai-agents-y-aplicaciones)
 > - [Controles de ejecución para AI Agents](#controles-de-ejecución-para-ai-agents)
 > - [Auditoría de seguridad para habilidades de agentes](#auditoría-de-seguridad-para-habilidades-de-agentes)
-> - [Skills para descubrir y remediar vulnerabilidades de forma autónoma](#skills-para-descubrir-y-remediar-vulnerabilidades-de-forma-autónoma)
+> - [Agent Skills para descubrimiento y remediación de vulnerabilidades](#agent-skills-para-descubrimiento-y-remediación-de-vulnerabilidades)
 > - [Kits de seguridad para flujos de trabajo de agentes](#kits-de-seguridad-para-flujos-de-trabajo-de-agentes)
+- [Estándares de verificación de seguridad para IA](#estándares-de-verificación-de-seguridad-para-ia)
 
 - [Escáneres de contratos inteligentes](#escáneres-de-contratos-inteligentes)
 - [Equipo Rojo vs Equipo Azul](#equipo-rojo-vs-equipo-azul)
@@ -69,7 +70,13 @@
 - [Escáneres de diseño modular / Marcos de detección de vulnerabilidades](#escáneres-de-diseño-modular--marcos-de-detección-de-vulnerabilidades)
 - [Detección de Amenazas Persistentes Avanzadas (APT)](#detección-de-amenazas-persistentes-avanzadas-apt)
 
-### Agentes de Ciberseguridad Autónomos con IA
+### Frameworks de Red Teaming de IA y Agentes
+
+*Agentes autónomos maduros, además de frameworks base para construir los tuyos.*
+
+- https://github.com/confident-ai/deepteam - **Framework de red teaming de código abierto para sistemas LLM — "pruebas de penetración, pero para LLM": más de 50 vulnerabilidades listas para usar con puntuación local LLM-as-a-Judge, simula jailbreaks, inyección de prompts y explotación multi-turno en agentes de IA, pipelines RAG y chatbots, además de guardrails para producción**
+
+> ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/confident-ai/deepteam?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepteam.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/confident-ai/deepteam?style=for-the-badge)
 
 - https://github.com/vxcontrol/pentagi - **Sistema de pentesting multiagente totalmente autónomo en Go — ejecuta campañas completas dentro de un sandbox Docker aislado con más de 20 herramientas profesionales (nmap, metasploit, sqlmap), memoria a largo plazo, grafo de conocimiento Neo4j opcional y consola web con supervisión humana**
 
@@ -169,7 +176,7 @@
 
 > ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cisco-ai-defense/skill-scanner?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/cisco-ai-defense/skill-scanner.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/cisco-ai-defense/skill-scanner?style=for-the-badge)
 
-### Skills para descubrir y remediar vulnerabilidades de forma autónoma
+### Agent Skills para descubrimiento y remediación de vulnerabilidades
 
 - https://github.com/anthropics/defending-code-reference-harness - **Conjunto de habilidades para modelado de amenazas, escaneo, clasificación y parcheo, con un framework de escaneo autónomo personalizable para la gestión completa del ciclo de vida de vulnerabilidades**
 
@@ -184,6 +191,12 @@
 - https://github.com/h5i-dev/h5i - **Espacio de trabajo de seguridad web nativo para agentes — entrega a los agentes de IA un kit unificado (automatización de navegador, captura / modificación / repetición de tráfico HTTP, rastreo de reconocimiento) para hacer red-teaming de aplicaciones web dentro de un sandbox configurable, reproduce flujos de ataque confirmados en CI/CD como pruebas de regresión de seguridad y verifica formalmente la lógica de aplicaciones Rust contra Lean 4**
 
 > ![](https://img.shields.io/badge/MainLanguage-Rust-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/h5i-dev/h5i?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/h5i-dev/h5i.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/h5i-dev/h5i?style=for-the-badge)
+
+### Estándares de verificación de seguridad para IA
+
+- https://github.com/OWASP/AISVS - **El Estándar de Verificación de Seguridad en Inteligencia Artificial de OWASP — 213 requisitos verificables ("Verify that...") en 12 familias de control y 44 secciones, con niveles L1/L2/L3, que cubren datos de entrenamiento, cadena de suministro de modelos, memoria RAG, seguridad de agentes y MCP; diseñado para verificarse en paralelo con ASVS al mismo nivel**
+
+> ![](https://img.shields.io/badge/MainLanguage-Markdown-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/OWASP/AISVS?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/OWASP/AISVS.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/OWASP/AISVS?style=for-the-badge)
 
 ### Escáneres de contratos inteligentes
 

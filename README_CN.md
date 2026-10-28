@@ -43,13 +43,14 @@
 >
 > *Scanners Box 重点分区 —— AI 驱动的自主安全工具合集。*
 >
-> - [AI自主网络安全Agent](#AI自主网络安全Agent)
+> - [AI红队测试框架与Agent](#AI红队测试框架与Agent)
 > - [LLM驱动的漏洞扫描器](#LLM驱动的漏洞扫描器)
 > - [AI Agent 与应用安全审计](#ai-agent-与应用安全审计)
 > - [AI Agent运行时管控](#AI-Agent运行时管控)
 > - [Agent技能安全审计](#Agent技能安全审计)
-> - [自主漏洞发现与修复 Skills](#自主漏洞发现与修复-skills)
+> - [Agent技能：漏洞发现与修复](#Agent技能漏洞发现与修复)
 > - [面向 Agentic 工作流的安全工具集](#面向-agentic-工作流的安全工具集)
+- [AI安全验证标准与规范](#AI安全验证标准与规范)
 
 - [智能合约漏洞扫描器](#智能合约漏洞扫描器)
 - [红蓝对抗](#红蓝对抗)
@@ -71,7 +72,13 @@
 
 ***
 
-### AI自主网络安全Agent
+### AI红队测试框架与Agent
+
+*既有成熟的自主 Agent，也有可二次改造的基础框架。*
+
+- https://github.com/confident-ai/deepteam - **面向 LLM 系统的开源红队测试框架——「LLM 世界的渗透测试」：50+ 开箱即用的漏洞用例，本地 LLM-as-a-Judge 打分，模拟越狱、提示注入、多轮利用，覆盖 AI Agent、RAG 管线与聊天机器人，另附生产环境护栏**
+
+> ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/confident-ai/deepteam?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepteam.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/confident-ai/deepteam?style=for-the-badge&label=开源协议)
 
 - https://github.com/vxcontrol/pentagi - **Go 编写的全自主多智能体渗透测试系统——任务在隔离 Docker 沙箱内端到端执行，内置 nmap、metasploit、sqlmap 等 20+ 专业工具，配长期记忆、可选 Neo4j 知识图谱与可视化 Web 控制台，支持人工介入监控**
 
@@ -174,7 +181,7 @@
 > ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cisco-ai-defense/skill-scanner?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/cisco-ai-defense/skill-scanner.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/cisco-ai-defense/skill-scanner?style=for-the-badge&label=开源协议)
 
 
-### 自主漏洞发现与修复 Skills
+### Agent技能：漏洞发现与修复
 
 - https://github.com/anthropics/defending-code-reference-harness - **威胁建模、扫描、分类、修复一体化技能集，提供可自定义的自主扫描框架，实现端到端漏洞生命周期管理**
 
@@ -190,6 +197,13 @@
 - https://github.com/h5i-dev/h5i - **面向 Agent 的原生 Web 安全工作台——给 AI Agent 一套统一工具（浏览器自动化、HTTP 流量抓取/改包/重放、侦察爬取）在可配置沙箱里对 Web 应用做红队测试，已确认的攻击流可回放到 CI/CD 做安全回归，还能把 Rust 业务逻辑翻译成 Lean 4 做形式化验证**
 
 > ![](https://img.shields.io/badge/主语言-Rust-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/h5i-dev/h5i?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/h5i-dev/h5i.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/h5i-dev/h5i?style=for-the-badge&label=开源协议)
+
+
+### AI安全验证标准与规范
+
+- https://github.com/OWASP/AISVS - **OWASP 人工智能安全验证标准——12 个控制域、44 个小节、213 条以 Verify that 开头的可验证要求，按 L1/L2/L3 三级分级，覆盖训练数据、模型供应链、RAG 记忆、Agent 与 MCP 安全，需与 ASVS 同级搭配验证，当前稳定版 1.01**
+
+> ![](https://img.shields.io/badge/主语言-Markdown-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/OWASP/AISVS?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/OWASP/AISVS.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/OWASP/AISVS?style=for-the-badge&label=开源协议)
 
 
 ### 智能合约漏洞扫描器
