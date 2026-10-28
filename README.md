@@ -40,9 +40,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 ## Contents
 
 > [!IMPORTANT]
-> **🤖 AI & Autonomous Agents**
->
-> *The focus zone of Scanners Box — AI-driven autonomous security tooling.*
+> **🤖 Security For AI & AI For Security**
 >
 > - [AI Red Teaming Frameworks & Agents](#ai-red-teaming-frameworks--agents)
 > - [LLM-Powered Vulnerability Scanners](#llm-powered-vulnerability-scanners)
@@ -51,7 +49,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 > - [Security Auditing for Agent Skills](#security-auditing-for-agent-skills)
 > - [Agent Skills for Vulnerability Discovery & Remediation](#agent-skills-for-vulnerability-discovery--remediation)
 > - [Security Toolkits for Agentic Workflows](#security-toolkits-for-agentic-workflows)
-- [AI Security Verification Standards](#ai-security-verification-standards)
+> - [AI Security Verification Standards](#ai-security-verification-standards)
 
 - [Scanners for Smart Contracts](#scanners-for-smart-contracts)
 - [Red Team vs Blue Team](#red-team-vs-blue-team)
@@ -111,6 +109,8 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 
 ### LLM-Powered Vulnerability Scanners
+*Scanners where the LLM does the hunting — beyond signature matching.*
+
 
 - https://github.com/weareaisle/nano-analyzer - **A minimal LLM-powered zero-day vulnerability scanner by AISLE**
 
@@ -126,6 +126,8 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 
 ### Security Auditing for AI Agents & Apps
+*Security scanners aimed at the AI systems themselves: LLMs, agents and their infrastructure.*
+
 
 - https://github.com/leondz/garak - **LLM vulnerability scanner for hallucination, data leakage, promp injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses**
 
@@ -153,6 +155,8 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 
 ### AI Agent Runtime Controls
+*Sandboxes, policy engines and approval gates that bound what agents can do.*
+
 
 - https://github.com/NVIDIA/OpenShell - **Sandboxed runtime for autonomous AI agents — declarative YAML policies enforce boundaries across filesystem, network, process and provider access, block data exfiltration and unauthorized egress, and inject credentials only into policy-admitted endpoints; runs Claude Code, Codex, OpenCode and Copilot CLI in isolated containers on Docker, Podman, MicroVM or Kubernetes**
 
@@ -172,6 +176,8 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 
 ### Security Auditing for Agent Skills
+*Scan agent skill packages for malicious patterns before you install them.*
+
 
 - https://github.com/NVIDIA/SkillSpector - **Security scanner for AI agent skills — detect vulnerabilities, malicious patterns, and security risks before installing agent skills (Claude Code, Codex CLI, Gemini CLI, etc.)**
 
@@ -183,6 +189,8 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 
 ### Agent Skills for Vulnerability Discovery & Remediation
+*Skill packs that teach coding agents to find and fix vulnerabilities end to end.*
+
 
 - https://github.com/anthropics/defending-code-reference-harness - **Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can customize for end-to-end vulnerability management**
 
@@ -194,6 +202,8 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 
 ### Security Toolkits for Agentic Workflows
+*Unified tooling that equips agents for professional security work.*
+
 
 - https://github.com/h5i-dev/h5i - **Agent-native web security workspace — hands AI agents a unified toolkit (browser automation, HTTP traffic capture / tamper / replay, recon crawling) to red-team web apps inside a configurable sandbox, replays confirmed attack flows in CI/CD as security regression checks, and formally verifies Rust application logic against Lean 4**
 
@@ -201,6 +211,8 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 
 ### AI Security Verification Standards
+*Testable standards and checklists that define verifiable AI security.*
+
 
 - https://github.com/OWASP/AISVS - **OWASP Artificial Intelligence Security Verification Standard — 213 testable requirements ("Verify that...") across 12 control families and 44 sections, graded L1/L2/L3, covering training data, model supply chain, RAG memory, agent and MCP security; designed to be verified in parallel with ASVS at the matching level**
 

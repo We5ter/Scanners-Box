@@ -39,9 +39,7 @@
 ## Tabla de contenidos
 
 > [!IMPORTANT]
-> **🤖 IA y Agentes Autónomos**
->
-> *La zona destacada de Scanners Box — herramientas de seguridad autónomas impulsadas por IA.*
+> **🤖 Seguridad para la IA & IA para la seguridad**
 >
 > - [Frameworks de Red Teaming de IA y Agentes](#frameworks-de-red-teaming-de-ia-y-agentes)
 > - [Escáneres de vulnerabilidades impulsados por LLM](#escáneres-de-vulnerabilidades-impulsados-por-llm)
@@ -50,7 +48,7 @@
 > - [Auditoría de seguridad para habilidades de agentes](#auditoría-de-seguridad-para-habilidades-de-agentes)
 > - [Agent Skills para descubrimiento y remediación de vulnerabilidades](#agent-skills-para-descubrimiento-y-remediación-de-vulnerabilidades)
 > - [Kits de seguridad para flujos de trabajo de agentes](#kits-de-seguridad-para-flujos-de-trabajo-de-agentes)
-- [Estándares de verificación de seguridad para IA](#estándares-de-verificación-de-seguridad-para-ia)
+> - [Estándares de verificación de seguridad para IA](#estándares-de-verificación-de-seguridad-para-ia)
 
 - [Escáneres de contratos inteligentes](#escáneres-de-contratos-inteligentes)
 - [Equipo Rojo vs Equipo Azul](#equipo-rojo-vs-equipo-azul)
@@ -108,6 +106,8 @@
 
 
 ### Escáneres de vulnerabilidades impulsados por LLM
+*Escáneres donde el LLM hace la caza — más allá de la coincidencia de firmas.*
+
 
 - https://github.com/weareaisle/nano-analyzer - **Un escáner minimalista de vulnerabilidades zero-day impulsado por LLM, desarrollado por AISLE**
 
@@ -123,6 +123,8 @@
 
 
 ### Auditoría de seguridad para AI Agents y aplicaciones
+*Escáneres de seguridad dirigidos a los propios sistemas de IA: LLMs, agentes y su infraestructura.*
+
 
 - https://github.com/leondz/garak - **Un escáner de vulnerabilidades para LLM (Grandes Modelos de Lenguaje) que detecta múltiples debilidades como alucinaciones, fugas de datos, inyección de prompts, desinformación, generación de contenido tóxico y jailbreaks.**
 
@@ -149,6 +151,8 @@
 > ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cisco-ai-defense/mcp-scanner?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/cisco-ai-defense/mcp-scanner.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/cisco-ai-defense/mcp-scanner?style=for-the-badge)
 
 ### Controles de ejecución para AI Agents
+*Sandboxes, motores de políticas y puertas de aprobación que limitan lo que los agentes pueden hacer.*
+
 
 - https://github.com/NVIDIA/OpenShell - **Entorno de ejecución seguro y privado para agentes de IA autónomos — políticas YAML declarativas que aplican límites en sistema de archivos, red, procesos y credenciales, bloquean la exfiltración de datos y la salida no autorizada, e inyectan credenciales solo en endpoints admitidos por política; ejecuta Claude Code, Codex, OpenCode y Copilot CLI en contenedores aislados sobre Docker, Podman, MicroVM o Kubernetes**
 
@@ -167,6 +171,8 @@
 > ![](https://img.shields.io/badge/MainLanguage-Go-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes-sigs/agent-sandbox?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/kubernetes-sigs/agent-sandbox.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/kubernetes-sigs/agent-sandbox?style=for-the-badge)
 
 ### Auditoría de seguridad para habilidades de agentes
+*Analiza paquetes de habilidades de agentes en busca de patrones maliciosos antes de instalarlos.*
+
 
 - https://github.com/NVIDIA/SkillSpector - **Escáner de seguridad para habilidades de agentes de IA — detecta vulnerabilidades, patrones maliciosos y riesgos de seguridad antes de instalar habilidades (Claude Code, Codex CLI, Gemini CLI, etc.)**
 
@@ -177,6 +183,8 @@
 > ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cisco-ai-defense/skill-scanner?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/cisco-ai-defense/skill-scanner.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/cisco-ai-defense/skill-scanner?style=for-the-badge)
 
 ### Agent Skills para descubrimiento y remediación de vulnerabilidades
+*Paquetes de habilidades que enseñan a los agentes de programación a encontrar y corregir vulnerabilidades de extremo a extremo.*
+
 
 - https://github.com/anthropics/defending-code-reference-harness - **Conjunto de habilidades para modelado de amenazas, escaneo, clasificación y parcheo, con un framework de escaneo autónomo personalizable para la gestión completa del ciclo de vida de vulnerabilidades**
 
@@ -187,12 +195,16 @@
 > ![](https://img.shields.io/badge/MainLanguage-Markdown-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/security-audit-skill?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/cloudflare/security-audit-skill.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/cloudflare/security-audit-skill?style=for-the-badge)
 
 ### Kits de seguridad para flujos de trabajo de agentes
+*Herramientas unificadas que equipan a los agentes para el trabajo de seguridad profesional.*
+
 
 - https://github.com/h5i-dev/h5i - **Espacio de trabajo de seguridad web nativo para agentes — entrega a los agentes de IA un kit unificado (automatización de navegador, captura / modificación / repetición de tráfico HTTP, rastreo de reconocimiento) para hacer red-teaming de aplicaciones web dentro de un sandbox configurable, reproduce flujos de ataque confirmados en CI/CD como pruebas de regresión de seguridad y verifica formalmente la lógica de aplicaciones Rust contra Lean 4**
 
 > ![](https://img.shields.io/badge/MainLanguage-Rust-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/h5i-dev/h5i?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/h5i-dev/h5i.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/h5i-dev/h5i?style=for-the-badge)
 
 ### Estándares de verificación de seguridad para IA
+*Estándares verificables y listas de verificación que definen una seguridad de IA comprobable.*
+
 
 - https://github.com/OWASP/AISVS - **El Estándar de Verificación de Seguridad en Inteligencia Artificial de OWASP — 213 requisitos verificables ("Verify that...") en 12 familias de control y 44 secciones, con niveles L1/L2/L3, que cubren datos de entrenamiento, cadena de suministro de modelos, memoria RAG, seguridad de agentes y MCP; diseñado para verificarse en paralelo con ASVS al mismo nivel**
 

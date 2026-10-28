@@ -39,9 +39,7 @@
 ## 目录
 
 > [!IMPORTANT]
-> **🤖 AI 与自主安全 Agent**
->
-> *Scanners Box 重点分区 —— AI 驱动的自主安全工具合集。*
+> **🤖 AI 安全 & 安全 AI**
 >
 > - [AI红队测试框架与Agent](#AI红队测试框架与Agent)
 > - [LLM驱动的漏洞扫描器](#LLM驱动的漏洞扫描器)
@@ -50,7 +48,7 @@
 > - [Agent技能安全审计](#Agent技能安全审计)
 > - [Agent技能：漏洞发现与修复](#Agent技能漏洞发现与修复)
 > - [面向 Agentic 工作流的安全工具集](#面向-agentic-工作流的安全工具集)
-- [AI安全验证标准与规范](#AI安全验证标准与规范)
+> - [AI安全验证标准与规范](#AI安全验证标准与规范)
 
 - [智能合约漏洞扫描器](#智能合约漏洞扫描器)
 - [红蓝对抗](#红蓝对抗)
@@ -110,6 +108,8 @@
 
 
 ### LLM驱动的漏洞扫描器
+*让 LLM 来找出漏洞的扫描器——不止于签名匹配。*
+
 
 - https://github.com/weareaisle/nano-analyzer - **AISLE 开发的基于LLM的极简0day漏洞扫描器**
 
@@ -125,6 +125,8 @@
 
 
 ### AI Agent 与应用安全审计
+*指向 AI 系统本身的安全扫描：大模型、Agent 及其基础设施。*
+
 
 - https://github.com/leondz/garak - **用于监测大模型数据泄露、提示注入、错误信息、投毒、越狱和许多其他风险的扫描工具**
 
@@ -152,6 +154,8 @@
 
 
 ### AI Agent运行时管控
+*沙箱、策略引擎与审批门禁，圈定 Agent 能做什么。*
+
 
 - https://github.com/NVIDIA/OpenShell - **面向自主 AI Agent 的安全私有运行时——用声明式 YAML 策略在文件系统、网络、进程与凭证四个维度设界，阻断数据外泄与越权出站，凭证只在策略放行后按授权端点注入，可在 Docker、Podman、MicroVM、Kubernetes 上为 Claude Code、Codex、OpenCode、Copilot CLI 等 Agent 提供隔离容器**
 
@@ -171,6 +175,8 @@
 
 
 ### Agent技能安全审计
+*安装前扫描 Agent 技能包里的恶意模式。*
+
 
 - https://github.com/NVIDIA/SkillSpector - **AI Agent 技能安全扫描器——在安装 Agent 技能（Claude Code、Codex CLI、Gemini CLI 等）之前检测漏洞、恶意模式与安全风险**
 
@@ -182,6 +188,8 @@
 
 
 ### Agent技能：漏洞发现与修复
+*教会编码 Agent 端到端发现并修复漏洞的技能包。*
+
 
 - https://github.com/anthropics/defending-code-reference-harness - **威胁建模、扫描、分类、修复一体化技能集，提供可自定义的自主扫描框架，实现端到端漏洞生命周期管理**
 
@@ -193,6 +201,8 @@
 
 
 ### 面向 Agentic 工作流的安全工具集
+*为 Agent 配备专业安全能力的一体化工具。*
+
 
 - https://github.com/h5i-dev/h5i - **面向 Agent 的原生 Web 安全工作台——给 AI Agent 一套统一工具（浏览器自动化、HTTP 流量抓取/改包/重放、侦察爬取）在可配置沙箱里对 Web 应用做红队测试，已确认的攻击流可回放到 CI/CD 做安全回归，还能把 Rust 业务逻辑翻译成 Lean 4 做形式化验证**
 
@@ -200,6 +210,8 @@
 
 
 ### AI安全验证标准与规范
+*可测试、可验证的 AI 安全要求与清单。*
+
 
 - https://github.com/OWASP/AISVS - **OWASP 人工智能安全验证标准——12 个控制域、44 个小节、213 条以 Verify that 开头的可验证要求，按 L1/L2/L3 三级分级，覆盖训练数据、模型供应链、RAG 记忆、Agent 与 MCP 安全，需与 ASVS 同级搭配验证，当前稳定版 1.01**
 
