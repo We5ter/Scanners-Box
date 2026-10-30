@@ -44,6 +44,7 @@
 > - [AI红队测试框架与Agent](#AI红队测试框架与Agent)
 > - [LLM驱动的漏洞扫描器](#LLM驱动的漏洞扫描器)
 > - [AI Agent 与应用安全审计](#ai-agent-与应用安全审计)
+> - [AI基础设施攻击面发现](#AI基础设施攻击面发现)
 > - [AI Agent运行时管控](#AI-Agent运行时管控)
 > - [Agent技能安全审计](#Agent技能安全审计)
 > - [Agent技能：漏洞发现与修复](#Agent技能漏洞发现与修复)
@@ -125,7 +126,7 @@
 
 
 ### AI Agent 与应用安全审计
-*指向 AI 系统本身的安全扫描：大模型、Agent 及其基础设施。*
+*指向 AI 系统本身的安全扫描：大模型、Agent 及其应用。*
 
 
 - https://github.com/leondz/garak - **用于监测大模型数据泄露、提示注入、错误信息、投毒、越狱和许多其他风险的扫描工具**
@@ -140,13 +141,23 @@
 
 > ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/mnns/LLMFuzzer?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/mnns/LLMFuzzer.svg?style=for-the-badge&label=start数量)  ![GitHub](https://img.shields.io/github/license/mnns/LLMFuzzer?style=for-the-badge&label=开源协议)
 
-- https://github.com/Tencent/AI-Infra-Guard - **AI红队平台，集成了AI基础设施漏洞扫描、MCP Server风险检测、LLM安全评估等功能**
-
-> ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AI-Infra-Guard?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?style=for-the-badge&label=start数量)  ![GitHub](https://img.shields.io/github/license/Tencent/AI-Infra-Guard?style=for-the-badge&label=开源协议)
-
 - https://github.com/affaan-m/agentshield - **AI Agent 配置安全审计器——扫描 Claude Code 配置中的硬编码密钥、权限错误配置、Hook 注入、MCP Server 风险与提示注入面；268 条规则覆盖 15 个模块，0-100 评分，支持自动修复、CI 门禁与合规映射（SOC 2 / PCI DSS / ISO 27001）**
 
 > ![](https://img.shields.io/badge/主语言-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/affaan-m/agentshield?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/affaan-m/agentshield.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/affaan-m/agentshield?style=for-the-badge&label=开源协议)
+
+### AI基础设施攻击面发现
+*发现并评估公网暴露的 AI 基础设施——模型服务、MCP 端点与推理服务。*
+
+
+- https://github.com/BishopFox/aimap - **发现公网暴露的 AI 服务——通过 Shodan + Nuclei 对 MCP Server、Ollama 等 AI 基础设施进行指纹识别，配合基于 WebSocket 的安全测试并输出风险评分**
+
+> ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/BishopFox/aimap?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/BishopFox/aimap.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/BishopFox/aimap?style=for-the-badge&label=开源协议)
+
+
+- https://github.com/Tencent/AI-Infra-Guard - **AI红队平台，集成了AI基础设施漏洞扫描、MCP Server风险检测、LLM安全评估等功能**
+
+> ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AI-Infra-Guard?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/Tencent/AI-Infra-Guard?style=for-the-badge&label=开源协议)
+
 
 - https://github.com/cisco-ai-defense/mcp-scanner - **MCP（Model Context Protocol）服务器安全扫描器——结合 YARA 规则、LLM 分析与 Cisco AI Defense 检测能力，识别恶意 MCP 工具、工具投毒、提示注入等 MCP 生态安全威胁**
 

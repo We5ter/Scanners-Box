@@ -45,6 +45,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 > - [AI Red Teaming Frameworks & Agents](#ai-red-teaming-frameworks--agents)
 > - [LLM-Powered Vulnerability Scanners](#llm-powered-vulnerability-scanners)
 > - [Security Auditing for AI Agents & Apps](#security-auditing-for-ai-agents--apps)
+> - [AI Infrastructure Attack Surface Discovery](#ai-infrastructure-attack-surface-discovery)
 > - [AI Agent Runtime Controls](#ai-agent-runtime-controls)
 > - [Security Auditing for Agent Skills](#security-auditing-for-agent-skills)
 > - [Agent Skills for Vulnerability Discovery & Remediation](#agent-skills-for-vulnerability-discovery--remediation)
@@ -126,7 +127,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 
 ### Security Auditing for AI Agents & Apps
-*Security scanners aimed at the AI systems themselves: LLMs, agents and their infrastructure.*
+*Security scanners aimed at the AI systems themselves: LLMs, agents and the applications built on them.*
 
 
 - https://github.com/leondz/garak - **LLM vulnerability scanner for hallucination, data leakage, promp injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses**
@@ -141,13 +142,23 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 > ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/mnns/LLMFuzzer?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/mnns/LLMFuzzer.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/mnns/LLMFuzzer?style=for-the-badge)
 
+- https://github.com/affaan-m/agentshield - **Security auditor for AI agent configurations — scans Claude Code setups for hardcoded secrets, permission misconfigs, hook injection, MCP server risks and prompt injection vectors; 268 rules across 15 modules, scored 0-100, with auto-fix, CI gating and compliance mapping (SOC 2 / PCI DSS / ISO 27001)**
+
+> ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/affaan-m/agentshield?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/affaan-m/agentshield.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/affaan-m/agentshield?style=for-the-badge)
+
+### AI Infrastructure Attack Surface Discovery
+*Discovering and risk-scoring internet-exposed AI infrastructure — model servers, MCP endpoints and inference services.*
+
+
+- https://github.com/BishopFox/aimap - **Discovers exposed AI services — fingerprints MCP servers, Ollama endpoints and other AI infrastructure via Shodan + Nuclei, runs WebSocket-based security tests and outputs risk scores**
+
+> ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/BishopFox/aimap?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/BishopFox/aimap.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/BishopFox/aimap?style=for-the-badge)
+
+
 - https://github.com/Tencent/AI-Infra-Guard - **A.I.G (AI-Infra-Guard) integrates capabilities such as AI infrastructure vulnerability scanning, MCP Server risk detection, and LLM security assessments**
 
 > ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AI-Infra-Guard?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/Tencent/AI-Infra-Guard?style=for-the-badge)
 
-- https://github.com/affaan-m/agentshield - **Security auditor for AI agent configurations — scans Claude Code setups for hardcoded secrets, permission misconfigs, hook injection, MCP server risks and prompt injection vectors; 268 rules across 15 modules, scored 0-100, with auto-fix, CI gating and compliance mapping (SOC 2 / PCI DSS / ISO 27001)**
-
-> ![](https://img.shields.io/badge/MainLanguage-TypeScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/affaan-m/agentshield?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/affaan-m/agentshield.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/affaan-m/agentshield?style=for-the-badge)
 
 - https://github.com/cisco-ai-defense/mcp-scanner - **Security scanner for Model Context Protocol (MCP) servers — combines YARA rules, LLM-based analysis and Cisco AI Defense detections to flag malicious MCP tools, tool poisoning, prompt injection and other threats across the MCP ecosystem**
 
