@@ -49,6 +49,7 @@
 > - [Agent技能安全审计](#Agent技能安全审计)
 > - [Agent技能：漏洞发现与修复](#Agent技能漏洞发现与修复)
 > - [面向 Agentic 工作流的安全工具集](#面向-agentic-工作流的安全工具集)
+> - [AI安全基准与评测](#AI安全基准与评测)
 > - [AI安全验证标准与规范](#AI安全验证标准与规范)
 
 - [智能合约漏洞扫描器](#智能合约漏洞扫描器)
@@ -218,6 +219,15 @@
 - https://github.com/h5i-dev/h5i - **面向 Agent 的原生 Web 安全工作台——给 AI Agent 一套统一工具（浏览器自动化、HTTP 流量抓取/改包/重放、侦察爬取）在可配置沙箱里对 Web 应用做红队测试，已确认的攻击流可回放到 CI/CD 做安全回归，还能把 Rust 业务逻辑翻译成 Lean 4 做形式化验证**
 
 > ![](https://img.shields.io/badge/主语言-Rust-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/h5i-dev/h5i?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/h5i-dev/h5i.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/h5i-dev/h5i?style=for-the-badge&label=开源协议)
+
+
+### AI安全基准与评测
+*用基准与排行榜量化 AI 系统及 AI 生成代码的安全性。*
+
+
+- https://github.com/Tencent/AICGSecEval - **A.S.E——腾讯悟空代码安全团队的仓库级 AI 生成代码安全评测基准：题目取自真实 GitHub 项目与 CVE 补丁，自动抽取项目级上下文模拟真实 AI 编程场景，静态分析 + 测试用例/漏洞 PoC 动态验证混合打分，覆盖 C/C++、Java、Python、PHP、JS 的 29 种 CWE；支持评测裸模型与 Claude Code 等 Agent 编程工具，官网带排行榜**
+
+> ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AICGSecEval?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/Tencent/AICGSecEval.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/Tencent/AICGSecEval?style=for-the-badge&label=开源协议)
 
 
 ### AI安全验证标准与规范

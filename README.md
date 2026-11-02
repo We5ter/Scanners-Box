@@ -50,6 +50,7 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 > - [Security Auditing for Agent Skills](#security-auditing-for-agent-skills)
 > - [Agent Skills for Vulnerability Discovery & Remediation](#agent-skills-for-vulnerability-discovery--remediation)
 > - [Security Toolkits for Agentic Workflows](#security-toolkits-for-agentic-workflows)
+> - [AI Security Benchmarks & Evaluation](#ai-security-benchmarks--evaluation)
 > - [AI Security Verification Standards](#ai-security-verification-standards)
 
 - [Scanners for Smart Contracts](#scanners-for-smart-contracts)
@@ -219,6 +220,15 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 - https://github.com/h5i-dev/h5i - **Agent-native web security workspace — hands AI agents a unified toolkit (browser automation, HTTP traffic capture / tamper / replay, recon crawling) to red-team web apps inside a configurable sandbox, replays confirmed attack flows in CI/CD as security regression checks, and formally verifies Rust application logic against Lean 4**
 
 > ![](https://img.shields.io/badge/MainLanguage-Rust-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/h5i-dev/h5i?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/h5i-dev/h5i.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/h5i-dev/h5i?style=for-the-badge)
+
+
+### AI Security Benchmarks & Evaluation
+*Benchmarks and leaderboards that quantify the security of AI systems and AI-generated code.*
+
+
+- https://github.com/Tencent/AICGSecEval - **A.S.E — repository-level benchmark for the security of AI-generated code by Tencent's Wukong team: tasks built from real GitHub projects and CVE patches, project-context extraction to simulate real AI-assisted development, and hybrid static + dynamic scoring (SAST rules plus test cases and vulnerability PoCs) across 29 CWE types in C/C++, Java, Python, PHP and JavaScript; evaluates both raw LLMs and agentic coding tools (e.g. Claude Code) with a public leaderboard**
+
+> ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AICGSecEval?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/Tencent/AICGSecEval.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/Tencent/AICGSecEval?style=for-the-badge)
 
 
 ### AI Security Verification Standards

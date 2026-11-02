@@ -49,6 +49,7 @@
 > - [Auditoría de seguridad para habilidades de agentes](#auditoría-de-seguridad-para-habilidades-de-agentes)
 > - [Agent Skills para descubrimiento y remediación de vulnerabilidades](#agent-skills-para-descubrimiento-y-remediación-de-vulnerabilidades)
 > - [Kits de seguridad para flujos de trabajo de agentes](#kits-de-seguridad-para-flujos-de-trabajo-de-agentes)
+> - [Benchmarks y evaluación de seguridad para IA](#benchmarks-y-evaluación-de-seguridad-para-ia)
 > - [Estándares de verificación de seguridad para IA](#estándares-de-verificación-de-seguridad-para-ia)
 
 - [Escáneres de contratos inteligentes](#escáneres-de-contratos-inteligentes)
@@ -209,6 +210,13 @@
 - https://github.com/h5i-dev/h5i - **Espacio de trabajo de seguridad web nativo para agentes — entrega a los agentes de IA un kit unificado (automatización de navegador, captura / modificación / repetición de tráfico HTTP, rastreo de reconocimiento) para hacer red-teaming de aplicaciones web dentro de un sandbox configurable, reproduce flujos de ataque confirmados en CI/CD como pruebas de regresión de seguridad y verifica formalmente la lógica de aplicaciones Rust contra Lean 4**
 
 > ![](https://img.shields.io/badge/MainLanguage-Rust-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/h5i-dev/h5i?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/h5i-dev/h5i.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/h5i-dev/h5i?style=for-the-badge)
+
+### Benchmarks y evaluación de seguridad para IA
+*Benchmarks y clasificaciones que cuantifican la seguridad de los sistemas de IA y del código generado por IA.*
+
+- https://github.com/Tencent/AICGSecEval - **A.S.E — benchmark a nivel de repositorio para la seguridad del código generado por IA, del equipo Wukong de Tencent: tareas basadas en proyectos reales de GitHub y parches CVE, extracción de contexto a nivel de proyecto para simular el desarrollo real asistido por IA, y puntuación híbrida estática + dinámica (reglas SAST más casos de prueba y PoCs de vulnerabilidades) sobre 29 tipos CWE en C/C++, Java, Python, PHP y JavaScript; evalúa tanto LLMs puros como herramientas de programación agéntica (p. ej. Claude Code) con clasificación pública**
+
+> ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/AICGSecEval?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/Tencent/AICGSecEval.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/Tencent/AICGSecEval?style=for-the-badge)
 
 ### Estándares de verificación de seguridad para IA
 *Estándares verificables y listas de verificación que definen una seguridad de IA comprobable.*
