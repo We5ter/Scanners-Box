@@ -108,6 +108,10 @@
 
 > ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/ASCIT31/Dark-Moon?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/ASCIT31/Dark-Moon?style=for-the-badge&label=开源协议)
 
+- https://github.com/utkusen/promptmap - **LLM 应用自动化 Prompt 注入扫描器——双 LLM 架构（目标模型 + 控制模型），内置 50+ 攻击规则，覆盖越狱、偏见和提示词窃取，支持白盒与黑盒测试**
+
+> ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/utkusen/promptmap?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/utkusen/promptmap.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/utkusen/promptmap?style=for-the-badge&label=开源协议)
+
 
 ### LLM驱动的漏洞扫描器
 *让 LLM 来找出漏洞的扫描器——不止于签名匹配。*

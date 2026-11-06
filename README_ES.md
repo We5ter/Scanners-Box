@@ -106,6 +106,10 @@
 
 > ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/ASCIT31/Dark-Moon?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/ASCIT31/Dark-Moon?style=for-the-badge)
 
+- https://github.com/utkusen/promptmap - **Escáner automatizado de inyección de prompts para aplicaciones LLM — arquitectura dual-LLM (modelo objetivo + controlador) que prueba 50+ reglas de ataque cubriendo jailbreaking, sesgo y robo de prompts mediante evaluación white-box o black-box**
+
+> ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/utkusen/promptmap?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/utkusen/promptmap.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/utkusen/promptmap?style=for-the-badge)
+
 
 ### Escáneres de vulnerabilidades impulsados por LLM
 *Escáneres donde el LLM hace la caza — más allá de la coincidencia de firmas.*
