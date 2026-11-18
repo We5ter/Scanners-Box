@@ -111,6 +111,10 @@
 
 > ![](https://img.shields.io/badge/主语言-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/utkusen/promptmap?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/utkusen/promptmap.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/utkusen/promptmap?style=for-the-badge&label=开源协议)
 
+- https://github.com/Vasco0x4/AIDA - **把任意支持工具调用的 LLM CLI（Claude Code / Codex / Kimi / Qwen）变成自主渗透 Agent：21 个 MCP 工具操作 Docker 渗透容器，宿主机与容器共享工作目录，凭证占位符自动替换，命令审批三档可选，CVSS 4.0 打分，另带 ASVS 5.0 逐条验证网格；作者称 Claude + AIDA 已产出四个已公开 CVE**
+
+> ![](https://img.shields.io/badge/主语言-JavaScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/Vasco0x4/AIDA?style=for-the-badge&label=上次提交)  ![GitHub stars](https://img.shields.io/github/stars/Vasco0x4/AIDA.svg?style=for-the-badge&label=star数量)  ![GitHub](https://img.shields.io/github/license/Vasco0x4/AIDA?style=for-the-badge&label=开源协议)
+
 
 ### LLM驱动的漏洞扫描器
 *让 LLM 来找出漏洞的扫描器——不止于签名匹配。*

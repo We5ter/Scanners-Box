@@ -112,6 +112,10 @@ English | [简体中文](./README_CN.md) | [Español](./README_ES.md)
 
 > ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/utkusen/promptmap?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/utkusen/promptmap.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/utkusen/promptmap?style=for-the-badge)
 
+- https://github.com/Vasco0x4/AIDA - **Autonomous pentesting agent that drives any tool-calling LLM CLI (Claude Code / Codex / Kimi / Qwen) through 21 MCP tools — Docker pentest container, workspace shared between host and container, credential placeholders, three per-command approval modes, CVSS 4.0 scoring and an ASVS 5.0 verification grid; the author reports four published CVEs from Claude + AIDA runs**
+
+> ![](https://img.shields.io/badge/MainLanguage-JavaScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/Vasco0x4/AIDA?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/Vasco0x4/AIDA.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/Vasco0x4/AIDA?style=for-the-badge)
+
 
 ### LLM-Powered Vulnerability Scanners
 *Scanners where the LLM does the hunting — beyond signature matching.*

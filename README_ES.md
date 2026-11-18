@@ -109,6 +109,10 @@
 
 > ![](https://img.shields.io/badge/MainLanguage-Python-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/utkusen/promptmap?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/utkusen/promptmap.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/utkusen/promptmap?style=for-the-badge)
 
+- https://github.com/Vasco0x4/AIDA - **Agente de pentesting autónomo que convierte cualquier CLI de LLM con tool-calling (Claude Code / Codex / Kimi / Qwen) en un tester de seguridad: 21 herramientas MCP sobre un contenedor Docker de pentesting, espacio de trabajo compartido entre host y contenedor, marcadores de credenciales, tres modos de aprobación por comando, puntuación CVSS 4.0 y una rejilla de verificación ASVS 5.0; el autor reporta cuatro CVE publicados obtenidos con Claude + AIDA**
+
+> ![](https://img.shields.io/badge/MainLanguage-JavaScript-blue?style=for-the-badge)  ![GitHub last commit](https://img.shields.io/github/last-commit/Vasco0x4/AIDA?style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/Vasco0x4/AIDA.svg?style=for-the-badge)  ![GitHub](https://img.shields.io/github/license/Vasco0x4/AIDA?style=for-the-badge)
+
 
 ### Escáneres de vulnerabilidades impulsados por LLM
 *Escáneres donde el LLM hace la caza — más allá de la coincidencia de firmas.*
